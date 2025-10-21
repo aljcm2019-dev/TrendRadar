@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T16:53:19.122207+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2025-10-21T17:40:16.817917+08:00",
+  "total_titles_processed": 1399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 338,
+      "match_count": 353,
       "titles": [
         {
           "title": "中国共产党第二十届中央委员会第四次全体会议在北京开始举行",
@@ -28,6 +28,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时49分 ~ 07时30分]"
+        },
+        {
+          "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时30分 ~ 17时40分]"
         },
         {
           "title": "中国打响“北京时间”安全保卫战",
@@ -87,6 +99,20 @@
           "time_info": "[00时49分 ~ 11时19分]"
         },
         {
+          "title": "卢浮宫窃贼作案视频疑泄露，法国司法部长直言：我们败了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31814636",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时19分 ~ 17时40分]"
+        },
+        {
           "title": "加沙停火协议幕后：美中东特使与哈马斯首席谈判代表找到共同点",
           "url": "https://news.ifeng.com/c/8nbrKx775cX",
           "source": "凤凰网",
@@ -107,18 +133,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时49分 ~ 07时30分]"
-        },
-        {
-          "title": "美国股债汇齐涨，中概指数跑赢大盘，苹果涨近4%，黄金反弹创新高，比特币涨回11万美元",
-          "url": "https://wallstreetcn.com/articles/3757466",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时30分 ~ 16时53分]"
         },
         {
           "title": "五年规划为何是中国发展秘诀",
@@ -157,20 +171,6 @@
           "time_info": "[00时49分 ~ 07时30分]"
         },
         {
-          "title": "卢浮宫窃贼作案视频疑泄露，法国司法部长直言：我们败了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31814636",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时19分 ~ 16时53分]"
-        },
-        {
           "title": "美银Hartnett：当美国负债38万亿美元时，该买入美债、利差处于 20 年低点企业债、40倍CAPE美股，还是暴涨的黄金？这很棘手",
           "url": "https://wallstreetcn.com/articles/3757469",
           "source": "华尔街见闻",
@@ -195,8 +195,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时49分 ~ 16时53分]"
+          "appearance_count": 20,
+          "time_info": "[00时49分 ~ 17时40分]"
         },
         {
           "title": "特朗普释放多项关税缓和信号，或为在最高法院败诉做准备，一旦败诉对美国和全球经济有何影响？",
@@ -212,6 +212,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时49分 ~ 07时30分]"
+        },
+        {
+          "title": "特朗普预计中美将达成贸易协议，计划明年初访华",
+          "url": "https://news.ifeng.com/c/8ncoJZZhKAJ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时19分 ~ 17时40分]"
         },
         {
           "title": "泽连斯基与特朗普对骂",
@@ -238,8 +251,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时49分 ~ 16时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时49分 ~ 17时40分]"
         },
         {
           "title": "三访白宫再遭冷遇，泽连斯基在白宫外空地开记者会",
@@ -273,6 +286,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时42分 ~ 15时33分]"
+        },
+        {
+          "title": "中国停购美国大豆，一谷仓积压崩塌，豆粒喷涌而出(图)",
+          "url": "https://news.ifeng.com/c/8ncoJZZhKJj",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时19分 ~ 17时40分]"
+        },
+        {
+          "title": "特朗普：很快将访问日本",
+          "url": "https://news.ifeng.com/c/8ndC4A073jf",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 17时40分]"
         },
         {
           "title": "特朗普又“变脸”？提议俄乌按当前战线分割顿巴斯地区",
@@ -347,6 +384,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时49分 ~ 07时30分]"
+        },
+        {
+          "title": "高市早苗当选首相,反华狂人上台",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345981&amp;topic_name=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%80%89%E9%A6%96%E7%9B%B8%2C%E5%8F%8D%E5%8D%8E%E7%8B%82%E4%BA%BA%E4%B8%8A%E5%8F%B0",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时38分 ~ 17时40分]"
         },
         {
           "title": "日本维新会决定投票给高市早苗，其当选首相几成定局",
@@ -444,17 +492,17 @@
           "time_info": "[00时49分 ~ 07时30分]"
         },
         {
-          "title": "特朗普预计中美将达成贸易协议，计划明年初访华",
-          "url": "https://news.ifeng.com/c/8ncoJZZhKAJ",
-          "source": "凤凰网",
+          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            7,
-            8
+            17,
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时19分 ~ 16时53分]"
+          "appearance_count": 10,
+          "time_info": "[11时19分 ~ 17时40分]"
         },
         {
           "title": "高市早苗当选，日本迎来首位女首相",
@@ -466,17 +514,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时38分 ~ 15时33分]"
-        },
-        {
-          "title": "高市早苗当选首相,反华狂人上台",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345981&amp;topic_name=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%80%89%E9%A6%96%E7%9B%B8%2C%E5%8F%8D%E5%8D%8E%E7%8B%82%E4%BA%BA%E4%B8%8A%E5%8F%B0",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时38分 ~ 16时53分]"
         },
         {
           "title": "法国卢浮宫失窃藏品清单公布",
@@ -579,28 +616,18 @@
           "time_info": "[12时43分 ~ 15时33分]"
         },
         {
-          "title": "中国停购美国大豆，一谷仓积压崩塌，豆粒喷涌而出(图)",
-          "url": "https://news.ifeng.com/c/8ncoJZZhKJj",
-          "source": "凤凰网",
+          "title": "高市早苗当选首相",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%80%89%E9%A6%96%E7%9B%B8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E5%25BD%2593%25E9%2580%2589%25E9%25A6%2596%25E7%259B%25B8%2523%26dgr%3D0%26band_rank%3D4%26filter_type%3Drealtimehot%26realpos%3D4%26c_type%3D31%26cate%3D5001%26flag%3D1%26lcate%3D5001%26pos%3D4%26stream_entry_id%3D31%26display_time%3D1761025007%26pre_seqid%3D17610250071220311949437",
+          "source": "微博",
           "ranks": [
+            4,
             6,
+            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时19分 ~ 16时53分]"
-        },
-        {
-          "title": "特朗普：很快将访问日本",
-          "url": "https://news.ifeng.com/c/8ndC4A073jf",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时55分 ~ 16时53分]"
+          "appearance_count": 7,
+          "time_info": "[13时38分 ~ 17时40分]"
         },
         {
           "title": "普京：我曾在聚会中被人泼红酒",
@@ -614,17 +641,40 @@
           "time_info": "[13时38分 ~ 15时33分]"
         },
         {
-          "title": "释疑｜俄美要连起来了？俄方提议花8年打通“普京-特朗普”隧道有谱吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31813291",
-          "source": "澎湃新闻",
+          "title": "特朗普称一年后美国稀土将多如牛毛",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%80%E5%B9%B4%E5%90%8E%E7%BE%8E%E5%9B%BD%E7%A8%80%E5%9C%9F%E5%B0%86%E5%A4%9A%E5%A6%82%E7%89%9B%E6%AF%9B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D24%26band_rank%3D23%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E4%25B8%2580%25E5%25B9%25B4%25E5%2590%258E%25E7%25BE%258E%25E5%259B%25BD%25E7%25A8%2580%25E5%259C%259F%25E5%25B0%2586%25E5%25A4%259A%25E5%25A6%2582%25E7%2589%259B%25E6%25AF%259B%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26realpos%3D23%26display_time%3D1761029687%26pre_seqid%3D17610296871550230151085",
+          "source": "微博",
           "ranks": [
-            17,
-            19,
-            18
+            23,
+            5,
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时19分 ~ 16时53分]"
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 17时40分]"
+        },
+        {
+          "title": "外交部回应特朗普称将于明年访华",
+          "url": "https://www.toutiao.com/trending/7563338600507768851/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
+          "title": "特朗普称将于明年初访华，外交部回应",
+          "url": "https://news.ifeng.com/c/8ndKqS7uUk7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
         },
         {
           "title": "中方回应美国将提出的三大议题",
@@ -654,6 +704,40 @@
           "time_info": "[00时49分 ~ 07时30分]"
         },
         {
+          "title": "特朗普又改口：从未说过乌克兰会赢",
+          "url": "https://news.ifeng.com/c/8ndHuKciB2U",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
+          "title": "法国前总统萨科齐入狱",
+          "url": "https://www.toutiao.com/trending/7563576620615781938/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
+          "title": "中国风电15年领跑全球",
+          "url": "https://www.toutiao.com/trending/7563446091195351083/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
           "title": "印度否认通话后，特朗普还嘴硬：莫迪向我保证过",
           "url": "https://news.ifeng.com/c/8nc5Dzj6yua",
           "source": "凤凰网",
@@ -665,6 +749,57 @@
           "time_info": "[11时19分 ~ 12时43分]"
         },
         {
+          "title": "中国把不可能变成一定能",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BD%E6%8A%8A%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%8F%98%E6%88%90%E4%B8%80%E5%AE%9A%E8%83%BD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D3%26cate%3D5001%26realpos%3D3%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E4%25B8%25AD%25E5%259B%25BD%25E6%258A%258A%25E4%25B8%258D%25E5%258F%25AF%25E8%2583%25BD%25E5%258F%2598%25E6%2588%2590%25E4%25B8%2580%25E5%25AE%259A%25E8%2583%25BD%2523%26pos%3D2%26dgr%3D0%26c_type%3D31%26display_time%3D1761036647%26pre_seqid%3D17610366475980313323557",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
+          "title": "日本石破茂内阁全体辞职",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%86%85%E9%98%81%E5%85%A8%E4%BD%93%E8%BE%9E%E8%81%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            9,
+            29,
+            27,
+            21,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时19分 ~ 17时40分]"
+        },
+        {
+          "title": "特朗普称将于明年初访问中国 外交部回应",
+          "url": "https://www.cls.cn/detail/2175678",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
+          "title": "高市早苗成日本首位女首相",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%88%90%E6%97%A5%E6%9C%AC%E9%A6%96%E4%BD%8D%E5%A5%B3%E9%A6%96%E7%9B%B8",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时38分 ~ 17时40分]"
+        },
+        {
           "title": "泽连斯基：不接受俄方要求乌军撤出顿巴斯的停战条件",
           "url": "https://news.ifeng.com/c/8nbz8OB1cfT",
           "source": "凤凰网",
@@ -674,6 +809,53 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时19分 ~ 12时43分]"
+        },
+        {
+          "title": "外交部回应特朗普称将于明年初访华",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B4%E5%88%9D%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
+          "title": "高市早苗当选日本首相，成为日本首位女首相，她的执政前景如何？会给日本政局带来哪些变化？",
+          "url": "https://www.zhihu.com/question/1963949381360252476",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时38分 ~ 17时40分]"
+        },
+        {
+          "title": "高市早苗内阁名单公布：小泉进次郎任防卫大臣",
+          "url": "https://news.ifeng.com/c/8ndLK052oRW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
+          "title": "高市早苗当选日本首相",
+          "url": "https://www.toutiao.com/trending/7563519666883137078/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时38分 ~ 17时40分]"
         },
         {
           "title": "美国政府继续停摆 OpenAI收紧Sora监管｜环球市场",
@@ -754,47 +936,49 @@
           "time_info": "[00时49分 ~ 05时33分]"
         },
         {
-          "title": "特朗普称一年后美国稀土将多如牛毛",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%80%E5%B9%B4%E5%90%8E%E7%BE%8E%E5%9B%BD%E7%A8%80%E5%9C%9F%E5%B0%86%E5%A4%9A%E5%A6%82%E7%89%9B%E6%AF%9B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D24%26band_rank%3D23%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E4%25B8%2580%25E5%25B9%25B4%25E5%2590%258E%25E7%25BE%258E%25E5%259B%25BD%25E7%25A8%2580%25E5%259C%259F%25E5%25B0%2586%25E5%25A4%259A%25E5%25A6%2582%25E7%2589%259B%25E6%25AF%259B%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26realpos%3D23%26display_time%3D1761029687%26pre_seqid%3D17610296871550230151085",
-          "source": "微博",
+          "title": "高市早苗将确定出任日本首相",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31818273",
+          "source": "澎湃新闻",
           "ranks": [
-            23,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时55分 ~ 16时53分]"
-        },
-        {
-          "title": "日本石破茂内阁全体辞职",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%86%85%E9%98%81%E5%85%A8%E4%BD%93%E8%BE%9E%E8%81%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            9,
-            29,
-            27,
-            21,
-            25
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[11时19分 ~ 16时53分]"
+          "time_info": "[14时55分 ~ 17时40分]"
         },
         {
-          "title": "高市早苗当选首相",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%80%89%E9%A6%96%E7%9B%B8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E5%25BD%2593%25E9%2580%2589%25E9%25A6%2596%25E7%259B%25B8%2523%26dgr%3D0%26band_rank%3D4%26filter_type%3Drealtimehot%26realpos%3D4%26c_type%3D31%26cate%3D5001%26flag%3D1%26lcate%3D5001%26pos%3D4%26stream_entry_id%3D31%26display_time%3D1761025007%26pre_seqid%3D17610250071220311949437",
-          "source": "微博",
+          "title": "离婚后再复婚，高市早苗丈夫改姓“高市”",
+          "url": "https://news.ifeng.com/c/8ndMrQJo7xt",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            6,
-            8,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时38分 ~ 16时53分]"
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
+        },
+        {
+          "title": "中方回应特朗普称明年将访华",
+          "url": "https://www.douyin.com/hot/2277574",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
+          "title": "法航荷航CEO：跟中国比，我们处于劣势",
+          "url": "https://news.ifeng.com/c/8ncwakOW32J",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 17时40分]"
         },
         {
           "title": "日本首相指名选举",
@@ -835,35 +1019,13 @@
           "time_info": "11时19分"
         },
         {
-          "title": "外交部回应特朗普称将于明年访华",
-          "url": "https://www.toutiao.com/trending/7563338600507768851/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "特朗普称将于明年初访华，外交部回应",
-          "url": "https://news.ifeng.com/c/8ndKqS7uUk7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
           "title": "日本财务大臣片山皋月：推进2025版“安倍经济学”并非不合常理。",
           "url": "https://flash.jin10.com/detail/20251021162429554800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -893,6 +1055,45 @@
           "time_info": "[11时19分 ~ 15时33分]"
         },
         {
+          "title": "高市早苗曾叫嚣“台湾有事日本必入”",
+          "url": "https://www.toutiao.com/trending/7563545939533663794/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 17时40分]"
+        },
+        {
+          "title": "阿宽红油面皮里发现印度谷螟幼虫",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%98%BF%E5%AE%BD%E7%BA%A2%E6%B2%B9%E9%9D%A2%E7%9A%AE%E9%87%8C%E5%8F%91%E7%8E%B0%E5%8D%B0%E5%BA%A6%E8%B0%B7%E8%9E%9F%E5%B9%BC%E8%99%AB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D20%26band_rank%3D19%26cate%3D5001%26q%3D%2523%25E9%2598%25BF%25E5%25AE%25BD%25E7%25BA%25A2%25E6%25B2%25B9%25E9%259D%25A2%25E7%259A%25AE%25E9%2587%258C%25E5%258F%2591%25E7%258E%25B0%25E5%258D%25B0%25E5%25BA%25A6%25E8%25B0%25B7%25E8%259E%259F%25E5%25B9%25BC%25E8%2599%25AB%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26realpos%3D19%26display_time%3D1761029687%26pre_seqid%3D17610296871550230151085",
+          "source": "微博",
+          "ranks": [
+            19,
+            11,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 17时40分]"
+        },
+        {
+          "title": "谈到内塔尼亚胡，加拿大总理发话：入境就抓",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31814876",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 17时40分]"
+        },
+        {
           "title": "印度人全球爆买白银",
           "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%85%A8%E7%90%83%E7%88%86%E4%B9%B0%E7%99%BD%E9%93%B6",
           "source": "百度热搜",
@@ -906,15 +1107,18 @@
           "time_info": "[12时42分 ~ 16时53分]"
         },
         {
-          "title": "法国前总统萨科齐入狱",
-          "url": "https://www.toutiao.com/trending/7563576620615781938/",
-          "source": "今日头条",
+          "title": "高市早苗得知投票结果：微笑转圈鞠躬",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BE%97%E7%9F%A5%E6%8A%95%E7%A5%A8%E7%BB%93%E6%9E%9C%EF%BC%9A%E5%BE%AE%E7%AC%91%E8%BD%AC%E5%9C%88%E9%9E%A0%E8%BA%AC",
+          "source": "百度热搜",
           "ranks": [
-            2
+            26,
+            24,
+            25,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 17时40分]"
         },
         {
           "title": "高市早苗当选日本首相",
@@ -926,17 +1130,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
-        },
-        {
-          "title": "特朗普又改口：从未说过乌克兰会赢",
-          "url": "https://news.ifeng.com/c/8ndHuKciB2U",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "日本央行副行长冰见野良三：美国的银行拥有迄今为止最雄厚的美元存款基础，这使它们在国际银行业市场中具备显著的竞争优势。",
@@ -978,7 +1171,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -992,39 +1185,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
-        },
-        {
-          "title": "韩国总统发言人在简报会上表示，韩国希望在APEC会议期间与日本新任首相举行峰会。",
-          "url": "https://wallstreetcn.com/livenews/2991150",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "中方回应高市早苗当选日本首相",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%80%89%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D2%26cate%3D5001%26realpos%3D2%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E4%25B8%25AD%25E6%2596%25B9%25E5%259B%259E%25E5%25BA%2594%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E5%25BD%2593%25E9%2580%2589%25E6%2597%25A5%25E6%259C%25AC%25E9%25A6%2596%25E7%259B%25B8%2523%26pos%3D1%26dgr%3D0%26c_type%3D31%26display_time%3D1761036647%26pre_seqid%3D17610366475980313323557",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "中国风电15年领跑全球",
-          "url": "https://www.toutiao.com/trending/7563446091195351083/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "据华尔街日报：包括摩根大通、美国银行和高盛在内的一批银行正努力为阿根廷筹集200亿美元贷款。",
@@ -1060,6 +1220,17 @@
           "time_info": "14时56分"
         },
         {
+          "title": "世界粮食计划署发言人：由于并非所有过境点均已开放，目前无法向加沙每天输送所预期的2000吨物资。",
+          "url": "https://flash.jin10.com/detail/20251021165628408800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "美国银行业在向阿根廷提供200亿美元资金支持方面寻求抵押品。 美国银行业等待特朗普的财政部就签字抵押物出具指导意见。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/2990870",
           "source": "华尔街见闻-快讯",
@@ -1071,48 +1242,40 @@
           "time_info": "07时30分"
         },
         {
-          "title": "中国把不可能变成一定能",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BD%E6%8A%8A%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%8F%98%E6%88%90%E4%B8%80%E5%AE%9A%E8%83%BD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D3%26cate%3D5001%26realpos%3D3%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E4%25B8%25AD%25E5%259B%25BD%25E6%258A%258A%25E4%25B8%258D%25E5%258F%25AF%25E8%2583%25BD%25E5%258F%2598%25E6%2588%2590%25E4%25B8%2580%25E5%25AE%259A%25E8%2583%25BD%2523%26pos%3D2%26dgr%3D0%26c_type%3D31%26display_time%3D1761036647%26pre_seqid%3D17610366475980313323557",
-          "source": "微博",
+          "title": "高市早苗当选日本首相 成为日本历史上首位女首相",
+          "url": "https://www.cls.cn/detail/2175479",
+          "source": "财联社热门",
           "ranks": [
-            3
+            10,
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时33分 ~ 17时40分]"
         },
         {
           "title": "高市早苗当选日本首相",
-          "url": "https://www.toutiao.com/trending/7563519666883137078/",
-          "source": "今日头条",
+          "url": "https://www.douyin.com/hot/2277091",
+          "source": "抖音",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时38分 ~ 16时53分]"
+          "time_info": "[13时38分 ~ 17时40分]"
         },
         {
-          "title": "高市早苗成日本首位女首相",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%88%90%E6%97%A5%E6%9C%AC%E9%A6%96%E4%BD%8D%E5%A5%B3%E9%A6%96%E7%9B%B8",
-          "source": "百度热搜",
+          "title": "外交部回应特朗普称明年初访华",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B9%B4%E5%88%9D%E8%AE%BF%E5%8D%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D9%26cate%3D5001%26realpos%3D9%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E5%25A4%2596%25E4%25BA%25A4%25E9%2583%25A8%25E5%259B%259E%25E5%25BA%2594%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E6%2598%258E%25E5%25B9%25B4%25E5%2588%259D%25E8%25AE%25BF%25E5%258D%258E%2523%26pos%3D10%26dgr%3D0%26c_type%3D31%26display_time%3D1761036647%26pre_seqid%3D17610366475980313323557",
+          "source": "微博",
           "ranks": [
-            7
+            9,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时38分 ~ 16时53分]"
-        },
-        {
-          "title": "特朗普称将于明年初访问中国 外交部回应",
-          "url": "https://www.cls.cn/detail/2175678",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
         },
         {
           "title": "调查显示，周四韩国央行可能维持利率不变",
@@ -1159,38 +1322,29 @@
           "time_info": "15时33分"
         },
         {
-          "title": "调查：韩国新人备婚平均花费180万元，部分新人放弃购买婚戒",
-          "url": "https://wallstreetcn.com/livenews/2991148",
-          "source": "华尔街见闻-快讯",
+          "title": "中方回应高市早苗当选日本首相",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%80%89%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D2%26cate%3D5001%26realpos%3D2%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E4%25B8%25AD%25E6%2596%25B9%25E5%259B%259E%25E5%25BA%2594%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E5%25BD%2593%25E9%2580%2589%25E6%2597%25A5%25E6%259C%25AC%25E9%25A6%2596%25E7%259B%25B8%2523%26pos%3D1%26dgr%3D0%26c_type%3D31%26display_time%3D1761036647%26pre_seqid%3D17610366475980313323557",
+          "source": "微博",
           "ranks": [
-            4
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
         },
         {
-          "title": "高市早苗当选日本首相，成为日本首位女首相，她的执政前景如何？会给日本政局带来哪些变化？",
-          "url": "https://www.zhihu.com/question/1963949381360252476",
-          "source": "知乎",
+          "title": "日本诞生首位女首相",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%AF%9E%E7%94%9F%E9%A6%96%E4%BD%8D%E5%A5%B3%E9%A6%96%E7%9B%B8",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            6
+            9,
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时38分 ~ 16时53分]"
-        },
-        {
-          "title": "外交部回应特朗普称将于明年初访华",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E%E6%98%8E%E5%B9%B4%E5%88%9D%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "[13时38分 ~ 17时40分]"
         },
         {
           "title": "直击日本首相指名选举",
@@ -1202,17 +1356,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
-        },
-        {
-          "title": "高市早苗内阁名单公布：小泉进次郎任防卫大臣",
-          "url": "https://news.ifeng.com/c/8ndLK052oRW",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "澳大利亚稀土和关键矿物公司的股价在美国和澳大利亚宣布供应协议后大幅上涨。",
@@ -1237,15 +1380,15 @@
           "time_info": "12时43分"
         },
         {
-          "title": "中方回应特朗普称明年将访华",
-          "url": "https://www.douyin.com/hot/2277574",
-          "source": "抖音",
+          "title": "中国央行：将加快推进重点领域、新兴领域立法 不断完善金融法治体系",
+          "url": "https://wallstreetcn.com/livenews/2991153",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "17时40分"
         },
         {
           "title": "中国会重新采购美国大豆吗",
@@ -1342,6 +1485,18 @@
           "time_info": "[02时57分 ~ 04时43分]"
         },
         {
+          "title": "韩国总统发言人在简报会上表示，韩国希望在APEC会议期间与日本新任首相举行峰会。",
+          "url": "https://wallstreetcn.com/livenews/2991150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
           "title": "纽约天然气期货收涨超12.9%，美国原油期货大致收平",
           "url": "https://wallstreetcn.com/livenews/2990798",
           "source": "华尔街见闻-快讯",
@@ -1378,29 +1533,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时29分 ~ 05时33分]"
-        },
-        {
-          "title": "高市早苗将确定出任日本首相",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31818273",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时55分 ~ 16时53分]"
-        },
-        {
-          "title": "高市早苗当选日本首相",
-          "url": "https://www.douyin.com/hot/2277091",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时38分 ~ 16时53分]"
         },
         {
           "title": "安泰科：中国精铜消费好于预期，下半年增速下滑但仍保持韧性",
@@ -1504,19 +1636,6 @@
           "time_info": "[00时49分 ~ 02时57分]"
         },
         {
-          "title": "日本诞生首位女首相",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%AF%9E%E7%94%9F%E9%A6%96%E4%BD%8D%E5%A5%B3%E9%A6%96%E7%9B%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时38分 ~ 16时53分]"
-        },
-        {
           "title": "美国银行：美联储10月份缩减资产负债表的风险上升。",
           "url": "https://flash.jin10.com/detail/20251021003954131800",
           "source": "金十数据",
@@ -1539,6 +1658,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时36分]"
+        },
+        {
+          "title": "调查：韩国新人备婚平均花费180万元，部分新人放弃购买婚戒",
+          "url": "https://wallstreetcn.com/livenews/2991148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时40分]"
         },
         {
           "title": "联合国发言人：联合国对加沙再次发生暴力事件表示“担忧”。",
@@ -1612,17 +1743,6 @@
           "time_info": "[13时38分 ~ 15时33分]"
         },
         {
-          "title": "法航荷航CEO：跟中国比，我们处于劣势",
-          "url": "https://news.ifeng.com/c/8ncwakOW32J",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时55分 ~ 16时53分]"
-        },
-        {
           "title": "受冷天气与空头回补推动 美国天然气期货暴涨逾11%",
           "url": "https://flash.jin10.com/detail/20251021003409435800",
           "source": "金十数据",
@@ -1671,18 +1791,6 @@
           "time_info": "[14时56分 ~ 15时33分]"
         },
         {
-          "title": "高市早苗曾叫嚣“台湾有事日本必入”",
-          "url": "https://www.toutiao.com/trending/7563545939533663794/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时55分 ~ 16时53分]"
-        },
-        {
           "title": "法国司法部长说我们失败了",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B3%95%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E9%95%BF%E8%AF%B4%E6%88%91%E4%BB%AC%E5%A4%B1%E8%B4%A5%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D10%26stream_entry_id%3D31%26c_type%3D31%26filter_type%3Drealtimehot%26lcate%3D5001%26q%3D%2523%25E6%25B3%2595%25E5%259B%25BD%25E5%258F%25B8%25E6%25B3%2595%25E9%2583%25A8%25E9%2595%25BF%25E8%25AF%25B4%25E6%2588%2591%25E4%25BB%25AC%25E5%25A4%25B1%25E8%25B4%25A5%25E4%25BA%2586%2523%26flag%3D0%26realpos%3D10%26pos%3D11%26cate%3D5001%26dgr%3D0%26display_time%3D1760978405%26pre_seqid%3D176097840569802307820125",
           "source": "微博",
@@ -1714,19 +1822,6 @@
           "source": "凤凰网",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时55分 ~ 16时53分]"
-        },
-        {
-          "title": "阿宽红油面皮里发现印度谷螟幼虫",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%98%BF%E5%AE%BD%E7%BA%A2%E6%B2%B9%E9%9D%A2%E7%9A%AE%E9%87%8C%E5%8F%91%E7%8E%B0%E5%8D%B0%E5%BA%A6%E8%B0%B7%E8%9E%9F%E5%B9%BC%E8%99%AB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26pos%3D20%26band_rank%3D19%26cate%3D5001%26q%3D%2523%25E9%2598%25BF%25E5%25AE%25BD%25E7%25BA%25A2%25E6%25B2%25B9%25E9%259D%25A2%25E7%259A%25AE%25E9%2587%258C%25E5%258F%2591%25E7%258E%25B0%25E5%258D%25B0%25E5%25BA%25A6%25E8%25B0%25B7%25E8%259E%259F%25E5%25B9%25BC%25E8%2599%25AB%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26realpos%3D19%26display_time%3D1761029687%26pre_seqid%3D17610296871550230151085",
-          "source": "微博",
-          "ranks": [
-            19,
-            11,
-            14
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -1781,18 +1876,6 @@
           "time_info": "[11时19分 ~ 13时38分]"
         },
         {
-          "title": "谈到内塔尼亚胡，加拿大总理发话：入境就抓",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31814876",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时55分 ~ 16时53分]"
-        },
-        {
           "title": "中国为何对韩国造船巨头出手",
           "url": "https://www.toutiao.com/trending/7563272834751925814/",
           "source": "今日头条",
@@ -1807,17 +1890,15 @@
           "time_info": "[00时49分 ~ 05时33分]"
         },
         {
-          "title": "高市早苗得知投票结果：微笑转圈鞠躬",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BE%97%E7%9F%A5%E6%8A%95%E7%A5%A8%E7%BB%93%E6%9E%9C%EF%BC%9A%E5%BE%AE%E7%AC%91%E8%BD%AC%E5%9C%88%E9%9E%A0%E8%BA%AC",
-          "source": "百度热搜",
+          "title": "中方回应高市早苗当选日本首相",
+          "url": "https://news.ifeng.com/c/8ndJJmC29ll",
+          "source": "凤凰网",
           "ranks": [
-            26,
-            24,
-            25
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时55分 ~ 16时53分]"
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
         },
         {
           "title": "日本石破茂内阁全体辞职",
@@ -1869,6 +1950,28 @@
           "time_info": "[13时38分 ~ 14时56分]"
         },
         {
+          "title": "中国“追光”这五年创新动能磅礴迸发",
+          "url": "https://www.toutiao.com/trending/7563481955270967342/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
+          "title": "这是来自10名普通中国人的记忆",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E6%9D%A5%E8%87%AA10%E5%90%8D%E6%99%AE%E9%80%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E8%AE%B0%E5%BF%86",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
           "title": "据知情人士透露，电动飞机制造商Beta Technologies Inc.启动正式的美国IPO程序，预计将于11月份定价。 近日消息称，该公司希望通过首次公开发行股票募资至多8.25亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/2990764",
           "source": "华尔街见闻-快讯",
@@ -1908,6 +2011,29 @@
           "time_info": "[04时43分 ~ 06时36分]"
         },
         {
+          "title": "中方回应高市早苗当选",
+          "url": "https://www.douyin.com/hot/2277573",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时33分 ~ 17时40分]"
+        },
+        {
+          "title": "特朗普计划访华有何目的",
+          "url": "https://www.toutiao.com/trending/7563565242265898535/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
           "title": "普京透露参加聚会时曾被人泼红酒",
           "url": "https://www.toutiao.com/trending/7562449995619205159/",
           "source": "今日头条",
@@ -1920,6 +2046,42 @@
           "time_info": "[11时19分 ~ 12时43分]"
         },
         {
+          "title": "特朗普夸记者发型不错",
+          "url": "https://www.toutiao.com/trending/7562417676297142335/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
+          "title": "外交部回应高市早苗胜选",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%83%9C%E9%80%89",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
+          "title": "李在明主持安理会有何看点",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%B8%BB%E6%8C%81%E5%AE%89%E7%90%86%E4%BC%9A%E6%9C%89%E4%BD%95%E7%9C%8B%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时56分 ~ 17时40分]"
+        },
+        {
           "title": "泽连斯基：什么也不会给普京",
           "url": "https://www.toutiao.com/trending/7563247815183306303/",
           "source": "今日头条",
@@ -1930,6 +2092,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时33分 ~ 06时36分]"
+        },
+        {
+          "title": "中国手握哪两张底牌让美澳难以破局",
+          "url": "https://www.toutiao.com/trending/7563537666340310567/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
         },
         {
           "title": "俄乌双方会不会按照特朗普的提议「冻结前线」？",
@@ -1966,6 +2139,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时19分 ~ 13时38分]"
+        },
+        {
+          "title": "特朗普为何放低身段寻求与普京对话",
+          "url": "https://www.toutiao.com/trending/7563569454789955082/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
         },
         {
           "title": "高市早苗能稳住首相位置吗",
@@ -2014,6 +2199,18 @@
           "time_info": "[11时19分 ~ 12时43分]"
         },
         {
+          "title": "韩国承认游戏被中国反超",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E6%89%BF%E8%AE%A4%E6%B8%B8%E6%88%8F%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%B6%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D30%26cate%3D5001%26realpos%3D30%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E6%2589%25BF%25E8%25AE%25A4%25E6%25B8%25B8%25E6%2588%258F%25E8%25A2%25AB%25E4%25B8%25AD%25E5%259B%25BD%25E5%258F%258D%25E8%25B6%2585%2523%26pos%3D31%26dgr%3D0%26c_type%3D31%26display_time%3D1761036647%26pre_seqid%3D17610366475980313323557",
+          "source": "微博",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
           "title": "红油面皮里发现蛆实为印度谷螟幼虫",
           "url": "https://www.baidu.com/s?wd=%E7%BA%A2%E6%B2%B9%E9%9D%A2%E7%9A%AE%E9%87%8C%E5%8F%91%E7%8E%B0%E8%9B%86%E5%AE%9E%E4%B8%BA%E5%8D%B0%E5%BA%A6%E8%B0%B7%E8%9E%9F%E5%B9%BC%E8%99%AB",
           "source": "百度热搜",
@@ -2024,18 +2221,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时19分 ~ 12时43分]"
-        },
-        {
-          "title": "高市早苗当选日本首相 成为日本历史上首位女首相",
-          "url": "https://www.cls.cn/detail/2175479",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时33分 ~ 16时53分]"
         },
         {
           "title": "以军称数名巴勒斯坦武装分子越过“黄线”并向以军开火",
@@ -2169,6 +2354,29 @@
           "time_info": "[12时42分 ~ 12时43分]"
         },
         {
+          "title": "中国风电15年领跑全球",
+          "url": "https://www.douyin.com/hot/2277170",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
+          "title": "探访印度最大贫民窟",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E8%AE%BF%E5%8D%B0%E5%BA%A6%E6%9C%80%E5%A4%A7%E8%B4%AB%E6%B0%91%E7%AA%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
           "title": "企图持枪袭击 美国亚特兰大机场内一男子被捕",
           "url": "https://flash.jin10.com/detail/20251021042843022800",
           "source": "金十数据",
@@ -2205,6 +2413,29 @@
           "time_info": "[03时29分 ~ 04时43分]"
         },
         {
+          "title": "摩根士丹利王滢：对中国资产的进一步增持将是大势所趋",
+          "url": "https://wallstreetcn.com/livenews/2991139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
+          "title": "NASA局长：就你这进度，怎么抢在中国前面",
+          "url": "https://news.ifeng.com/c/8ndFXmlqTVV",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
+        },
+        {
           "title": "美联储传声筒：美国银行准备金已降至临界水平",
           "url": "https://flash.jin10.com/detail/20251021034205766800",
           "source": "金十数据",
@@ -2227,6 +2458,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时43分 ~ 13时38分]"
+        },
+        {
+          "title": "“韩国十年前还第一，已被中国反超两倍多”",
+          "url": "https://news.ifeng.com/c/8ndMNxDqEcO",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
         },
         {
           "title": "据AXIOS网站：两名以色列官员和一名美国官员透露，以色列总理内塔尼亚胡任命Michael Eisenberg担任其驻美指挥中心代表，该中心负责监督加沙协议的执行。",
@@ -2277,17 +2519,6 @@
           "time_info": "[14时56分 ~ 15时33分]"
         },
         {
-          "title": "中方回应高市早苗当选",
-          "url": "https://www.douyin.com/hot/2277573",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时33分 ~ 16时53分]"
-        },
-        {
           "title": "美国“稀土合纵”能否解中国稀土制裁",
           "url": "https://www.toutiao.com/trending/7562425326832222262/",
           "source": "今日头条",
@@ -2297,6 +2528,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时55分 ~ 14时56分]"
+        },
+        {
+          "title": "郑丽文“我是中国人”打脸绿营洗脑",
+          "url": "https://news.ifeng.com/c/8ndRB3VMPVR",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
         },
         {
           "title": "美国总统特朗普：我期待亲自前往澳大利亚。",
@@ -2335,16 +2577,16 @@
           "time_info": "[06时36分 ~ 07时30分]"
         },
         {
-          "title": "李在明主持安理会有何看点",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%B8%BB%E6%8C%81%E5%AE%89%E7%90%86%E4%BC%9A%E6%9C%89%E4%BD%95%E7%9C%8B%E7%82%B9",
-          "source": "bilibili 热搜",
+          "title": "日本即将上任的财务大臣片山皋月：希望汇率稳定波动，反映基本面。 在讨论将日本食品消费税降至0%。 对日本央行利率不作评论。 推动“安倍经济学2025版”并不反常。",
+          "url": "https://wallstreetcn.com/livenews/2991136",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            20
+            12,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时56分 ~ 15时33分]"
+          "time_info": "[16时53分 ~ 17时40分]"
         },
         {
           "title": "美国天然气期货延续涨势，价格大涨逾10%至一周高位，因接近纪录水平的液化天然气供应及更寒冷的天气引发一波投机性空头回补。",
@@ -2442,6 +2684,17 @@
           "time_info": "[14时55分 ~ 14时56分]"
         },
         {
+          "title": "高市早苗当选日本首相现场",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%80%89%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E7%8E%B0%E5%9C%BA%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26flag%3D1%26pos%3D15%26lcate%3D5001%26dgr%3D0%26realpos%3D14%26band_rank%3D14%26filter_type%3Drealtimehot%26q%3D%2523%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E5%25BD%2593%25E9%2580%2589%25E6%2597%25A5%25E6%259C%25AC%25E9%25A6%2596%25E7%259B%25B8%25E7%258E%25B0%25E5%259C%25BA%2523%26display_time%3D1761039470%26pre_seqid%3D17610394699940229932168",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
+        },
+        {
           "title": "日本首相指名选举",
           "url": "https://www.toutiao.com/trending/7563519666883137078/",
           "source": "今日头条",
@@ -2451,6 +2704,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 12时43分]"
+        },
+        {
+          "title": "外交部：台湾问题是中国人自己的事",
+          "url": "https://www.toutiao.com/trending/7562957897362194474/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
         },
         {
           "title": "美国总统特朗普：正努力达成（俄乌）协议。",
@@ -2561,6 +2825,18 @@
           "time_info": "[04时43分 ~ 05时33分]"
         },
         {
+          "title": "美军在以色列建协调中心 监督加沙停火",
+          "url": "https://wallstreetcn.com/livenews/2991129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
           "title": "以色列国防军：哈马斯向红十字会移交以色列人质遗体。",
           "url": "https://flash.jin10.com/detail/20251021014134965800",
           "source": "金十数据",
@@ -2668,6 +2944,30 @@
           "time_info": "[02时57分 ~ 03时29分]"
         },
         {
+          "title": "韩正会见美国俄勒冈州参议长瓦格纳",
+          "url": "https://wallstreetcn.com/livenews/2991115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
+          "title": "卡塔尔埃米尔强烈谴责以色列持续违反加沙停火协议",
+          "url": "https://wallstreetcn.com/livenews/2991114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
           "title": "美国白宫：澳大利亚已同意购买价值12亿美元的Anduril无人水下航行器。",
           "url": "https://flash.jin10.com/detail/20251021012740153800",
           "source": "金十数据",
@@ -2678,6 +2978,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 03时29分]"
+        },
+        {
+          "title": "日本即将上任的财务大臣片山皋月：将对税收减免和补贴进行恰当的监督。",
+          "url": "https://wallstreetcn.com/livenews/2991113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时40分]"
         },
         {
           "title": "美国白宫：美国确保更多美国牛肉进入澳大利亚市场。",
@@ -2692,6 +3004,18 @@
           "time_info": "[02时57分 ~ 03时29分]"
         },
         {
+          "title": "特朗普政府“签协议换拨款”提议遇冷 首批9所大学有7所明确拒绝",
+          "url": "https://wallstreetcn.com/livenews/2991111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
           "title": "日媒称日本将迎来首位女首相",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E5%AA%92%E7%A7%B0%E6%97%A5%E6%9C%AC%E5%B0%86%E8%BF%8E%E6%9D%A5%E9%A6%96%E4%BD%8D%E5%A5%B3%E9%A6%96%E7%9B%B8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E6%2597%25A5%25E5%25AA%2592%25E7%25A7%25B0%25E6%2597%25A5%25E6%259C%25AC%25E5%25B0%2586%25E8%25BF%258E%25E6%259D%25A5%25E9%25A6%2596%25E4%25BD%258D%25E5%25A5%25B3%25E9%25A6%2596%25E7%259B%25B8%2523%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D24%26stream_entry_id%3D31%26cate%3D5001%26pos%3D24%26lcate%3D5001%26dgr%3D0%26band_rank%3D24%26flag%3D0%26display_time%3D1761016727%26pre_seqid%3D17610167271220147034433",
           "source": "微博",
@@ -2704,6 +3028,17 @@
           "time_info": "[11时19分 ~ 12时42分]"
         },
         {
+          "title": "法国前总统萨科齐入狱服刑",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E5%89%8D%E6%80%BB%E7%BB%9F%E8%90%A8%E7%A7%91%E9%BD%90%E5%85%A5%E7%8B%B1%E6%9C%8D%E5%88%91",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
+        },
+        {
           "title": "美国白宫：美国、澳大利亚计划在未来六个月内向关键矿产项目投资超过30亿美元。美国国防部将投资西澳大利亚的镓精炼厂。",
           "url": "https://flash.jin10.com/detail/20251021012706958800",
           "source": "金十数据",
@@ -2714,6 +3049,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 03时29分]"
+        },
+        {
+          "title": "日本即将上任的内阁官房长官木原稔：即将上任的新首相高市早苗将于晚上10点开始召开新闻发布会。",
+          "url": "https://wallstreetcn.com/livenews/2991108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时40分]"
+        },
+        {
+          "title": "特朗普：美国不能把所有武器都给乌",
+          "url": "https://www.toutiao.com/trending/7562417267796017194/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 17时40分]"
         },
         {
           "title": "伊拉克总理办公室：伊拉克将与美国能源公司Excelerate Energy签署协议，从美国进口天然气以供应国内。",
@@ -2737,17 +3095,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 07时30分]"
-        },
-        {
-          "title": "中方回应高市早苗当选日本首相",
-          "url": "https://news.ifeng.com/c/8ndJJmC29ll",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "金十图示：2025年10月21日（周二）中国科技互联网公司市值排名TOP 50一览",
@@ -2803,6 +3150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
+        },
+        {
+          "title": "世界粮食计划署发言人：部分物资已抵达加沙北部，但规模仍未达到所需标准。",
+          "url": "https://flash.jin10.com/detail/20251021165120064800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "美国股市延续涨势，道指上涨1%，标普500指数现涨1.09%，纳指涨1.47%。",
@@ -2871,37 +3229,15 @@
           "time_info": "13时38分"
         },
         {
-          "title": "中国“追光”这五年创新动能磅礴迸发",
-          "url": "https://www.toutiao.com/trending/7563481955270967342/",
-          "source": "今日头条",
+          "title": "世界粮食计划署发言人：迄今运入加沙的物资足以满足近50万人两周的需求。",
+          "url": "https://flash.jin10.com/detail/20251021164710998800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "这是来自10名普通中国人的记忆",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E6%98%AF%E6%9D%A5%E8%87%AA10%E5%90%8D%E6%99%AE%E9%80%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E8%AE%B0%E5%BF%86",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "探访印度最大贫民窟",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E8%AE%BF%E5%8D%B0%E5%BA%A6%E6%9C%80%E5%A4%A7%E8%B4%AB%E6%B0%91%E7%AA%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "17时40分"
         },
         {
           "title": "亚马逊云服务（AWS）：此前导致错误率上升的底层DNS问题已被完全解决。部分客户在美国弗吉尼亚北部（US-East-1）区域的服务中仍然遇到较高的错误率。",
@@ -2948,46 +3284,13 @@
           "time_info": "15时33分"
         },
         {
-          "title": "摩根士丹利王滢：对中国资产的进一步增持将是大势所趋",
-          "url": "https://wallstreetcn.com/livenews/2991139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "外交部回应特朗普称明年初访华",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B9%B4%E5%88%9D%E8%AE%BF%E5%8D%8E%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D9%26cate%3D5001%26realpos%3D9%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E5%25A4%2596%25E4%25BA%25A4%25E9%2583%25A8%25E5%259B%259E%25E5%25BA%2594%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%25A7%25B0%25E6%2598%258E%25E5%25B9%25B4%25E5%2588%259D%25E8%25AE%25BF%25E5%258D%258E%2523%26pos%3D10%26dgr%3D0%26c_type%3D31%26display_time%3D1761036647%26pre_seqid%3D17610366475980313323557",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "中国风电15年领跑全球",
-          "url": "https://www.douyin.com/hot/2277170",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
           "title": "高市早苗内阁名单公布",
           "url": "https://www.toutiao.com/trending/7562794877717725230/",
           "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -3025,6 +3328,17 @@
           "time_info": "15时33分"
         },
         {
+          "title": "世界粮食计划署发言人：自停火以来已向加沙地区运送（物资）超过530辆卡车。",
+          "url": "https://flash.jin10.com/detail/20251021164643461800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "日本东证指数回吐早盘涨幅。",
           "url": "https://flash.jin10.com/detail/20251021130027248800",
           "source": "金十数据",
@@ -3045,17 +3359,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
-        },
-        {
-          "title": "特朗普计划访华有何目的",
-          "url": "https://www.toutiao.com/trending/7563565242265898535/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "联合国发言人：我们的重点是加沙的人道主义援助。",
@@ -3113,6 +3416,17 @@
           "time_info": "15时33分"
         },
         {
+          "title": "前美国司法部官员：反垄断监管机构对人工智能领域的循环投资感到担忧，数据中心的电力使用正成为反垄断监管机构关注的一大问题。",
+          "url": "https://flash.jin10.com/detail/20251021164433227800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
           "title": "高市早苗当选日本首相",
           "url": "https://wallstreetcn.com/livenews/2991021",
           "source": "华尔街见闻-快讯",
@@ -3122,39 +3436,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
-        },
-        {
-          "title": "日本即将上任的财务大臣片山皋月：希望汇率稳定波动，反映基本面。 在讨论将日本食品消费税降至0%。 对日本央行利率不作评论。 推动“安倍经济学2025版”并不反常。",
-          "url": "https://wallstreetcn.com/livenews/2991136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "特朗普夸记者发型不错",
-          "url": "https://www.toutiao.com/trending/7562417676297142335/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "外交部回应高市早苗胜选",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%83%9C%E9%80%89",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "美特使对以总理发出警告：勿破坏加沙停火协议",
@@ -3240,7 +3521,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -3265,17 +3546,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
-        },
-        {
-          "title": "中国手握哪两张底牌让美澳难以破局",
-          "url": "https://www.toutiao.com/trending/7563537666340310567/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "特朗普与普京举行会晤的希望可能会搁浅。",
@@ -3317,18 +3587,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "美军在以色列建协调中心 监督加沙停火",
-          "url": "https://wallstreetcn.com/livenews/2991129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -3361,7 +3620,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -3427,7 +3686,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -3476,17 +3735,6 @@
           "time_info": "14时56分"
         },
         {
-          "title": "韩正会见美国俄勒冈州参议长瓦格纳",
-          "url": "https://wallstreetcn.com/livenews/2991115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
           "title": "美国总统特朗普：目前，加沙停火掌握在别人手中。如果有必要，哈马斯将被消灭。",
           "url": "https://flash.jin10.com/detail/20251021000410130800",
           "source": "金十数据",
@@ -3509,17 +3757,6 @@
           "time_info": "11时19分"
         },
         {
-          "title": "卡塔尔埃米尔强烈谴责以色列持续违反加沙停火协议",
-          "url": "https://wallstreetcn.com/livenews/2991114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
           "title": "中国女子在韩国住宅楼火灾身亡",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E9%9F%A9%E5%9B%BD%E4%BD%8F%E5%AE%85%E6%A5%BC%E7%81%AB%E7%81%BE%E8%BA%AB%E4%BA%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E4%25B8%25AD%25E5%259B%25BD%25E5%25A5%25B3%25E5%25AD%2590%25E5%259C%25A8%25E9%259F%25A9%25E5%259B%25BD%25E4%25BD%258F%25E5%25AE%2585%25E6%25A5%25BC%25E7%2581%25AB%25E7%2581%25BE%25E8%25BA%25AB%25E4%25BA%25A1%2523%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D22%26stream_entry_id%3D31%26cate%3D5001%26pos%3D22%26lcate%3D5001%26dgr%3D0%26band_rank%3D22%26flag%3D1%26display_time%3D1761016727%26pre_seqid%3D17610167271220147034433",
           "source": "微博",
@@ -3529,6 +3766,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "深度回顾高市早苗当选历程",
+          "url": "https://www.douyin.com/hot/2277652",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         },
         {
           "title": "特朗普对泽连斯基的态度发生怎样转变",
@@ -3586,17 +3834,6 @@
           "time_info": "11时19分"
         },
         {
-          "title": "日本即将上任的财务大臣片山皋月：将对税收减免和补贴进行恰当的监督。",
-          "url": "https://wallstreetcn.com/livenews/2991113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
           "title": "美国总统特朗普：正采取多项措施以维持停火。",
           "url": "https://flash.jin10.com/detail/20251021000329871800",
           "source": "金十数据",
@@ -3641,17 +3878,6 @@
           "time_info": "15时33分"
         },
         {
-          "title": "特朗普政府“签协议换拨款”提议遇冷 首批9所大学有7所明确拒绝",
-          "url": "https://wallstreetcn.com/livenews/2991111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
           "title": "特朗普计划明年初访华",
           "url": "https://www.douyin.com/hot/2277203",
           "source": "抖音",
@@ -3672,17 +3898,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
-        },
-        {
-          "title": "特朗普为何放低身段寻求与普京对话",
-          "url": "https://www.toutiao.com/trending/7563569454789955082/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "高市早苗曾自称“安倍继承者”",
@@ -3716,17 +3931,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时33分"
-        },
-        {
-          "title": "日本即将上任的内阁官房长官木原稔：即将上任的新首相高市早苗将于晚上10点开始召开新闻发布会。",
-          "url": "https://wallstreetcn.com/livenews/2991108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "美国总统特朗普：乌克兰仍有可能获胜。一切皆有可能。",
@@ -3867,7 +4071,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -3878,7 +4082,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -3900,7 +4104,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -3911,7 +4115,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -3955,18 +4159,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "韩国承认游戏被中国反超",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E6%89%BF%E8%AE%A4%E6%B8%B8%E6%88%8F%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%8F%8D%E8%B6%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D30%26cate%3D5001%26realpos%3D30%26stream_entry_id%3D31%26lcate%3D5001%26flag%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E6%2589%25BF%25E8%25AE%25A4%25E6%25B8%25B8%25E6%2588%258F%25E8%25A2%25AB%25E4%25B8%25AD%25E5%259B%25BD%25E5%258F%258D%25E8%25B6%2585%2523%26pos%3D31%26dgr%3D0%26c_type%3D31%26display_time%3D1761036647%26pre_seqid%3D17610366475980313323557",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
