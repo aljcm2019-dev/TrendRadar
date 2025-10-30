@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T21:33:49.292747+08:00",
-  "total_titles_processed": 1770,
+  "generated_at": "2025-10-30T22:20:55.409486+08:00",
+  "total_titles_processed": 1866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 369,
+      "match_count": 381,
       "titles": [
         {
           "title": "习近平抵达韩国出席亚太经合组织第三十二次领导人非正式会议并对韩国进行国事访问",
@@ -15,8 +15,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时13分 ~ 21时33分]"
+          "appearance_count": 15,
+          "time_info": "[11时13分 ~ 22时20分]"
+        },
+        {
+          "title": "习近平同特朗普会晤 详讯公布",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4+%E8%AF%A6%E8%AE%AF%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时19分 ~ 22时20分]"
+        },
+        {
+          "title": "中美元首在韩国举行会晤，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1967168982114075156",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时19分 ~ 22时20分]"
         },
         {
           "title": "特朗普已下令立即重启美国核试验",
@@ -27,8 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时20分 ~ 21时33分]"
+          "appearance_count": 13,
+          "time_info": "[13时20分 ~ 22时20分]"
         },
         {
           "title": "习近平将同美国总统特朗普举行会晤",
@@ -41,28 +63,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[04时30分 ~ 15时19分]"
-        },
-        {
-          "title": "习近平同特朗普会晤 详讯公布",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4+%E8%AF%A6%E8%AE%AF%E5%85%AC%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时19分 ~ 21时33分]"
-        },
-        {
-          "title": "中美元首在韩国举行会晤，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1967168982114075156",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时19分 ~ 21时33分]"
         },
         {
           "title": "习近平同特朗普握手合影",
@@ -79,17 +79,44 @@
           "time_info": "[12时23分 ~ 18时21分]"
         },
         {
+          "title": "中美经贸磋商成果共识公布，美方将取消所谓芬太尼关税，美方加征 24% 关税继续暂停一年，释放哪些信息？",
+          "url": "https://www.zhihu.com/question/1967247414688720104",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 22时20分]"
+        },
+        {
+          "title": "美对中国加征24%关税将继续暂停一年",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%BE%8124%25%E5%85%B3%E7%A8%8E%E5%B0%86%E7%BB%A7%E7%BB%AD%E6%9A%82%E5%81%9C%E4%B8%80%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 22时20分]"
+        },
+        {
           "title": "美将取消对华10%所谓“芬太尼关税”",
           "url": "https://www.toutiao.com/trending/7566515805073408042/",
           "source": "今日头条",
           "ranks": [
             2,
             1,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时28分 ~ 21时33分]"
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 22时20分]"
         },
         {
           "title": "会晤结束后 特朗普送习近平上车",
@@ -116,19 +143,6 @@
           "time_info": "[15时19分 ~ 20时42分]"
         },
         {
-          "title": "中美经贸磋商成果共识公布，美方将取消所谓芬太尼关税，美方加征 24% 关税继续暂停一年，释放哪些信息？",
-          "url": "https://www.zhihu.com/question/1967247414688720104",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时28分 ~ 21时33分]"
-        },
-        {
           "title": "习近平同特朗普握手合影",
           "url": "https://www.cls.cn/detail/2185819",
           "source": "财联社热门",
@@ -145,16 +159,32 @@
           "time_info": "[12时23分 ~ 19时19分]"
         },
         {
-          "title": "美对中国加征24%关税将继续暂停一年",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%BE%8124%25%E5%85%B3%E7%A8%8E%E5%B0%86%E7%BB%A7%E7%BB%AD%E6%9A%82%E5%81%9C%E4%B8%80%E5%B9%B4",
-          "source": "百度热搜",
+          "title": "特朗普批准韩国在美建造核动力潜艇",
+          "url": "https://news.ifeng.com/c/8nsFayRT4WM",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            2
+            6,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时28分 ~ 21时33分]"
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 22时20分]"
+        },
+        {
+          "title": "美方加征24%关税继续暂停一年",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E6%96%B9%E5%8A%A0%E5%BE%8124%25%E5%85%B3%E7%A8%8E%E7%BB%A7%E7%BB%AD%E6%9A%82%E5%81%9C%E4%B8%80%E5%B9%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26q%3D%2523%25E7%25BE%258E%25E6%2596%25B9%25E5%258A%25A0%25E5%25BE%258124%2525%25E5%2585%25B3%25E7%25A8%258E%25E7%25BB%25A7%25E7%25BB%25AD%25E6%259A%2582%25E5%2581%259C%25E4%25B8%2580%25E5%25B9%25B4%2523%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26band_rank%3D1%26c_type%3D31%26pos%3D0%26realpos%3D1%26cate%3D5001%26dgr%3D0%26display_time%3D1761812510%26pre_seqid%3D17618125106090113170795",
+          "source": "微博",
+          "ranks": [
+            1,
+            2,
+            5,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 22时20分]"
         },
         {
           "title": "习近平同美国总统特朗普在韩国釜山举行会晤",
@@ -209,17 +239,15 @@
           "time_info": "[11时13分 ~ 21时33分]"
         },
         {
-          "title": "特朗普批准韩国在美建造核动力潜艇",
-          "url": "https://news.ifeng.com/c/8nsFayRT4WM",
-          "source": "凤凰网",
+          "title": "美方将取消所谓芬太尼关税",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%96%B9%E5%B0%86%E5%8F%96%E6%B6%88%E6%89%80%E8%B0%93%E8%8A%AC%E5%A4%AA%E5%B0%BC%E5%85%B3%E7%A8%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            6,
-            4,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时28分 ~ 21时33分]"
+          "appearance_count": 7,
+          "time_info": "[16时28分 ~ 22时20分]"
         },
         {
           "title": "习近平同特朗普握手合影",
@@ -232,21 +260,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时23分 ~ 17时22分]"
-        },
-        {
-          "title": "美方加征24%关税继续暂停一年",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E6%96%B9%E5%8A%A0%E5%BE%8124%25%E5%85%B3%E7%A8%8E%E7%BB%A7%E7%BB%AD%E6%9A%82%E5%81%9C%E4%B8%80%E5%B9%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26q%3D%2523%25E7%25BE%258E%25E6%2596%25B9%25E5%258A%25A0%25E5%25BE%258124%2525%25E5%2585%25B3%25E7%25A8%258E%25E7%25BB%25A7%25E7%25BB%25AD%25E6%259A%2582%25E5%2581%259C%25E4%25B8%2580%25E5%25B9%25B4%2523%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26band_rank%3D1%26c_type%3D31%26pos%3D0%26realpos%3D1%26cate%3D5001%26dgr%3D0%26display_time%3D1761812510%26pre_seqid%3D17618125106090113170795",
-          "source": "微博",
-          "ranks": [
-            1,
-            2,
-            5,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时28分 ~ 21时33分]"
         },
         {
           "title": "习近平同特朗普握手合影",
@@ -320,6 +333,19 @@
           "time_info": "[04时30分 ~ 18时21分]"
         },
         {
+          "title": "特朗普：给中美元首会晤打12分",
+          "url": "https://www.toutiao.com/trending/7566587793552719878/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 22时20分]"
+        },
+        {
           "title": "高市早苗当面拒绝美国要求",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%9D%A2%E6%8B%92%E7%BB%9D%E7%BE%8E%E5%9B%BD%E8%A6%81%E6%B1%82%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D4%26flag%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D3%26cate%3D5001%26q%3D%2523%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E5%25BD%2593%25E9%259D%25A2%25E6%258B%2592%25E7%25BB%259D%25E7%25BE%258E%25E5%259B%25BD%25E8%25A6%2581%25E6%25B1%2582%2523%26stream_entry_id%3D31%26realpos%3D4%26lcate%3D5001%26dgr%3D0%26display_time%3D1761801608%26pre_seqid%3D1761801608046026757965",
           "source": "微博",
@@ -331,17 +357,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时20分 ~ 17时22分]"
-        },
-        {
-          "title": "美方将取消所谓芬太尼关税",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E6%96%B9%E5%B0%86%E5%8F%96%E6%B6%88%E6%89%80%E8%B0%93%E8%8A%AC%E5%A4%AA%E5%B0%BC%E5%85%B3%E7%A8%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时28分 ~ 21时33分]"
         },
         {
           "title": "习近平将同特朗普举行会晤",
@@ -374,8 +389,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时31分 ~ 21时33分]"
+          "appearance_count": 11,
+          "time_info": "[14时31分 ~ 22时20分]"
         },
         {
           "title": "熟悉的剧情!美国又有病毒猴越狱",
@@ -397,6 +412,22 @@
           "time_info": "[04时30分 ~ 18时21分]"
         },
         {
+          "title": "“马克龙夫人被造谣为男性”案开审，女性为何总成假新闻攻击对象",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31851942",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            12,
+            11,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时31分 ~ 22时20分]"
+        },
+        {
           "title": "高市早苗挽特朗普胳膊还蹦蹦跳跳，日本网民：我觉得羞耻",
           "url": "https://m.thepaper.cn/newsDetail_forward_31851224",
           "source": "澎湃新闻",
@@ -412,21 +443,6 @@
           "time_info": "[04时30分 ~ 16时28分]"
         },
         {
-          "title": "“马克龙夫人被造谣为男性”案开审，女性为何总成假新闻攻击对象",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31851942",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时31分 ~ 21时33分]"
-        },
-        {
           "title": "特朗普：未能协调好与金正恩会晤时间",
           "url": "https://news.ifeng.com/c/8nqg7u7QlJH",
           "source": "凤凰网",
@@ -438,6 +454,17 @@
           "time_info": "[04时30分 ~ 09时29分]"
         },
         {
+          "title": "中场休息,对等关税继续暂停一年",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346474&amp;topic_name=%E4%B8%AD%E5%9C%BA%E4%BC%91%E6%81%AF%2C%E5%AF%B9%E7%AD%89%E5%85%B3%E7%A8%8E%E7%BB%A7%E7%BB%AD%E6%9A%82%E5%81%9C%E4%B8%80%E5%B9%B4",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 22时20分]"
+        },
+        {
           "title": "中国坚定推动亚太自由开放贸易",
           "url": "https://www.douyin.com/hot/2288219",
           "source": "抖音",
@@ -447,19 +474,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时23分 ~ 16时28分]"
-        },
-        {
-          "title": "特朗普：给中美元首会晤打12分",
-          "url": "https://www.toutiao.com/trending/7566587793552719878/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 21时33分]"
         },
         {
           "title": "特朗普声称：我威胁收250%关税阻止了印巴冲突",
@@ -557,17 +571,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时30分 ~ 07时20分]"
-        },
-        {
-          "title": "中场休息,对等关税继续暂停一年",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346474&amp;topic_name=%E4%B8%AD%E5%9C%BA%E4%BC%91%E6%81%AF%2C%E5%AF%B9%E7%AD%89%E5%85%B3%E7%A8%8E%E7%BB%A7%E7%BB%AD%E6%9A%82%E5%81%9C%E4%B8%80%E5%B9%B4",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 21时33分]"
         },
         {
           "title": "中国是韩国第一大贸易伙伴国",
@@ -673,6 +676,29 @@
           "time_info": "[14时31分 ~ 16时28分]"
         },
         {
+          "title": "习近平与特朗普会晤 完整视频",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4%20%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时20分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普在釜山举行会晤",
+          "url": "https://wallstreetcn.com/articles/3758273",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时21分 ~ 22时20分]"
+        },
+        {
           "title": "报告：特朗普在自导自演贸易战中败北",
           "url": "https://www.toutiao.com/trending/7566831598922894890/",
           "source": "今日头条",
@@ -715,6 +741,17 @@
           "time_info": "[09时29分 ~ 12时23分]"
         },
         {
+          "title": "美国共和党议员急了：买阿根廷牛肉会害了美国养牛人",
+          "url": "https://news.ifeng.com/c/8nsUrddaPot",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时20分]"
+        },
+        {
           "title": "韩国招待特朗普的午餐菜单曝光：主菜有米饭、泡菜、美国牛小排",
           "url": "https://v.ifeng.com/c/8nr1D3Z9hK3",
           "source": "凤凰网",
@@ -739,6 +776,17 @@
           "time_info": "[09时29分 ~ 15时19分]"
         },
         {
+          "title": "金正恩为何不见特朗普？",
+          "url": "https://v.ifeng.com/c/8nsXkNaHAu2",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时20分]"
+        },
+        {
           "title": "高市早苗演砸了",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%BC%94%E7%A0%B8%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26band_rank%3D26%26cate%3D5001%26pos%3D27%26stream_entry_id%3D31%26flag%3D1%26q%3D%2523%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%25E6%25BC%2594%25E7%25A0%25B8%25E4%25BA%2586%2523%26lcate%3D5001%26dgr%3D0%26realpos%3D26%26display_time%3D1761792759%26pre_seqid%3D17617927592080363020174",
           "source": "微博",
@@ -754,27 +802,15 @@
           "time_info": "[11时13分 ~ 15时19分]"
         },
         {
-          "title": "习近平与特朗普会晤 完整视频",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4%20%E5%AE%8C%E6%95%B4%E8%A7%86%E9%A2%91",
-          "source": "bilibili 热搜",
+          "title": "“罕见！美国仅部署一艘”",
+          "url": "https://news.ifeng.com/c/8nse5zvpxdV",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时33分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普在釜山举行会晤",
-          "url": "https://wallstreetcn.com/articles/3758273",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时21分 ~ 21时33分]"
+          "time_info": "[21时33分 ~ 22时20分]"
         },
         {
           "title": "中国企业拿下66亿元国外大单",
@@ -803,6 +839,17 @@
           "time_info": "[17时21分 ~ 21时33分]"
         },
         {
+          "title": "特朗普称将下令美航母改回蒸汽弹射",
+          "url": "https://news.ifeng.com/c/8nsP1iIULjB",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 22时20分]"
+        },
+        {
           "title": "首尔官员回应咖啡店不接待中国游客",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A6%96%E5%B0%94%E5%AE%98%E5%91%98%E5%9B%9E%E5%BA%94%E5%92%96%E5%95%A1%E5%BA%97%E4%B8%8D%E6%8E%A5%E5%BE%85%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D8%26flag%3D1%26realpos%3D8%26lcate%3D5001%26pos%3D9%26stream_entry_id%3D31%26q%3D%2523%25E9%25A6%2596%25E5%25B0%2594%25E5%25AE%2598%25E5%2591%2598%25E5%259B%259E%25E5%25BA%2594%25E5%2592%2596%25E5%2595%25A1%25E5%25BA%2597%25E4%25B8%258D%25E6%258E%25A5%25E5%25BE%2585%25E4%25B8%25AD%25E5%259B%25BD%25E6%25B8%25B8%25E5%25AE%25A2%2523%26dgr%3D0%26c_type%3D31%26filter_type%3Drealtimehot%26display_time%3D1761768612%26pre_seqid%3D176176861213703619380115",
           "source": "微博",
@@ -824,17 +871,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时13分 ~ 12时23分]"
-        },
-        {
-          "title": "美国共和党议员急了：买阿根廷牛肉会害了美国养牛人",
-          "url": "https://news.ifeng.com/c/8nsUrddaPot",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时33分]"
         },
         {
           "title": "特朗普：美中会达成更多共识",
@@ -875,17 +911,6 @@
           "time_info": "[09时29分 ~ 12时23分]"
         },
         {
-          "title": "特朗普透露计划明年4月访华",
-          "url": "https://www.toutiao.com/trending/7566945252511059482/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时33分]"
-        },
-        {
           "title": "美国民主党人报告：特朗普自我挖坑，给了中国底牌",
           "url": "https://news.ifeng.com/c/8nrmtlqWVtM",
           "source": "凤凰网",
@@ -895,17 +920,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时29分 ~ 11时13分]"
-        },
-        {
-          "title": "金正恩为何不见特朗普？",
-          "url": "https://v.ifeng.com/c/8nsXkNaHAu2",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时33分]"
         },
         {
           "title": "外交部回应特朗普重启核试验",
@@ -964,17 +978,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
-        },
-        {
-          "title": "“罕见！美国仅部署一艘”",
-          "url": "https://news.ifeng.com/c/8nse5zvpxdV",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
         },
         {
           "title": "中国央行逆回购操作当日实现净投放1301亿元",
@@ -1041,6 +1044,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "马斯克万亿美元特斯拉薪酬方案遭美国加州公务员退休基金反对",
+          "url": "https://wallstreetcn.com/livenews/2997000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "特朗普批准韩华海洋造船建造核潜艇，外交部：望韩美切实履行核不扩散义务",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855444",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 22时20分]"
         },
         {
           "title": "美将取消10%“芬太尼关税”",
@@ -1156,15 +1185,15 @@
           "time_info": "15时19分"
         },
         {
-          "title": "特朗普称将下令美航母改回蒸汽弹射",
-          "url": "https://news.ifeng.com/c/8nsP1iIULjB",
-          "source": "凤凰网",
+          "title": "飞阅韩国庆州",
+          "url": "https://www.toutiao.com/trending/7566577494909042738/",
+          "source": "今日头条",
           "ranks": [
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 21时33分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "市场消息：美国总统特朗普抵达釜山。",
@@ -1300,6 +1329,31 @@
           "time_info": "14时31分"
         },
         {
+          "title": "视频丨习近平同美国总统特朗普在釜山举行会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31855712",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时20分]"
+        },
+        {
+          "title": "特朗普：相信我们将建立长期良好的关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31854436",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 22时20分]"
+        },
+        {
           "title": "现代汽车：第三季度美国关税使公司损失1.8万亿韩元。",
           "url": "https://flash.jin10.com/detail/20251030130553868800",
           "source": "金十数据",
@@ -1355,6 +1409,17 @@
           "time_info": "15时19分"
         },
         {
+          "title": "特朗普给中美会晤打12分",
+          "url": "https://www.douyin.com/hot/2288755",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "韩国机场鸣放21响礼炮",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%9F%A9%E5%9B%BD%E6%9C%BA%E5%9C%BA%E9%B8%A3%E6%94%BE21%E5%93%8D%E7%A4%BC%E7%82%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D4%26flag%3D0%26c_type%3D31%26q%3D%2523%25E9%259F%25A9%25E5%259B%25BD%25E6%259C%25BA%25E5%259C%25BA%25E9%25B8%25A3%25E6%2594%25BE21%25E5%2593%258D%25E7%25A4%25BC%25E7%2582%25AE%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D4%26realpos%3D4%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1761798018%26pre_seqid%3D1761798018022028255885",
           "source": "微博",
@@ -1381,6 +1446,18 @@
           "time_info": "[04时30分 ~ 07时20分]"
         },
         {
+          "title": "特朗普透露计划明年4月访华",
+          "url": "https://www.toutiao.com/trending/7566945252511059482/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时20分]"
+        },
+        {
           "title": "中国元首外交为何落子亚太",
           "url": "https://www.toutiao.com/trending/7566609518960902153/",
           "source": "今日头条",
@@ -1405,20 +1482,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时20分 ~ 16时28分]"
-        },
-        {
-          "title": "特朗普批准韩华海洋造船建造核潜艇，外交部：望韩美切实履行核不扩散义务",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855444",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 21时33分]"
         },
         {
           "title": "牛弹琴：韩国人讨好特朗普用心良苦",
@@ -1540,18 +1603,6 @@
           "time_info": "[20时42分 ~ 21时33分]"
         },
         {
-          "title": "视频丨习近平同美国总统特朗普在釜山举行会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855712",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时33分]"
-        },
-        {
           "title": "90后武飞系中国执飞年龄最小航天员",
           "url": "https://www.toutiao.com/trending/7566831912782859814/",
           "source": "今日头条",
@@ -1565,18 +1616,6 @@
           "time_info": "[11时13分 ~ 13时21分]"
         },
         {
-          "title": "特朗普：相信我们将建立长期良好的关系",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31854436",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 21时33分]"
-        },
-        {
           "title": "特朗普为何重提G2联盟",
           "url": "https://www.toutiao.com/trending/7566929668440329771/",
           "source": "今日头条",
@@ -1588,6 +1627,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[19时18分 ~ 21时33分]"
+        },
+        {
+          "title": "大V：中国又一款隐身机曝光",
+          "url": "https://www.toutiao.com/trending/7566950193698967046/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时20分]"
         },
         {
           "title": "超过宗馥莉，1410亿身价！中国新晋女首富诞生",
@@ -1612,6 +1663,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时30分 ~ 05时25分]"
+        },
+        {
+          "title": "“中国卫星看中国大好河山很正常”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%8D%AB%E6%98%9F%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%A5%BD%E6%B2%B3%E5%B1%B1%E5%BE%88%E6%AD%A3%E5%B8%B8%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            10,
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时21分 ~ 22时20分]"
         },
         {
           "title": "德机构：中国已在所有领域冲击美优势",
@@ -1691,6 +1756,17 @@
           "time_info": "[15时19分 ~ 17时22分]"
         },
         {
+          "title": "美国警方：仍有3只实验猴在逃",
+          "url": "https://www.douyin.com/hot/2288066",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时19分 ~ 22时20分]"
+        },
+        {
           "title": "中方回应是否复购美国大豆",
           "url": "https://www.douyin.com/hot/2287284",
           "source": "抖音",
@@ -1742,19 +1818,6 @@
           "time_info": "[12时23分 ~ 13时21分]"
         },
         {
-          "title": "“中国卫星看中国大好河山很正常”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%8D%AB%E6%98%9F%E7%9C%8B%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%A5%BD%E6%B2%B3%E5%B1%B1%E5%BE%88%E6%AD%A3%E5%B8%B8%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时21分 ~ 21时33分]"
-        },
-        {
           "title": "习近平同美国总统特朗普在釜山举行会晤",
           "url": "https://m.thepaper.cn/newsDetail_forward_31855405",
           "source": "澎湃新闻",
@@ -1802,6 +1865,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时21分 ~ 19时19分]"
+        },
+        {
+          "title": "李在明警告:动韩国人者家破人亡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346464&amp;topic_name=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%AD%A6%E5%91%8A%3A%E5%8A%A8%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%80%85%E5%AE%B6%E7%A0%B4%E4%BA%BA%E4%BA%A1",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时20分]"
         },
         {
           "title": "关税",
@@ -1862,17 +1938,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时31分 ~ 16时28分]"
-        },
-        {
-          "title": "美国警方：仍有3只实验猴在逃",
-          "url": "https://www.douyin.com/hot/2288066",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 21时33分]"
         },
         {
           "title": "特朗普称麦克阿瑟独自起草日本宪法",
@@ -2005,6 +2070,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 14时31分]"
+        },
+        {
+          "title": "日本熊灾 英政府发布旅行警告",
+          "url": "https://www.douyin.com/hot/2288080",
+          "source": "抖音",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时20分]"
+        },
+        {
+          "title": "国有六大行三季报出炉，中国银行Q3归母净利增长5.09%领跑",
+          "url": "https://www.cls.cn/detail/2186465",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时20分]"
         },
         {
           "title": "美国总统特朗普：韩国已同意向美国支付3500亿美元，以降低美国对其征收的关税。他们已同意大量购买我们的油气，而且韩国富裕企业和商人的对美投资将超过6000亿美元。",
@@ -2162,18 +2251,6 @@
           "time_info": "[20时42分 ~ 21时33分]"
         },
         {
-          "title": "李在明警告:动韩国人者家破人亡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346464&amp;topic_name=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%AD%A6%E5%91%8A%3A%E5%8A%A8%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%80%85%E5%AE%B6%E7%A0%B4%E4%BA%BA%E4%BA%A1",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时33分]"
-        },
-        {
           "title": "中国大载重长航时纵列式无人直升机突破技术壁垒",
           "url": "https://wallstreetcn.com/livenews/2996422",
           "source": "华尔街见闻-快讯",
@@ -2255,6 +2332,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时30分 ~ 05时25分]"
+        },
+        {
+          "title": "美国对关税松口是扛不住了吗",
+          "url": "https://www.toutiao.com/trending/7566974521744330266/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时33分 ~ 22时20分]"
         },
         {
           "title": "特朗普与卡尼在韩国会面",
@@ -2486,7 +2575,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -2502,6 +2591,17 @@
           "time_info": "14时31分"
         },
         {
+          "title": "欧洲央行行长拉加德：核心通胀指标与2%的目标一致。 薪资追踪指标显示2025年及2026年上半年工资增长放缓。 通胀前景比以往更加不确定。 美国贸易协议与停火协议已缓解经济下行风险。 经济增长面临的一些下行风险已得到缓解。 欧元走强可能会进一步降低通胀。 全球贸易政策环境仍不稳定。 当前节点，不会对（欧元区经济）增长问题抱怨太多。",
+          "url": "https://wallstreetcn.com/livenews/2996992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "特朗普相信中美将建立长期良好关系",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%B8%E4%BF%A1%E4%B8%AD%E7%BE%8E%E5%B0%86%E5%BB%BA%E7%AB%8B%E9%95%BF%E6%9C%9F%E8%89%AF%E5%A5%BD%E5%85%B3%E7%B3%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D9%26flag%3D1%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E7%259B%25B8%25E4%25BF%25A1%25E4%25B8%25AD%25E7%25BE%258E%25E5%25B0%2586%25E5%25BB%25BA%25E7%25AB%258B%25E9%2595%25BF%25E6%259C%259F%25E8%2589%25AF%25E5%25A5%25BD%25E5%2585%25B3%25E7%25B3%25BB%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D8%26realpos%3D8%26filter_type%3Drealtimehot%26lcate%3D5001%26display_time%3D1761798018%26pre_seqid%3D1761798018022028255885",
           "source": "微博",
@@ -2513,15 +2613,15 @@
           "time_info": "12时23分"
         },
         {
-          "title": "日本熊灾 英政府发布旅行警告",
-          "url": "https://www.douyin.com/hot/2288080",
-          "source": "抖音",
+          "title": "中国速度重新定义“距离”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%80%9F%E5%BA%A6%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%E2%80%9C%E8%B7%9D%E7%A6%BB%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时33分"
+          "time_info": "22时20分"
         },
         {
           "title": "美国总统特朗普：由于其他国家的测试计划，我已指示国防部开始以同等规模测试我们的核武器。程序将立即启动。",
@@ -2557,6 +2657,17 @@
           "time_info": "14时31分"
         },
         {
+          "title": "美国财政部称：下议院有望于2025年及2026年分别节省100亿美元。 下议院将通过削减开支实现财政结余。",
+          "url": "https://wallstreetcn.com/livenews/2996991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "美军未来航母采用蒸汽弹射器有多难",
           "url": "https://www.toutiao.com/trending/7566791433634450980/",
           "source": "今日头条",
@@ -2566,17 +2677,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
-        },
-        {
-          "title": "国有六大行三季报出炉，中国银行Q3归母净利增长5.09%领跑",
-          "url": "https://www.cls.cn/detail/2186465",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
         },
         {
           "title": "美国参议院获得足够票数通过决议，推翻特朗普对加拿大加征的关税。",
@@ -2678,6 +2778,17 @@
           "time_info": "19时19分"
         },
         {
+          "title": "据美国纽约联储数据，上个交易日（10月29日，美联储降息日）担保隔夜融资利率（SOFR）报4.27%，之前一天报4.31%。 上个交易日有效的联邦基金利率报4.12%，之前一天报4.12%。",
+          "url": "https://wallstreetcn.com/livenews/2996990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "日本10年期国债期货在央行维持利率不变后跌幅收窄。",
           "url": "https://flash.jin10.com/detail/20251030113057215800",
           "source": "金十数据",
@@ -2720,6 +2831,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：制造业受到更高关税和强势欧元的拖累。 经济应受益于消费者支出。 外部与内部需求分化将持续。 全球环境可能仍将构成拖累。 政府在国防上的开支是为了支撑投资。 随着时间的推移，关税的全面影响才会变得清晰。 必须迅速采用数字欧元监管。",
+          "url": "https://wallstreetcn.com/livenews/2996989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "金十图示：2025年10月30日（周四）中国科技互联网公司市值排名TOP 50一览",
@@ -2783,7 +2905,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -2838,7 +2960,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -2981,7 +3103,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -3085,6 +3207,17 @@
           "time_info": "11时13分"
         },
         {
+          "title": "你如何看待以色列空袭加沙",
+          "url": "https://www.toutiao.com/trending/7566866039964254235/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "日本央行：迄今为止公布的贸易政策可能引发全球化趋势的转变。",
           "url": "https://flash.jin10.com/detail/20251030112453040800",
           "source": "金十数据",
@@ -3168,7 +3301,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -3226,17 +3359,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
-        },
-        {
-          "title": "美国对关税松口是扛不住了吗",
-          "url": "https://www.toutiao.com/trending/7566974521744330266/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
         },
         {
           "title": "澳大利亚和韩国稀土股票下跌。",
@@ -3316,15 +3438,15 @@
           "time_info": "20时42分"
         },
         {
-          "title": "大V：中国又一款隐身机曝光",
-          "url": "https://www.toutiao.com/trending/7566950193698967046/",
-          "source": "今日头条",
+          "title": "小老鼠要上中国空间站了",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E8%80%81%E9%BC%A0%E8%A6%81%E4%B8%8A%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E4%BA%86",
+          "source": "bilibili 热搜",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时33分"
+          "time_info": "22时20分"
         },
         {
           "title": "澳新银行：美国制裁俄罗斯石油公司的举措显著增加了石油供应的风险。",
@@ -3817,7 +3939,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
         },
@@ -4218,6 +4340,17 @@
           "time_info": "12时23分"
         },
         {
+          "title": "黎巴嫩总统令军队应对以军入侵行为",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%8E%E5%B7%B4%E5%AB%A9%E6%80%BB%E7%BB%9F%E4%BB%A4%E5%86%9B%E9%98%9F%E5%BA%94%E5%AF%B9%E4%BB%A5%E5%86%9B%E5%85%A5%E4%BE%B5%E8%A1%8C%E4%B8%BA",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "日本10年期国债收益率最新上涨0.5个基点，报1.655%。",
           "url": "https://flash.jin10.com/detail/20251030122901298800",
           "source": "金十数据",
@@ -4238,6 +4371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：关税的全部影响只有随着时间推移才会显现。",
+          "url": "https://flash.jin10.com/detail/20251030215410435800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "“2025年中国人工智能行业创新力企业百强”发布 10家深企入围百强榜单",
