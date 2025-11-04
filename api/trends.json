@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T21:35:21.788007+08:00",
-  "total_titles_processed": 1931,
+  "generated_at": "2025-11-04T22:21:24.475443+08:00",
+  "total_titles_processed": 2000,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 361,
+      "match_count": 382,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -131,8 +131,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时20分 ~ 21时35分]"
+          "appearance_count": 13,
+          "time_info": "[13时20分 ~ 22时21分]"
         },
         {
           "title": "卫星图揭美军舰载机南海坠毁真相",
@@ -217,6 +217,17 @@
           "time_info": "[00时25分 ~ 21时35分]"
         },
         {
+          "title": "中国外交部严厉正告后，日本外相最新涉台表态",
+          "url": "https://news.ifeng.com/c/8o0b2FeKggq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时24分 ~ 22时21分]"
+        },
+        {
           "title": "“二十年来中国一直在加强自力更生，美国打压中国更难了”",
           "url": "https://news.ifeng.com/c/8o0JP1ykDI4",
           "source": "凤凰网",
@@ -257,17 +268,6 @@
           "time_info": "[00时25分 ~ 14时32分]"
         },
         {
-          "title": "中国外交部严厉正告后，日本外相最新涉台表态",
-          "url": "https://news.ifeng.com/c/8o0b2FeKggq",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 21时35分]"
-        },
-        {
           "title": "中国外交部又抡了“三板斧”，对外释放强烈信号",
           "url": "https://news.ifeng.com/c/8nzPWImCfS5",
           "source": "凤凰网",
@@ -306,6 +306,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时24分 ~ 17时24分]"
+        },
+        {
+          "title": "美政府又签了一份稀土协议，试图“削弱中国对供应链的控制”",
+          "url": "https://news.ifeng.com/c/8o0a3ATKRGE",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时25分 ~ 22时21分]"
         },
         {
           "title": "中方决定：恢复旅行社经营中国公民赴加拿大团队游业务",
@@ -388,11 +400,24 @@
             16,
             18,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时25分 ~ 21时35分]"
+          "appearance_count": 21,
+          "time_info": "[00时25分 ~ 22时21分]"
+        },
+        {
+          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
+          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时25分 ~ 22时21分]"
         },
         {
           "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
@@ -410,20 +435,6 @@
           "time_info": "[04时25分 ~ 19时19分]"
         },
         {
-          "title": "美国10月ISM制造业PMI连续八个月萎缩，需求和就业疲软，通胀降温",
-          "url": "https://wallstreetcn.com/articles/3758584",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时27分 ~ 21时35分]"
-        },
-        {
           "title": "李在明完成首脑外交超级周，规避“最坏结果”但“面子工程”隐患多",
           "url": "https://m.thepaper.cn/newsDetail_forward_31882632",
           "source": "澎湃新闻",
@@ -432,7 +443,22 @@
             16,
             8,
             9,
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时27分 ~ 22时21分]"
+        },
+        {
+          "title": "美国10月ISM制造业PMI连续八个月萎缩，需求和就业疲软，通胀降温",
+          "url": "https://wallstreetcn.com/articles/3758584",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 15,
@@ -624,6 +650,17 @@
           "time_info": "[15时20分 ~ 20时43分]"
         },
         {
+          "title": "星巴克中国卖掉了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%98%9F%E5%B7%B4%E5%85%8B%E4%B8%AD%E5%9B%BD%E5%8D%96%E6%8E%89%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D2%26filter_type%3Drealtimehot%26c_type%3D31%26dgr%3D0%26cate%3D5001%26q%3D%2523%25E6%2598%259F%25E5%25B7%25B4%25E5%2585%258B%25E4%25B8%25AD%25E5%259B%25BD%25E5%258D%2596%25E6%258E%2589%25E4%25BA%2586%2523%26stream_entry_id%3D31%26flag%3D1%26pos%3D1%26realpos%3D2%26display_time%3D1762255026%26pre_seqid%3D176225502655203431128101&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 22时21分]"
+        },
+        {
           "title": "中国海军舰艇围观美菲澳新四国演习",
           "url": "https://www.toutiao.com/trending/7568495036477509161/",
           "source": "今日头条",
@@ -651,30 +688,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时24分 ~ 16时29分]"
-        },
-        {
-          "title": "美政府又签了一份稀土协议，试图“削弱中国对供应链的控制”",
-          "url": "https://news.ifeng.com/c/8o0a3ATKRGE",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 21时35分]"
-        },
-        {
-          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
-          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 21时35分]"
         },
         {
           "title": "委内瑞拉面对美军进逼亮出俄制武器",
@@ -708,15 +721,19 @@
           "time_info": "[00时25分 ~ 07时20分]"
         },
         {
-          "title": "星巴克中国卖掉了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%98%9F%E5%B7%B4%E5%85%8B%E4%B8%AD%E5%9B%BD%E5%8D%96%E6%8E%89%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D2%26filter_type%3Drealtimehot%26c_type%3D31%26dgr%3D0%26cate%3D5001%26q%3D%2523%25E6%2598%259F%25E5%25B7%25B4%25E5%2585%258B%25E4%25B8%25AD%25E5%259B%25BD%25E5%258D%2596%25E6%258E%2589%25E4%25BA%2586%2523%26stream_entry_id%3D31%26flag%3D1%26pos%3D1%26realpos%3D2%26display_time%3D1762255026%26pre_seqid%3D176225502655203431128101&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "缅北白家对中国公民犯下滔天罪行",
+          "url": "https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E7%99%BD%E5%AE%B6%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E7%8A%AF%E4%B8%8B%E6%BB%94%E5%A4%A9%E7%BD%AA%E8%A1%8C",
+          "source": "百度热搜",
           "ranks": [
-            2
+            27,
+            26,
+            30,
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时19分 ~ 21时35分]"
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 22时21分]"
         },
         {
           "title": "何小鹏称10年后中国汽车有5强",
@@ -732,6 +749,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时24分 ~ 17时24分]"
+        },
+        {
+          "title": "美国前副总统切尼去世，被认为曾鼓动小布什发动伊拉克战争",
+          "url": "https://news.ifeng.com/c/8o0qloQZRDp",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 22时21分]"
         },
         {
           "title": "中国空间站可以吃烧烤了",
@@ -774,31 +803,28 @@
           "time_info": "[00时25分 ~ 05时19分]"
         },
         {
-          "title": "缅北白家对中国公民犯下滔天罪行",
-          "url": "https://www.baidu.com/s?wd=%E7%BC%85%E5%8C%97%E7%99%BD%E5%AE%B6%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E7%8A%AF%E4%B8%8B%E6%BB%94%E5%A4%A9%E7%BD%AA%E8%A1%8C",
-          "source": "百度热搜",
+          "title": "高盛、大摩警告全球股市或回调至少10% 中国股票再获看好",
+          "url": "https://www.cls.cn/detail/2190629",
+          "source": "财联社热门",
           "ranks": [
-            27,
-            26,
-            30,
-            24,
-            29
+            8,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时28分 ~ 21时35分]"
+          "appearance_count": 6,
+          "time_info": "[18时25分 ~ 22时21分]"
         },
         {
-          "title": "美国前副总统切尼去世，被认为曾鼓动小布什发动伊拉克战争",
-          "url": "https://news.ifeng.com/c/8o0qloQZRDp",
+          "title": "炸裂！“尹锡悦曾命令我抓政敌，要亲手枪毙他们”",
+          "url": "https://news.ifeng.com/c/8o0Xzm9cC1x",
           "source": "凤凰网",
           "ranks": [
-            4,
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 21时35分]"
+          "appearance_count": 7,
+          "time_info": "[17时24分 ~ 22时21分]"
         },
         {
           "title": "声称尼日利亚纵容暴力，特朗普威胁动武",
@@ -823,30 +849,6 @@
           "time_info": "[15时20分 ~ 19时19分]"
         },
         {
-          "title": "高盛、大摩警告全球股市或回调至少10% 中国股票再获看好",
-          "url": "https://www.cls.cn/detail/2190629",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 21时35分]"
-        },
-        {
-          "title": "炸裂！“尹锡悦曾命令我抓政敌，要亲手枪毙他们”",
-          "url": "https://news.ifeng.com/c/8o0Xzm9cC1x",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时24分 ~ 21时35分]"
-        },
-        {
           "title": "星巴克中国易主",
           "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E5%B7%B4%E5%85%8B%E4%B8%AD%E5%9B%BD%E6%98%93%E4%B8%BB",
           "source": "bilibili 热搜",
@@ -858,6 +860,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时13分 ~ 17时24分]"
+        },
+        {
+          "title": "佩洛西：特朗普是地表最坏的家伙",
+          "url": "https://www.toutiao.com/trending/7567917613335494699/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时21分]"
         },
         {
           "title": "估值 130 亿美元，博裕资本拿下星巴克中国至多 60% 股权，其能给星巴克带来什么？",
@@ -874,6 +888,17 @@
           "time_info": "[14时32分 ~ 17时24分]"
         },
         {
+          "title": "日本熊害已致12人丧生，陆上自卫队出动",
+          "url": "https://news.ifeng.com/c/8o0jLDC88Db",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时25分 ~ 22时21分]"
+        },
+        {
           "title": "美国政府“停摆”进入第35天 追平史上最长纪录",
           "url": "https://flash.jin10.com/detail/20251104130852123800",
           "source": "金十数据",
@@ -883,6 +908,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "美国生物技术公司Metsera：修订后的辉瑞(PFE.N)提案要求合作企业发布声明，指出“诺和诺德(NVO.N)提案存在过高风险且不可行”。",
+          "url": "https://flash.jin10.com/detail/20251104221814043800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美国总统特朗普的政府官员们表示，将对“补充营养援助计划”（SNAP）提供局部资金。 特朗普的司法部称，11月份将可以获得50%的食品救济资金。 此前，特朗普政府因为联邦政府关门期间的SNAP资金问题而败诉。",
@@ -958,6 +994,17 @@
           "time_info": "17时24分"
         },
         {
+          "title": "美国生物技术公司Metsera：与辉瑞(PFE.N)的合并协议仍然有效。根据辉瑞并购协议，Metsera与辉瑞可在两个工作日内就潜在调整事项进行协商。",
+          "url": "https://flash.jin10.com/detail/20251104221408371800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "台风“海鸥”登陆菲律宾南莱特省",
           "url": "https://flash.jin10.com/detail/20251104020214679800",
           "source": "金十数据",
@@ -997,9 +1044,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        },
+        {
+          "title": "美国生物技术公司Metsera：诺和诺德(NVO.N)的报价优于辉瑞(PFE.N)修订后的提案，后者对其估值最高为每股70美元，总价值约为81亿美元。",
+          "url": "https://flash.jin10.com/detail/20251104221347146800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美国大约24个州起诉总统特朗普的政府，指控其对公职人员限制（前总统拜登出台的）学生贷款的免除政策。",
@@ -1024,17 +1082,6 @@
           "time_info": "09时27分"
         },
         {
-          "title": "特朗普：立即废除参议院冗长议事规则。 废除该规则后共和党将推动所有议程顺利通过。",
-          "url": "https://wallstreetcn.com/livenews/2999237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
           "title": "优质主播中国行奋进荆楚上善十堰",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BC%98%E8%B4%A8%E4%B8%BB%E6%92%AD%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%A5%8B%E8%BF%9B%E8%8D%86%E6%A5%9A%E4%B8%8A%E5%96%84%E5%8D%81%E5%A0%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D2%26flag%3D1%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26band_rank%3D3%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26dgr%3D0%26realpos%3D3%26q%3D%2523%25E4%25BC%2598%25E8%25B4%25A8%25E4%25B8%25BB%25E6%2592%25AD%25E4%25B8%25AD%25E5%259B%25BD%25E8%25A1%258C%25E5%25A5%258B%25E8%25BF%259B%25E8%258D%2586%25E6%25A5%259A%25E4%25B8%258A%25E5%2596%2584%25E5%258D%2581%25E5%25A0%25B0%2523%26display_time%3D1762230208%26pre_seqid%3D17622302086480253635138&launchid=10000360-page_H5",
           "source": "微博",
@@ -1052,7 +1099,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -1112,6 +1159,17 @@
           "time_info": "17时24分"
         },
         {
+          "title": "美国生物技术公司Metsera：诺和诺德(NVO.N)提案对Metsera的估值为每股86.20美元，总价值100亿美元。",
+          "url": "https://flash.jin10.com/detail/20251104221306637800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "韩国财相Koo Yun Cheol：韩国将设法稳定日常生活成本。",
           "url": "https://wallstreetcn.com/livenews/2998799",
           "source": "华尔街见闻-快讯",
@@ -1146,17 +1204,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[18时25分 ~ 21时35分]"
-        },
-        {
-          "title": "佩洛西：特朗普是地表最坏的家伙",
-          "url": "https://www.toutiao.com/trending/7567917613335494699/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
         },
         {
           "title": "伊拉克总理：由美国领导的联军将于2026年9月前撤离伊拉克。我寻求连任伊拉克总理。解除伊拉克武装组织的武装与联军撤军有关。",
@@ -1209,9 +1256,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        },
+        {
+          "title": "美国生物制药公司Metsera与辉瑞(PFE.N)可能就潜在调整进行为期两天的谈判。",
+          "url": "https://flash.jin10.com/detail/20251104221130291800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.2%。 热门中概股里，阿特斯太阳能初步收涨9.7%，亚朵涨5.7%，腾讯音乐涨3.8%，小米涨3.4%，华住、晶科能源、再鼎医药、文远知行至少涨约2.3%，蔚来涨2%，拼多多则跌0.2%，腾讯跌0.9%，阿里巴巴跌1.7%，理想跌1.9%，小马智行跌2.3%。",
@@ -1236,6 +1294,17 @@
           "time_info": "09时27分"
         },
         {
+          "title": "以色列国防部长任命以军新任军事检察长",
+          "url": "https://wallstreetcn.com/livenews/2999258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "虐囚丑闻引发左右两派冲突，以色列遭遇“最严重公关危机”",
           "url": "https://news.ifeng.com/c/8nzrNVXNPwN",
           "source": "凤凰网",
@@ -1257,17 +1326,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时20分 ~ 17时24分]"
-        },
-        {
-          "title": "日本熊害已致12人丧生，陆上自卫队出动",
-          "url": "https://news.ifeng.com/c/8o0jLDC88Db",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时25分 ~ 21时35分]"
         },
         {
           "title": "特朗普称对中国与其打压不如合作",
@@ -1355,6 +1413,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时18分 ~ 05时19分]"
+        },
+        {
+          "title": "何立峰会见美国高盛集团董事长兼首席执行官苏德巍",
+          "url": "https://wallstreetcn.com/livenews/2999219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时21分]"
         },
         {
           "title": "乌克兰总统泽连斯基：明天《2025年欧盟扩大方案》年度报告将发布。我们讨论了乌克兰在加入欧盟进程中的进展，有充分理由期待对我们有利的积极结果。",
@@ -1467,18 +1538,6 @@
           "time_info": "[13时20分 ~ 14时32分]"
         },
         {
-          "title": "何立峰会见美国高盛集团董事长兼首席执行官苏德巍",
-          "url": "https://wallstreetcn.com/livenews/2999219",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时35分]"
-        },
-        {
           "title": "航空公司团体表示，自美国政府停摆开始以来，由于空中交通管制人员配置问题导致的延误和取消，已有超过320万名美国航空公司乘客受到影响。",
           "url": "https://flash.jin10.com/detail/20251104035017438800",
           "source": "金十数据",
@@ -1578,6 +1637,18 @@
           "time_info": "[18时25分 ~ 19时19分]"
         },
         {
+          "title": "特朗普：立即废除参议院冗长议事规则。 废除该规则后共和党将推动所有议程顺利通过。",
+          "url": "https://wallstreetcn.com/livenews/2999237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时21分]"
+        },
+        {
           "title": "据悉特朗普指示向更多议员通报委内瑞拉禁毒策略",
           "url": "https://flash.jin10.com/detail/20251104060710770800",
           "source": "金十数据",
@@ -1648,6 +1719,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时25分 ~ 19时19分]"
+        },
+        {
+          "title": "美国前副总统切尼去世",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%89%8D%E5%89%AF%E6%80%BB%E7%BB%9F%E5%88%87%E5%B0%BC%E5%8E%BB%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 22时21分]"
+        },
+        {
+          "title": "停摆了一个月后，美国政府终现“重开迹象”",
+          "url": "https://wallstreetcn.com/articles/3758617",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 22时21分]"
         },
         {
           "title": "美联储理事库克：如果关税造成的（通胀）影响持续存在，准备“采取强有力的行动”。 关税对价格的传导过程尚未结束。 就业市场面临的风险超过通胀风险。 一旦关税的影响消失，通胀就会重返朝着2%目标回落的正轨。 预计明年的通胀仍然会偏高。",
@@ -1725,6 +1820,32 @@
           "time_info": "[04时25分 ~ 06时19分]"
         },
         {
+          "title": "印度一女警怀胎七月参加举重比赛",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%A5%B3%E8%AD%A6%E6%80%80%E8%83%8E%E4%B8%83%E6%9C%88%E5%8F%82%E5%8A%A0%E4%B8%BE%E9%87%8D%E6%AF%94%E8%B5%9B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D17%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26pos%3D16%26cate%3D5001%26q%3D%2523%25E5%258D%25B0%25E5%25BA%25A6%25E4%25B8%2580%25E5%25A5%25B3%25E8%25AD%25A6%25E6%2580%2580%25E8%2583%258E%25E4%25B8%2583%25E6%259C%2588%25E5%258F%2582%25E5%258A%25A0%25E4%25B8%25BE%25E9%2587%258D%25E6%25AF%2594%25E8%25B5%259B%2523%26stream_entry_id%3D31%26realpos%3D17%26dgr%3D0%26display_time%3D1762260024%26pre_seqid%3D176226002495407624258&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            17,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 22时21分]"
+        },
+        {
+          "title": "法国废弃公园虎鲸母子或面临安乐死",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B3%95%E5%9B%BD%E5%BA%9F%E5%BC%83%E5%85%AC%E5%9B%AD%E8%99%8E%E9%B2%B8%E6%AF%8D%E5%AD%90%E6%88%96%E9%9D%A2%E4%B8%B4%E5%AE%89%E4%B9%90%E6%AD%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D20%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26pos%3D19%26cate%3D5001%26q%3D%2523%25E6%25B3%2595%25E5%259B%25BD%25E5%25BA%259F%25E5%25BC%2583%25E5%2585%25AC%25E5%259B%25AD%25E8%2599%258E%25E9%25B2%25B8%25E6%25AF%258D%25E5%25AD%2590%25E6%2588%2596%25E9%259D%25A2%25E4%25B8%25B4%25E5%25AE%2589%25E4%25B9%2590%25E6%25AD%25BB%2523%26stream_entry_id%3D31%26realpos%3D20%26dgr%3D0%26display_time%3D1762260024%26pre_seqid%3D176226002495407624258&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            20,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 22时21分]"
+        },
+        {
           "title": "强调合作 特朗普为何对华态度转变",
           "url": "https://www.toutiao.com/trending/7568702514976001542/",
           "source": "今日头条",
@@ -1735,6 +1856,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时20分 ~ 16时29分]"
+        },
+        {
+          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 22时21分]"
         },
         {
           "title": "美军南海坠机真是因燃油质量不好吗",
@@ -1749,27 +1883,17 @@
           "time_info": "[00时25分 ~ 04时25分]"
         },
         {
-          "title": "美国前副总统切尼去世",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%89%8D%E5%89%AF%E6%80%BB%E7%BB%9F%E5%88%87%E5%B0%BC%E5%8E%BB%E4%B8%96",
+          "title": "印度一女警怀胎七月参加举重比赛",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%A5%B3%E8%AD%A6%E6%80%80%E8%83%8E%E4%B8%83%E6%9C%88%E5%8F%82%E5%8A%A0%E4%B8%BE%E9%87%8D%E6%AF%94%E8%B5%9B",
           "source": "百度热搜",
           "ranks": [
-            7,
-            24
+            29,
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 21时35分]"
-        },
-        {
-          "title": "停摆了一个月后，美国政府终现“重开迹象”",
-          "url": "https://wallstreetcn.com/articles/3758617",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 21时35分]"
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 22时21分]"
         },
         {
           "title": "中国军舰南海围观多国军舰演习说明啥",
@@ -1785,30 +1909,6 @@
           "time_info": "[17时24分 ~ 19时19分]"
         },
         {
-          "title": "印度一女警怀胎七月参加举重比赛",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%A5%B3%E8%AD%A6%E6%80%80%E8%83%8E%E4%B8%83%E6%9C%88%E5%8F%82%E5%8A%A0%E4%B8%BE%E9%87%8D%E6%AF%94%E8%B5%9B%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D17%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26pos%3D16%26cate%3D5001%26q%3D%2523%25E5%258D%25B0%25E5%25BA%25A6%25E4%25B8%2580%25E5%25A5%25B3%25E8%25AD%25A6%25E6%2580%2580%25E8%2583%258E%25E4%25B8%2583%25E6%259C%2588%25E5%258F%2582%25E5%258A%25A0%25E4%25B8%25BE%25E9%2587%258D%25E6%25AF%2594%25E8%25B5%259B%2523%26stream_entry_id%3D31%26realpos%3D17%26dgr%3D0%26display_time%3D1762260024%26pre_seqid%3D176226002495407624258&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 21时35分]"
-        },
-        {
-          "title": "法国废弃公园虎鲸母子或面临安乐死",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B3%95%E5%9B%BD%E5%BA%9F%E5%BC%83%E5%85%AC%E5%9B%AD%E8%99%8E%E9%B2%B8%E6%AF%8D%E5%AD%90%E6%88%96%E9%9D%A2%E4%B8%B4%E5%AE%89%E4%B9%90%E6%AD%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D20%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26lcate%3D5001%26pos%3D19%26cate%3D5001%26q%3D%2523%25E6%25B3%2595%25E5%259B%25BD%25E5%25BA%259F%25E5%25BC%2583%25E5%2585%25AC%25E5%259B%25AD%25E8%2599%258E%25E9%25B2%25B8%25E6%25AF%258D%25E5%25AD%2590%25E6%2588%2596%25E9%259D%25A2%25E4%25B8%25B4%25E5%25AE%2589%25E4%25B9%2590%25E6%25AD%25BB%2523%26stream_entry_id%3D31%26realpos%3D20%26dgr%3D0%26display_time%3D1762260024%26pre_seqid%3D176226002495407624258&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 21时35分]"
-        },
-        {
           "title": "福特 CEO 法利称「中国汽车威胁是 80 年代日本的『加强版』，产能能让美国车企全倒闭」，有这么严重吗？",
           "url": "https://www.zhihu.com/question/1967568181846602402",
           "source": "知乎",
@@ -1819,18 +1919,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时25分 ~ 07时20分]"
-        },
-        {
-          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 21时35分]"
         },
         {
           "title": "美国多方“围剿”特朗普只为废除关税",
@@ -1855,18 +1943,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时20分 ~ 05时19分]"
-        },
-        {
-          "title": "印度一女警怀胎七月参加举重比赛",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%A5%B3%E8%AD%A6%E6%80%80%E8%83%8E%E4%B8%83%E6%9C%88%E5%8F%82%E5%8A%A0%E4%B8%BE%E9%87%8D%E6%AF%94%E8%B5%9B",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 21时35分]"
         },
         {
           "title": "集结大量兵力，威胁地面进攻，美国真要对委内瑞拉动武？",
@@ -1952,6 +2028,30 @@
           "time_info": "[18时25分 ~ 19时19分]"
         },
         {
+          "title": "美国财长贝森特：英伟达Blackwell芯片是皇冠上的明珠。",
+          "url": "https://wallstreetcn.com/livenews/2999234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时21分]"
+        },
+        {
+          "title": "特朗普再向中国示好背后原因是什么",
+          "url": "https://www.toutiao.com/trending/7568843465572748827/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时21分]"
+        },
+        {
           "title": "日本首相高市早苗表示，扩大自由贸易是经济外交的核心支柱。",
           "url": "https://wallstreetcn.com/livenews/2998996",
           "source": "华尔街见闻-快讯",
@@ -1962,6 +2062,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 14时32分]"
+        },
+        {
+          "title": "中方一句“好吃”让韩国点心店爆火",
+          "url": "https://www.toutiao.com/trending/7568820885436776502/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时21分]"
         },
         {
           "title": "美国政府向稀土磁铁生产商提供融资",
@@ -2264,6 +2376,17 @@
           "time_info": "[20时43分 ~ 21时35分]"
         },
         {
+          "title": "美国前副总统切尼去世",
+          "url": "https://www.douyin.com/hot/2294686",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时21分]"
+        },
+        {
           "title": "中国航天员在空间站吃上烤鸡翅了",
           "url": "https://www.toutiao.com/trending/7567748047162130442/",
           "source": "今日头条",
@@ -2396,6 +2519,18 @@
           "time_info": "[18时25分 ~ 19时19分]"
         },
         {
+          "title": "美国一特斯拉打不开车门 5人被烧死",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%89%B9%E6%96%AF%E6%8B%89%E6%89%93%E4%B8%8D%E5%BC%80%E8%BD%A6%E9%97%A8+5%E4%BA%BA%E8%A2%AB%E7%83%A7%E6%AD%BB",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时21分]"
+        },
+        {
           "title": "中国为何要大量储备原油",
           "url": "https://www.toutiao.com/trending/7568786010927009307/",
           "source": "今日头条",
@@ -2520,6 +2655,17 @@
           "time_info": "20时43分"
         },
         {
+          "title": "以色列国防部长任命以军新任军事检察长",
+          "url": "https://flash.jin10.com/detail/20251104220700367800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "美国财长贝森特：预计明年将实现稳健、高速度增长，且不会引发通胀；认为通胀、利率会下降。",
           "url": "https://wallstreetcn.com/livenews/2998861",
           "source": "华尔街见闻-快讯",
@@ -2529,17 +2675,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
-        },
-        {
-          "title": "美国财长贝森特：英伟达Blackwell芯片是皇冠上的明珠。",
-          "url": "https://wallstreetcn.com/livenews/2999234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
         },
         {
           "title": "何小鹏称10年后中国汽车有5强",
@@ -2614,9 +2749,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        },
+        {
+          "title": "根据俄罗斯总统普京签署的总统令，俄罗斯经济发展部长奥列什金将率领俄罗斯代表团出席二十国集团峰会。",
+          "url": "https://flash.jin10.com/detail/20251104220648430800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "韩国总统李在明：已通过与美国的贸易谈判为本国汽车和半导体行业争取到公平竞争环境。 消费者信心改善，韩国经济已开始好转。 随着地缘政治风险和企业治理结构风险的缓解，韩国综合股价指数突破了4000点大关。",
@@ -2650,6 +2796,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（11月3日）担保隔夜融资利率（SOFR）报4.13%，之前一天报4.22%。 上个交易日有效的联邦基金利率报3.87%，之前一天报3.86%。",
+          "url": "https://wallstreetcn.com/livenews/2999255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美政府停摆对美国航空业影响几何",
@@ -2707,17 +2864,6 @@
           "time_info": "17时24分"
         },
         {
-          "title": "中方一句“好吃”让韩国点心店爆火",
-          "url": "https://www.toutiao.com/trending/7568820885436776502/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
           "title": "三菱公司首席执行官：将继续与日本政府及商业伙伴就我们在俄罗斯萨哈林-2液化天然气项目中的股权问题进行磋商。",
           "url": "https://flash.jin10.com/detail/20251104130409225800",
           "source": "金十数据",
@@ -2746,9 +2892,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        },
+        {
+          "title": "美国交通部：特朗普政府已延长宾夕法尼亚州交通局完成轨道车辆安全检查的最后期限，此前曾发生火灾。",
+          "url": "https://flash.jin10.com/detail/20251104220338521800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "星巴克与博裕资本（Boyu）达成协议，将组建合资公司。 星巴克将对中国业务保留40%的权益，对方将收购至多60%的权益。 星巴克预计中国零售业务价值将超过130亿美元。",
@@ -2760,6 +2917,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "美媒：中国从未拥有过这般程度的海运铁矿石定价权，将开始掌控局面",
+          "url": "https://wallstreetcn.com/articles/3758600",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "乌克兰总统泽连斯基：欧盟将为乌克兰提供额外的天然气进口资金。",
@@ -2834,9 +3002,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        },
+        {
+          "title": "美国钢铁(X.N)：公司与新日铁共同确定了200多项举措，以提升所有业务部门的运营效率。",
+          "url": "https://flash.jin10.com/detail/20251104220231491800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美国成为首个单月出口1000万吨液化天然气的国家",
@@ -2900,9 +3079,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        },
+        {
+          "title": "美国钢铁(X.N)：目标实现140亿美元的增长资本，其中110亿美元将于2028年前投入。",
+          "url": "https://flash.jin10.com/detail/20251104220214320800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰计划在年底前启动“火烈鸟”和“鲁塔”导弹的批量生产。",
@@ -2936,6 +3126,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "法拉利(RACE.N)发言人：继美国就欧洲汽车进口关税达成新协议后，法拉利已将其部分在美国销售车型的价格涨幅从最高10%下调至最高5%。",
+          "url": "https://flash.jin10.com/detail/20251104220045150800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "日经225指数收跌1.7%，报51497.20点。 日本东证指数收跌0.7%，报3310.14点。 韩国首尔综指收盘跌2.4%，报4121.74点。",
@@ -3054,7 +3255,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -3090,17 +3291,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
-        },
-        {
-          "title": "美国前副总统切尼去世",
-          "url": "https://www.douyin.com/hot/2294686",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
         },
         {
           "title": "乌克兰总统泽连斯基：美国代表团将于下周访问乌克兰，就无人机交易进行谈判。",
@@ -3246,6 +3436,17 @@
           "time_info": "19时19分"
         },
         {
+          "title": "美国至10月31日当周红皮书商业零售销售年率 5.7%，前值5.2%。",
+          "url": "https://flash.jin10.com/detail/20251104215502106800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "美国国债价格跌幅扩大，10年期美债收益率则涨约4个基点至4.1202%——突破上周顶部，逼近10月10日盘中最高位4.1384%。 日线图上，10年期美债收益率5月22日达到4.6247%以来，持续震荡下行。",
           "url": "https://wallstreetcn.com/livenews/2998667",
           "source": "华尔街见闻-快讯",
@@ -3365,6 +3566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时29分"
+        },
+        {
+          "title": "据日经新闻：美国钢铁(X.N)将在阿肯色州现有工厂建设新的生产能力，预计总投资将达到数十亿美元。",
+          "url": "https://flash.jin10.com/detail/20251104215328312800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美国10年期国债收益率短线从4.11%一线跳水至4.09%下方，日内整体涨幅收窄至不足2个基点。",
@@ -3576,6 +3788,17 @@
           "time_info": "20时43分"
         },
         {
+          "title": "据日经新闻：日本制铁将为美国数据中心大规模生产高端钢材。",
+          "url": "https://flash.jin10.com/detail/20251104215200547800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "美国10月ISM制造业指数 48.7，预期 49.5，前值 49.1。",
           "url": "https://wallstreetcn.com/livenews/2998645",
           "source": "华尔街见闻-快讯",
@@ -3618,6 +3841,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "以财政部长：两年战事致以色列经济损失770亿美元",
+          "url": "https://flash.jin10.com/detail/20251104215032798800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "美国10月ISM制造业新订单指数 49.4，前值 48.9。",
@@ -3706,17 +3940,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时13分"
-        },
-        {
-          "title": "特朗普再向中国示好背后原因是什么",
-          "url": "https://www.toutiao.com/trending/7568843465572748827/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
         },
         {
           "title": "日本首相高市早苗：希望日本央行针对通胀目标采取适当的政策。",
@@ -3895,6 +4118,17 @@
           "time_info": "18时25分"
         },
         {
+          "title": "乌克兰总统泽连斯基：战争结束后乌克兰加入欧盟将是合理的。",
+          "url": "https://flash.jin10.com/detail/20251104214615902800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "报道：博裕资本拟以40亿美元收购星巴克中国至多60%股权",
           "url": "https://wallstreetcn.com/livenews/2998775",
           "source": "华尔街见闻-快讯",
@@ -4016,17 +4250,6 @@
           "time_info": "09时27分"
         },
         {
-          "title": "美国一特斯拉打不开车门 5人被烧死",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%89%B9%E6%96%AF%E6%8B%89%E6%89%93%E4%B8%8D%E5%BC%80%E8%BD%A6%E9%97%A8+5%E4%BA%BA%E8%A2%AB%E7%83%A7%E6%AD%BB",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
           "title": "据日经新闻：三星集团和日本电力公司Erex将成立储能合资公司。",
           "url": "https://flash.jin10.com/detail/20251104004447744800",
           "source": "金十数据",
@@ -4077,7 +4300,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -4148,6 +4371,17 @@
           "time_info": "09时27分"
         },
         {
+          "title": "血战红军城：乌军突围10次全失败",
+          "url": "https://www.toutiao.com/trending/7568818945726090758/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "日本首相高市早苗：预计日本央行将实施适当的货币政策，以可持续、稳定地实现其价格目标，并与政府密切合作。",
           "url": "https://flash.jin10.com/detail/20251104124520889800",
           "source": "金十数据",
@@ -4165,7 +4399,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -4187,7 +4421,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -4242,9 +4476,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰需要全面加入欧盟，并应被视作平等伙伴。",
+          "url": "https://flash.jin10.com/detail/20251104214015729800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "中国航天员烧烤外国网友看呆了",
