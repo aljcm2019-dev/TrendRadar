@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T15:20:27.733439+08:00",
-  "total_titles_processed": 1387,
+  "generated_at": "2025-11-21T16:28:44.302179+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 345,
+      "match_count": 379,
       "titles": [
         {
           "title": "日本反对日本 高市被嘘下台",
@@ -108,11 +108,12 @@
             7,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 15时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 16时28分]"
         },
         {
           "title": "就在今晚！首个重大数据来了，\"姗姗来迟\"的美国9月非农会让降息\"重回视野\"吗？",
@@ -128,6 +129,18 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时27分 ~ 15时20分]"
+        },
+        {
+          "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 16时28分]"
         },
         {
           "title": "50多万名中国游客取消原定日本行程",
@@ -161,15 +174,30 @@
           "time_info": "[00时27分 ~ 07时19分]"
         },
         {
-          "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
+          "title": "日本多个行业为高市早苗买单",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%9A%E4%B8%AA%E8%A1%8C%E4%B8%9A%E4%B8%BA%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B9%B0%E5%8D%95%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            1
+            4,
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 16时28分]"
+        },
+        {
+          "title": "中国科学院 2025 年院士增选结果公示，你对这些院士有哪些了解？有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1975130863109939634",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时26分 ~ 15时20分]"
+          "time_info": "[11时11分 ~ 16时28分]"
         },
         {
           "title": "日本还抗议了，世界哭笑不得",
@@ -178,19 +206,6 @@
           "ranks": [
             4,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时26分 ~ 15时20分]"
-        },
-        {
-          "title": "日本多个行业为高市早苗买单",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%9A%E4%B8%AA%E8%A1%8C%E4%B8%9A%E4%B8%BA%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B9%B0%E5%8D%95%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            1,
-            5
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -292,11 +307,27 @@
             11,
             13,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 15时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 16时28分]"
+        },
+        {
+          "title": "视频丨超54万张飞往日本机票被取消，日本旅游遭遇“退订寒潮”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32006870",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 16时28分]"
         },
         {
           "title": "日本反对日本",
@@ -313,20 +344,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 07时19分]"
-        },
-        {
-          "title": "视频丨超54万张飞往日本机票被取消，日本旅游遭遇“退订寒潮”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32006870",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 15时20分]"
         },
         {
           "title": "郑丽文：台海无事 日本才能无事",
@@ -352,11 +369,12 @@
             22,
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时27分 ~ 15时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时27分 ~ 16时28分]"
         },
         {
           "title": "日本马上要没有大熊猫了",
@@ -372,18 +390,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时16分 ~ 07时19分]"
-        },
-        {
-          "title": "中国科学院 2025 年院士增选结果公示，你对这些院士有哪些了解？有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1975130863109939634",
-          "source": "知乎",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 15时20分]"
         },
         {
           "title": "普京公布最新体检结果",
@@ -427,6 +433,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时26分 ~ 15时20分]"
+        },
+        {
+          "title": "订单大量取消 日本旅游业日子很难过",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A2%E5%8D%95%E5%A4%A7%E9%87%8F%E5%8F%96%E6%B6%88+%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E4%B8%9A%E6%97%A5%E5%AD%90%E5%BE%88%E9%9A%BE%E8%BF%87",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 16时28分]"
         },
         {
           "title": "美国对中日关系持谨慎态度",
@@ -479,6 +498,48 @@
           "time_info": "[00时27分 ~ 04时23分]"
         },
         {
+          "title": "俄罗斯再度痛批高市早苗涉台错误言论",
+          "url": "https://www.cls.cn/detail/2206839",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时26分 ~ 16时28分]"
+        },
+        {
+          "title": "俄痛批高市早苗涉台错误言论",
+          "url": "https://www.douyin.com/hot/2313042",
+          "source": "抖音",
+          "ranks": [
+            7,
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 16时28分]"
+        },
+        {
+          "title": "便宜30%的印度水产你敢吃吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BE%BF%E5%AE%9C30%25%E7%9A%84%E5%8D%B0%E5%BA%A6%E6%B0%B4%E4%BA%A7%E4%BD%A0%E6%95%A2%E5%90%83%E5%90%97%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            1,
+            4,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 16时28分]"
+        },
+        {
           "title": "日本一天爆发两场抗议集会",
           "url": "https://www.douyin.com/hot/2312163",
           "source": "抖音",
@@ -517,18 +578,6 @@
           "time_info": "[09时26分 ~ 11时11分]"
         },
         {
-          "title": "俄痛批高市早苗涉台错误言论",
-          "url": "https://www.douyin.com/hot/2313042",
-          "source": "抖音",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 15时20分]"
-        },
-        {
           "title": "美国批准向日本出售8200万美元军火",
           "url": "https://www.toutiao.com/trending/7574769491285065771/",
           "source": "今日头条",
@@ -539,18 +588,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时11分 ~ 12时23分]"
-        },
-        {
-          "title": "订单大量取消 日本旅游业日子很难过",
-          "url": "https://www.baidu.com/s?wd=%E8%AE%A2%E5%8D%95%E5%A4%A7%E9%87%8F%E5%8F%96%E6%B6%88+%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E4%B8%9A%E6%97%A5%E5%AD%90%E5%BE%88%E9%9A%BE%E8%BF%87",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 15时20分]"
         },
         {
           "title": "专家：高市言行是危险信号，暴露日本军国主义死灰复燃",
@@ -577,30 +614,30 @@
           "time_info": "[11时11分 ~ 12时23分]"
         },
         {
-          "title": "便宜30%的印度水产你敢吃吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BE%BF%E5%AE%9C30%25%E7%9A%84%E5%8D%B0%E5%BA%A6%E6%B0%B4%E4%BA%A7%E4%BD%A0%E6%95%A2%E5%90%83%E5%90%97%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            1,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 15时20分]"
-        },
-        {
           "title": "日本连片170栋建筑被烧成废墟",
           "url": "https://www.toutiao.com/trending/7574409499260993599/",
           "source": "今日头条",
           "ranks": [
             18,
-            4
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时23分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[12时23分 ~ 16时28分]"
+        },
+        {
+          "title": "日本多个行业为高市早苗买单，50 多万名中国游客取消原定日本行程，此次事件对日本经济影响到底有多大？",
+          "url": "https://www.zhihu.com/question/1975169592130286012",
+          "source": "知乎",
+          "ranks": [
+            12,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 16时28分]"
         },
         {
           "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
@@ -615,6 +652,39 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时26分 ~ 15时20分]"
+        },
+        {
+          "title": "外交部驳斥高市早苗风波后首次回应",
+          "url": "https://www.toutiao.com/trending/7575075744301370890/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "外交部回应高市早苗最新涉华言论",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%9C%80%E6%96%B0%E6%B6%89%E5%8D%8E%E8%A8%80%E8%AE%BA",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "高市早苗发表错误言论后首次回应，中方驳斥",
+          "url": "https://news.ifeng.com/c/8oSmLYriKvc",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "美国国家运输安全委员会（NTSB）：10月16日，美国联合航空公司（UNited Airlines）的飞机在36000英尺高空被物体击中，飞行员被玻璃碎片溅到。",
@@ -661,18 +731,18 @@
           "time_info": "09时26分"
         },
         {
-          "title": "俄罗斯再度痛批高市早苗涉台错误言论",
-          "url": "https://www.cls.cn/detail/2206839",
-          "source": "财联社热门",
+          "title": "日本学者：高市言论冲击日本经济",
+          "url": "https://www.douyin.com/hot/2312966",
+          "source": "抖音",
           "ranks": [
-            10,
             9,
             13,
-            12
+            16,
+            18
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时26分 ~ 15时20分]"
+          "time_info": "[11时11分 ~ 16时28分]"
         },
         {
           "title": "奉劝高市早苗不要自取其辱",
@@ -730,6 +800,17 @@
           "time_info": "[04时22分 ~ 07时19分]"
         },
         {
+          "title": "中国重启“战狼外交”？外交部回应",
+          "url": "https://news.ifeng.com/c/8oSmcjVPHMd",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "10年期日本国债收益率下降2个基点，至1.795%。",
           "url": "https://flash.jin10.com/detail/20251121090632822800",
           "source": "金十数据",
@@ -752,6 +833,17 @@
           "time_info": "14时31分"
         },
         {
+          "title": "德国外长称美国支持的乌克兰和平计划并非最终方案。",
+          "url": "https://flash.jin10.com/detail/20251121162422094800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "扎哈罗娃：北约把波罗的海变成“内水”的图谋注定失败",
           "url": "https://flash.jin10.com/detail/20251121001307537800",
           "source": "金十数据",
@@ -772,6 +864,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "美国驻日大使帮腔：代表总统，支持高市早苗“搞事”",
+          "url": "https://news.ifeng.com/c/8oSGxsjBh8X",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 16时28分]"
         },
         {
           "title": "日本首次出口爱国者导弹释放何信号",
@@ -835,7 +939,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -861,6 +965,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时26分 ~ 14时31分]"
+        },
+        {
+          "title": "高市早苗称台湾问题立场没有改变，外交部：日方应立即收回错误言论",
+          "url": "https://www.cls.cn/detail/2207284",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "初步报告显示：美国国家运输安全委员会（NTSB）在坠毁的联合包裹（UPS）MD-11货机中发现了疲劳裂纹的证据。",
@@ -941,19 +1056,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时26分 ~ 14时31分]"
-        },
-        {
-          "title": "日本学者：高市言论冲击日本经济",
-          "url": "https://www.douyin.com/hot/2312966",
-          "source": "抖音",
-          "ranks": [
-            9,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 15时20分]"
         },
         {
           "title": "日本政府被判赔39亿日元",
@@ -1070,18 +1172,6 @@
           "time_info": "[06时19分 ~ 07时19分]"
         },
         {
-          "title": "美国驻日大使帮腔：代表总统，支持高市早苗“搞事”",
-          "url": "https://news.ifeng.com/c/8oSGxsjBh8X",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时20分]"
-        },
-        {
           "title": "富时中国A50指数期货跌幅扩大至1%。",
           "url": "https://flash.jin10.com/detail/20251121050646068800",
           "source": "金十数据",
@@ -1128,6 +1218,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时31分 ~ 15时20分]"
+        },
+        {
+          "title": "中国军网海外发布一切就绪",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E7%BD%91%E6%B5%B7%E5%A4%96%E5%8F%91%E5%B8%83%E4%B8%80%E5%88%87%E5%B0%B1%E7%BB%AA%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时28分]"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee（2025年FOMC票委）：如果政府可以告诉央行（美联储）如何处理利率，通胀就会上升，经济增长就会放缓。 如果美联储失去独立性，我和市场都会感到痛苦。 我对此并不担心。",
@@ -1251,18 +1353,6 @@
           "time_info": "[13时20分 ~ 14时31分]"
         },
         {
-          "title": "日本多个行业为高市早苗买单，50 多万名中国游客取消原定日本行程，此次事件对日本经济影响到底有多大？",
-          "url": "https://www.zhihu.com/question/1975169592130286012",
-          "source": "知乎",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时20分]"
-        },
-        {
           "title": "日本被曝加速推进军事扩张",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E5%8A%A0%E9%80%9F%E6%8E%A8%E8%BF%9B%E5%86%9B%E4%BA%8B%E6%89%A9%E5%BC%A0",
           "source": "百度热搜",
@@ -1334,6 +1424,83 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 14时31分]"
+        },
+        {
+          "title": "领馆介入百名中国人在德食物中毒事件",
+          "url": "https://www.baidu.com/s?wd=%E9%A2%86%E9%A6%86%E4%BB%8B%E5%85%A5%E7%99%BE%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%BE%B7%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%E4%BA%8B%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 16时28分]"
+        },
+        {
+          "title": "日本拟推超20万亿日元经济刺激计划",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8B%9F%E6%8E%A8%E8%B6%8520%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83%E7%BB%8F%E6%B5%8E%E5%88%BA%E6%BF%80%E8%AE%A1%E5%88%92",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            14,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 16时28分]"
+        },
+        {
+          "title": "高市言论给日本经济界带来巨大冲击",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E8%A8%80%E8%AE%BA%E7%BB%99%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E7%95%8C%E5%B8%A6%E6%9D%A5%E5%B7%A8%E5%A4%A7%E5%86%B2%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            15,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 16时28分]"
+        },
+        {
+          "title": "普京身着戎装视察：必须实现军事目标",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%BA%AB%E7%9D%80%E6%88%8E%E8%A3%85%E8%A7%86%E5%AF%9F%EF%BC%9A%E5%BF%85%E9%A1%BB%E5%AE%9E%E7%8E%B0%E5%86%9B%E4%BA%8B%E7%9B%AE%E6%A0%87",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 16时28分]"
+        },
+        {
+          "title": "插裤兜很正常 日本别痴心妄想了",
+          "url": "https://www.baidu.com/s?wd=%E6%8F%92%E8%A3%A4%E5%85%9C%E5%BE%88%E6%AD%A3%E5%B8%B8+%E6%97%A5%E6%9C%AC%E5%88%AB%E7%97%B4%E5%BF%83%E5%A6%84%E6%83%B3%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 16时28分]"
+        },
+        {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时20分 ~ 16时28分]"
         },
         {
           "title": "超54万张飞往日本机票被取消",
@@ -1413,18 +1580,6 @@
           "time_info": "[12时23分 ~ 14时31分]"
         },
         {
-          "title": "领馆介入百名中国人在德食物中毒事件",
-          "url": "https://www.baidu.com/s?wd=%E9%A2%86%E9%A6%86%E4%BB%8B%E5%85%A5%E7%99%BE%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%BE%B7%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92%E4%BA%8B%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时20分]"
-        },
-        {
           "title": "泽连斯基已收到美和平计划草案",
           "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%B7%B2%E6%94%B6%E5%88%B0%E7%BE%8E%E5%92%8C%E5%B9%B3%E8%AE%A1%E5%88%92%E8%8D%89%E6%A1%88",
           "source": "百度热搜",
@@ -1436,19 +1591,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时26分 ~ 12时23分]"
-        },
-        {
-          "title": "日本拟推超20万亿日元经济刺激计划",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%8B%9F%E6%8E%A8%E8%B6%8520%E4%B8%87%E4%BA%BF%E6%97%A5%E5%85%83%E7%BB%8F%E6%B5%8E%E5%88%BA%E6%BF%80%E8%AE%A1%E5%88%92",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时20分]"
         },
         {
           "title": "50多万名中国游客取消原定日本行程",
@@ -1464,6 +1606,18 @@
           "time_info": "[12时23分 ~ 14时31分]"
         },
         {
+          "title": "“80后”刘若川当选中国科学院院士",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32012382",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时31分 ~ 16时28分]"
+        },
+        {
           "title": "俄方：始终坚持台湾问题是中国内政",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E6%96%B9%EF%BC%9A%E5%A7%8B%E7%BB%88%E5%9D%9A%E6%8C%81%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%86%85%E6%94%BF",
           "source": "百度热搜",
@@ -1477,53 +1631,17 @@
           "time_info": "[09时26分 ~ 12时23分]"
         },
         {
-          "title": "高市言论给日本经济界带来巨大冲击",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E8%A8%80%E8%AE%BA%E7%BB%99%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E7%95%8C%E5%B8%A6%E6%9D%A5%E5%B7%A8%E5%A4%A7%E5%86%B2%E5%87%BB",
+          "title": "高市欲打造“日本版CIA” 引多方警惕",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%AC%B2%E6%89%93%E9%80%A0%E2%80%9C%E6%97%A5%E6%9C%AC%E7%89%88CIA%E2%80%9D+%E5%BC%95%E5%A4%9A%E6%96%B9%E8%AD%A6%E6%83%95",
           "source": "百度热搜",
           "ranks": [
-            20,
-            15,
-            19
+            25,
+            26,
+            28
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时20分]"
-        },
-        {
-          "title": "插裤兜很正常 日本别痴心妄想了",
-          "url": "https://www.baidu.com/s?wd=%E6%8F%92%E8%A3%A4%E5%85%9C%E5%BE%88%E6%AD%A3%E5%B8%B8+%E6%97%A5%E6%9C%AC%E5%88%AB%E7%97%B4%E5%BF%83%E5%A6%84%E6%83%B3%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时20分]"
-        },
-        {
-          "title": "普京身着戎装视察：必须实现军事目标",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E8%BA%AB%E7%9D%80%E6%88%8E%E8%A3%85%E8%A7%86%E5%AF%9F%EF%BC%9A%E5%BF%85%E9%A1%BB%E5%AE%9E%E7%8E%B0%E5%86%9B%E4%BA%8B%E7%9B%AE%E6%A0%87",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时20分]"
-        },
-        {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时20分]"
+          "time_info": "[14时31分 ~ 16时28分]"
         },
         {
           "title": "高市早苗政府政策未来会有何走向",
@@ -1547,6 +1665,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时11分 ~ 12时23分]"
+        },
+        {
+          "title": "日媒：日本多次就“台湾有事”作兵棋推演",
+          "url": "https://news.ifeng.com/c/8oSVvTsUcJx",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时28分]"
         },
         {
           "title": "日本1879年强行吞并琉球",
@@ -1729,6 +1858,30 @@
           "time_info": "[04时23分 ~ 05时18分]"
         },
         {
+          "title": "中方就港口事宜回击美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%B1%E6%B8%AF%E5%8F%A3%E4%BA%8B%E5%AE%9C%E5%9B%9E%E5%87%BB%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时28分]"
+        },
+        {
+          "title": "日本真“有事”了 高市何以“了事”",
+          "url": "https://www.toutiao.com/trending/7574989394847731254/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时28分]"
+        },
+        {
           "title": "美国商务部：原定11月26日披露美国GDP和个人收入数据的计划改期。",
           "url": "https://wallstreetcn.com/livenews/3008073",
           "source": "华尔街见闻-快讯",
@@ -1813,6 +1966,18 @@
           "time_info": "[11时11分 ~ 12时23分]"
         },
         {
+          "title": "如何评价德国医疗展盒饭致 200 名中国人中毒？为什么德国严格的食安监管会在临时团餐上出现漏洞？",
+          "url": "https://www.zhihu.com/question/1974970156280144171",
+          "source": "知乎",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时28分]"
+        },
+        {
           "title": "特朗普修改对巴西商品关税范围",
           "url": "https://wallstreetcn.com/livenews/3008195",
           "source": "华尔街见闻-快讯",
@@ -1861,17 +2026,6 @@
           "time_info": "[02时30分 ~ 03时16分]"
         },
         {
-          "title": "“80后”刘若川当选中国科学院院士",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32012382",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时20分]"
-        },
-        {
           "title": "特朗普带C罗参观白宫",
           "url": "https://www.douyin.com/hot/2311861",
           "source": "抖音",
@@ -1881,18 +2035,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 07时19分]"
-        },
-        {
-          "title": "高市欲打造“日本版CIA” 引多方警惕",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%AC%B2%E6%89%93%E9%80%A0%E2%80%9C%E6%97%A5%E6%9C%AC%E7%89%88CIA%E2%80%9D+%E5%BC%95%E5%A4%9A%E6%96%B9%E8%AD%A6%E6%83%95",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时20分]"
         },
         {
           "title": "美批准向日本出售精确制导滑翔炸弹",
@@ -1972,6 +2114,17 @@
           "time_info": "13时20分"
         },
         {
+          "title": "欧洲央行行长拉加德：服务和商品市场中的内部壁垒分别相当于约100%和65%的关税。",
+          "url": "https://flash.jin10.com/detail/20251121162100900800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "俄外交部抨击日本持续反俄",
           "url": "https://wallstreetcn.com/livenews/3008296",
           "source": "华尔街见闻-快讯",
@@ -1992,17 +2145,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
-        },
-        {
-          "title": "日媒：日本多次就“台湾有事”作兵棋推演",
-          "url": "https://news.ifeng.com/c/8oSVvTsUcJx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
         },
         {
           "title": "俄罗斯总统普京：乌克兰武装部队15个营在库皮扬斯克地区被阻。",
@@ -2033,7 +2175,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -2093,6 +2235,28 @@
           "time_info": "13时20分"
         },
         {
+          "title": "中国军号海外发布高燃视频：一切就绪",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%E6%B5%B7%E5%A4%96%E5%8F%91%E5%B8%83%E9%AB%98%E7%87%83%E8%A7%86%E9%A2%91%EF%BC%9A%E4%B8%80%E5%88%87%E5%B0%B1%E7%BB%AA",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "以色列再袭加沙致死33人，哈马斯：这是屠杀",
+          "url": "https://news.ifeng.com/c/8oSnGc3mxyv",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "泽连斯基同意与美合作制定和平计划 并将在近期与特朗普会谈",
           "url": "https://flash.jin10.com/detail/20251121005906259800",
           "source": "金十数据",
@@ -2137,13 +2301,35 @@
           "time_info": "13时20分"
         },
         {
+          "title": "在美国就业数据公布后渣打不再认为美联储将在12月降息，此前预估为降息25个基点。",
+          "url": "https://flash.jin10.com/detail/20251121161942521800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "法国11月服务业PMI初值 50.8，预期 48.5，前值 48。",
+          "url": "https://wallstreetcn.com/livenews/3008534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "日本共产党称高市只有撤回发言一条路",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%85%B1%E4%BA%A7%E5%85%9A%E7%A7%B0%E9%AB%98%E5%B8%82%E5%8F%AA%E6%9C%89%E6%92%A4%E5%9B%9E%E5%8F%91%E8%A8%80%E4%B8%80%E6%9D%A1%E8%B7%AF%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -2157,6 +2343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "中国制造武器出现在俄军手中？外交部回应",
+          "url": "https://news.ifeng.com/c/8oSncxeynya",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "富士康：富士康与OpenAI合作，以加强美国在人工智能供应链上的制造业实力。将在美国生产人工智能数据中心的关键设备。",
@@ -2187,7 +2384,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -2203,15 +2400,26 @@
           "time_info": "13时20分"
         },
         {
-          "title": "中方就港口事宜回击美国",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%B1%E6%B8%AF%E5%8F%A3%E4%BA%8B%E5%AE%9C%E5%9B%9E%E5%87%BB%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "法国11月制造业PMI初值 47.8，预期 49，前值 48.8。",
+          "url": "https://wallstreetcn.com/livenews/3008533",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时20分"
+          "time_info": "16时28分"
+        },
+        {
+          "title": "高市早苗回应涉台言论 中方驳斥",
+          "url": "https://www.douyin.com/hot/2313484",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "民主党籍联邦通信委员会（FCC）委员Anna Gomez表示，特朗普总统威胁吊销ABC广播执照的做法在法庭上将不会成功。",
@@ -2280,6 +2488,28 @@
           "time_info": "04时23分"
         },
         {
+          "title": "法国11月综合PMI初值 49.9，预期 48.1，前值 47.7。",
+          "url": "https://wallstreetcn.com/livenews/3008532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
+          "url": "https://www.cls.cn/detail/2207216",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "据英国每日电讯报：根据特朗普的乌克兰和平计划，俄罗斯将摆脱西方国家的制裁，重新加入七国集团（G7），并收回大部分被冻结的资产。",
           "url": "https://flash.jin10.com/detail/20251121063623513800",
           "source": "金十数据",
@@ -2341,7 +2571,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -2355,17 +2585,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "日本真“有事”了 高市何以“了事”",
-          "url": "https://www.toutiao.com/trending/7574989394847731254/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
         },
         {
           "title": "外交部：借台湾生事只会给日本找事",
@@ -2423,6 +2642,17 @@
           "time_info": "13时20分"
         },
         {
+          "title": "法国11月制造业PMI初值为47.8，创9个月新低。法国11月服务业PMI初值为50.8，创15个月新高。法国11月综合PMI初值为49.9，创15个月新高。",
+          "url": "https://flash.jin10.com/detail/20251121161647205800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "AI初创公司FireBird获得美国出口授权。",
           "url": "https://wallstreetcn.com/livenews/3008090",
           "source": "华尔街见闻-快讯",
@@ -2456,6 +2686,17 @@
           "time_info": "14时31分"
         },
         {
+          "title": "中国的气候相对于世界来讲处于一个什么水平？",
+          "url": "https://www.zhihu.com/question/62512877",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "领馆介入上百名中国人在德食物中毒",
           "url": "https://www.baidu.com/s?wd=%E9%A2%86%E9%A6%86%E4%BB%8B%E5%85%A5%E4%B8%8A%E7%99%BE%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9C%A8%E5%BE%B7%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92",
           "source": "百度热搜",
@@ -2465,6 +2706,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "俄发布日本1945年投降画面警告日本",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E5%8F%91%E5%B8%83%E6%97%A5%E6%9C%AC1945%E5%B9%B4%E6%8A%95%E9%99%8D%E7%94%BB%E9%9D%A2%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "美国11月堪萨斯联储制造业产出指数 18，前值15。",
@@ -2544,15 +2796,15 @@
           "time_info": "14时31分"
         },
         {
-          "title": "如何评价德国医疗展盒饭致 200 名中国人中毒？为什么德国严格的食安监管会在临时团餐上出现漏洞？",
-          "url": "https://www.zhihu.com/question/1974970156280144171",
-          "source": "知乎",
+          "title": "特朗普政府宣布油气开发新动作 多州强烈反对",
+          "url": "https://wallstreetcn.com/livenews/3008527",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时20分"
+          "time_info": "16时28分"
         },
         {
           "title": "重兵云集！日本加强西南诸岛军力部署",
@@ -2643,15 +2895,15 @@
           "time_info": "09时26分"
         },
         {
-          "title": "中国军网海外发布一切就绪",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E7%BD%91%E6%B5%B7%E5%A4%96%E5%8F%91%E5%B8%83%E4%B8%80%E5%88%87%E5%B0%B1%E7%BB%AA%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "高市早苗称台湾问题立场没有改变，外交部：日方应立即收回错误言论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32014329",
+          "source": "澎湃新闻",
           "ranks": [
-            15
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时20分"
+          "time_info": "16时28分"
         },
         {
           "title": "乌克兰总统会见美国陆军部长 讨论和平方案",
@@ -2707,6 +2959,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "法国11月服务业PMI初值 50.8，预期48.4，前值48。",
+          "url": "https://flash.jin10.com/detail/20251121161502453800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "美国能源信息署（EIA）：美国上周EIA天然气库存减少140亿立方英尺，周环比下降0.35%（之前一周增长1.15%），至3.95万亿立方英尺。",
@@ -2819,6 +3082,17 @@
           "time_info": "12时23分"
         },
         {
+          "title": "法国11月制造业PMI初值 47.8，预期49，前值48.8。",
+          "url": "https://flash.jin10.com/detail/20251121161502355800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "美国11月14日当周EIA天然气库存变动 -140亿立方英尺，预期 -150亿立方英尺，前值 450亿立方英尺。",
           "url": "https://wallstreetcn.com/livenews/3008064",
           "source": "华尔街见闻-快讯",
@@ -2869,7 +3143,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -2929,6 +3203,17 @@
           "time_info": "11时11分"
         },
         {
+          "title": "法国11月综合PMI初值 49.9，预期48.1，前值47.7。",
+          "url": "https://flash.jin10.com/detail/20251121161502189800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "美国克利夫兰联储主席Hammack：正密切关注私人信用市场。",
           "url": "https://wallstreetcn.com/livenews/3008063",
           "source": "华尔街见闻-快讯",
@@ -2968,9 +3253,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "媒体：高市早苗的投名状不过是块砖",
+          "url": "https://www.toutiao.com/trending/7574989822507355654/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "美国货机坠毁初查报告 发动机支架存在“疲劳裂纹”",
@@ -3116,6 +3412,17 @@
           "time_info": "13时20分"
         },
         {
+          "title": "俄称日本走向军国主义结局已注定",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%A7%B0%E6%97%A5%E6%9C%AC%E8%B5%B0%E5%90%91%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E7%BB%93%E5%B1%80%E5%B7%B2%E6%B3%A8%E5%AE%9A%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "美国股市延续跌势，纳指下跌2.00%。",
           "url": "https://flash.jin10.com/detail/20251121043956382800",
           "source": "金十数据",
@@ -3215,6 +3522,28 @@
           "time_info": "05时18分"
         },
         {
+          "title": "欧股开盘集体下跌，欧洲斯托克50指数跌1.57%，英国富时100指数跌1.04%，法国CAC40指数跌1.29%，德国DAX30指数跌1.48%。",
+          "url": "https://wallstreetcn.com/livenews/3008519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "外交部回应日本出口杀伤性武器",
+          "url": "https://www.douyin.com/hot/2313493",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "扎哈罗娃：日本应当汲取历史教训",
           "url": "https://www.toutiao.com/trending/7573917041548066843/",
           "source": "今日头条",
@@ -3224,6 +3553,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "美媒咋算出来“中国已有8艘航母”",
+          "url": "https://www.toutiao.com/trending/7575042467481783849/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "美国经济分析局：第三季度GDP发布将重新安排时间。",
@@ -3452,9 +3792,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "法国11月制造业PMI初值将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20251121160500001800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：就业数据看起来喜忧参半。 就业报告“略微稳定”，但也符合预期。 就业数据凸显出，FOMC在货币政策问题上面临的挑战。 曾经预计就业市场降温，数据确认了那样的预期。（CNBC）",
@@ -3754,6 +4105,17 @@
           "time_info": "09时26分"
         },
         {
+          "title": "普京闭门密会中方高层传递哪些信号",
+          "url": "https://www.toutiao.com/trending/7574995244425416228/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "美国至11月20日8周国债竞拍-得标利率 3.85%，前值3.84%。",
           "url": "https://flash.jin10.com/detail/20251121003236544800",
           "source": "金十数据",
@@ -3875,6 +4237,28 @@
           "time_info": "00时27分"
         },
         {
+          "title": "法国11月INSEE制造业信心指数 98，预期 100，前值 101。",
+          "url": "https://wallstreetcn.com/livenews/3008511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
+          "title": "人们不禁要问日本意欲何为",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BB%AC%E4%B8%8D%E7%A6%81%E8%A6%81%E9%97%AE%E6%97%A5%E6%9C%AC%E6%84%8F%E6%AC%B2%E4%BD%95%E4%B8%BA%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
+        },
+        {
           "title": "日本一旅行社失去80%订单",
           "url": "https://www.toutiao.com/trending/7574660839934492715/",
           "source": "今日头条",
@@ -3961,6 +4345,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
+        },
+        {
+          "title": "法国11月INSEE商业信心指数 98，预期 97，前值 97。",
+          "url": "https://wallstreetcn.com/livenews/3008510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "美国至11月20日4周国债竞拍-得标利率配置百分比 35.2%，前值24.29%。",
