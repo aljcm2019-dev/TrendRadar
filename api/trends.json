@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T18:24:51.161518+08:00",
-  "total_titles_processed": 1588,
+  "generated_at": "2025-12-04T19:20:39.720313+08:00",
+  "total_titles_processed": 1665,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 437,
+      "match_count": 450,
       "titles": [
         {
           "title": "高市早苗又现眼 日本网民惊呆了",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时18分 ~ 18时24分]"
+          "appearance_count": 13,
+          "time_info": "[07时18分 ~ 19时20分]"
         },
         {
           "title": "王毅外长风衣配红围巾迎接马克龙",
@@ -134,8 +134,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时29分 ~ 18时24分]"
+          "appearance_count": 22,
+          "time_info": "[00时29分 ~ 19时20分]"
         },
         {
           "title": "4K实拍中国第一枚可回收火箭",
@@ -145,11 +145,12 @@
             1,
             2,
             3,
-            5
+            5,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时19分 ~ 18时24分]"
+          "appearance_count": 9,
+          "time_info": "[11时19分 ~ 19时20分]"
         },
         {
           "title": "如何理解高市早苗涉台最新表态？专家：只是后退一小步",
@@ -217,6 +218,19 @@
           "time_info": "[07时18分 ~ 15时22分]"
         },
         {
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时31分 ~ 19时20分]"
+        },
+        {
           "title": "科普中国首枚可回收火箭",
           "url": "https://search.bilibili.com/all?keyword=%E7%A7%91%E6%99%AE%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%9E%9A%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD",
           "source": "bilibili 热搜",
@@ -241,11 +255,28 @@
             7,
             10,
             17,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时19分 ~ 18时24分]"
+          "appearance_count": 11,
+          "time_info": "[11时19分 ~ 19时20分]"
+        },
+        {
+          "title": "美国空军战机坠毁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B%E6%88%98%E6%9C%BA%E5%9D%A0%E6%AF%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            1,
+            4,
+            30,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时19分 ~ 19时20分]"
         },
         {
           "title": "10万亿产业规模！朱雀三号背后中国商业航天的星辰大海",
@@ -259,35 +290,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时21分 ~ 18时24分]"
+          "appearance_count": 14,
+          "time_info": "[06时21分 ~ 19时20分]"
         },
         {
-          "title": "韩国标示“中国台湾” 台当局急了",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%A0%87%E7%A4%BA%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E2%80%9D+%E5%8F%B0%E5%BD%93%E5%B1%80%E6%80%A5%E4%BA%86",
-          "source": "百度热搜",
+          "title": "外交部：中方绝不接受高市早苗的敷衍搪塞",
+          "url": "https://news.ifeng.com/c/8ooIsyYtta0",
+          "source": "凤凰网",
           "ranks": [
-            2,
             1
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时32分 ~ 18时24分]"
-        },
-        {
-          "title": "美国空军战机坠毁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B%E6%88%98%E6%9C%BA%E5%9D%A0%E6%AF%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            1,
-            4,
-            30,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时19分 ~ 18时24分]"
+          "time_info": "[15时21分 ~ 19时20分]"
         },
         {
           "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
@@ -317,17 +332,17 @@
           "time_info": "[11时19分 ~ 16时29分]"
         },
         {
-          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
-          "url": "https://wallstreetcn.com/articles/3760676",
-          "source": "华尔街见闻",
+          "title": "韩国标示“中国台湾” 台当局急了",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%A0%87%E7%A4%BA%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E2%80%9D+%E5%8F%B0%E5%BD%93%E5%B1%80%E6%80%A5%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            7,
-            5
+            2,
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时31分 ~ 18时24分]"
+          "appearance_count": 7,
+          "time_info": "[14时32分 ~ 19时20分]"
         },
         {
           "title": "胡锡进：高市早苗涉台表态有所软化，但更像是挤牙膏式的软化",
@@ -435,17 +450,6 @@
           "time_info": "[00时29分 ~ 09时39分]"
         },
         {
-          "title": "外交部：中方绝不接受高市早苗的敷衍搪塞",
-          "url": "https://news.ifeng.com/c/8ooIsyYtta0",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 18时24分]"
-        },
-        {
           "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
           "url": "https://www.cls.cn/detail/2219030",
           "source": "财联社热门",
@@ -486,11 +490,12 @@
             14,
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时30分 ~ 18时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 19时20分]"
         },
         {
           "title": "日专家：高市早苗或被发国际逮捕令",
@@ -521,6 +526,22 @@
           "time_info": "[00时29分 ~ 07时18分]"
         },
         {
+          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            18,
+            15,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时31分 ~ 19时20分]"
+        },
+        {
           "title": "美国海军都吃什么",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E9%83%BD%E5%90%83%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -538,8 +559,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 18时24分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 19时20分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -569,11 +590,12 @@
             18,
             21,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时30分 ~ 18时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 19时20分]"
         },
         {
           "title": "高市早苗终于不嘴硬了",
@@ -634,11 +656,31 @@
             21,
             24,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时30分 ~ 18时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 19时20分]"
+        },
+        {
+          "title": "UP主挑战反评分在日本吃一天",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8C%91%E6%88%98%E5%8F%8D%E8%AF%84%E5%88%86%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%90%83%E4%B8%80%E5%A4%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            16,
+            17,
+            15,
+            20,
+            19,
+            21,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时39分 ~ 19时20分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -742,26 +784,41 @@
             1,
             5,
             6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时21分 ~ 18时24分]"
-        },
-        {
-          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            18,
-            15,
+            10,
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时31分 ~ 18时24分]"
+          "appearance_count": 7,
+          "time_info": "[13时21分 ~ 19时20分]"
+        },
+        {
+          "title": "王毅在莫斯科就日本问题撂重话",
+          "url": "https://www.toutiao.com/trending/7579475772164341802/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 19时20分]"
+        },
+        {
+          "title": "马克龙访华随行代表团都有谁",
+          "url": "https://www.toutiao.com/trending/7579865259339730458/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            4,
+            5,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时32分 ~ 19时20分]"
         },
         {
           "title": "钧正平：再多万能血浆也救不了日本",
@@ -792,24 +849,6 @@
           "time_info": "[01时23分 ~ 11时19分]"
         },
         {
-          "title": "UP主挑战反评分在日本吃一天",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8C%91%E6%88%98%E5%8F%8D%E8%AF%84%E5%88%86%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%90%83%E4%B8%80%E5%A4%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            16,
-            17,
-            15,
-            20,
-            19,
-            21,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时39分 ~ 18时24分]"
-        },
-        {
           "title": "日本米价狂飙的核心原因",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%B1%B3%E4%BB%B7%E7%8B%82%E9%A3%99%E7%9A%84%E6%A0%B8%E5%BF%83%E5%8E%9F%E5%9B%A0",
           "source": "bilibili 热搜",
@@ -833,18 +872,18 @@
           "time_info": "[14时32分 ~ 16时29分]"
         },
         {
-          "title": "马克龙访华随行代表团都有谁",
-          "url": "https://www.toutiao.com/trending/7579865259339730458/",
+          "title": "马克龙：坚定奉行一个中国政策",
+          "url": "https://www.toutiao.com/trending/7579878683872202290/",
           "source": "今日头条",
           "ranks": [
-            7,
-            4,
+            1,
             5,
-            8
+            8,
+            15
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时32分 ~ 18时24分]"
+          "time_info": "[15时21分 ~ 19时20分]"
         },
         {
           "title": "马克龙抵京后发文",
@@ -860,30 +899,17 @@
           "time_info": "[09时39分 ~ 13时21分]"
         },
         {
-          "title": "马克龙：坚定奉行一个中国政策",
-          "url": "https://www.toutiao.com/trending/7579878683872202290/",
-          "source": "今日头条",
+          "title": "马克龙访华有何来意",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E5%8D%8E%E6%9C%89%E4%BD%95%E6%9D%A5%E6%84%8F",
+          "source": "bilibili 热搜",
           "ranks": [
-            1,
-            5,
+            2,
+            3,
             8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时21分 ~ 18时24分]"
-        },
-        {
-          "title": "王毅在莫斯科就日本问题撂重话",
-          "url": "https://www.toutiao.com/trending/7579475772164341802/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 18时24分]"
+          "time_info": "[15时22分 ~ 19时20分]"
         },
         {
           "title": "越南空姐与中国男友开色情餐厅，获利24亿越南盾后被抓",
@@ -988,6 +1014,18 @@
           "time_info": "[09时39分 ~ 14时32分]"
         },
         {
+          "title": "王毅在莫斯科就日本问题撂重话",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%9C%A8%E8%8E%AB%E6%96%AF%E7%A7%91%E5%B0%B1%E6%97%A5%E6%9C%AC%E9%97%AE%E9%A2%98%E6%92%82%E9%87%8D%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时20分]"
+        },
+        {
           "title": "日本自民党再被告发违规收取捐款",
           "url": "https://news.ifeng.com/c/8oo59Ceeou6",
           "source": "凤凰网",
@@ -999,17 +1037,17 @@
           "time_info": "[12时31分 ~ 13时21分]"
         },
         {
-          "title": "马克龙访华有何来意",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E5%8D%8E%E6%9C%89%E4%BD%95%E6%9D%A5%E6%84%8F",
-          "source": "bilibili 热搜",
+          "title": "中方：绝不接受高市早苗敷衍搪塞",
+          "url": "https://www.toutiao.com/trending/7579061598464655369/",
+          "source": "今日头条",
           "ranks": [
+            18,
             2,
-            3,
-            8
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时22分 ~ 18时24分]"
+          "time_info": "[16时29分 ~ 19时20分]"
         },
         {
           "title": "中国有 15 亿亩盐碱地，可以怎么改造？",
@@ -1026,15 +1064,30 @@
           "time_info": "[00时29分 ~ 07时18分]"
         },
         {
-          "title": "王毅在莫斯科就日本问题撂重话",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%9C%A8%E8%8E%AB%E6%96%AF%E7%A7%91%E5%B0%B1%E6%97%A5%E6%9C%AC%E9%97%AE%E9%A2%98%E6%92%82%E9%87%8D%E8%AF%9D",
-          "source": "百度热搜",
+          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
+          "url": "https://www.cls.cn/detail/2219555",
+          "source": "财联社热门",
           "ranks": [
-            1
+            10,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时24分]"
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 19时20分]"
+        },
+        {
+          "title": "外交部：高市早苗用“立场没有变化”来敷衍搪塞，中方绝不接受",
+          "url": "https://www.cls.cn/detail/2219546",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 19时20分]"
         },
         {
           "title": "特朗普：将很快在拉美开展地面打击",
@@ -1103,6 +1156,17 @@
           "time_info": "[02时32分 ~ 07时18分]"
         },
         {
+          "title": "高市早苗被控涉嫌违规收受企业政治捐款",
+          "url": "https://news.ifeng.com/c/8ooRjXLew3o",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时20分]"
+        },
+        {
           "title": "韩国标示中国台湾台当局急了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%A0%87%E7%A4%BA%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E5%8F%B0%E5%BD%93%E5%B1%80%E6%80%A5%E4%BA%86%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -1129,28 +1193,26 @@
           "time_info": "[09时39分 ~ 13时21分]"
         },
         {
-          "title": "商务部：中国政府依法依规开展稀土相关物项出口管制",
-          "url": "https://news.ifeng.com/c/8ooN9ivjPkS",
+          "title": "冥顽不灵！麻生太郎妄称：高市早苗涉台言论“无害”",
+          "url": "https://news.ifeng.com/c/8ooPQczg6Ft",
           "source": "凤凰网",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时24分]"
+          "time_info": "[18时24分 ~ 19时20分]"
         },
         {
-          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
-          "url": "https://www.cls.cn/detail/2219555",
-          "source": "财联社热门",
+          "title": "土豆为何没成为中国人的主食",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%9F%E8%B1%86%E4%B8%BA%E4%BD%95%E6%B2%A1%E6%88%90%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%B8%BB%E9%A3%9F",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            3,
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "日本40年期国债收益率上涨1个基点，至3.745%。",
@@ -1219,15 +1281,19 @@
           "time_info": "15时22分"
         },
         {
-          "title": "美中贸易全国委员会会长谭森：美变相承认关税推高物价",
-          "url": "https://wallstreetcn.com/livenews/3015117",
-          "source": "华尔街见闻-快讯",
+          "title": "高市早苗称日本对台湾立场“与《中日联合声明》一样”是战略欺骗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32102272",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            18,
+            13,
+            14,
+            12,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 19时20分]"
         },
         {
           "title": "普京下车登机安保团队迅速列队警戒",
@@ -1300,6 +1366,17 @@
           "time_info": "11时19分"
         },
         {
+          "title": "印度卢比屡创新低，央行竟放弃抵抗丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251204184441187800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌1.3%。 热门中概股里，阿特斯太阳能初步收跌8.9%，晶科能源跌5.8%，蔚来跌5.1%，小鹏跌3.8%，理想跌3.5%，新东方跌3.3%，网易有道涨2.4%，文远知行涨5.2%。 ETF中，CQQQ和KWEB跌1.2%。",
           "url": "https://wallstreetcn.com/livenews/3014624",
           "source": "华尔街见闻-快讯",
@@ -1311,17 +1388,6 @@
           "time_info": "05时19分"
         },
         {
-          "title": "报道：亚马逊探索切断与美国邮政的关系",
-          "url": "https://wallstreetcn.com/livenews/3015116",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
           "title": "高市早苗称日本对台湾立场“与《中日联合声明》一样”是战略欺骗",
           "url": "https://news.ifeng.com/c/8ooFfGfcamy",
           "source": "凤凰网",
@@ -1331,17 +1397,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
-        },
-        {
-          "title": "高市早苗被控涉嫌违规收受企业政治捐款",
-          "url": "https://news.ifeng.com/c/8ooRjXLew3o",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "EIA报告：美国至11月28日当周美国战略石油储备（SPR）库存增加30万桶至4.117亿桶，增幅0.1%。",
@@ -1372,7 +1427,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -1388,6 +1443,17 @@
           "time_info": "00时30分"
         },
         {
+          "title": "看中国绿色发展新路径",
+          "url": "https://www.douyin.com/hot/2326466",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "乌官员透露：泽连斯基或以辞职换取和平计划的签署",
           "url": "https://news.ifeng.com/c/8ooFfGfcak0",
           "source": "凤凰网",
@@ -1400,6 +1466,18 @@
           "time_info": "[14时32分 ~ 17时25分]"
         },
         {
+          "title": "商务部：中国政府依法依规开展稀土相关物项出口管制",
+          "url": "https://news.ifeng.com/c/8ooN9ivjPkS",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时20分]"
+        },
+        {
           "title": "跳出来拱火！麻生太郎：高市早苗涉台言论“无害”",
           "url": "https://news.ifeng.com/c/8ooPQczg6Ft",
           "source": "凤凰网",
@@ -1409,17 +1487,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
-        },
-        {
-          "title": "冥顽不灵！麻生太郎妄称：高市早苗涉台言论“无害”",
-          "url": "https://news.ifeng.com/c/8ooPQczg6Ft",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "美国至11月28日当周EIA战略石油储备库存 25万桶，前值49.8万桶。",
@@ -1499,41 +1566,6 @@
           "time_info": "15时22分"
         },
         {
-          "title": "俄罗斯准备向印度的航空公司发放更多飞行许可。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3015113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "中方：绝不接受高市早苗敷衍搪塞",
-          "url": "https://www.toutiao.com/trending/7579061598464655369/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时24分]"
-        },
-        {
-          "title": "外交部：高市早苗用“立场没有变化”来敷衍搪塞，中方绝不接受",
-          "url": "https://www.cls.cn/detail/2219546",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时24分]"
-        },
-        {
           "title": "美国至11月28日当周EIA精炼厂设备利用率 94.1%，预期93%，前值92.3%。",
           "url": "https://flash.jin10.com/detail/20251204001223555800",
           "source": "金十数据",
@@ -1600,17 +1632,6 @@
           "time_info": "09时39分"
         },
         {
-          "title": "日本央行正在执行中性利率水平的评估。（日本时事通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3015112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
           "title": "新晋诺奖得主：我们可能只领先中国几纳秒，这是真正的竞赛",
           "url": "https://news.ifeng.com/c/8onBbMP1ShN",
           "source": "凤凰网",
@@ -1652,18 +1673,17 @@
           "time_info": "[02时32分 ~ 05时19分]"
         },
         {
-          "title": "高市早苗称日本对台湾立场“与《中日联合声明》一样”是战略欺骗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32102272",
+          "title": "外交部回应高市早苗最新言论：只是用立场没有变化来敷衍搪塞，中方对此不能接受",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32102903",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            13,
-            14,
-            12
+            7,
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 18时24分]"
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时20分]"
         },
         {
           "title": "高市早苗最新表态还想耍滑头",
@@ -1678,6 +1698,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时32分 ~ 17时25分]"
+        },
+        {
+          "title": "中方举行欢迎仪式 马克龙献上飞吻",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%B8%BE%E8%A1%8C%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F+%E9%A9%AC%E5%85%8B%E9%BE%99%E7%8C%AE%E4%B8%8A%E9%A3%9E%E5%90%BB",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时20分]"
         },
         {
           "title": "英伟达CEO黄仁勋：刚刚会见了美国总统特朗普。",
@@ -1790,6 +1823,18 @@
           "time_info": "[16时29分 ~ 17时25分]"
         },
         {
+          "title": "美中贸易全国委员会会长谭森：美变相承认关税推高物价",
+          "url": "https://wallstreetcn.com/livenews/3015117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时20分]"
+        },
+        {
           "title": "格鲁吉亚总理：美国曾要求格方开辟针对俄罗斯的第二战场",
           "url": "https://news.ifeng.com/c/8oo5gKD7LRX",
           "source": "凤凰网",
@@ -1836,6 +1881,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 14时32分]"
+        },
+        {
+          "title": "报道：亚马逊探索切断与美国邮政的关系",
+          "url": "https://wallstreetcn.com/livenews/3015116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时20分]"
         },
         {
           "title": "以色列总理办公室表示，各方已同意举行后续讨论。",
@@ -1925,16 +1982,16 @@
           "time_info": "[16时29分 ~ 17时25分]"
         },
         {
-          "title": "中方举行欢迎仪式 马克龙献上飞吻",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E4%B8%BE%E8%A1%8C%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F+%E9%A9%AC%E5%85%8B%E9%BE%99%E7%8C%AE%E4%B8%8A%E9%A3%9E%E5%90%BB",
-          "source": "百度热搜",
+          "title": "习近平同法国总统马克龙举行会谈",
+          "url": "https://www.cls.cn/detail/2219438",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            4
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时24分]"
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 19时20分]"
         },
         {
           "title": "特朗普：美特使与普京的会面相当不错",
@@ -2009,6 +2066,32 @@
           "time_info": "[17时25分 ~ 18时24分]"
         },
         {
+          "title": "俄罗斯准备向印度的航空公司发放更多飞行许可。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3015113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时20分]"
+        },
+        {
+          "title": "详讯丨习近平同法国总统马克龙举行会谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32102887",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时29分 ~ 19时20分]"
+        },
+        {
           "title": "中国首次成为巴西最大的化肥供应国",
           "url": "https://flash.jin10.com/detail/20251204053531962800",
           "source": "金十数据",
@@ -2067,6 +2150,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时29分 ~ 17时25分]"
+        },
+        {
+          "title": "日本央行正在执行中性利率水平的评估。（日本时事通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3015112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时20分]"
         },
         {
           "title": "日本拟打造“宇宙作战集团”",
@@ -2145,16 +2240,16 @@
           "time_info": "[11时19分 ~ 13时21分]"
         },
         {
-          "title": "习近平同法国总统马克龙举行会谈",
-          "url": "https://www.cls.cn/detail/2219438",
-          "source": "财联社热门",
+          "title": "克宫：普京已接受美方提出的部分和平方案",
+          "url": "https://news.ifeng.com/c/8ooPjeLaLlq",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            9
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时24分]"
+          "time_info": "[17时25分 ~ 19时20分]"
         },
         {
           "title": "以色列总理办公室表示，其已在会晤中明确指出，真主党解除武装是强制性的，与推动经济领域合作毫无关联。",
@@ -2209,19 +2304,6 @@
           "time_info": "[03时19分 ~ 05时19分]"
         },
         {
-          "title": "详讯丨习近平同法国总统马克龙举行会谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32102887",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时29分 ~ 18时24分]"
-        },
-        {
           "title": "美国联邦贸易委员会表示，波音公司须剥离数项精神航空资产，方可推进合并事宜。",
           "url": "https://flash.jin10.com/detail/20251204004519743800",
           "source": "金十数据",
@@ -2233,6 +2315,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时23分 ~ 03时19分]"
+        },
+        {
+          "title": "哈赛特当美联储主席=更大幅降息！债市机构11月警告贝森特，表达忧虑",
+          "url": "https://wallstreetcn.com/articles/3760667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时20分]"
         },
         {
           "title": "马克龙抵京后发文",
@@ -2272,6 +2365,19 @@
           "time_info": "[02时32分 ~ 04时24分]"
         },
         {
+          "title": "大摩调查：高达62%中国企业或在三年内采用人形机器人",
+          "url": "https://www.cls.cn/detail/2219505",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时20分]"
+        },
+        {
           "title": "美国SEC连发九封警告函，“罕见地”叫停高杠杆ETF产品发行计划",
           "url": "https://wallstreetcn.com/livenews/3014584",
           "source": "华尔街见闻-快讯",
@@ -2283,6 +2389,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时32分 ~ 04时24分]"
+        },
+        {
+          "title": "你如何看混团世界杯中国香港队表现",
+          "url": "https://www.toutiao.com/trending/7579890839309303835/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时20分]"
         },
         {
           "title": "评论员：马克龙访华是以退为进",
@@ -2335,6 +2453,31 @@
           "time_info": "[14时32分 ~ 15时22分]"
         },
         {
+          "title": "被欠费15.86亿美元其中美国欠15亿，联合国：美国不交钱",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32102206",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时20分]"
+        },
+        {
+          "title": "美国女子脑死亡被迫生下孩子",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E8%84%91%E6%AD%BB%E4%BA%A1%E8%A2%AB%E8%BF%AB%E7%94%9F%E4%B8%8B%E5%AD%A9%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时20分]"
+        },
+        {
           "title": "美国吸毒人群在街头无意识扭动身体",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%90%B8%E6%AF%92%E4%BA%BA%E7%BE%A4%E5%9C%A8%E8%A1%97%E5%A4%B4%E6%97%A0%E6%84%8F%E8%AF%86%E6%89%AD%E5%8A%A8%E8%BA%AB%E4%BD%93%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -2359,6 +2502,19 @@
           "time_info": "[14时32分 ~ 15时22分]"
         },
         {
+          "title": "日本学者：高市正破坏日本政治稳定",
+          "url": "https://www.toutiao.com/trending/7579889405351956011/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时20分]"
+        },
+        {
           "title": "马杜罗证实曾同特朗普通电话",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%9D%9C%E7%BD%97%E8%AF%81%E5%AE%9E%E6%9B%BE%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
           "source": "百度热搜",
@@ -2368,30 +2524,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时20分 ~ 14时32分]"
-        },
-        {
-          "title": "外交部回应高市早苗最新言论：只是用立场没有变化来敷衍搪塞，中方对此不能接受",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32102903",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时24分]"
-        },
-        {
-          "title": "克宫：普京已接受美方提出的部分和平方案",
-          "url": "https://news.ifeng.com/c/8ooPjeLaLlq",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时24分]"
         },
         {
           "title": "特朗普提议大幅削减燃油经济性要求",
@@ -2476,6 +2608,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时25分 ~ 18时24分]"
+        },
+        {
+          "title": "俄罗斯官员Oreshkin：寻求将印度商品采购规模提高“数倍”",
+          "url": "https://wallstreetcn.com/livenews/3015108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时20分]"
         },
         {
           "title": "搭载委内瑞拉移民的美国飞机抵达委内瑞拉。",
@@ -2622,6 +2766,17 @@
           "time_info": "[16时29分 ~ 17时25分]"
         },
         {
+          "title": "从零碳园区看中国绿色发展新路径",
+          "url": "https://www.toutiao.com/trending/7579226285180747827/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时20分]"
+        },
+        {
           "title": "特朗普政府All in！据称考虑明年发机器人行政令，iRobot盘中飙涨近80%",
           "url": "https://wallstreetcn.com/articles/3760664",
           "source": "华尔街见闻",
@@ -2631,6 +2786,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时29分 ~ 17时25分]"
+        },
+        {
+          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
+          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时20分]"
         },
         {
           "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
@@ -2681,15 +2847,27 @@
           "time_info": "[05时19分 ~ 06时21分]"
         },
         {
-          "title": "哈赛特当美联储主席=更大幅降息！债市机构11月警告贝森特，表达忧虑",
-          "url": "https://wallstreetcn.com/articles/3760667",
-          "source": "华尔街见闻",
+          "title": "马克龙在中方欢迎仪式上献飞吻",
+          "url": "https://www.toutiao.com/trending/7579804080663547434/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时20分]"
+        },
+        {
+          "title": "韩国入境系统标示“中国台湾”，民进党当局破防",
+          "url": "https://news.ifeng.com/c/8ooNnoxCzpT",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时24分]"
+          "time_info": "[18时24分 ~ 19时20分]"
         },
         {
           "title": "消息人士称，美国拟提议取消汽车制造商为满足燃油经济性法规而进行的碳信用交易。",
@@ -2750,18 +2928,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 13时21分]"
-        },
-        {
-          "title": "大摩调查：高达62%中国企业或在三年内采用人形机器人",
-          "url": "https://www.cls.cn/detail/2219505",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时24分]"
         },
         {
           "title": "全球抛售日本",
@@ -2907,6 +3073,18 @@
           "time_info": "[14时32分 ~ 15时22分]"
         },
         {
+          "title": "日本首相高市早苗与韩国总统李在明计划下月举行峰会。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3015111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时24分 ~ 19时20分]"
+        },
+        {
           "title": "美财长称“中国是盟友”",
           "url": "https://www.toutiao.com/trending/7579185342759813139/",
           "source": "今日头条",
@@ -2917,18 +3095,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时19分 ~ 12时31分]"
-        },
-        {
-          "title": "你如何看混团世界杯中国香港队表现",
-          "url": "https://www.toutiao.com/trending/7579890839309303835/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时24分]"
         },
         {
           "title": "西班牙经济部长：西班牙将仅使用欧盟复苏基金中约25%的可用贷款。西班牙尚未在宏观层面感受到美国关税的任何显著影响。西班牙有信心欧联与南方共同市场贸易协议可在年底前签署。",
@@ -3111,17 +3277,6 @@
           "time_info": "[01时23分 ~ 02时32分]"
         },
         {
-          "title": "被欠费15.86亿美元其中美国欠15亿，联合国：美国不交钱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32102206",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时24分]"
-        },
-        {
           "title": "美国至12月3日4个月国债竞拍-投标倍数 3.17，前值2.84。",
           "url": "https://flash.jin10.com/detail/20251204003446119800",
           "source": "金十数据",
@@ -3134,16 +3289,16 @@
           "time_info": "[01时23分 ~ 02时32分]"
         },
         {
-          "title": "美国女子脑死亡被迫生下孩子",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E8%84%91%E6%AD%BB%E4%BA%A1%E8%A2%AB%E8%BF%AB%E7%94%9F%E4%B8%8B%E5%AD%A9%E5%AD%90",
+          "title": "高市早苗被控涉嫌违规收受企业捐款",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E6%8E%A7%E6%B6%89%E5%AB%8C%E8%BF%9D%E8%A7%84%E6%94%B6%E5%8F%97%E4%BC%81%E4%B8%9A%E6%8D%90%E6%AC%BE",
           "source": "百度热搜",
           "ranks": [
-            27,
+            23,
             20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时24分]"
+          "time_info": "[18时24分 ~ 19时20分]"
         },
         {
           "title": "钧正平：谁在为日本军国主义“招魂”",
@@ -3210,18 +3365,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 13时21分]"
-        },
-        {
-          "title": "日本学者：高市正破坏日本政治稳定",
-          "url": "https://www.toutiao.com/trending/7579889405351956011/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时25分 ~ 18时24分]"
         },
         {
           "title": "朱雀三号背后中国商业航天的星辰大海",
@@ -3319,9 +3462,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-04）",
+          "url": "https://flash.jin10.com/detail/20251204183019208800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "中国央行公开市场开展1808亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日3564亿元逆回购到期。",
@@ -3333,17 +3487,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
-        },
-        {
-          "title": "俄罗斯官员Oreshkin：寻求将印度商品采购规模提高“数倍”",
-          "url": "https://wallstreetcn.com/livenews/3015108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "克宫：俄乌问题上，普京接受了美国的一些提议",
@@ -3478,28 +3621,6 @@
           "time_info": "15时22分"
         },
         {
-          "title": "从零碳园区看中国绿色发展新路径",
-          "url": "https://www.toutiao.com/trending/7579226285180747827/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
-          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
-          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
-        },
-        {
           "title": "美国至11月28日当周EIA汽油产量 19.7万桶/日，前值28.6万桶/日。",
           "url": "https://flash.jin10.com/detail/20251204000859477800",
           "source": "金十数据",
@@ -3555,6 +3676,28 @@
           "time_info": "15时22分"
         },
         {
+          "title": "俄罗斯联邦储蓄银行拥有俄罗斯投资印度Nifty指数的工具。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3015122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "彭丽媛同法国总统夫人参观北京人艺",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%AD%E4%B8%BD%E5%AA%9B%E5%90%8C%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%A4%AB%E4%BA%BA%E5%8F%82%E8%A7%82%E5%8C%97%E4%BA%AC%E4%BA%BA%E8%89%BA",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "戴尔夫妇豪捐62.5亿美元，为2500万儿童开设特朗普账户，特朗普：慷慨！",
           "url": "https://wallstreetcn.com/articles/3760574",
           "source": "华尔街见闻",
@@ -3564,17 +3707,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
-        },
-        {
-          "title": "韩国入境系统标示“中国台湾”，民进党当局破防",
-          "url": "https://news.ifeng.com/c/8ooNnoxCzpT",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "美国至11月28日当周EIA原油进口 -47万桶，前值104.6万桶。",
@@ -3630,6 +3762,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
+        },
+        {
+          "title": "俄罗斯农业部长：俄罗斯认为有可能增加从印度进口虾类。",
+          "url": "https://wallstreetcn.com/livenews/3015121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "国乒8比0韩国",
@@ -3759,20 +3902,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
         {
-          "title": "日本首相高市早苗与韩国总统李在明计划下月举行峰会。（共同社）",
-          "url": "https://wallstreetcn.com/livenews/3015111",
+          "title": "普京：与美特使的会谈“非常有益”",
+          "url": "https://wallstreetcn.com/livenews/3015119",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时24分"
+          "time_info": "19时20分"
         },
         {
           "title": "美国至11月28日当周EIA汽油库存 451.8万桶，预期146.8万桶，前值251.3万桶。",
@@ -3825,7 +3968,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -3883,6 +4026,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "据伊拉克国家通讯社：司法部公报中有关冻结黎巴嫩真主党和也门胡塞武装资金的公告将予以更正。",
+          "url": "https://flash.jin10.com/detail/20251204181701993800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "周三（12月3日），彭博电动汽车价格回报指数跌0.47%，报3387.48点。 北京时间10:00前后显著下挫，全天绝大部分时间低位震荡，美国总统特朗普宣布汽车燃油效率“新政”之际并无显著波动。",
@@ -3973,6 +4127,17 @@
           "time_info": "17时25分"
         },
         {
+          "title": "印度贸易部长：预计俄罗斯将放宽农业领域认证和标准，以促进印度出口。",
+          "url": "https://flash.jin10.com/detail/20251204181416301800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "日本40年期国债收益率上行1BP，至3.745%。",
           "url": "https://wallstreetcn.com/livenews/3014741",
           "source": "华尔街见闻-快讯",
@@ -3982,17 +4147,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时39分"
-        },
-        {
-          "title": "马克龙在中方欢迎仪式上献飞吻",
-          "url": "https://www.toutiao.com/trending/7579804080663547434/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "美国两党参议员提交议案阻止对委“非法战争”",
@@ -4094,6 +4248,28 @@
           "time_info": "14时32分"
         },
         {
+          "title": "国乒8比2法国",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%928%E6%AF%942%E6%B3%95%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
+          "title": "美国 11 月「小非农」创两年半最大降幅，美联储 12 月降息概率近 90%，对主要非美货币和金融市场有何影响？",
+          "url": "https://www.zhihu.com/question/1979833109437507041",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "美国能源信息署（EIA）：我们正在处理每周原油报告发布的技术问题，并将尽快提供更新。",
           "url": "https://flash.jin10.com/detail/20251204000725396800",
           "source": "金十数据",
@@ -4144,7 +4320,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
@@ -4468,6 +4644,17 @@
           "time_info": "16时29分"
         },
         {
+          "title": "国乒战胜法国队 取得6连胜",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E4%B9%92%E6%88%98%E8%83%9C%E6%B3%95%E5%9B%BD%E9%98%9F+%E5%8F%96%E5%BE%976%E8%BF%9E%E8%83%9C",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
+        },
+        {
           "title": "美国能源信息署正在调查导致美国原油周报延迟发布的问题。",
           "url": "https://flash.jin10.com/detail/20251203235645817800",
           "source": "金十数据",
@@ -4510,17 +4697,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
-        },
-        {
-          "title": "高市早苗被控涉嫌违规收受企业捐款",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E6%8E%A7%E6%B6%89%E5%AB%8C%E8%BF%9D%E8%A7%84%E6%94%B6%E5%8F%97%E4%BC%81%E4%B8%9A%E6%8D%90%E6%AC%BE",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时24分"
         },
         {
           "title": "日本着急替马克龙做决定",
@@ -4628,7 +4804,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
         },
