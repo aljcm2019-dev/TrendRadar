@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-12-09T11:19:30.461542+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2025-12-09T12:29:42.418570+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 272,
+      "match_count": 286,
       "titles": [
-        {
-          "title": "日本地震",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 11时19分]"
-        },
         {
           "title": "日本发生7.5级地震",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%9C%B0%E9%9C%87",
@@ -30,6 +18,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 11时19分]"
+        },
+        {
+          "title": "日本地震",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时29分]"
         },
         {
           "title": "日本发生7.5级地震",
@@ -101,16 +102,16 @@
           "time_info": "[00时28分 ~ 07时20分]"
         },
         {
-          "title": "日本附近海域发生7.5级地震",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
+          "title": "日本误导国际社会、加速西南军事化部署有何用意？",
+          "url": "https://news.ifeng.com/c/8ovd5H5fmoW",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            30
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 09时38分]"
+          "appearance_count": 8,
+          "time_info": "[04时24分 ~ 12时29分]"
         },
         {
           "title": "日本发生7.5级地震",
@@ -121,8 +122,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时29分]"
+        },
+        {
+          "title": "日本附近海域发生7.5级地震",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时28分 ~ 11时19分]"
+          "time_info": "[00时28分 ~ 09时38分]"
         },
         {
           "title": "急眼了！美国多名高官集体下场",
@@ -172,18 +185,6 @@
           "time_info": "[00时28分 ~ 09时38分]"
         },
         {
-          "title": "日本误导国际社会、加速西南军事化部署有何用意？",
-          "url": "https://news.ifeng.com/c/8ovd5H5fmoW",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时24分 ~ 11时19分]"
-        },
-        {
           "title": "日本近海7.5级强震",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%91%E6%B5%B77.5%E7%BA%A7%E5%BC%BA%E9%9C%87%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -191,11 +192,12 @@
             4,
             7,
             8,
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 11时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时29分]"
         },
         {
           "title": "日本自卫队战机紧急起飞越发频繁",
@@ -233,8 +235,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 11时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 12时29分]"
         },
         {
           "title": "日本7.5级地震监控剧烈摇晃",
@@ -261,8 +263,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 11时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时29分]"
         },
         {
           "title": "马克龙在四川大学演讲中回答问题时，建议年轻人「无聊一点，迷失自己」，对此你有什么感悟？",
@@ -295,6 +297,22 @@
           "time_info": "[00时28分 ~ 09时38分]"
         },
         {
+          "title": "日本为何24次兵推台海有事",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BD%9524%E6%AC%A1%E5%85%B5%E6%8E%A8%E5%8F%B0%E6%B5%B7%E6%9C%89%E4%BA%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            15,
+            19,
+            29,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 12时29分]"
+        },
+        {
           "title": "“蝎形”包围圈：日本高市早苗内阁遏华地缘战略初露端倪",
           "url": "https://m.thepaper.cn/newsDetail_forward_32130139",
           "source": "澎湃新闻",
@@ -307,8 +325,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 11时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时29分]"
         },
         {
           "title": "报告：美国防部计划大规模囤积关键矿产，全球能源转型遭“资源截流”",
@@ -323,8 +341,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 11时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 12时29分]"
         },
         {
           "title": "日本地震当地居民拍下自家书柜倒塌",
@@ -403,22 +421,6 @@
           "time_info": "[01时20分 ~ 11时19分]"
         },
         {
-          "title": "日本为何24次兵推台海有事",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%B8%BA%E4%BD%9524%E6%AC%A1%E5%85%B5%E6%8E%A8%E5%8F%B0%E6%B5%B7%E6%9C%89%E4%BA%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            15,
-            19,
-            29,
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 11时19分]"
-        },
-        {
           "title": "新国安战略将如何影响美国",
           "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%9B%BD%E5%AE%89%E6%88%98%E7%95%A5%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%BE%8E%E5%9B%BD",
           "source": "bilibili 热搜",
@@ -445,6 +447,54 @@
           "time_info": "[00时28分 ~ 03时17分]"
         },
         {
+          "title": "日本青森县东部海域发生7.6级地震：触发海啸预警，东京震感明显",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32132836",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时24分 ~ 12时29分]"
+        },
+        {
+          "title": "在日中国游客称“连滚带爬躲厕所”",
+          "url": "https://www.toutiao.com/trending/7581499028140572708/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时29分]"
+        },
+        {
+          "title": "日本7.5级地震瞬间画面",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC7.5%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E7%94%BB%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时29分]"
+        },
+        {
+          "title": "日本 12 月 9 日又发生 6.6 级地震，已暂停核污染水排海，此前接连发生 7.5 、 5.6 级地震，目前情况如何？",
+          "url": "https://www.zhihu.com/question/1981489756069126646",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时29分]"
+        },
+        {
           "title": "杜克印度旅行第一天",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%9C%E5%85%8B%E5%8D%B0%E5%BA%A6%E6%97%85%E8%A1%8C%E7%AC%AC%E4%B8%80%E5%A4%A9",
           "source": "bilibili 热搜",
@@ -460,6 +510,42 @@
           "time_info": "[00时28分 ~ 07时20分]"
         },
         {
+          "title": "日本突发7.5级地震，中国游客：连滚带爬躲到卫生间",
+          "url": "https://news.ifeng.com/c/8ovXAx8YrLo",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时21分 ~ 12时29分]"
+        },
+        {
+          "title": "美国新版国家安全战略报告宣告“大国竞争已死”？",
+          "url": "https://news.ifeng.com/c/8ow4f27FQ7g",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时29分]"
+        },
+        {
+          "title": "7.5级强震后日本又发生6.6级地震",
+          "url": "https://www.toutiao.com/trending/7581624655895760430/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时29分]"
+        },
+        {
           "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
           "url": "https://wallstreetcn.com/articles/3760897",
           "source": "华尔街见闻",
@@ -471,63 +557,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时28分 ~ 11时19分]"
-        },
-        {
-          "title": "日本青森县东部海域发生7.6级地震：触发海啸预警，东京震感明显",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32132836",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时24分 ~ 11时19分]"
-        },
-        {
-          "title": "在日中国游客称“连滚带爬躲厕所”",
-          "url": "https://www.toutiao.com/trending/7581499028140572708/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时19分]"
-        },
-        {
-          "title": "日本又发生6.6级地震",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%88%E5%8F%91%E7%94%9F6.6%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时19分]"
-        },
-        {
-          "title": "日本 12 月 9 日又发生 6.6 级地震，已暂停核污染水排海，此前接连发生 7.5 、 5.6 级地震，目前情况如何？",
-          "url": "https://www.zhihu.com/question/1981489756069126646",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时19分]"
-        },
-        {
-          "title": "日本7.5级地震瞬间画面",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC7.5%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%E7%94%BB%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时19分]"
         },
         {
           "title": "日本多地已观测到30至40厘米海啸",
@@ -599,39 +628,28 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
-          "title": "日本突发7.5级地震，中国游客：连滚带爬躲到卫生间",
-          "url": "https://news.ifeng.com/c/8ovXAx8YrLo",
-          "source": "凤凰网",
+          "title": "国女爱上印度男,买房求同居",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347823&amp;topic_name=%E5%9B%BD%E5%A5%B3%E7%88%B1%E4%B8%8A%E5%8D%B0%E5%BA%A6%E7%94%B7%2C%E4%B9%B0%E6%88%BF%E6%B1%82%E5%90%8C%E5%B1%85",
+          "source": "贴吧",
           "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时21分 ~ 11时19分]"
-        },
-        {
-          "title": "美国新版国家安全战略报告宣告“大国竞争已死”？",
-          "url": "https://news.ifeng.com/c/8ow4f27FQ7g",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时19分]"
-        },
-        {
-          "title": "7.5级强震后日本又发生6.6级地震",
-          "url": "https://www.toutiao.com/trending/7581624655895760430/",
-          "source": "今日头条",
-          "ranks": [
-            4,
+            3,
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时19分]"
+          "time_info": "[11时19分 ~ 12时29分]"
+        },
+        {
+          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
+          "url": "https://www.cls.cn/detail/2223487",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时29分]"
         },
         {
           "title": "市场消息：韩国政府成立外汇稳定工作组。",
@@ -665,6 +683,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "驻南非使馆提醒中国公民加强防范",
+          "url": "https://www.douyin.com/hot/2331130",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "日本强震后发布海啸预警",
@@ -767,15 +796,27 @@
           "time_info": "07时20分"
         },
         {
-          "title": "国女爱上印度男,买房求同居",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347823&amp;topic_name=%E5%9B%BD%E5%A5%B3%E7%88%B1%E4%B8%8A%E5%8D%B0%E5%BA%A6%E7%94%B7%2C%E4%B9%B0%E6%88%BF%E6%B1%82%E5%90%8C%E5%B1%85",
-          "source": "贴吧",
+          "title": "日本又发生6.6级地震",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%88%E5%8F%91%E7%94%9F6.6%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
           "ranks": [
-            3
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时29分]"
+        },
+        {
+          "title": "日本强震 高市早苗神色慌张一路小跑",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A5%9E%E8%89%B2%E6%85%8C%E5%BC%A0%E4%B8%80%E8%B7%AF%E5%B0%8F%E8%B7%91",
+          "source": "百度热搜",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时19分"
+          "time_info": "12时29分"
         },
         {
           "title": "美国-格陵兰联合委员会声明：美国和格陵兰岛期待在新的一年里乘势而上，进一步加强联系，共同支持一个安全繁荣的北极地区。",
@@ -798,17 +839,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
-        },
-        {
-          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
-          "url": "https://www.cls.cn/detail/2223487",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
         },
         {
           "title": "日本本州东部附近海域发生7.5级地震",
@@ -839,7 +869,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -861,18 +891,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "日本真有事,近海突发7.5级强震",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347820&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%9C%9F%E6%9C%89%E4%BA%8B%2C%E8%BF%91%E6%B5%B7%E7%AA%81%E5%8F%917.5%E7%BA%A7%E5%BC%BA%E9%9C%87",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -899,6 +918,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时21分 ~ 07时20分]"
+        },
+        {
+          "title": "日本地震致多人受伤 超10万人需避难",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E8%87%B4%E5%A4%9A%E4%BA%BA%E5%8F%97%E4%BC%A4+%E8%B6%8510%E4%B8%87%E4%BA%BA%E9%9C%80%E9%81%BF%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时29分]"
         },
         {
           "title": "美国财政部拍卖三年期国债，得标利率3.614%，投标倍数2.64。",
@@ -973,6 +1005,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时20分]"
+        },
+        {
+          "title": "日本真有事,近海突发7.5级强震",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347820&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%9C%9F%E6%9C%89%E4%BA%8B%2C%E8%BF%91%E6%B5%B7%E7%AA%81%E5%8F%917.5%E7%BA%A7%E5%BC%BA%E9%9C%87",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时29分]"
         },
         {
           "title": "日本震中附近发生火灾 现场火势较为猛烈",
@@ -1119,18 +1163,6 @@
           "time_info": "[04时24分 ~ 05时21分]"
         },
         {
-          "title": "日本地震致多人受伤 超10万人需避难",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E8%87%B4%E5%A4%9A%E4%BA%BA%E5%8F%97%E4%BC%A4+%E8%B6%8510%E4%B8%87%E4%BA%BA%E9%9C%80%E9%81%BF%E9%9A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时19分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基证实，有不明无人机在他乘机前往爱尔兰途中被发现。",
           "url": "https://flash.jin10.com/detail/20251209022341605800",
           "source": "金十数据",
@@ -1264,6 +1296,41 @@
           "time_info": "[09时38分 ~ 11时19分]"
         },
         {
+          "title": "俄罗斯驻朝大使逝世，金正恩向普京致唁电",
+          "url": "https://news.ifeng.com/c/8owD219bP4h",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时29分]"
+        },
+        {
+          "title": "日本又发生6.6级地震",
+          "url": "https://www.douyin.com/hot/2330976",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时29分]"
+        },
+        {
+          "title": "日本震中突发大火 民众开车逃命",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%9C%87%E4%B8%AD%E7%AA%81%E5%8F%91%E5%A4%A7%E7%81%AB+%E6%B0%91%E4%BC%97%E5%BC%80%E8%BD%A6%E9%80%83%E5%91%BD",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时29分]"
+        },
+        {
           "title": "乌克兰：乌方寻求经过美国国会山审批的安全保障。",
           "url": "https://wallstreetcn.com/livenews/3017111",
           "source": "华尔街见闻-快讯",
@@ -1277,6 +1344,31 @@
           "time_info": "[02时31分 ~ 04时24分]"
         },
         {
+          "title": "日本警告后续或有更大地震",
+          "url": "https://www.toutiao.com/trending/7581623777616924170/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时29分]"
+        },
+        {
+          "title": "日本强震瞬间建筑狂晃震中附近大火",
+          "url": "https://www.toutiao.com/trending/7581644029436120617/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时29分]"
+        },
+        {
           "title": "驻柬大使馆：靠近柬泰边境的中国公民，避免前往边境地区",
           "url": "https://news.ifeng.com/c/8ovQVvmQQzQ",
           "source": "凤凰网",
@@ -1286,6 +1378,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 02时31分]"
+        },
+        {
+          "title": "日本警告后续或有更大地震",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AD%A6%E5%91%8A%E5%90%8E%E7%BB%AD%E6%88%96%E6%9C%89%E6%9B%B4%E5%A4%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时29分]"
+        },
+        {
+          "title": "“支持率暴跌！父亲被推翻下台，小马科斯也不受欢迎了”",
+          "url": "https://news.ifeng.com/c/8ovXAx8YrPX",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时29分]"
         },
         {
           "title": "国际清算银行：美国关税冲击推动全球外汇交易量刷新纪录",
@@ -1299,6 +1414,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时31分 ~ 04时24分]"
+        },
+        {
+          "title": "三国警方联合打击电诈，逾千名中国籍涉诈人员被押送回国",
+          "url": "https://news.ifeng.com/c/8ovwK3raIRo",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时29分]"
+        },
+        {
+          "title": "比亚迪 11 月首次跻身韩国进口车汽车月销量前五，超越雷克萨斯、丰田、大众，这释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/1979627712625800414",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时29分]"
         },
         {
           "title": "美银：明年美国投资级信用债面临的关键风险是美联储立场鸽派",
@@ -1352,6 +1491,19 @@
           "time_info": "[04时24分 ~ 06时20分]"
         },
         {
+          "title": "直击日本地震瞬间：摄像头剧烈晃动",
+          "url": "https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%EF%BC%9A%E6%91%84%E5%83%8F%E5%A4%B4%E5%89%A7%E7%83%88%E6%99%83%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时29分]"
+        },
+        {
           "title": "日本发海啸预警",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8F%91%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6",
           "source": "bilibili 热搜",
@@ -1378,6 +1530,18 @@
           "time_info": "[00时28分 ~ 06时20分]"
         },
         {
+          "title": "日本自卫队战机紧急起飞越发频繁",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E6%88%98%E6%9C%BA%E7%B4%A7%E6%80%A5%E8%B5%B7%E9%A3%9E%E8%B6%8A%E5%8F%91%E9%A2%91%E7%B9%81",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时38分 ~ 12时29分]"
+        },
+        {
           "title": "7.5级强震后 日本又发生6.6级地震",
           "url": "https://www.toutiao.com/trending/7581624655895760430/",
           "source": "今日头条",
@@ -1389,40 +1553,6 @@
           "time_info": "[07时19分 ~ 07时20分]"
         },
         {
-          "title": "俄罗斯驻朝大使逝世，金正恩向普京致唁电",
-          "url": "https://news.ifeng.com/c/8owD219bP4h",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时19分]"
-        },
-        {
-          "title": "日本又发生6.6级地震",
-          "url": "https://www.douyin.com/hot/2330976",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时19分]"
-        },
-        {
-          "title": "日本震中突发大火 民众开车逃命",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%9C%87%E4%B8%AD%E7%AA%81%E5%8F%91%E5%A4%A7%E7%81%AB+%E6%B0%91%E4%BC%97%E5%BC%80%E8%BD%A6%E9%80%83%E5%91%BD",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时19分]"
-        },
-        {
           "title": "强震已致多人受伤，日本5地发布疏散令",
           "url": "https://news.ifeng.com/c/8ovkYxECrRp",
           "source": "凤凰网",
@@ -1432,6 +1562,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 07时20分]"
+        },
+        {
+          "title": "尹正演的日本军人让网友恨得牙痒痒",
+          "url": "https://www.toutiao.com/trending/7581029176792219689/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时29分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普计划的第一阶段任务，现在将集中精力解除加沙的武装并收缴哈马斯的武器。",
@@ -1506,27 +1648,16 @@
           "time_info": "[09时38分 ~ 11时19分]"
         },
         {
-          "title": "日本强震瞬间建筑狂晃震中附近大火",
-          "url": "https://www.toutiao.com/trending/7581644029436120617/",
-          "source": "今日头条",
+          "title": "特朗普宣布允许英伟达向中国出售 H200 芯片，如何评价这一政策转向？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1981651554999169255",
+          "source": "知乎",
           "ranks": [
-            8
+            6,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时19分]"
-        },
-        {
-          "title": "日本警告后续或有更大地震",
-          "url": "https://www.toutiao.com/trending/7581623777616924170/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时19分]"
+          "time_info": "[11时19分 ~ 12时29分]"
         },
         {
           "title": "美国劳工统计局：计划在2026年1月15日发布2025年11月的新闻稿，同时公布10月份的数据。",
@@ -1661,6 +1792,17 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "美议员急了：特朗普你得拉一把日本啊",
+          "url": "https://news.ifeng.com/c/8owI9R84r47",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时29分]"
+        },
+        {
           "title": "市场消息：美国劳工统计局表示，将不会公布10月份的PPI（生产者价格指数）数据。",
           "url": "https://flash.jin10.com/detail/20251209000813326800",
           "source": "金十数据",
@@ -1707,28 +1849,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时21分]"
-        },
-        {
-          "title": "日本警告后续或有更大地震",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%AD%A6%E5%91%8A%E5%90%8E%E7%BB%AD%E6%88%96%E6%9C%89%E6%9B%B4%E5%A4%A7%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时19分]"
-        },
-        {
-          "title": "“支持率暴跌！父亲被推翻下台，小马科斯也不受欢迎了”",
-          "url": "https://news.ifeng.com/c/8ovXAx8YrPX",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时19分]"
         },
         {
           "title": "美国总统特朗普：在医疗保健方面，我希望把钱直接发给民众。",
@@ -1803,17 +1923,6 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
-          "title": "三国警方联合打击电诈，逾千名中国籍涉诈人员被押送回国",
-          "url": "https://news.ifeng.com/c/8ovwK3raIRo",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时19分]"
-        },
-        {
           "title": "美国驻加拿大大使：特朗普不想终止美墨加协定。",
           "url": "https://flash.jin10.com/detail/20251209042238279800",
           "source": "金十数据",
@@ -1824,18 +1933,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时21分 ~ 06时20分]"
-        },
-        {
-          "title": "比亚迪 11 月首次跻身韩国进口车汽车月销量前五，超越雷克萨斯、丰田、大众，这释放了哪些信号？",
-          "url": "https://www.zhihu.com/question/1979627712625800414",
-          "source": "知乎",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时19分]"
         },
         {
           "title": "美国总统特朗普：如果我们不得不这么做，我们将最终对来自加拿大的化肥征收高额关税。",
@@ -1934,6 +2031,18 @@
           "time_info": "[09时38分 ~ 11时19分]"
         },
         {
+          "title": "美国劝架泰柬为何成了笑话",
+          "url": "https://www.toutiao.com/trending/7581154422131179529/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时29分]"
+        },
+        {
           "title": "据共同社报道：日本福岛、东通核电站没有出现问题。",
           "url": "https://wallstreetcn.com/livenews/3017057",
           "source": "华尔街见闻-快讯",
@@ -1993,6 +2102,18 @@
           "time_info": "[00时28分 ~ 01时20分]"
         },
         {
+          "title": "日本首次发布！提示大地震风险",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E6%AC%A1%E5%8F%91%E5%B8%83%EF%BC%81%E6%8F%90%E7%A4%BA%E5%A4%A7%E5%9C%B0%E9%9C%87%E9%A3%8E%E9%99%A9",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时29分]"
+        },
+        {
           "title": "美国国债收益率涨幅扩大，10年期美债收益率创10月7日以来新高。",
           "url": "https://wallstreetcn.com/livenews/3017053",
           "source": "华尔街见闻-快讯",
@@ -2015,18 +2136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时17分]"
-        },
-        {
-          "title": "直击日本地震瞬间：摄像头剧烈晃动",
-          "url": "https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4%EF%BC%9A%E6%91%84%E5%83%8F%E5%A4%B4%E5%89%A7%E7%83%88%E6%99%83%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时19分]"
         },
         {
           "title": "1178名中国籍涉诈人员被押解回国",
@@ -2065,15 +2174,16 @@
           "time_info": "[02时31分 ~ 03时17分]"
         },
         {
-          "title": "日本自卫队战机紧急起飞越发频繁",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E6%88%98%E6%9C%BA%E7%B4%A7%E6%80%A5%E8%B5%B7%E9%A3%9E%E8%B6%8A%E5%8F%91%E9%A2%91%E7%B9%81",
+          "title": "泽连斯基明确表态：拒绝割让领土",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%98%8E%E7%A1%AE%E8%A1%A8%E6%80%81%EF%BC%9A%E6%8B%92%E7%BB%9D%E5%89%B2%E8%AE%A9%E9%A2%86%E5%9C%9F",
           "source": "百度热搜",
           "ranks": [
-            25
+            30,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时38分 ~ 11时19分]"
+          "time_info": "[11时19分 ~ 12时29分]"
         },
         {
           "title": "美国对中国的战略真有重大改变吗",
@@ -2099,6 +2209,18 @@
           "time_info": "[00时28分 ~ 03时17分]"
         },
         {
+          "title": "日本青森县139所学校停课",
+          "url": "https://www.toutiao.com/trending/7581560666872627210/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时29分]"
+        },
+        {
           "title": "普京对中印关系表态，外交部回应",
           "url": "https://news.ifeng.com/c/8ov1hxszgtY",
           "source": "凤凰网",
@@ -2119,17 +2241,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
-        },
-        {
-          "title": "特朗普宣布允许英伟达向中国出售 H200 芯片，如何评价这一政策转向？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1981651554999169255",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
         },
         {
           "title": "体验印度富人夜生活",
@@ -2242,15 +2353,15 @@
           "time_info": "04时24分"
         },
         {
-          "title": "美议员急了：特朗普你得拉一把日本啊",
-          "url": "https://news.ifeng.com/c/8owI9R84r47",
-          "source": "凤凰网",
+          "title": "印度主要大米出口商LT Foods、Kohinoor Foods和KRBL的股价在盘前交易中下跌2%至3.6%，此前有报道称美国总统示意将实施新的关税。",
+          "url": "https://flash.jin10.com/detail/20251209114749921800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时19分"
+          "time_info": "12时29分"
         },
         {
           "title": "美国至12月8日6个月国债竞拍-投标倍数 3.01，前值3.02。",
@@ -2303,7 +2414,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -2413,9 +2524,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "日本社民党党首要求高市早苗撤回错误言论并辞职",
+          "url": "https://wallstreetcn.com/livenews/3017365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "美国至12月8日3个月国债竞拍-投标倍数 2.73，前值2.82。",
@@ -2440,15 +2562,15 @@
           "time_info": "07时20分"
         },
         {
-          "title": "尹正演的日本军人让网友恨得牙痒痒",
-          "url": "https://www.toutiao.com/trending/7581029176792219689/",
-          "source": "今日头条",
+          "title": "印度股指Nifty 50指数跌幅扩大，现跌0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3017364",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时19分"
+          "time_info": "12时29分"
         },
         {
           "title": "美国至12月8日3个月国债竞拍-得标利率配置百分比 31.8%，前值81.99%。",
@@ -2471,6 +2593,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
+        },
+        {
+          "title": "金十图示：2025年12月09日（周二）富时中国A50指数成分股午盘收盘行情一览：成分股大面积飘绿，酿酒、有色金属跌幅居前",
+          "url": "https://flash.jin10.com/detail/20251209113552589800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
+          "title": "吉利副总裁陈政痛批部分车企拉低中国车设计高度，汽车行业设计存在哪些乱象？",
+          "url": "https://www.zhihu.com/question/1981421077650511816",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "专家：日本经济将陷入恶性循环困局",
@@ -2545,7 +2689,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -2567,9 +2711,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "日本强震高市早苗一路小跑",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%80%E8%B7%AF%E5%B0%8F%E8%B7%91%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "市场消息：泽连斯基在就乌克兰问题进行会谈后离开唐宁街。",
@@ -2611,9 +2766,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "日本拍卖5年期国债，认购倍数为3.17，前次为2.97，过去12个月均值为3.64。",
+          "url": "https://wallstreetcn.com/livenews/3017360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "日本岩手县沿岸潮位上涨半米",
@@ -2666,7 +2832,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -2721,18 +2887,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "日本首次发布！提示大地震风险",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%A6%96%E6%AC%A1%E5%8F%91%E5%B8%83%EF%BC%81%E6%8F%90%E7%A4%BA%E5%A4%A7%E5%9C%B0%E9%9C%87%E9%A3%8E%E9%99%A9",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -2798,7 +2953,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -2820,9 +2975,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "日本7.5级强震：一核废处理厂池水溢出，当地警告或有更大地震",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32135949",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "美国11月纽约联储1年通胀预期将于十分钟后公布。",
@@ -2880,6 +3046,17 @@
           "time_info": "09时38分"
         },
         {
+          "title": "日本未认真履行战败国义务",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AA%E8%AE%A4%E7%9C%9F%E5%B1%A5%E8%A1%8C%E6%88%98%E8%B4%A5%E5%9B%BD%E4%B9%89%E5%8A%A1%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
           "title": "而根据最新观测情况，日本岩手县久慈港目前潮位上升50厘米，青森县陆奥小川原港和北海道浦河町潮位上升40厘米。",
           "url": "https://flash.jin10.com/detail/20251208234845299800",
           "source": "金十数据",
@@ -2930,18 +3107,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "美国劝架泰柬为何成了笑话",
-          "url": "https://www.toutiao.com/trending/7581154422131179529/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -2974,9 +3140,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "据央视新闻，原中国华融国际控股有限公司总经理白天辉被执行死刑。",
+          "url": "https://wallstreetcn.com/livenews/3017351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "美国参议院共和党领袖图恩：美国司法部必须认真审视派拉蒙天舞收购华纳兄弟探索公司(WBD.O)的提议，这起收购交易可能会引发严重的垄断问题。",
@@ -2996,7 +3173,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -3010,6 +3187,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "蓝战非发文感谢中国大使馆",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%93%9D%E6%88%98%E9%9D%9E%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E5%A4%A7%E4%BD%BF%E9%A6%86%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "特朗普下令：裁员、关闭办公室、利用人工智能提高政府效率",
@@ -3067,13 +3255,24 @@
           "time_info": "09时38分"
         },
         {
+          "title": "《阿凡达3》举行中国首映礼",
+          "url": "https://www.toutiao.com/trending/7581410509133021225/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
           "title": "游客讲述日本地震：灰尘震得飘起来",
           "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E8%AE%B2%E8%BF%B0%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%EF%BC%9A%E7%81%B0%E5%B0%98%E9%9C%87%E5%BE%97%E9%A3%98%E8%B5%B7%E6%9D%A5",
           "source": "百度热搜",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -3095,7 +3294,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -3155,28 +3354,6 @@
           "time_info": "02时31分"
         },
         {
-          "title": "日本青森县139所学校停课",
-          "url": "https://www.toutiao.com/trending/7581560666872627210/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "泽连斯基明确表态：拒绝割让领土",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%98%8E%E7%A1%AE%E8%A1%A8%E6%80%81%EF%BC%9A%E6%8B%92%E7%BB%9D%E5%89%B2%E8%AE%A9%E9%A2%86%E5%9C%9F",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
           "title": "市场消息：日本政府在地震后将海啸预警降级为海啸提示。",
           "url": "https://flash.jin10.com/detail/20251209014802783800",
           "source": "金十数据",
@@ -3205,7 +3382,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         }
