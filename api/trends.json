@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T03:20:22.318900+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2025-12-12T04:24:45.711941+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 119,
+      "match_count": 136,
       "titles": [
         {
           "title": "紧急提醒：请在日中国公民进行登记",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "从全球视野看中国经济发展大逻辑",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -35,11 +35,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "印度工人中1177万元后全家连夜搬走",
@@ -50,8 +51,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "美国环境保护署一名高级官员表示，美国环境保护署正考虑将实施美国前总统拜登任内通过的车辆污染法规的时间推迟两年。",
@@ -65,6 +66,28 @@
           "time_info": "01时25分"
         },
         {
+          "title": "据AXIOS网站：特朗普政府计划任命一名美国少将指挥驻加沙国际稳定部队（ISF）。",
+          "url": "https://flash.jin10.com/detail/20251212040044595800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美国财政部颁布对委内瑞拉新制裁措施",
+          "url": "https://wallstreetcn.com/livenews/3019397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：美国提议在乌克兰撤出的顿巴斯部分地区建立“自由经济区”。",
           "url": "https://flash.jin10.com/detail/20251212000527011800",
           "source": "金十数据",
@@ -76,15 +99,37 @@
           "time_info": "00时31分"
         },
         {
-          "title": "美国财政部网站显示，将6艘原油油轮列入制裁名单。",
-          "url": "https://flash.jin10.com/detail/20251212030823931800",
+          "title": "美众议院有关弹劾总统特朗普的动议经表决后被搁置",
+          "url": "https://flash.jin10.com/detail/20251212035647732800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美国投资公司协会（ICI）：美国货币市场资产达到7.655万亿美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3019396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美军扣押油轮现场画面",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E6%89%A3%E6%8A%BC%E6%B2%B9%E8%BD%AE%E7%8E%B0%E5%9C%BA%E7%94%BB%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         },
         {
           "title": "乌克兰总统泽连斯基：确保选举的合法性至关重要。",
@@ -98,15 +143,26 @@
           "time_info": "00时31分"
         },
         {
-          "title": "美国财政部网站发布针对委内瑞拉的新制裁措施。",
-          "url": "https://flash.jin10.com/detail/20251212030432386800",
+          "title": "特朗普政府据悉计划加大企业减税力度",
+          "url": "https://flash.jin10.com/detail/20251212035256895800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
+          "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "乌克兰总统泽连斯基：美国希望在圣诞节前就和平提案的立场达成共识。",
@@ -131,15 +187,27 @@
           "time_info": "01时25分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普今天稍晚将签署法案和行政命令。",
-          "url": "https://wallstreetcn.com/livenews/3019384",
+          "title": "美国纽约联储披露短期美债购买情况：美联储周五将购买82亿美元国库券。",
+          "url": "https://wallstreetcn.com/livenews/3019394",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "04时24分"
+        },
+        {
+          "title": "中国“空中航母”首飞成功",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E7%A9%BA%E4%B8%AD%E8%88%AA%E6%AF%8D%E2%80%9D%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰与美国将于周四通电话，讨论安全保障问题。",
@@ -164,26 +232,130 @@
           "time_info": "02时31分"
         },
         {
-          "title": "美媒：特朗普计划制裁马杜罗的侄子及多个运送委内瑞拉石油的公司",
-          "url": "https://flash.jin10.com/detail/20251212030051169800",
-          "source": "金十数据",
+          "title": "中国经济展现强劲韧性",
+          "url": "https://www.toutiao.com/trending/7581525248953335871/",
+          "source": "今日头条",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
-          "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
-          "source": "凤凰网",
-          "ranks": [
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
+        },
+        {
+          "title": "美军高官又狂了：中国造船速度遥遥领先，咱不得枕戈待旦啊",
+          "url": "https://news.ifeng.com/c/8ozxD78LjGA",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
+        },
+        {
+          "title": "美军扣押委内瑞拉油轮对中方有影响吗",
+          "url": "https://www.toutiao.com/trending/7582563454435724806/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            8,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
+        },
+        {
+          "title": "多国前政要给中国“李华”回感谢信",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%89%8D%E6%94%BF%E8%A6%81%E7%BB%99%E4%B8%AD%E5%9B%BD%E2%80%9C%E6%9D%8E%E5%8D%8E%E2%80%9D%E5%9B%9E%E6%84%9F%E8%B0%A2%E4%BF%A1",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            30,
+            22,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
+        },
+        {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
+        },
+        {
+          "title": "外交部再次提醒近期避免前往日本",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%86%8D%E6%AC%A1%E6%8F%90%E9%86%92%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            20,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
+        },
+        {
+          "title": "智商洼地!日网民坚信中国制造地震",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347862&amp;topic_name=%E6%99%BA%E5%95%86%E6%B4%BC%E5%9C%B0%21%E6%97%A5%E7%BD%91%E6%B0%91%E5%9D%9A%E4%BF%A1%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%9C%B0%E9%9C%87",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 04时24分]"
+        },
+        {
+          "title": "美国财政部拍卖220亿美元30年期国债，得标利率4.773%。",
+          "url": "https://wallstreetcn.com/livenews/3019366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时24分]"
+        },
+        {
+          "title": "日本泛太平洋铜业公司同意延长2026年铜冶炼费用不变",
+          "url": "https://wallstreetcn.com/livenews/3019363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时24分]"
+        },
+        {
+          "title": "美国财政部网站显示，将6艘原油油轮列入制裁名单。",
+          "url": "https://flash.jin10.com/detail/20251212030823931800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时24分]"
         },
         {
           "title": "高市早苗所属自民党支部被曝资金流动混乱",
@@ -198,126 +370,66 @@
           "time_info": "[00时31分 ~ 01时25分]"
         },
         {
-          "title": "美国财政部拍卖220亿美元30年期国债，得标利率4.773%。",
-          "url": "https://wallstreetcn.com/livenews/3019366",
-          "source": "华尔街见闻-快讯",
+          "title": "美国财政部网站发布针对委内瑞拉的新制裁措施。",
+          "url": "https://flash.jin10.com/detail/20251212030432386800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            18
+            3,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时20分]"
+          "time_info": "[03时20分 ~ 04时24分]"
         },
         {
-          "title": "中国“空中航母”首飞成功",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E7%A9%BA%E4%B8%AD%E8%88%AA%E6%AF%8D%E2%80%9D%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
-        },
-        {
-          "title": "日本泛太平洋铜业公司同意延长2026年铜冶炼费用不变",
-          "url": "https://wallstreetcn.com/livenews/3019363",
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普今天稍晚将签署法案和行政命令。",
+          "url": "https://wallstreetcn.com/livenews/3019384",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            20
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时20分]"
+          "time_info": "[03时20分 ~ 04时24分]"
         },
         {
-          "title": "中国经济展现强劲韧性",
-          "url": "https://www.toutiao.com/trending/7581525248953335871/",
-          "source": "今日头条",
+          "title": "美媒：特朗普计划制裁马杜罗的侄子及多个运送委内瑞拉石油的公司",
+          "url": "https://flash.jin10.com/detail/20251212030051169800",
+          "source": "金十数据",
           "ranks": [
-            9
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时24分]"
+        },
+        {
+          "title": "46名中国公民从柬埔寨电诈园区获救",
+          "url": "https://www.baidu.com/s?wd=46%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%BB%8E%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E8%8E%B7%E6%95%91",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            25,
+            14
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "time_info": "[01时25分 ~ 04时24分]"
         },
         {
-          "title": "美军高官又狂了：中国造船速度遥遥领先，咱不得枕戈待旦啊",
-          "url": "https://news.ifeng.com/c/8ozxD78LjGA",
-          "source": "凤凰网",
+          "title": "日本民众东京集会反对日本军事扩张",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E4%B8%9C%E4%BA%AC%E9%9B%86%E4%BC%9A%E5%8F%8D%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E6%89%A9%E5%BC%A0",
+          "source": "百度热搜",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
-        },
-        {
-          "title": "美军扣押委内瑞拉油轮对中方有影响吗",
-          "url": "https://www.toutiao.com/trending/7582563454435724806/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            8,
-            13,
+            29,
+            23,
             15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
-        },
-        {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
-        },
-        {
-          "title": "外交部再次提醒近期避免前往日本",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%86%8D%E6%AC%A1%E6%8F%90%E9%86%92%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
-        },
-        {
-          "title": "智商洼地!日网民坚信中国制造地震",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347862&amp;topic_name=%E6%99%BA%E5%95%86%E6%B4%BC%E5%9C%B0%21%E6%97%A5%E7%BD%91%E6%B0%91%E5%9D%9A%E4%BF%A1%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E5%9C%B0%E9%9C%87",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
-        },
-        {
-          "title": "多国前政要给中国“李华”回感谢信",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9B%BD%E5%89%8D%E6%94%BF%E8%A6%81%E7%BB%99%E4%B8%AD%E5%9B%BD%E2%80%9C%E6%9D%8E%E5%8D%8E%E2%80%9D%E5%9B%9E%E6%84%9F%E8%B0%A2%E4%BF%A1",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            30,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 03时20分]"
+          "time_info": "[01时25分 ~ 04时24分]"
         },
         {
           "title": "UP主探访中国驻意大利大使馆",
@@ -333,6 +445,19 @@
           "time_info": "[01时25分 ~ 03时20分]"
         },
         {
+          "title": "多国前政要给中国“李华”回感谢信",
+          "url": "https://www.toutiao.com/trending/7582543828705280006/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时31分 ~ 04时24分]"
+        },
+        {
           "title": "泰国总理给特朗普“泼冷水”",
           "url": "https://www.toutiao.com/trending/7582421562226655268/",
           "source": "今日头条",
@@ -343,30 +468,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时31分 ~ 02时31分]"
-        },
-        {
-          "title": "日本民众东京集会反对日本军事扩张",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E4%B8%9C%E4%BA%AC%E9%9B%86%E4%BC%9A%E5%8F%8D%E5%AF%B9%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E6%89%A9%E5%BC%A0",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时20分]"
-        },
-        {
-          "title": "46名中国公民从柬埔寨电诈园区获救",
-          "url": "https://www.baidu.com/s?wd=46%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E4%BB%8E%E6%9F%AC%E5%9F%94%E5%AF%A8%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E8%8E%B7%E6%95%91",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时20分]"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率上扬至6.22%。",
@@ -381,6 +482,18 @@
           "time_info": "[01时25分 ~ 02时31分]"
         },
         {
+          "title": "美国已经罗列出未来可能会截获的目标油轮清单。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3019380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时24分]"
+        },
+        {
           "title": "莫迪同特朗普就贸易和能源等问题通电话",
           "url": "https://wallstreetcn.com/livenews/3019357",
           "source": "华尔街见闻-快讯",
@@ -391,6 +504,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时31分 ~ 03时20分]"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普今天稍晚时候将签署法案和行政令。",
+          "url": "https://flash.jin10.com/detail/20251212025601886800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时24分]"
         },
         {
           "title": "印度与美国结束为期两天的贸易磋商。（PTI）",
@@ -405,6 +530,42 @@
           "time_info": "[01时25分 ~ 02时31分]"
         },
         {
+          "title": "美国白宫：将确保英伟达Blackwell芯片留在美国。",
+          "url": "https://wallstreetcn.com/livenews/3019383",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时24分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，（美联储）应该在降息方面做得更多。",
+          "url": "https://wallstreetcn.com/livenews/3019377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时24分]"
+        },
+        {
+          "title": "美国白宫就委内瑞拉问题表态称，美国总统特朗普认为，扣押油轮是落实美国制裁政策的举措。",
+          "url": "https://flash.jin10.com/detail/20251212025211680800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时24分]"
+        },
+        {
           "title": "美国联邦住房金融局(FHFA)局长Bill Pulte：将（加州）旧金山办公室搬迁至阿拉巴马州。",
           "url": "https://wallstreetcn.com/livenews/3019337",
           "source": "华尔街见闻-快讯",
@@ -415,6 +576,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时25分 ~ 02时31分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国特使Witkoff和团队继续与乌克兰和俄罗斯磋商。 乌克兰问题久拖不决让总统特朗普“感到极端受挫”。",
+          "url": "https://wallstreetcn.com/livenews/3019375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时24分]"
+        },
+        {
+          "title": "美国白宫就加沙问题表态称，将在适当时候发表声明。",
+          "url": "https://flash.jin10.com/detail/20251212024956879800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时24分]"
+        },
+        {
+          "title": "消息人士：美国准备在委内瑞拉海岸扣押更多油轮",
+          "url": "https://flash.jin10.com/detail/20251212024941822800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时24分]"
         },
         {
           "title": "普京与马杜罗通电话，俄方重申对委内瑞拉政府支持",
@@ -441,6 +638,30 @@
           "time_info": "[01时25分 ~ 02时31分]"
         },
         {
+          "title": "美国白宫新闻秘书Leavitt在新闻发布会上宣称：将依法对截获的委内瑞拉石油进行处置。 不允许被制裁的油轮航行。",
+          "url": "https://wallstreetcn.com/livenews/3019373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时24分]"
+        },
+        {
+          "title": "美国白宫就加沙问题表示，和平计划下一阶段正进行大量低调的规划。",
+          "url": "https://flash.jin10.com/detail/20251212024918339800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时24分]"
+        },
+        {
           "title": "美国12月5日当周EIA天然气库存变动 -1770亿立方英尺，预期 -1660亿立方英尺，前值 -120亿立方英尺。",
           "url": "https://wallstreetcn.com/livenews/3019315",
           "source": "华尔街见闻-快讯",
@@ -465,16 +686,76 @@
           "time_info": "[02时31分 ~ 03时20分]"
         },
         {
-          "title": "多国前政要给中国“李华”回感谢信",
-          "url": "https://www.toutiao.com/trending/7582543828705280006/",
-          "source": "今日头条",
+          "title": "美国白宫：自会面以来，特朗普已经与日本首相高市早苗有过几次交谈。",
+          "url": "https://flash.jin10.com/detail/20251212024525907800",
+          "source": "金十数据",
           "ranks": [
-            25,
-            20
+            14,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时31分 ~ 03时20分]"
+          "time_info": "[03时20分 ~ 04时24分]"
+        },
+        {
+          "title": "美国国安新战略为何表明美国准备出卖全世界？",
+          "url": "https://www.zhihu.com/question/1981652083473150962",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时24分]"
+        },
+        {
+          "title": "美国白宫：美国制造的产品成本可能会（比进口商品）“高出1—2美元”。",
+          "url": "https://flash.jin10.com/detail/20251212024430802800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时24分]"
+        },
+        {
+          "title": "特朗普抱怨从拜登处继承了烂摊子 质疑其取得的成就何时能取得认可",
+          "url": "https://flash.jin10.com/detail/20251212024314875800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时24分]"
+        },
+        {
+          "title": "美国总统特朗普：关税带来了数千亿美元的收入，我们作为一个国家再次受到尊重。",
+          "url": "https://flash.jin10.com/detail/20251212024049720800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时24分]"
+        },
+        {
+          "title": "学者：美国对华“新冷战”战略失败",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%A6%E8%80%85%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%AF%B9%E5%8D%8E%E2%80%9C%E6%96%B0%E5%86%B7%E6%88%98%E2%80%9D%E6%88%98%E7%95%A5%E5%A4%B1%E8%B4%A5",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时24分]"
         },
         {
           "title": "乌克兰总统泽连斯基：最新草案将乌克兰军队规模定为80万人。",
@@ -499,15 +780,26 @@
           "time_info": "02时31分"
         },
         {
-          "title": "美国已经罗列出未来可能会截获的目标油轮清单。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3019380",
+          "title": "美国财长贝森特：金融稳定监督委员会将成立市场和家庭韧性以及人工智能工作组。",
+          "url": "https://flash.jin10.com/detail/20251212032847751800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美众议院有关弹劾总统特朗普的动议经表决后被搁置",
+          "url": "https://wallstreetcn.com/livenews/3019392",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "04时24分"
         },
         {
           "title": "乌克兰总统泽连斯基：美国尚未就和平提案给出明确期限。",
@@ -521,13 +813,24 @@
           "time_info": "00时31分"
         },
         {
+          "title": "美国财长贝森特：金融稳定监督委员会将重点关注经济增长以及金融监管规则带来的“不当负担”。",
+          "url": "https://flash.jin10.com/detail/20251212032840432800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国制造的产品成本可能会（比进口商品）“高出1-2美元”。",
           "url": "https://wallstreetcn.com/livenews/3019378",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -543,26 +846,26 @@
           "time_info": "00时31分"
         },
         {
-          "title": "美国白宫：美国总统特朗普今天稍晚时候将签署法案和行政令。",
-          "url": "https://flash.jin10.com/detail/20251212025601886800",
+          "title": "美国商品期货交易委员会（CFTC）：代理主席宣布撤回过时的数字资产指引。",
+          "url": "https://flash.jin10.com/detail/20251212032217605800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "04时24分"
         },
         {
-          "title": "美国白宫：将确保英伟达Blackwell芯片留在美国。",
-          "url": "https://wallstreetcn.com/livenews/3019383",
+          "title": "美国商品期货交易委员会（CFTC）：鉴于加密货币市场的发展形势，撤销过时的数字资产指导意见。",
+          "url": "https://wallstreetcn.com/livenews/3019390",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "04时24分"
         },
         {
           "title": "乌克兰总统泽连斯基：领土问题仍在讨论中。",
@@ -576,15 +879,26 @@
           "time_info": "00时31分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，（美联储）应该在降息方面做得更多。",
-          "url": "https://wallstreetcn.com/livenews/3019377",
+          "title": "市场消息：美国财政部计划扩大特朗普政府为企业提供的税收减免，该方案将扩大研发企业税收减免的适用范围。",
+          "url": "https://flash.jin10.com/detail/20251212032152670800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "美国财政部计划增加特朗普时期对企业的税收优惠",
+          "url": "https://wallstreetcn.com/livenews/3019389",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "04时24分"
         },
         {
           "title": "乌克兰总统泽连斯基：框架设想包括20点和平计划、安全保障以及重建乌克兰的协议。",
@@ -620,26 +934,15 @@
           "time_info": "02时31分"
         },
         {
-          "title": "美国白宫就委内瑞拉问题表态称，美国总统特朗普认为，扣押油轮是落实美国制裁政策的举措。",
-          "url": "https://flash.jin10.com/detail/20251212025211680800",
+          "title": "美国财长贝森特：金融稳定监督委员会正优先考虑可持续的长期经济增长和经济安全，推动监管现代化，培育一个支持韧性的金融体系。",
+          "url": "https://flash.jin10.com/detail/20251212032051877800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国特使Witkoff和团队继续与乌克兰和俄罗斯磋商。 乌克兰问题久拖不决让总统特朗普“感到极端受挫”。",
-          "url": "https://wallstreetcn.com/livenews/3019375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "04时24分"
         },
         {
           "title": "乌克兰总统泽连斯基：俄罗斯要求乌克兰从顿巴斯地区全面撤军。",
@@ -664,15 +967,15 @@
           "time_info": "02时31分"
         },
         {
-          "title": "美国白宫就加沙问题表态称，将在适当时候发表声明。",
-          "url": "https://flash.jin10.com/detail/20251212024956879800",
+          "title": "据AXIOS网站报道，预计美国高级官员将于周六在巴黎与乌克兰、法国、德国和英国的国家安全顾问会面，讨论特朗普的俄乌和平计划。白宫新闻秘书莱维特称，如果总统认为值得花费时间，美国将于周六派代表团参加在巴黎举行的会谈。",
+          "url": "https://flash.jin10.com/detail/20251212032018653800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "04时24分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰人应通过公投决定是否做出领土让步。",
@@ -697,28 +1000,6 @@
           "time_info": "01时25分"
         },
         {
-          "title": "消息人士：美国准备在委内瑞拉海岸扣押更多油轮",
-          "url": "https://flash.jin10.com/detail/20251212024941822800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "美国白宫新闻秘书Leavitt在新闻发布会上宣称：将依法对截获的委内瑞拉石油进行处置。 不允许被制裁的油轮航行。",
-          "url": "https://wallstreetcn.com/livenews/3019373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
           "title": "乌克兰总统泽连斯基：俄罗斯从哈尔科夫、苏梅和第聂伯罗彼得罗夫斯克地区的部分领土撤军是讨论内容之一。",
           "url": "https://flash.jin10.com/detail/20251212000227195800",
           "source": "金十数据",
@@ -739,17 +1020,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
-        },
-        {
-          "title": "美国白宫就加沙问题表示，和平计划下一阶段正进行大量低调的规划。",
-          "url": "https://flash.jin10.com/detail/20251212024918339800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
         },
         {
           "title": "美国劳工统计局（BLS）：将于1月30日发布美国12月PPI。",
@@ -785,17 +1055,6 @@
           "time_info": "02时31分"
         },
         {
-          "title": "美国白宫：自会面以来，特朗普已经与日本首相高市早苗有过几次交谈。",
-          "url": "https://flash.jin10.com/detail/20251212024525907800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
           "title": "美国财政部拍卖八周期国债，得标利率3.61%，投标倍数2.79。",
           "url": "https://wallstreetcn.com/livenews/3019333",
           "source": "华尔街见闻-快讯",
@@ -829,17 +1088,6 @@
           "time_info": "02时31分"
         },
         {
-          "title": "美国白宫：美国制造的产品成本可能会（比进口商品）“高出1—2美元”。",
-          "url": "https://flash.jin10.com/detail/20251212024430802800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
           "title": "德国DAX 30指数初步收涨0.71%，报24300.85点。 法国股指初步收涨0.83%，意大利股指初步收涨0.64%、银行指数涨1.79%，英国股指初步收涨0.51%。",
           "url": "https://wallstreetcn.com/livenews/3019332",
           "source": "华尔街见闻-快讯",
@@ -851,15 +1099,15 @@
           "time_info": "01时25分"
         },
         {
-          "title": "美国国安新战略为何表明美国准备出卖全世界？",
-          "url": "https://www.zhihu.com/question/1981652083473150962",
-          "source": "知乎",
+          "title": "白宫新闻秘书：购买美国制造的商品可能要“多花一两美元”",
+          "url": "https://wallstreetcn.com/livenews/3019378",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时20分"
+          "time_info": "04时24分"
         },
         {
           "title": "美国劳工统计局：将于1月30日发布美国12月PPI数据。",
@@ -873,17 +1121,6 @@
           "time_info": "01时25分"
         },
         {
-          "title": "特朗普抱怨从拜登处继承了烂摊子 质疑其取得的成就何时能取得认可",
-          "url": "https://flash.jin10.com/detail/20251212024314875800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
           "title": "法国财长：希腊财长Pierrakakis被任命为欧元集团主席。",
           "url": "https://flash.jin10.com/detail/20251212004106719800",
           "source": "金十数据",
@@ -893,17 +1130,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
-        },
-        {
-          "title": "美国总统特朗普：关税带来了数千亿美元的收入，我们作为一个国家再次受到尊重。",
-          "url": "https://flash.jin10.com/detail/20251212024049720800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
         },
         {
           "title": "美国9月批发销售环比 -0.2%，预期 0.4%，前值 0.1%。",
@@ -934,7 +1160,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -978,7 +1204,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -1044,7 +1270,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -1088,7 +1314,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -1121,7 +1347,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -1135,17 +1361,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
-        },
-        {
-          "title": "学者：美国对华“新冷战”战略失败",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%A6%E8%80%85%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%AF%B9%E5%8D%8E%E2%80%9C%E6%96%B0%E5%86%B7%E6%88%98%E2%80%9D%E6%88%98%E7%95%A5%E5%A4%B1%E8%B4%A5",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
         },
         {
           "title": "美国至12月11日4周国债竞拍-得标利率配置百分比 7.36%，前值40.97%。",
@@ -1176,7 +1391,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -1220,7 +1435,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -1242,7 +1457,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -1264,7 +1479,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -1297,7 +1512,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
@@ -1319,7 +1534,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         },
