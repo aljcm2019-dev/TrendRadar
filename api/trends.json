@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T14:33:50.493925+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2025-12-12T15:23:37.973449+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 308,
+      "match_count": 320,
       "titles": [
         {
           "title": "从全球视野看中国经济发展大逻辑",
@@ -47,6 +47,19 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
+          "title": "美国上周首申人数增4.4万人，创2020年来最大增幅，续请人数骤降至8个月低点",
+          "url": "https://wallstreetcn.com/articles/3761205",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时24分 ~ 15时23分]"
+        },
+        {
           "title": "紧急提醒：请在日中国公民进行登记",
           "url": "https://www.baidu.com/s?wd=%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%EF%BC%9A%E8%AF%B7%E5%9C%A8%E6%97%A5%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%9B%E8%A1%8C%E7%99%BB%E8%AE%B0",
           "source": "百度热搜",
@@ -85,19 +98,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时41分 ~ 14时33分]"
-        },
-        {
-          "title": "美国上周首申人数增4.4万人，创2020年来最大增幅，续请人数骤降至8个月低点",
-          "url": "https://wallstreetcn.com/articles/3761205",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时24分 ~ 14时33分]"
         },
         {
           "title": "针对美国会年度报告，香港、澳门特区政府同日发声",
@@ -175,8 +175,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 14时33分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 15时23分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -192,26 +192,18 @@
           "time_info": "[00时31分 ~ 07时25分]"
         },
         {
-          "title": "美国北极大使空缺近1年，美议员敦促鲁比奥：别让中国…",
-          "url": "https://news.ifeng.com/c/8p1Itj9nawH",
-          "source": "凤凰网",
+          "title": "日本本州东部发生6.8级地震",
+          "url": "https://www.toutiao.com/trending/7581689499957854271/",
+          "source": "今日头条",
           "ranks": [
-            4
+            8,
+            1,
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时33分]"
-        },
-        {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时34分 ~ 14时33分]"
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 15时23分]"
         },
         {
           "title": "日本民众东京集会反对日本军事扩张",
@@ -263,17 +255,16 @@
           "time_info": "[00时31分 ~ 09时41分]"
         },
         {
-          "title": "日本本州东部发生6.8级地震",
-          "url": "https://www.toutiao.com/trending/7581689499957854271/",
-          "source": "今日头条",
+          "title": "美国北极大使空缺近1年，美议员敦促鲁比奥：别让中国…",
+          "url": "https://news.ifeng.com/c/8p1Itj9nawH",
+          "source": "凤凰网",
           "ranks": [
-            8,
-            1,
-            2
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时33分]"
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 15时23分]"
         },
         {
           "title": "多国前政要给中国“李华”回感谢信",
@@ -308,6 +299,30 @@
           "time_info": "[02时31分 ~ 07时25分]"
         },
         {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时34分 ~ 15时23分]"
+        },
+        {
+          "title": "日本高市内阁被曝丑闻：外相涉嫌将政治资金用于奢侈品牌消费",
+          "url": "https://news.ifeng.com/c/8p1KgpgNO8P",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时34分 ~ 15时23分]"
+        },
+        {
           "title": "美国财政部颁布对委内瑞拉新制裁措施",
           "url": "https://news.ifeng.com/c/8p0kofqJKmN",
           "source": "凤凰网",
@@ -320,17 +335,30 @@
           "time_info": "[07时24分 ~ 09时41分]"
         },
         {
+          "title": "特朗普拉小群,想拿C5替代G7",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 15时23分]"
+        },
+        {
           "title": "泽连斯基：认可战后乌保留80万军队",
           "url": "https://www.toutiao.com/trending/7582731661851492403/",
           "source": "今日头条",
           "ranks": [
             2,
             4,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时34分 ~ 14时33分]"
+          "appearance_count": 5,
+          "time_info": "[12时34分 ~ 15时23分]"
         },
         {
           "title": "美国要建C5世界惊了欧洲懵了",
@@ -357,6 +385,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时20分 ~ 07时25分]"
+        },
+        {
+          "title": "韩国艺人“鸟叔”被警方强制调查",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%89%BA%E4%BA%BA%E2%80%9C%E9%B8%9F%E5%8F%94%E2%80%9D%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BC%BA%E5%88%B6%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 15时23分]"
+        },
+        {
+          "title": "日本秋田县发生列车脱轨事故，伤亡情况不明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32160695",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时41分 ~ 15时23分]"
         },
         {
           "title": "学者：美国对华“新冷战”战略失败",
@@ -397,18 +449,6 @@
           "time_info": "[09时41分 ~ 11时24分]"
         },
         {
-          "title": "特朗普拉小群,想拿C5替代G7",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时33分]"
-        },
-        {
           "title": "日本前将领称珍珠港事件是美国栽赃",
           "url": "https://www.toutiao.com/trending/7582051109947932681/",
           "source": "今日头条",
@@ -434,6 +474,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时41分 ~ 13时21分]"
+        },
+        {
+          "title": "日本附近海域发生6.8级地震",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F%E5%8F%91%E7%94%9F6.8%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            10,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 15时23分]"
         },
         {
           "title": "美国环境保护署一名高级官员表示，美国环境保护署正考虑将实施美国前总统拜登任内通过的车辆污染法规的时间推迟两年。",
@@ -469,28 +523,29 @@
           "time_info": "11时24分"
         },
         {
-          "title": "韩国艺人“鸟叔”被警方强制调查",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%89%BA%E4%BA%BA%E2%80%9C%E9%B8%9F%E5%8F%94%E2%80%9D%E8%A2%AB%E8%AD%A6%E6%96%B9%E5%BC%BA%E5%88%B6%E8%B0%83%E6%9F%A5",
-          "source": "百度热搜",
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
           "ranks": [
-            15,
+            11,
             12
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时41分 ~ 14时33分]"
+          "time_info": "[11时24分 ~ 15时23分]"
         },
         {
-          "title": "日本秋田县发生列车脱轨事故，伤亡情况不明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32160695",
+          "title": "中方提醒中国公民暂勿前往日本是否为了反制高市涉台言论？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32154235",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            15
+            17,
+            18,
+            14
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时41分 ~ 14时33分]"
+          "time_info": "[11时24分 ~ 15时23分]"
         },
         {
           "title": "美国拟要求免签游客提供5年社媒记录",
@@ -528,15 +583,28 @@
           "time_info": "09时41分"
         },
         {
-          "title": "据韩联社：摩根大通资产管理公司策略师Kerry Craig驳斥人工智能泡沫担忧，对韩国KOSPI指数表示乐观。",
-          "url": "https://flash.jin10.com/detail/20251212142602428800",
-          "source": "金十数据",
+          "title": "报道：日本央行下周或不会发布中性利率的最新估算",
+          "url": "https://wallstreetcn.com/livenews/3019715",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "15时23分"
+        },
+        {
+          "title": "日本海域6.8级地震",
+          "url": "https://www.douyin.com/hot/2334051",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 15时23分]"
         },
         {
           "title": "乌克兰总统泽连斯基：确保选举的合法性至关重要。",
@@ -627,6 +695,17 @@
           "time_info": "09时41分"
         },
         {
+          "title": "日本年度汉字为熊",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B9%B4%E5%BA%A6%E6%B1%89%E5%AD%97%E4%B8%BA%E7%86%8A%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "美国想和中俄印日组建核心五国",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%83%B3%E5%92%8C%E4%B8%AD%E4%BF%84%E5%8D%B0%E6%97%A5%E7%BB%84%E5%BB%BA%E6%A0%B8%E5%BF%83%E4%BA%94%E5%9B%BD%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -639,6 +718,18 @@
           "time_info": "[11时24分 ~ 12时35分]"
         },
         {
+          "title": "美国AIDC热推高燃气轮机需求 中美概念股“同此凉热”",
+          "url": "https://www.cls.cn/detail/2227459",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时34分 ~ 15时23分]"
+        },
+        {
           "title": "中兴通讯股价大跌，公司称正与美国司法部就有关事项进行沟通，释放出哪些信号 ？",
           "url": "https://www.zhihu.com/question/1982479594176127837",
           "source": "知乎",
@@ -649,6 +740,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时24分 ~ 12时35分]"
+        },
+        {
+          "title": "金灿荣：美国新战略报告对华退让？错，可能酝酿着某种冲突",
+          "url": "https://news.ifeng.com/c/8p1Vbd69PCB",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰与美国将于周四通电话，讨论安全保障问题。",
@@ -717,18 +819,18 @@
           "time_info": "05时23分"
         },
         {
-          "title": "日本附近海域发生6.8级地震",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%99%84%E8%BF%91%E6%B5%B7%E5%9F%9F%E5%8F%91%E7%94%9F6.8%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "title": "李在明下令：不分朝野 彻查到底",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%B8%8B%E4%BB%A4%EF%BC%9A%E4%B8%8D%E5%88%86%E6%9C%9D%E9%87%8E+%E5%BD%BB%E6%9F%A5%E5%88%B0%E5%BA%95",
           "source": "百度热搜",
           "ranks": [
-            6,
-            10,
+            24,
+            21,
             19,
-            25
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时33分]"
+          "time_info": "[12时34分 ~ 15时23分]"
         },
         {
           "title": "中兴通讯午后大跌，公司称正与美国司法部就有关事项进行沟通",
@@ -755,35 +857,11 @@
           "time_info": "[11时24分 ~ 14时33分]"
         },
         {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时33分]"
-        },
-        {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
           "url": "https://news.ifeng.com/c/8p1EpDusf8A",
           "source": "凤凰网",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 14时33分]"
-        },
-        {
-          "title": "中方提醒中国公民暂勿前往日本是否为了反制高市涉台言论？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32154235",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            14
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -848,19 +926,6 @@
             2,
             8,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 14时33分]"
-        },
-        {
-          "title": "日本海域6.8级地震",
-          "url": "https://www.douyin.com/hot/2334051",
-          "source": "抖音",
-          "ranks": [
-            10,
-            7,
-            3
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -944,17 +1009,6 @@
           "time_info": "[12时35分 ~ 14时33分]"
         },
         {
-          "title": "日本高市内阁被曝丑闻：外相涉嫌将政治资金用于奢侈品牌消费",
-          "url": "https://news.ifeng.com/c/8p1KgpgNO8P",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时34分 ~ 14时33分]"
-        },
-        {
           "title": "据AXIOS网站：特朗普政府计划任命一名美国少将指挥驻加沙国际稳定部队（ISF）。",
           "url": "https://flash.jin10.com/detail/20251212040044595800",
           "source": "金十数据",
@@ -1029,6 +1083,18 @@
           "time_info": "[04时24分 ~ 05时23分]"
         },
         {
+          "title": "据韩联社：摩根大通资产管理公司策略师Kerry Craig驳斥人工智能泡沫担忧，对韩国KOSPI指数表示乐观。",
+          "url": "https://flash.jin10.com/detail/20251212142602428800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时23分]"
+        },
+        {
           "title": "高市早苗所属自民党支部被曝资金流动混乱",
           "url": "https://wallstreetcn.com/livenews/3019328",
           "source": "华尔街见闻-快讯",
@@ -1051,18 +1117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 14时33分]"
-        },
-        {
-          "title": "美国AIDC热推高燃气轮机需求 中美概念股“同此凉热”",
-          "url": "https://www.cls.cn/detail/2227459",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时34分 ~ 14时33分]"
         },
         {
           "title": "美国财政部网站发布针对委内瑞拉的新制裁措施。",
@@ -1138,19 +1192,6 @@
           "time_info": "[09时41分 ~ 12时35分]"
         },
         {
-          "title": "李在明下令：不分朝野 彻查到底",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%B8%8B%E4%BB%A4%EF%BC%9A%E4%B8%8D%E5%88%86%E6%9C%9D%E9%87%8E+%E5%BD%BB%E6%9F%A5%E5%88%B0%E5%BA%95",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时34分 ~ 14时33分]"
-        },
-        {
           "title": "日本民众东京集会反对日本军事扩张",
           "url": "https://www.toutiao.com/trending/7582214204497920038/",
           "source": "今日头条",
@@ -1201,6 +1242,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 05时23分]"
+        },
+        {
+          "title": "日本极右翼分子对美国“开火”了",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9E%81%E5%8F%B3%E7%BF%BC%E5%88%86%E5%AD%90%E5%AF%B9%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BC%80%E7%81%AB%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时21分 ~ 15时23分]"
         },
         {
           "title": "日本品牌在中国市场集体“败退”",
@@ -1271,6 +1324,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 13时21分]"
+        },
+        {
+          "title": "第一阿布扎比银行：美国未来几个月的利率前景已处于拐点",
+          "url": "https://flash.jin10.com/detail/20251212142043772800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时23分]"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率上扬至6.22%。",
@@ -1489,6 +1554,18 @@
           "time_info": "[12时35分 ~ 13时21分]"
         },
         {
+          "title": "日本已发布海啸预警",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%8F%91%E5%B8%83%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时23分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，（美联储）应该在降息方面做得更多。",
           "url": "https://wallstreetcn.com/livenews/3019377",
           "source": "华尔街见闻-快讯",
@@ -1537,16 +1614,16 @@
           "time_info": "[11时24分 ~ 12时35分]"
         },
         {
-          "title": "日本极右翼分子对美国“开火”了",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9E%81%E5%8F%B3%E7%BF%BC%E5%88%86%E5%AD%90%E5%AF%B9%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BC%80%E7%81%AB%E2%80%9D%E4%BA%86",
-          "source": "百度热搜",
+          "title": "美国政府绝密报告里的中国，让“阅读的官员脸色煞白”",
+          "url": "https://news.ifeng.com/c/8p1REJNEcjI",
+          "source": "凤凰网",
           "ranks": [
             10,
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时33分]"
+          "time_info": "[14时33分 ~ 15时23分]"
         },
         {
           "title": "美国白宫就委内瑞拉问题表态称，美国总统特朗普认为，扣押油轮是落实美国制裁政策的举措。",
@@ -1559,6 +1636,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时24分]"
+        },
+        {
+          "title": "伊朗外交部谴责美国违背联合国东道国义务",
+          "url": "https://flash.jin10.com/detail/20251212141346689800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时23分]"
         },
         {
           "title": "美国联邦住房金融局(FHFA)局长Bill Pulte：将（加州）旧金山办公室搬迁至阿拉巴马州。",
@@ -1621,6 +1710,18 @@
           "time_info": "[03时20分 ~ 04时24分]"
         },
         {
+          "title": "40年期日本国债收益率下跌3.5个基点，至3.670%。",
+          "url": "https://flash.jin10.com/detail/20251212141127145800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时23分]"
+        },
+        {
           "title": "据中国地震台网自动测定：12月12日10时44分在日本本州东岸远海附近发生6.7级左右地震。",
           "url": "https://wallstreetcn.com/livenews/3019565",
           "source": "华尔街见闻-快讯",
@@ -1643,6 +1744,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 04时24分]"
+        },
+        {
+          "title": "2年期日本国债收益率上升1.5个基点，至1.065%。",
+          "url": "https://flash.jin10.com/detail/20251212141108433800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时23分]"
         },
         {
           "title": "普京与马杜罗通电话，俄方重申对委内瑞拉政府支持",
@@ -1788,6 +1901,18 @@
           "time_info": "[12时35分 ~ 13时21分]"
         },
         {
+          "title": "日本自卫队就训练火箭弹脱靶致歉",
+          "url": "https://www.douyin.com/hot/2333726",
+          "source": "抖音",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时23分]"
+        },
+        {
           "title": "美国白宫：自会面以来，特朗普已经与日本首相高市早苗有过几次交谈。",
           "url": "https://flash.jin10.com/detail/20251212024525907800",
           "source": "金十数据",
@@ -1812,6 +1937,18 @@
           "time_info": "[03时20分 ~ 04时24分]"
         },
         {
+          "title": "日网民怒斥日本防卫大臣欺骗大众",
+          "url": "https://www.toutiao.com/trending/7582798644684787241/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时23分]"
+        },
+        {
           "title": "美国至12月5日当周外国央行持有美国国债 54.29亿美元，前值38.29亿美元。",
           "url": "https://flash.jin10.com/detail/20251212053139036800",
           "source": "金十数据",
@@ -1834,6 +1971,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时23分]"
+        },
+        {
+          "title": "白宫的回应让日本舆论失望了",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E7%9A%84%E5%9B%9E%E5%BA%94%E8%AE%A9%E6%97%A5%E6%9C%AC%E8%88%86%E8%AE%BA%E5%A4%B1%E6%9C%9B%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时23分]"
+        },
+        {
+          "title": "打卡中国｜在军旗升起的地方，Citywalk南昌红色坐标系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32160756",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时23分]"
         },
         {
           "title": "特朗普抱怨从拜登处继承了烂摊子 质疑其取得的成就何时能取得认可",
@@ -1881,6 +2041,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时34分 ~ 12时35分]"
+        },
+        {
+          "title": "泽连斯基：认可战后乌保留80万军队",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E8%AE%A4%E5%8F%AF%E6%88%98%E5%90%8E%E4%B9%8C%E4%BF%9D%E7%95%9980%E4%B8%87%E5%86%9B%E9%98%9F",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 15时23分]"
         },
         {
           "title": "石破茂再批高市早苗错误言论",
@@ -1949,17 +2121,6 @@
           "time_info": "11时24分"
         },
         {
-          "title": "第一阿布扎比银行：美国未来几个月的利率前景已处于拐点",
-          "url": "https://flash.jin10.com/detail/20251212142043772800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
           "title": "标普500指数初步收涨0.2%，原材料板块涨2.1%，金融板块涨1.8%，科技板块跌0.7%，电信板块跌1.1%。 纳斯达克100指数初步收跌0.3%，成分股中，Trade Desk初步收跌5.3%，Arm控股跌3.8%，迈威尔科技跌3.5%，英特尔跌3.3%，谷歌A跌2.5%，美光科技跌2.2%，Adobe则收涨2.1%，再生元制药涨2.7%，Linde Plc.涨2.7%，万豪国际涨3.3%，核电股Constellation Energy涨4.3%。 Visa初步收涨6.3%，领跑道指成分股，耐克涨2.9%，高盛涨2.8%，美国运通涨2.7%，Salesforce则跌0.8%表现倒数第五，亚马逊跌0.9%，思科跌1.2%，可口可乐跌1.5%，英伟达跌1.6%。",
           "url": "https://wallstreetcn.com/livenews/3019406",
           "source": "华尔街见闻-快讯",
@@ -1980,6 +2141,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        },
+        {
+          "title": "白宫回应中日冲突 日本舆论失望",
+          "url": "https://www.toutiao.com/trending/7582468062239096895/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "特朗普：只有泽连斯基不喜欢和平计划",
+          "url": "https://news.ifeng.com/c/8p1VFhun2fI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "乌克兰总统泽连斯基：美国尚未就和平提案给出明确期限。",
@@ -2032,7 +2215,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -2070,6 +2253,17 @@
           "time_info": "11时24分"
         },
         {
+          "title": "印尼力争在年底前与美国达成关税协议",
+          "url": "https://flash.jin10.com/detail/20251212143346044800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "中国央行公开市场开展1205亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日1398亿元逆回购到期。",
           "url": "https://wallstreetcn.com/livenews/3019509",
           "source": "华尔街见闻-快讯",
@@ -2087,20 +2281,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
         {
-          "title": "日本已发布海啸预警",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%B7%B2%E5%8F%91%E5%B8%83%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6",
-          "source": "bilibili 热搜",
+          "title": "北约秘书长吓唬欧洲：再不提高国防开支，俄罗斯就要打过来了",
+          "url": "https://news.ifeng.com/c/8p1VFhun2bd",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "15时23分"
         },
         {
           "title": "乌克兰总统泽连斯基：领土问题仍在讨论中。",
@@ -2158,15 +2352,15 @@
           "time_info": "13时21分"
         },
         {
-          "title": "美国政府绝密报告里的中国，让“阅读的官员脸色煞白”",
-          "url": "https://news.ifeng.com/c/8p1REJNEcjI",
+          "title": "美国空军部长：中国真不是抄袭美国，人家自主创新",
+          "url": "https://news.ifeng.com/c/8p1P33dQ49P",
           "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "15时23分"
         },
         {
           "title": "乌克兰总统泽连斯基：框架设想包括20点和平计划、安全保障以及重建乌克兰的协议。",
@@ -2246,24 +2440,13 @@
           "time_info": "13时21分"
         },
         {
-          "title": "伊朗外交部谴责美国违背联合国东道国义务",
-          "url": "https://flash.jin10.com/detail/20251212141346689800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
           "title": "台积电日本第二工厂或转向4纳米芯片生产 以应对AI需求",
           "url": "https://wallstreetcn.com/livenews/3019647",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -2356,17 +2539,6 @@
           "time_info": "13时21分"
         },
         {
-          "title": "40年期日本国债收益率下跌3.5个基点，至3.670%。",
-          "url": "https://flash.jin10.com/detail/20251212141127145800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
           "title": "乌克兰总统泽连斯基：乌克兰人应通过公投决定是否做出领土让步。",
           "url": "https://flash.jin10.com/detail/20251212000237731800",
           "source": "金十数据",
@@ -2420,17 +2592,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
-        },
-        {
-          "title": "2年期日本国债收益率上升1.5个基点，至1.065%。",
-          "url": "https://flash.jin10.com/detail/20251212141108433800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
         },
         {
           "title": "日本政府发布紧急地震预警。 日本气象厅称，地震初步震级为6.8级，在青森县近海；地震烈度为4级（最高7级）。 日本地震导致东京建筑物轻微摇晃。 据NHK，日本地震后预计不会发生海啸灾害。",
@@ -2516,18 +2677,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "日本自卫队就训练火箭弹脱靶致歉",
-          "url": "https://www.douyin.com/hot/2333726",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -2664,17 +2814,6 @@
           "time_info": "07时25分"
         },
         {
-          "title": "日网民怒斥日本防卫大臣欺骗大众",
-          "url": "https://www.toutiao.com/trending/7582798644684787241/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
           "title": "据美国投资公司协会（ICI）统计，美国货币市场基金资产规模创下7.655万亿美元的历史新高。",
           "url": "https://flash.jin10.com/detail/20251212042925196800",
           "source": "金十数据",
@@ -2703,18 +2842,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "打卡中国｜在军旗升起的地方，Citywalk南昌红色坐标系",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32160756",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -2769,9 +2897,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "分析师：政治干预可能使美国利率前景复杂化",
+          "url": "https://flash.jin10.com/detail/20251212142746874800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "富时中国A50指数期货盘初涨0.48%，上一个交易日夜盘收涨0.53%。",
@@ -2802,7 +2941,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -2978,7 +3117,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -3066,7 +3205,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -3088,7 +3227,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -3132,7 +3271,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -3165,7 +3304,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -3231,7 +3370,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -3275,7 +3414,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -3308,7 +3447,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -3374,7 +3513,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -3390,15 +3529,15 @@
           "time_info": "00时31分"
         },
         {
-          "title": "白宫的回应让日本舆论失望了",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E7%9A%84%E5%9B%9E%E5%BA%94%E8%AE%A9%E6%97%A5%E6%9C%AC%E8%88%86%E8%AE%BA%E5%A4%B1%E6%9C%9B%E4%BA%86",
-          "source": "百度热搜",
+          "title": "印度大学生情侣未婚先孕酿悲剧",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%83%85%E4%BE%A3%E6%9C%AA%E5%A9%9A%E5%85%88%E5%AD%95%E9%85%BF%E6%82%B2%E5%89%A7%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
           "ranks": [
-            26
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "15时23分"
         },
         {
           "title": "泽连斯基：乌方仍坚持先实现俄乌停火再签署相关协议",
@@ -3429,7 +3568,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -3495,7 +3634,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -3544,6 +3683,28 @@
           "time_info": "03时20分"
         },
         {
+          "title": "日经225指数收盘上涨1.4%，报50836.55点。日本东证指数收盘上涨2%。 韩国首尔综合指数收盘上涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3019677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "日本多处核设施据称震后无异常",
+          "url": "https://www.toutiao.com/trending/7582639617787084850/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "日本自卫队就训练火箭弹脱靶致歉",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E5%B0%B1%E8%AE%AD%E7%BB%83%E7%81%AB%E7%AE%AD%E5%BC%B9%E8%84%B1%E9%9D%B6%E8%87%B4%E6%AD%89",
           "source": "百度热搜",
@@ -3553,17 +3714,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时31分"
-        },
-        {
-          "title": "泽连斯基：认可战后乌保留80万军队",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E8%AE%A4%E5%8F%AF%E6%88%98%E5%90%8E%E4%B9%8C%E4%BF%9D%E7%95%9980%E4%B8%87%E5%86%9B%E9%98%9F",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
         },
         {
           "title": "市场消息：美国参议院民主党人阻挠了共和党医疗法案，该法案旨在取代即将到期的奥巴马医改补贴。",
