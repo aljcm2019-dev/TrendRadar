@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T07:20:41.129411+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2025-12-25T09:42:09.753234+08:00",
+  "total_titles_processed": 741,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 125,
+      "match_count": 160,
       "titles": [
         {
           "title": "升级！美国罕见制裁欧盟前官员",
@@ -13,28 +13,6 @@
           "source": "凤凰网",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "高市早苗又放话了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%88%E6%94%BE%E8%AF%9D%E4%BA%86%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "泽连斯基公布美乌“20点和平计划”草案，俄方回应",
-          "url": "https://news.ifeng.com/c/8pLyy4dXYWX",
-          "source": "凤凰网",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -53,6 +31,18 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
+          "title": "高市早苗又放话了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%88%E6%94%BE%E8%AF%9D%E4%BA%86%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时42分]"
+        },
+        {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
           "url": "https://news.ifeng.com/c/8pLddKy6eAN",
           "source": "凤凰网",
@@ -68,11 +58,23 @@
           "url": "https://news.ifeng.com/c/8pLwbZMCP7b",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时42分]"
+        },
+        {
+          "title": "一夜返贫!美国富翁也难逃斩杀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348353&amp;topic_name=%E4%B8%80%E5%A4%9C%E8%BF%94%E8%B4%AB%21%E7%BE%8E%E5%9B%BD%E5%AF%8C%E7%BF%81%E4%B9%9F%E9%9A%BE%E9%80%83%E6%96%A9%E6%9D%80",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时42分]"
         },
         {
           "title": "为何是2027年？“美国想保留筹码，但中国手里有王牌”",
@@ -99,27 +101,16 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
-          "title": "一夜返贫!美国富翁也难逃斩杀",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348353&amp;topic_name=%E4%B8%80%E5%A4%9C%E8%BF%94%E8%B4%AB%21%E7%BE%8E%E5%9B%BD%E5%AF%8C%E7%BF%81%E4%B9%9F%E9%9A%BE%E9%80%83%E6%96%A9%E6%9D%80",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
-          "title": "日本一无人岛密密麻麻都是北海狮",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E6%97%A0%E4%BA%BA%E5%B2%9B%E5%AF%86%E5%AF%86%E9%BA%BB%E9%BA%BB%E9%83%BD%E6%98%AF%E5%8C%97%E6%B5%B7%E7%8B%AE%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "泽连斯基公布美乌“20点和平计划”草案，俄方回应",
+          "url": "https://news.ifeng.com/c/8pLyy4dXYWX",
+          "source": "凤凰网",
           "ranks": [
             2,
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时42分]"
         },
         {
           "title": "李凯尔回应：恢复美国国籍不属实",
@@ -132,6 +123,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时26分 ~ 07时20分]"
+        },
+        {
+          "title": "日本一无人岛密密麻麻都是北海狮",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E6%97%A0%E4%BA%BA%E5%B2%9B%E5%AF%86%E5%AF%86%E9%BA%BB%E9%BA%BB%E9%83%BD%E6%98%AF%E5%8C%97%E6%B5%B7%E7%8B%AE%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时42分]"
         },
         {
           "title": "美国网红称他在旧金山快活不下去了",
@@ -158,6 +162,19 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
+          "title": "什么是美国斩杀线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%80%E4%B9%88%E6%98%AF%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时42分]"
+        },
+        {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
           "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
           "source": "凤凰网",
@@ -169,29 +186,18 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
-          "title": "什么是美国斩杀线",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%80%E4%B9%88%E6%98%AF%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
           "url": "https://wallstreetcn.com/articles/3761983",
           "source": "华尔街见闻",
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时42分]"
         },
         {
           "title": "日本发放过期救济粮，要求领取者签免责书",
@@ -239,11 +245,12 @@
           "ranks": [
             11,
             12,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时42分]"
         },
         {
           "title": "日本民间组织激烈抗议官员拥核言论，要求罢免涉事人员",
@@ -257,25 +264,26 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
-          "title": "观察｜美国大规模召回大使或致外交能力断层，“特使当道”引担忧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32237082",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时20分]"
-        },
-        {
           "title": "经纪公司声明：李凯尔恢复美国国籍并不属实，依然是中国国籍",
           "url": "https://m.thepaper.cn/newsDetail_forward_32243519",
           "source": "澎湃新闻",
           "ranks": [
             16,
             15,
-            17
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 09时42分]"
+        },
+        {
+          "title": "观察｜美国大规模召回大使或致外交能力断层，“特使当道”引担忧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32237082",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -294,6 +302,17 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
+          "title": "4天赚8亿,梅西印度行狂捞金",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348352&amp;topic_name=4%E5%A4%A9%E8%B5%9A8%E4%BA%BF%2C%E6%A2%85%E8%A5%BF%E5%8D%B0%E5%BA%A6%E8%A1%8C%E7%8B%82%E6%8D%9E%E9%87%91",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时42分]"
+        },
+        {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
           "url": "https://wallstreetcn.com/articles/3761946",
           "source": "华尔街见闻",
@@ -303,17 +322,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 03时17分]"
-        },
-        {
-          "title": "4天赚8亿,梅西印度行狂捞金",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348352&amp;topic_name=4%E5%A4%A9%E8%B5%9A8%E4%BA%BF%2C%E6%A2%85%E8%A5%BF%E5%8D%B0%E5%BA%A6%E8%A1%8C%E7%8B%82%E6%8D%9E%E9%87%91",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时20分]"
         },
         {
           "title": "美国首家蜜雪冰城怎么样",
@@ -326,8 +334,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时42分]"
         },
         {
           "title": "精日实锤?原神套用日本军衔",
@@ -337,8 +345,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 09时42分]"
         },
         {
           "title": "盘点2025中国电竞表现",
@@ -356,6 +364,72 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 07时20分]"
+        },
+        {
+          "title": "美决定至少18个月内不对中国芯片加税",
+          "url": "https://www.toutiao.com/trending/7587332193673936923/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
+          "title": "日本一无人岛密密麻麻都是北海狮",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E6%97%A0%E4%BA%BA%E5%B2%9B%E5%AF%86%E5%AF%86%E9%BA%BB%E9%BA%BB%E9%83%BD%E6%98%AF%E5%8C%97%E6%B5%B7%E7%8B%AE",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
+          "title": "日本一航空自卫队基地水体检出“永久性化学物”",
+          "url": "https://news.ifeng.com/c/8pLTxPrVhCG",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
+          "title": "美国结束上届政府针对中国芯片贸易调查 未来18个月不对中国芯片加征额外关税",
+          "url": "https://www.cls.cn/detail/2239421",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
+          "title": "日媒曝光声称“日本应拥核”官员身份，很讽刺！(图)",
+          "url": "https://news.ifeng.com/c/8pMksqZddde",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
+          "title": "法国、英国、德国、加拿大、日本等14国发表联合声明",
+          "url": "https://news.ifeng.com/c/8pMbqslUmBN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
         },
         {
           "title": "美报告称2035年中国或有9艘航母",
@@ -383,6 +457,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时16分 ~ 06时20分]"
+        },
+        {
+          "title": "沈逸解析美国斩杀线",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%88%E9%80%B8%E8%A7%A3%E6%9E%90%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "美方拟自2027年起对华半导体产业征关税，外交部：损人害己",
@@ -424,9 +509,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "A股商业航天概念延续强势，神剑股份6连板，九鼎新材3连板，广联航空、天奥电子涨停，超捷股份、上海港湾、中国卫星等涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3026430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "印度为啥搞不定化肥产业",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E4%B8%BA%E5%95%A5%E6%90%9E%E4%B8%8D%E5%AE%9A%E5%8C%96%E8%82%A5%E4%BA%A7%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "日本央行前审议委员：日本推动经济增长期间需对加息采取审慎态度",
@@ -435,7 +542,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -452,6 +559,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时17分 ~ 06时20分]"
+        },
+        {
+          "title": "日本5年期国债收益率下跌0.5个基点，至1.485%",
+          "url": "https://flash.jin10.com/detail/20251225092805392800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "美国抵押贷款利率连续第二周下降，30年期利率降至6.18%",
@@ -1118,6 +1236,28 @@
           "time_info": "[00时26分 ~ 05时19分]"
         },
         {
+          "title": "美国人头上都有条成为流浪汉的「斩杀线」么，从经济角度如何看待这种现象？「斩杀线」背后的本质是什么？",
+          "url": "https://www.zhihu.com/question/1986918666340677378",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
+          "title": "乌军今年接收300万架FPV无人机",
+          "url": "https://www.toutiao.com/trending/7586866709907308585/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
           "title": "特斯拉因Model 3车门紧急开门按钮问题而面临美国国家公路交通安全管理局（NHTSA）新的调查。 NHTSA称，正根据（特斯拉车主的）请愿而推进对问题的评估。",
           "url": "https://wallstreetcn.com/livenews/3026281",
           "source": "华尔街见闻-快讯",
@@ -1142,6 +1282,17 @@
           "time_info": "[05时19分 ~ 06时20分]"
         },
         {
+          "title": "美国未来18个月不对中国芯片加征额外关税，释放什么信号？",
+          "url": "https://news.ifeng.com/c/8pMXDpCmPFM",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
           "title": "美国至12月24日8周国债竞拍-投标倍数 2.92，前值3.01。",
           "url": "https://flash.jin10.com/detail/20251225004531083800",
           "source": "金十数据",
@@ -1152,6 +1303,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 02时31分]"
+        },
+        {
+          "title": "泽连斯基：乌克兰不会放弃加入北约",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%8D%E4%BC%9A%E6%94%BE%E5%BC%83%E5%8A%A0%E5%85%A5%E5%8C%97%E7%BA%A6",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
+          "title": "五角大楼“中国军力报告”硬中有缓？专家解读",
+          "url": "https://news.ifeng.com/c/8pMbEdu3DZT",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
         },
         {
           "title": "美国至12月24日4周国债竞拍-得标利率配置百分比 83.48%，前值2.93%。",
@@ -1286,6 +1459,17 @@
           "time_info": "[03时17分 ~ 04时22分]"
         },
         {
+          "title": "日本遗孤自取日本名纪念中国养父母",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%81%97%E5%AD%A4%E8%87%AA%E5%8F%96%E6%97%A5%E6%9C%AC%E5%90%8D%E7%BA%AA%E5%BF%B5%E4%B8%AD%E5%9B%BD%E5%85%BB%E7%88%B6%E6%AF%8D",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
           "title": "美国至12月24日4个月国债竞拍-得标利率 3.555%，前值3.54%。",
           "url": "https://flash.jin10.com/detail/20251225003251884800",
           "source": "金十数据",
@@ -1308,6 +1492,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时18分]"
+        },
+        {
+          "title": "台湾地区领导人办公室前发言人妄称自己“不是中国人”，国台办回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32243515",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
         },
         {
           "title": "内塔尼亚胡：以色列将打造独立军工产业",
@@ -1334,6 +1529,50 @@
           "time_info": "[04时22分 ~ 06时20分]"
         },
         {
+          "title": "美军为何成立陆军西半球司令部",
+          "url": "https://www.toutiao.com/trending/7587091232971571241/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
+          "title": "赖岳谦：日本发展核武威胁不了中国",
+          "url": "https://www.toutiao.com/trending/7586639077182128191/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
+          "title": "泽连斯基称俄军用上中国卫星数据",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E4%BF%84%E5%86%9B%E7%94%A8%E4%B8%8A%E4%B8%AD%E5%9B%BD%E5%8D%AB%E6%98%9F%E6%95%B0%E6%8D%AE",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
+          "title": "普京给扎哈罗娃戴勋章后送花庆生",
+          "url": "https://www.toutiao.com/trending/7587542404925014042/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
           "title": "美国斩杀线的另一个名字叫资本主义",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E7%9A%84%E5%8F%A6%E4%B8%80%E4%B8%AA%E5%90%8D%E5%AD%97%E5%8F%AB%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -1356,15 +1595,37 @@
           "time_info": "[05时18分 ~ 05时19分]"
         },
         {
+          "title": "日本抗议韩国举行东海领土守护军演",
+          "url": "https://www.toutiao.com/trending/7587231053690191910/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时41分 ~ 09时42分]"
+        },
+        {
           "title": "当美国人被一条“斩杀线”击中…",
           "url": "https://news.ifeng.com/c/8pMA4EYIO1g",
           "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "中国央行逆回购操作当日实现净回笼2112亿元",
+          "url": "https://flash.jin10.com/detail/20251225092315517800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "Waymo解释其自动驾驶出租车为何在停电期间堵塞美国旧金山街道",
@@ -1373,7 +1634,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -1395,7 +1656,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -1411,6 +1672,28 @@
           "time_info": "01时18分"
         },
         {
+          "title": "中国央行公开市场今日净投放888亿元",
+          "url": "https://wallstreetcn.com/livenews/3026420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "日本茨城县一养鸡场确认高致病性禽流感疫情",
+          "url": "https://wallstreetcn.com/livenews/3026417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "泽连斯基公布俄乌“和平计划”草案20点内容",
           "url": "https://flash.jin10.com/detail/20251224233708172800",
           "source": "金十数据",
@@ -1420,6 +1703,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "富时中国A50指数期货盘初跌0.07%，上一个交易日夜盘收跌0.11%。",
+          "url": "https://wallstreetcn.com/livenews/3026412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "印度国家软件与服务公司协会（NASSCOM）：对拟议的H-1B签证变更表示担忧。拟议的H-1B变更可能会带来地区和职业方面的扭曲。加权模式可能对中小型企业不利。",
@@ -1433,13 +1727,24 @@
           "time_info": "00时26分"
         },
         {
+          "title": "30年期日本国债收益率下跌5个基点，至3.37%。",
+          "url": "https://flash.jin10.com/detail/20251225085113335800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "日本将对病人提高某些类OTC药物的成本。（日本朝日新闻Asahi）",
           "url": "https://wallstreetcn.com/livenews/3026363",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -1450,7 +1755,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -1464,6 +1769,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "普京致电金正恩：将加强两国友好同盟关系",
+          "url": "https://wallstreetcn.com/livenews/3026408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "日本东证指数转跌，此前一度涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3026407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "法国总统马克龙：一月份在巴黎，我们将在此框架下继续开展工作，为乌克兰提供坚实的安全保障。",
@@ -1499,6 +1826,17 @@
           "time_info": "00时26分"
         },
         {
+          "title": "日本20年期国债收益率下跌4.5BP至2.94%。 日本30年期国债收益率下跌4.5BP至3.38%。",
+          "url": "https://wallstreetcn.com/livenews/3026405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "美国地质勘探局：位于关岛梅里佐村西南207公里处发生5.7级地震。",
           "url": "https://flash.jin10.com/detail/20251224231433487800",
           "source": "金十数据",
@@ -1508,6 +1846,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "日本预计财政刺激政策将推动2026财年经济加速增长",
+          "url": "https://wallstreetcn.com/livenews/3026402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
           "title": "市场消息：伊朗拒绝接受对遭轰炸地点的核查，并要求国际原子能机构澄清立场。",
@@ -1532,6 +1881,28 @@
           "time_info": "02时31分"
         },
         {
+          "title": "以色列防长称正密切关注伊朗局势",
+          "url": "https://wallstreetcn.com/livenews/3026401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "辟谣美国治理骚扰电话",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BE%9F%E8%B0%A3%E7%BE%8E%E5%9B%BD%E6%B2%BB%E7%90%86%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "泽连斯基公布俄乌“和平计划”草案20点内容",
           "url": "https://wallstreetcn.com/livenews/3026253",
           "source": "华尔街见闻-快讯",
@@ -1541,6 +1912,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "日经225指数开盘上涨0.25%，报50469.64点。 韩国股市今日休市。",
+          "url": "https://wallstreetcn.com/livenews/3026395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "日本10年期国债收益率下跌4BP至2.005%。",
+          "url": "https://wallstreetcn.com/livenews/3026394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         }
       ]
     }
