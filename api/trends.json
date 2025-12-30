@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T14:34:31.062875+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2025-12-30T15:23:05.876942+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 284,
+      "match_count": 300,
       "titles": [
         {
           "title": "日本学者：高市错误言论无视法律，应撤回",
@@ -79,6 +79,18 @@
           "time_info": "[00时26分 ~ 09时42分]"
         },
         {
+          "title": "普京一个电话后，特朗普怒了",
+          "url": "https://news.ifeng.com/c/8pUyRCwSPET",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时42分 ~ 15时23分]"
+        },
+        {
           "title": "中国军号发布视频，解放军无人机俯瞰台北 101 大厦，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1989061806895952041",
           "source": "知乎",
@@ -89,6 +101,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时26分 ~ 11时28分]"
+        },
+        {
+          "title": "俄国防部披露乌军袭击普京官邸详情",
+          "url": "https://news.ifeng.com/c/8pUY9IHVcD2",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时42分 ~ 15时23分]"
         },
         {
           "title": "解放军海报中三艘美军核潜艇被拦截",
@@ -114,26 +138,30 @@
           "time_info": "[02时31分 ~ 07时20分]"
         },
         {
-          "title": "普京一个电话后，特朗普怒了",
-          "url": "https://news.ifeng.com/c/8pUyRCwSPET",
-          "source": "凤凰网",
+          "title": "巴拿马地方政府强拆中巴公园及华人抵巴纪念碑，中国侨联：坚决反对",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32276585",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            5,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时42分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[11时28分 ~ 15时23分]"
         },
         {
-          "title": "俄国防部披露乌军袭击普京官邸详情",
-          "url": "https://news.ifeng.com/c/8pUY9IHVcD2",
-          "source": "凤凰网",
+          "title": "中国核聚变迈向终极能源",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%BF%88%E5%90%91%E7%BB%88%E6%9E%81%E8%83%BD%E6%BA%90",
+          "source": "bilibili 热搜",
           "ranks": [
+            1,
+            3,
             2
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时42分 ~ 14时34分]"
+          "time_info": "[09时42分 ~ 15时23分]"
         },
         {
           "title": "普京与泽连斯基可能进行通话？克宫回应",
@@ -147,6 +175,17 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
+          "title": "2025大国重器铸就非凡中国",
+          "url": "https://www.toutiao.com/trending/7589500529663970862/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 15时23分]"
+        },
+        {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
           "url": "https://wallstreetcn.com/articles/3762071",
           "source": "华尔街见闻",
@@ -156,8 +195,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 14时34分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 15时23分]"
+        },
+        {
+          "title": "日媒炒作：365天有356天在钓鱼岛附近发现中国海警船",
+          "url": "https://news.ifeng.com/c/8pV21MWS4GQ",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时42分 ~ 15时23分]"
         },
         {
           "title": "尹正演日本侵略者：下班后觉得恶心",
@@ -187,21 +238,6 @@
           "time_info": "[00时26分 ~ 07时20分]"
         },
         {
-          "title": "局座神预言,斩杀线下美军无人用",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348529&amp;topic_name=%E5%B1%80%E5%BA%A7%E7%A5%9E%E9%A2%84%E8%A8%80%2C%E6%96%A9%E6%9D%80%E7%BA%BF%E4%B8%8B%E7%BE%8E%E5%86%9B%E6%97%A0%E4%BA%BA%E7%94%A8",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            13,
-            14,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 14时34分]"
-        },
-        {
           "title": "解放军海报中三艘美军核潜艇被拦截",
           "url": "https://www.baidu.com/s?wd=%E8%A7%A3%E6%94%BE%E5%86%9B%E6%B5%B7%E6%8A%A5%E4%B8%AD%E4%B8%89%E8%89%98%E7%BE%8E%E5%86%9B%E6%A0%B8%E6%BD%9C%E8%89%87%E8%A2%AB%E6%8B%A6%E6%88%AA",
           "source": "百度热搜",
@@ -215,6 +251,22 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时26分 ~ 11时28分]"
+        },
+        {
+          "title": "局座神预言,斩杀线下美军无人用",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348529&amp;topic_name=%E5%B1%80%E5%BA%A7%E7%A5%9E%E9%A2%84%E8%A8%80%2C%E6%96%A9%E6%9D%80%E7%BA%BF%E4%B8%8B%E7%BE%8E%E5%86%9B%E6%97%A0%E4%BA%BA%E7%94%A8",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            13,
+            14,
+            15,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 15时23分]"
         },
         {
           "title": "韩国邪教内部文件32次提到高市早苗",
@@ -290,32 +342,6 @@
           "time_info": "[00时27分 ~ 14时34分]"
         },
         {
-          "title": "中国核聚变迈向终极能源",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%BF%88%E5%90%91%E7%BB%88%E6%9E%81%E8%83%BD%E6%BA%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 14时34分]"
-        },
-        {
-          "title": "巴拿马地方政府强拆中巴公园及华人抵巴纪念碑，中国侨联：坚决反对",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32276585",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时28分 ~ 14时34分]"
-        },
-        {
           "title": "【早报】贵金属“高台跳水”！国际金银大幅收跌；明年起我国调整部分商品关税",
           "url": "https://www.cls.cn/detail/2243411",
           "source": "财联社热门",
@@ -354,15 +380,15 @@
           "time_info": "[00时27分 ~ 09时42分]"
         },
         {
-          "title": "2025大国重器铸就非凡中国",
-          "url": "https://www.toutiao.com/trending/7589500529663970862/",
-          "source": "今日头条",
+          "title": "2025中国经济盘点",
+          "url": "https://www.baidu.com/s?wd=2025%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9B%98%E7%82%B9",
+          "source": "百度热搜",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时39分 ~ 14时34分]"
+          "time_info": "[13时24分 ~ 15时23分]"
         },
         {
           "title": "2025年中国军力硬核跃升",
@@ -376,40 +402,66 @@
           "time_info": "[05时19分 ~ 07时20分]"
         },
         {
+          "title": "2025各国青年眼中的中国是这样的",
+          "url": "https://www.douyin.com/hot/2350967",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时40分 ~ 15时23分]"
+        },
+        {
+          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
+          "url": "https://wallstreetcn.com/articles/3762268",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时42分 ~ 15时23分]"
+        },
+        {
+          "title": "美国首次对委境内目标发动袭击",
+          "url": "https://www.toutiao.com/trending/7589211170843168292/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时28分 ~ 15时23分]"
+        },
+        {
           "title": "解放军围台演习,日本罕见沉默",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348537&amp;topic_name=%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9B%B4%E5%8F%B0%E6%BC%94%E4%B9%A0%2C%E6%97%A5%E6%9C%AC%E7%BD%95%E8%A7%81%E6%B2%89%E9%BB%98",
           "source": "贴吧",
           "ranks": [
             3,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 14时34分]"
-        },
-        {
-          "title": "日媒炒作：365天有356天在钓鱼岛附近发现中国海警船",
-          "url": "https://news.ifeng.com/c/8pV21MWS4GQ",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时42分 ~ 14时34分]"
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 15时23分]"
         },
         {
           "title": "外媒聚焦解放军封岛军演：矛头直指美国",
           "url": "https://news.ifeng.com/c/8pVD9LVWGFp",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时39分 ~ 14时34分]"
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 15时23分]"
         },
         {
           "title": "日媒：俄军将在南千岛群岛实弹演习",
@@ -428,6 +480,17 @@
           "time_info": "[00时26分 ~ 06时20分]"
         },
         {
+          "title": "郭正亮嘲讽：台湾快有事了日本都没来",
+          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%AD%A3%E4%BA%AE%E5%98%B2%E8%AE%BD%EF%BC%9A%E5%8F%B0%E6%B9%BE%E5%BF%AB%E6%9C%89%E4%BA%8B%E4%BA%86%E6%97%A5%E6%9C%AC%E9%83%BD%E6%B2%A1%E6%9D%A5",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 15时23分]"
+        },
+        {
           "title": "克宫：乌克兰袭击普京官邸后将重新评估和平谈判立场",
           "url": "https://www.cls.cn/detail/2243368",
           "source": "财联社热门",
@@ -441,27 +504,15 @@
           "time_info": "[07时19分 ~ 12时40分]"
         },
         {
-          "title": "2025各国青年眼中的中国是这样的",
-          "url": "https://www.douyin.com/hot/2350967",
-          "source": "抖音",
+          "title": "解放军封岛军演，特朗普表态",
+          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
+          "source": "凤凰网",
           "ranks": [
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时40分 ~ 14时34分]"
-        },
-        {
-          "title": "美国首次对委境内目标发动袭击",
-          "url": "https://www.toutiao.com/trending/7589211170843168292/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时28分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[11时28分 ~ 15时23分]"
         },
         {
           "title": "9图速览2025世界眼中的中国",
@@ -476,15 +527,29 @@
           "time_info": "[01时19分 ~ 05时19分]"
         },
         {
-          "title": "普京称官邸遭袭 特朗普回应",
-          "url": "https://www.douyin.com/hot/2351475",
-          "source": "抖音",
+          "title": "为什么西红柿炒鸡蛋只在中国十分常见?",
+          "url": "https://www.zhihu.com/question/389729281",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 15时23分]"
+        },
+        {
+          "title": "韩国总统李在明将访华",
+          "url": "https://news.ifeng.com/c/8pVU137XJGw",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 14时34分]"
+          "time_info": "[15时22分 ~ 15时23分]"
         },
         {
           "title": "两个拿锤的手上都印有中国国旗",
@@ -500,27 +565,31 @@
           "time_info": "[09时42分 ~ 12时40分]"
         },
         {
-          "title": "2025中国经济盘点",
-          "url": "https://www.baidu.com/s?wd=2025%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9B%98%E7%82%B9",
-          "source": "百度热搜",
+          "title": "普京官邸遇袭“罗生门”",
+          "url": "https://www.toutiao.com/trending/7589301508282712074/",
+          "source": "今日头条",
           "ranks": [
-            3
+            9,
+            19,
+            20,
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时42分 ~ 15时23分]"
         },
         {
-          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
-          "url": "https://wallstreetcn.com/articles/3762268",
-          "source": "华尔街见闻",
+          "title": "白银急涨，马斯克竟拿中国出口管制说事",
+          "url": "https://news.ifeng.com/c/8pV3sa1vSnJ",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            6
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时42分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[11时28分 ~ 15时23分]"
         },
         {
           "title": "普京新年前夕召开会议，总结俄乌前线战果",
@@ -544,6 +613,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时42分 ~ 14时34分]"
+        },
+        {
+          "title": "韩国总统李在明将访华",
+          "url": "https://www.toutiao.com/trending/7589543094698118706/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
         },
         {
           "title": "得知普京官邸遭袭 特朗普：很生气",
@@ -608,9 +688,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
+          "url": "https://wallstreetcn.com/articles/3762270",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时39分 ~ 15时23分]"
         },
         {
           "title": "特朗普：普京说他被袭击了 我很生气",
@@ -622,17 +714,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
-        },
-        {
-          "title": "郭正亮嘲讽：台湾快有事了日本都没来",
-          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%AD%A3%E4%BA%AE%E5%98%B2%E8%AE%BD%EF%BC%9A%E5%8F%B0%E6%B9%BE%E5%BF%AB%E6%9C%89%E4%BA%8B%E4%BA%86%E6%97%A5%E6%9C%AC%E9%83%BD%E6%B2%A1%E6%9D%A5",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
         },
         {
           "title": "美国天然气期货日内涨幅扩大至3.00%，现报3.994美元/百万英热。",
@@ -679,15 +760,39 @@
           "time_info": "09时42分"
         },
         {
-          "title": "解放军封岛军演，特朗普表态",
-          "url": "https://news.ifeng.com/c/8pV2xI6hHOn",
-          "source": "凤凰网",
+          "title": "金十图示：2025年12月30日（周二）富时中国A50指数成分股今日收盘行情一览：银行股多数下跌，保险、酿酒悉数走低，半导体和石油逆势大涨",
+          "url": "https://flash.jin10.com/detail/20251230150929470800",
+          "source": "金十数据",
           "ranks": [
-            6
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "日本首相称计划明年夏季前制定提振经济的新战略",
+          "url": "https://wallstreetcn.com/livenews/3028625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时28分 ~ 14时34分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时23分]"
         },
         {
           "title": "韩国11月工业产出年率 -1.4%，预期3%，前值由-8.10%修正为-8.2%。",
@@ -699,6 +804,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "普京称官邸遭袭 特朗普回应",
+          "url": "https://www.douyin.com/hot/2351475",
+          "source": "抖音",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 15时23分]"
         },
         {
           "title": "美国总统特朗普：我们对约旦河西岸定居者暴力问题的看法并不100%完全一致。",
@@ -828,32 +945,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时31分 ~ 05时19分]"
-        },
-        {
-          "title": "普京官邸遇袭“罗生门”",
-          "url": "https://www.toutiao.com/trending/7589301508282712074/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            19,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 14时34分]"
-        },
-        {
-          "title": "白银急涨，马斯克竟拿中国出口管制说事",
-          "url": "https://news.ifeng.com/c/8pV3sa1vSnJ",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时28分 ~ 14时34分]"
         },
         {
           "title": "邪教内部文件32次提到高市早苗",
@@ -1228,17 +1319,16 @@
           "time_info": "[12时40分 ~ 13时24分]"
         },
         {
-          "title": "为什么西红柿炒鸡蛋只在中国十分常见?",
-          "url": "https://www.zhihu.com/question/389729281",
-          "source": "知乎",
+          "title": "台名嘴：解放军军演日本有胆就过来",
+          "url": "https://www.toutiao.com/trending/7589092466918555690/",
+          "source": "今日头条",
           "ranks": [
-            18,
-            14,
-            7
+            8,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时39分 ~ 14时34分]"
+          "time_info": "[13时24分 ~ 15时23分]"
         },
         {
           "title": "美国至12月19日当周EIA天然气库存将于十分钟后公布。",
@@ -1339,15 +1429,29 @@
           "time_info": "[09时42分 ~ 12时40分]"
         },
         {
-          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
-          "url": "https://wallstreetcn.com/articles/3762270",
-          "source": "华尔街见闻",
+          "title": "中国海警海报也出现“海马斯火箭炮”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E6%B5%B7%E6%8A%A5%E4%B9%9F%E5%87%BA%E7%8E%B0%E2%80%9C%E6%B5%B7%E9%A9%AC%E6%96%AF%E7%81%AB%E7%AE%AD%E7%82%AE%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时39分 ~ 14时34分]"
+          "time_info": "[13时24分 ~ 15时23分]"
+        },
+        {
+          "title": "美国首次对委境内目标发动袭击",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AF%B9%E5%A7%94%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时23分]"
         },
         {
           "title": "台网红“馆长”：中国必将统一",
@@ -1543,6 +1647,18 @@
           "time_info": "[02时31分 ~ 04时24分]"
         },
         {
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 15时23分]"
+        },
+        {
           "title": "美国总统特朗普：加沙的重建即将开始。",
           "url": "https://flash.jin10.com/detail/20251230023558517800",
           "source": "金十数据",
@@ -1581,6 +1697,18 @@
           "time_info": "[02时31分 ~ 04时24分]"
         },
         {
+          "title": "专家：东风-27可震慑美军",
+          "url": "https://www.toutiao.com/trending/7589475919253753386/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 15时23分]"
+        },
+        {
           "title": "400美元如何击垮一个美国家庭",
           "url": "https://www.toutiao.com/trending/7588353368588271666/",
           "source": "今日头条",
@@ -1591,18 +1719,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时28分 ~ 12时40分]"
-        },
-        {
-          "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
-          "url": "https://wallstreetcn.com/articles/3762279",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 14时34分]"
         },
         {
           "title": "以色列总统办公室：自数周前提交对以色列总理内塔尼亚胡的赦免请求以来，以色列总统赫尔佐格与特朗普之间尚未进行任何对话。",
@@ -1689,18 +1805,6 @@
           "time_info": "[00时27分 ~ 01时19分]"
         },
         {
-          "title": "台名嘴：解放军军演日本有胆就过来",
-          "url": "https://www.toutiao.com/trending/7589092466918555690/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 14时34分]"
-        },
-        {
           "title": "美国至12月29日6个月国债竞拍-得标利率配置百分比 87.64%，前值44.33%。",
           "url": "https://flash.jin10.com/detail/20251230003207573800",
           "source": "金十数据",
@@ -1785,16 +1889,15 @@
           "time_info": "[05时19分 ~ 06时20分]"
         },
         {
-          "title": "中国海警海报也出现“海马斯火箭炮”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E6%B5%B7%E6%8A%A5%E4%B9%9F%E5%87%BA%E7%8E%B0%E2%80%9C%E6%B5%B7%E9%A9%AC%E6%96%AF%E7%81%AB%E7%AE%AD%E7%82%AE%E2%80%9D",
+          "title": "韩国总统李在明将访华",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%86%E8%AE%BF%E5%8D%8E",
           "source": "百度热搜",
           "ranks": [
-            10,
-            20
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 14时34分]"
+          "time_info": "[15时22分 ~ 15时23分]"
         },
         {
           "title": "美国至12月29日3个月国债竞拍-投标倍数 2.66，前值2.86。",
@@ -2001,6 +2104,18 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "王毅：任何企图阻挡中国统一大业的倒行逆施都必将以失败而告终",
+          "url": "https://wallstreetcn.com/livenews/3028568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 15时23分]"
+        },
+        {
           "title": "美国总统特朗普：如果他们存在，我们就必须击倒他们。伊朗应该达成协议，但有时情况并非如此。",
           "url": "https://flash.jin10.com/detail/20251230023223943800",
           "source": "金十数据",
@@ -2097,18 +2212,6 @@
           "time_info": "[01时19分 ~ 02时31分]"
         },
         {
-          "title": "美国首次对委境内目标发动袭击",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%A6%96%E6%AC%A1%E5%AF%B9%E5%A7%94%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 14时34分]"
-        },
-        {
           "title": "中国国新、雄安集团成立合资公司，注册资本20亿",
           "url": "https://wallstreetcn.com/livenews/3028513",
           "source": "华尔街见闻-快讯",
@@ -2155,6 +2258,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时24分]"
+        },
+        {
+          "title": "美国在混乱与撕裂中走向治理失序",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32276071",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
+        },
+        {
+          "title": "韩国总统李在明将访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%80%BB%E7%BB%9F%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%B0%86%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：普京告诉特朗普，俄罗斯有意继续与美国合作以实现和平，但俄罗斯的立场将会有所调整。",
@@ -2251,6 +2376,17 @@
           "time_info": "[00时26分 ~ 00时27分]"
         },
         {
+          "title": "91架乌无人机袭击普京官邸？专家解读",
+          "url": "https://www.toutiao.com/trending/7589510003476663817/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时22分 ~ 15时23分]"
+        },
+        {
           "title": "日本夫妇惨死桑拿房",
           "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%A4%AB%E5%A6%87%E6%83%A8%E6%AD%BB%E6%A1%91%E6%8B%BF%E6%88%BF&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -2315,6 +2451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "中国—阿曼经贸联委会第十次会议在河北雄安新区举行",
+          "url": "https://wallstreetcn.com/livenews/3028616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "普京一个电话后特朗普怒了",
@@ -2383,6 +2530,17 @@
           "time_info": "13时24分"
         },
         {
+          "title": "韩国总统李在明将访华",
+          "url": "https://wallstreetcn.com/livenews/3028612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：俄罗斯企图破坏乌美谈判取得的进展。",
           "url": "https://flash.jin10.com/detail/20251229233425736800",
           "source": "金十数据",
@@ -2422,7 +2580,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -2548,6 +2706,17 @@
           "time_info": "12时40分"
         },
         {
+          "title": "日本首相高市早苗：要加强供应结构，赢得投资者信任。",
+          "url": "https://flash.jin10.com/detail/20251230144609692800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "中国央行今日开展3125亿元7天逆回购操作，净投放2532亿元",
           "url": "https://wallstreetcn.com/livenews/3028432",
           "source": "华尔街见闻-快讯",
@@ -2570,6 +2739,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "日本首相高市早苗：要通过战略融资提高公司收入。",
+          "url": "https://flash.jin10.com/detail/20251230144558216800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "贯彻金融强国战略，以高质量发展服务中国式现代化大局",
           "url": "https://wallstreetcn.com/livenews/3028360",
           "source": "华尔街见闻-快讯",
@@ -2579,17 +2759,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "得知普京官邸遭袭，特朗普：我很生气！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
         },
         {
           "title": "美国12月达拉斯联储制造业原材料支付价格指数 36，前值35.3。",
@@ -2612,6 +2781,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "日本首相高市早苗：力求实现经济良性循环并保持强劲增长。",
+          "url": "https://flash.jin10.com/detail/20251230144548388800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "德国DAX 30指数初步收涨0.19%，报24385.37点。 法国股指初步收涨0.35%，意大利股指初步收跌0.19%、银行指数跌0.41%，英国股指初步收涨0.12%。",
@@ -2691,15 +2871,15 @@
           "time_info": "07时20分"
         },
         {
-          "title": "王毅：任何企图阻挡中国统一大业的倒行逆施都必将以失败而告终",
-          "url": "https://wallstreetcn.com/livenews/3028568",
+          "title": "韩国首尔综指2025年累计涨75.6%，涨幅创1999年以来最大",
+          "url": "https://wallstreetcn.com/livenews/3028596",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时34分"
+          "time_info": "15时23分"
         },
         {
           "title": "美国12月达拉斯联储制成品价格指数 8.2，前值10.8。",
@@ -2724,6 +2904,28 @@
           "time_info": "06时20分"
         },
         {
+          "title": "日经225指数收跌0.4%，报50339.48点。 日本东证指数收跌0.5%，报3408.97点。",
+          "url": "https://wallstreetcn.com/livenews/3028595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "李在明将访华",
+          "url": "https://www.douyin.com/hot/2351992",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "美国12月达拉斯联储新订单指数 -6.4，前值4.8。",
           "url": "https://flash.jin10.com/detail/20251229233146201800",
           "source": "金十数据",
@@ -2741,7 +2943,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -2895,7 +3097,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -2931,17 +3133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
-        },
-        {
-          "title": "专家：东风-27可震慑美军",
-          "url": "https://www.toutiao.com/trending/7589475919253753386/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
         },
         {
           "title": "特朗普级战列舰会是闹剧吗",
