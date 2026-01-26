@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-26T16:34:05.396852+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-01-26T17:35:22.155242+08:00",
+  "total_titles_processed": 1325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 259,
+      "match_count": 283,
       "titles": [
-        {
-          "title": "菲律宾渡轮沉没已致15人遇难43人失踪，中使馆回应",
-          "url": "https://news.ifeng.com/c/8qDvUnKbdkv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时58分 ~ 16时34分]"
-        },
         {
           "title": "印度一邦暴发尼帕病毒疫情，可通过被污染的食物传播，尚无有效疗法，具体什么情况？相比其他病毒它有何不同？",
           "url": "https://www.zhihu.com/question/1998812437202301324",
@@ -66,6 +55,18 @@
           "time_info": "[00时26分 ~ 09时54分]"
         },
         {
+          "title": "菲律宾渡轮沉没已致15人遇难43人失踪，中使馆回应",
+          "url": "https://news.ifeng.com/c/8qDvUnKbdkv",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时58分 ~ 17时35分]"
+        },
+        {
           "title": "中国卫星技术全球顶流",
           "url": "https://www.douyin.com/hot/2379442",
           "source": "抖音",
@@ -75,6 +76,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时26分 ~ 12时59分]"
+        },
+        {
+          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
+          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时58分 ~ 17时35分]"
         },
         {
           "title": "高市早苗“发出信号”，美日联合干预市场“箭在弦上”？",
@@ -136,33 +150,6 @@
           "time_info": "[00时26分 ~ 09时54分]"
         },
         {
-          "title": "特朗普借中国发难，卡尼回怼：中加协议是纠正过去的错误",
-          "url": "https://news.ifeng.com/c/8qDwY7O9WfH",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时58分 ~ 16时34分]"
-        },
-        {
-          "title": "印度爆发尼帕疫情 死亡率最高75%",
-          "url": "https://www.toutiao.com/trending/7599102866267196969/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5,
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时58分 ~ 16时34分]"
-        },
-        {
           "title": "白宫发布特朗普和企鹅漫步格陵兰岛图，遭群嘲",
           "url": "https://news.ifeng.com/c/8qClugB0Wf0",
           "source": "凤凰网",
@@ -192,6 +179,19 @@
           "time_info": "[01时18分 ~ 15时28分]"
         },
         {
+          "title": "中国已将尼帕病毒列入监测",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E5%B0%86%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E5%88%97%E5%85%A5%E7%9B%91%E6%B5%8B",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时37分 ~ 17时35分]"
+        },
+        {
           "title": "白宫发布“特朗普和企鹅漫步格陵兰岛”图，遭群嘲",
           "url": "https://m.thepaper.cn/newsDetail_forward_32461825",
           "source": "澎湃新闻",
@@ -203,8 +203,35 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时26分 ~ 16时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时26分 ~ 17时35分]"
+        },
+        {
+          "title": "印度爆发尼帕疫情 死亡率最高75%",
+          "url": "https://www.toutiao.com/trending/7599102866267196969/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            5,
+            1,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时58分 ~ 17时35分]"
+        },
+        {
+          "title": "美方气急败坏：几个月前还跟我们一起搞中国",
+          "url": "https://news.ifeng.com/c/8qE5a7sdKYl",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时37分 ~ 17时35分]"
         },
         {
           "title": "明州发生第二起“ICE枪杀案”，美国政府月底关门风险“陡增”",
@@ -233,18 +260,6 @@
           "time_info": "[00时26分 ~ 11时58分]"
         },
         {
-          "title": "中国已将尼帕病毒列入监测",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%B7%B2%E5%B0%86%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E5%88%97%E5%85%A5%E7%9B%91%E6%B5%8B",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时37分 ~ 16时34分]"
-        },
-        {
           "title": "高市早苗为何闪电解散众议院",
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%BA%E4%BD%95%E9%97%AA%E7%94%B5%E8%A7%A3%E6%95%A3%E4%BC%97%E8%AE%AE%E9%99%A2",
           "source": "bilibili 热搜",
@@ -258,18 +273,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 09时54分]"
-        },
-        {
-          "title": "美方气急败坏：几个月前还跟我们一起搞中国",
-          "url": "https://news.ifeng.com/c/8qE5a7sdKYl",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时37分 ~ 16时34分]"
         },
         {
           "title": "中国高空风电新突破",
@@ -297,17 +300,6 @@
           "time_info": "[02时30分 ~ 07时21分]"
         },
         {
-          "title": "10亿美元一席！特朗普任“主席”",
-          "url": "https://news.ifeng.com/c/8qCp5coUR2t",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时21分]"
-        },
-        {
           "title": "美国重兵合围伊朗！“林肯”号航母打击群抵达，大批战斗机周边集结！伊朗警告：任何攻击都将被视为全面战争",
           "url": "https://wallstreetcn.com/articles/3764129",
           "source": "华尔街见闻",
@@ -318,8 +310,35 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时58分 ~ 16时34分]"
+          "appearance_count": 10,
+          "time_info": "[12时58分 ~ 17时35分]"
+        },
+        {
+          "title": "印度暴发尼帕疫情 病毒致死率最高75%",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%9A%B4%E5%8F%91%E5%B0%BC%E5%B8%95%E7%96%AB%E6%83%85+%E7%97%85%E6%AF%92%E8%87%B4%E6%AD%BB%E7%8E%87%E6%9C%80%E9%AB%9875%25",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            7,
+            9,
+            15,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时58分 ~ 17时35分]"
+        },
+        {
+          "title": "10亿美元一席！特朗普任“主席”",
+          "url": "https://news.ifeng.com/c/8qCp5coUR2t",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 07时21分]"
         },
         {
           "title": "视频丨中国海警位中国黄岩岛附近海域向菲方顺利移交17名菲籍获救船员",
@@ -364,19 +383,18 @@
           "time_info": "[00时26分 ~ 07时21分]"
         },
         {
-          "title": "印度暴发尼帕疫情 病毒致死率最高75%",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E6%9A%B4%E5%8F%91%E5%B0%BC%E5%B8%95%E7%96%AB%E6%83%85+%E7%97%85%E6%AF%92%E8%87%B4%E6%AD%BB%E7%8E%87%E6%9C%80%E9%AB%9875%25",
-          "source": "百度热搜",
+          "title": "第1现场｜特大冬季风暴“围堵”美国：超市抢空，超2亿人受灾",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32441608",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            7,
-            9,
-            15,
-            21
+            12,
+            11,
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时58分 ~ 16时34分]"
+          "appearance_count": 10,
+          "time_info": "[12时58分 ~ 17时35分]"
         },
         {
           "title": "美国ICE行刑式处决",
@@ -402,11 +420,27 @@
             16,
             18,
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 16时34分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 17时35分]"
+        },
+        {
+          "title": "5秒内至少近距离开了10枪！逐帧回顾美国明尼阿波利斯执法枪击事件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32463654",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时58分 ~ 17时35分]"
         },
         {
           "title": "谭德塞：美国决定退出世卫组织的理由“不实”",
@@ -474,8 +508,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[02时30分 ~ 16时34分]"
+          "appearance_count": 20,
+          "time_info": "[02时30分 ~ 17时35分]"
         },
         {
           "title": "正视差距!国足0比4日本摘亚",
@@ -559,34 +593,6 @@
           "time_info": "[09时54分 ~ 15时28分]"
         },
         {
-          "title": "第1现场｜特大冬季风暴“围堵”美国：超市抢空，超2亿人受灾",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32441608",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时58分 ~ 16时34分]"
-        },
-        {
-          "title": "5秒内至少近距离开了10枪！逐帧回顾美国明尼阿波利斯执法枪击事件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32463654",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时58分 ~ 16时34分]"
-        },
-        {
           "title": "特大冬季风暴“围堵”美国 超市抢空",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E5%A4%A7%E5%86%AC%E5%AD%A3%E9%A3%8E%E6%9A%B4%E2%80%9C%E5%9B%B4%E5%A0%B5%E2%80%9D%E7%BE%8E%E5%9B%BD+%E8%B6%85%E5%B8%82%E6%8A%A2%E7%A9%BA",
           "source": "百度热搜",
@@ -645,6 +651,32 @@
           "time_info": "[00时26分 ~ 09时54分]"
         },
         {
+          "title": "高市早苗：若执政党阵营在众议院选举中未过半数，将即刻辞职",
+          "url": "https://news.ifeng.com/c/8qEG9CkTpxD",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时28分 ~ 17时35分]"
+        },
+        {
+          "title": "印度爆夺命病毒,人传人无药可救",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349654&amp;topic_name=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%A4%BA%E5%91%BD%E7%97%85%E6%AF%92%2C%E4%BA%BA%E4%BC%A0%E4%BA%BA%E6%97%A0%E8%8D%AF%E5%8F%AF%E6%95%91",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            8,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时58分 ~ 17时35分]"
+        },
+        {
           "title": "美国财长贝森特：特朗普重视北约。 特朗普高度专注于打造最强大的北约。",
           "url": "https://wallstreetcn.com/livenews/3043399",
           "source": "华尔街见闻-快讯",
@@ -694,20 +726,6 @@
           "time_info": "[00时26分 ~ 06时21分]"
         },
         {
-          "title": "印度爆夺命病毒,人传人无药可救",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349654&amp;topic_name=%E5%8D%B0%E5%BA%A6%E7%88%86%E5%A4%BA%E5%91%BD%E7%97%85%E6%AF%92%2C%E4%BA%BA%E4%BC%A0%E4%BA%BA%E6%97%A0%E8%8D%AF%E5%8F%AF%E6%95%91",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时58分 ~ 16时34分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基：我们提供的安全保证文件已100%准备就绪。",
           "url": "https://flash.jin10.com/detail/20260125235932611800",
           "source": "金十数据",
@@ -733,6 +751,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时54分 ~ 13时38分]"
+        },
+        {
+          "title": "印度尼帕病毒疫情多名医护中招",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E7%96%AB%E6%83%85%E5%A4%9A%E5%90%8D%E5%8C%BB%E6%8A%A4%E4%B8%AD%E6%8B%9B",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时37分 ~ 17时35分]"
         },
         {
           "title": "美国财长贝森特：特朗普很看重北约。",
@@ -815,15 +845,15 @@
           "time_info": "[01时18分 ~ 06时21分]"
         },
         {
-          "title": "高市早苗：若执政党阵营在众议院选举中未过半数，将即刻辞职",
-          "url": "https://news.ifeng.com/c/8qEG9CkTpxD",
-          "source": "凤凰网",
+          "title": "再次突袭印度的尼帕病毒有多可怕",
+          "url": "https://www.toutiao.com/trending/7599552089546558986/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时28分 ~ 16时34分]"
+          "time_info": "[16时33分 ~ 17时35分]"
         },
         {
           "title": "印度一邦暴发疫情",
@@ -839,17 +869,6 @@
           "time_info": "[00时26分 ~ 06时21分]"
         },
         {
-          "title": "印度尼帕病毒疫情多名医护中招",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E7%96%AB%E6%83%85%E5%A4%9A%E5%90%8D%E5%8C%BB%E6%8A%A4%E4%B8%AD%E6%8B%9B",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时37分 ~ 16时34分]"
-        },
-        {
           "title": "伊朗官员称伊武装力量已进入全面戒备状态",
           "url": "https://wallstreetcn.com/livenews/3043393",
           "source": "华尔街见闻-快讯",
@@ -861,6 +880,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 06时21分]"
+        },
+        {
+          "title": "直击印度阅兵式",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E5%8D%B0%E5%BA%A6%E9%98%85%E5%85%B5%E5%BC%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 17时35分]"
         },
         {
           "title": "市场消息：俄罗斯副外长里亚布科夫证实，特朗普已收到访俄邀请。",
@@ -981,17 +1013,6 @@
           "time_info": "[00时26分 ~ 07时21分]"
         },
         {
-          "title": "再次突袭印度的尼帕病毒有多可怕",
-          "url": "https://www.toutiao.com/trending/7599552089546558986/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
           "title": "马上评｜坚持走下去，相信中国足球的明天会更好",
           "url": "https://m.thepaper.cn/newsDetail_forward_32459405",
           "source": "澎湃新闻",
@@ -1030,6 +1051,21 @@
           "time_info": "[13时38分 ~ 15时28分]"
         },
         {
+          "title": "美国的寒潮究竟有多厉害",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%92%E6%BD%AE%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            19,
+            28,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 17时35分]"
+        },
+        {
           "title": "外交部回应美国威胁对加拿大进口商品征收100%关税",
           "url": "https://news.ifeng.com/c/8qEK7aK3VqF",
           "source": "凤凰网",
@@ -1050,6 +1086,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "外交部提醒：春节期间避免前往日本",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%EF%BC%9A%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "特朗普就加中贸易协定发出威胁，中方回应",
+          "url": "https://news.ifeng.com/c/8qEKozGmbDH",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "日本央行账户数据未明确显示上周五干预市场",
+          "url": "https://flash.jin10.com/detail/20260126172538020800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "美国参议院民主党领导人Chuck Schumer告知共和党：敦促（总统特朗普所属共和党支持）修改国土安全部（DHS）预算的立法草案。 民主党不希望推进现行国土安全部融资草案。 要求共和党在截止日期之前推进五分拨款草案的立法程序。",
@@ -1098,6 +1167,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时26分 ~ 05时20分]"
+        },
+        {
+          "title": "程序员27岁去美国35岁流落街头",
+          "url": "https://s.weibo.com/weibo?q=%E7%A8%8B%E5%BA%8F%E5%91%9827%E5%B2%81%E5%8E%BB%E7%BE%8E%E5%9B%BD35%E5%B2%81%E6%B5%81%E8%90%BD%E8%A1%97%E5%A4%B4&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时37分 ~ 17时35分]"
         },
         {
           "title": "伊朗官员称伊武装力量已进入全面戒备状态",
@@ -1223,6 +1305,17 @@
           "time_info": "15时28分"
         },
         {
+          "title": "机构：日债与汇率波动加剧 日本央行面临政策困境",
+          "url": "https://flash.jin10.com/detail/20260126172126210800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "韩国科斯达克指数涨幅扩大至6%。",
           "url": "https://wallstreetcn.com/livenews/3043559",
           "source": "华尔街见闻-快讯",
@@ -1234,16 +1327,26 @@
           "time_info": "09时54分"
         },
         {
-          "title": "直击印度阅兵式",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E5%8D%B0%E5%BA%A6%E9%98%85%E5%85%B5%E5%BC%8F",
-          "source": "bilibili 热搜",
+          "title": "中国为何被称全球首个重要电力国家",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A2%AB%E7%A7%B0%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E9%87%8D%E8%A6%81%E7%94%B5%E5%8A%9B%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            2
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 16时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "看中国硬核突破如何惊艳世界",
+          "url": "https://www.douyin.com/hot/2380242",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "印度尼帕病毒有多危险",
@@ -1290,18 +1393,26 @@
           "time_info": "13时38分"
         },
         {
-          "title": "美国的寒潮究竟有多厉害",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%92%E6%BD%AE%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3",
-          "source": "bilibili 热搜",
+          "title": "【智谱港股飙升13%，冲刺A股IPO】1月26日港股智谱股价再度走强，截至收盘报217港元/股，股价飙升13%。继H股上市后，智谱还将继续在A股“吸金”。近日，中国证监会官网更新了智谱公司的IPO辅导进展信息。根据公告，其辅导机构中金公司已递交了智谱的第三期IPO辅导工作进展情况报告，落款日期为2026年1月15日。这意味着，“大模型第一股”智谱在2026年1月8日完成港股上市后，仍在继续推进其A股上市计划。（21财经）",
+          "url": "https://wallstreetcn.com/livenews/3043872",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            19,
-            28,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时58分 ~ 16时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "中国经济第一大省定了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%9C%81%E5%AE%9A%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "美国最新国防战略报告说了什么",
@@ -1348,6 +1459,18 @@
           "time_info": "12时59分"
         },
         {
+          "title": "印度尼帕病毒疫情或来自医院",
+          "url": "https://www.toutiao.com/trending/7599566374553521710/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时35分]"
+        },
+        {
           "title": "菲律宾一载有350多人船只倾覆",
           "url": "https://www.baidu.com/s?wd=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E4%B8%80%E8%BD%BD%E6%9C%89350%E5%A4%9A%E4%BA%BA%E8%88%B9%E5%8F%AA%E5%80%BE%E8%A6%86",
           "source": "百度热搜",
@@ -1376,25 +1499,26 @@
           "time_info": "[14时37分 ~ 16时34分]"
         },
         {
+          "title": "美国明州枪击案全解读",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%98%8E%E5%B7%9E%E6%9E%AA%E5%87%BB%E6%A1%88%E5%85%A8%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            9,
+            29,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时38分 ~ 17时35分]"
+        },
+        {
           "title": "美国“林肯”号航母打击群已经抵达中东",
           "url": "https://www.cls.cn/detail/2269065",
           "source": "财联社热门",
           "ranks": [
             13,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时37分 ~ 16时34分]"
-        },
-        {
-          "title": "程序员27岁去美国35岁流落街头",
-          "url": "https://s.weibo.com/weibo?q=%E7%A8%8B%E5%BA%8F%E5%91%9827%E5%B2%81%E5%8E%BB%E7%BE%8E%E5%9B%BD35%E5%B2%81%E6%B5%81%E8%90%BD%E8%A1%97%E5%A4%B4&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            14,
-            13
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -1878,17 +2002,16 @@
           "time_info": "[13时38分 ~ 14时38分]"
         },
         {
-          "title": "美国明州枪击案全解读",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E6%98%8E%E5%B7%9E%E6%9E%AA%E5%87%BB%E6%A1%88%E5%85%A8%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
+          "title": "特朗普承认使用“秘密”武器",
+          "url": "https://wallstreetcn.com/articles/3764105",
+          "source": "华尔街见闻",
           "ranks": [
-            25,
-            9,
-            29
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时38分 ~ 16时34分]"
+          "time_info": "[15时28分 ~ 17时35分]"
         },
         {
           "title": "韩国政府为何向极右翼“亮剑”？",
@@ -1913,6 +2036,19 @@
           "time_info": "[12时58分 ~ 13时38分]"
         },
         {
+          "title": "印度尼帕病毒疫情或来自医院",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E7%96%AB%E6%83%85%E6%88%96%E6%9D%A5%E8%87%AA%E5%8C%BB%E9%99%A2",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时28分 ~ 17时35分]"
+        },
+        {
           "title": "直击印度阅兵式 首次引入动物方队",
           "url": "https://www.baidu.com/s?wd=%E7%9B%B4%E5%87%BB%E5%8D%B0%E5%BA%A6%E9%98%85%E5%85%B5%E5%BC%8F+%E9%A6%96%E6%AC%A1%E5%BC%95%E5%85%A5%E5%8A%A8%E7%89%A9%E6%96%B9%E9%98%9F",
           "source": "百度热搜",
@@ -1933,6 +2069,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 03时17分]"
+        },
+        {
+          "title": "为何中国连续14个月囤积黄金",
+          "url": "https://www.toutiao.com/trending/7599144158175707155/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时28分 ~ 17时35分]"
         },
         {
           "title": "中国卫星技术全球顶流",
@@ -1983,6 +2131,29 @@
           "time_info": "[12时58分 ~ 13时38分]"
         },
         {
+          "title": "美国联邦政府和地方政府吵起来了",
+          "url": "https://news.ifeng.com/c/8qEKQz6ioAd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时35分]"
+        },
+        {
+          "title": "美国威胁对加拿大进口商品征收100%关税，外交部回应",
+          "url": "https://www.cls.cn/detail/2269628",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时35分]"
+        },
+        {
           "title": "张本美和在乒乓球全日本锦标赛女单决赛中以 4 比 3 险胜早田希娜并夺冠，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/1998780712875205150",
           "source": "知乎",
@@ -1993,6 +2164,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时37分 ~ 15时28分]"
+        },
+        {
+          "title": "以色列暗示即将进入敏感时期",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%A5%E8%89%B2%E5%88%97%E6%9A%97%E7%A4%BA%E5%8D%B3%E5%B0%86%E8%BF%9B%E5%85%A5%E6%95%8F%E6%84%9F%E6%97%B6%E6%9C%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时28分 ~ 17时35分]"
+        },
+        {
+          "title": "德国各界呼吁从美国撤出黄金储备",
+          "url": "https://www.toutiao.com/trending/7599503519585930806/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时35分]"
         },
         {
           "title": "以色列国防军发言人：以色列国防军正在黎巴嫩多个地区对真主党军事基础设施发动攻击。",
@@ -2008,6 +2203,19 @@
           "time_info": "[05时20分 ~ 07时21分]"
         },
         {
+          "title": "印度现尼帕病毒疫情在泰留学生发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%8E%B0%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E7%96%AB%E6%83%85%E5%9C%A8%E6%B3%B0%E7%95%99%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            25,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时35分]"
+        },
+        {
           "title": "俄外交部证实俄方曾向特朗普发出访俄邀请",
           "url": "https://flash.jin10.com/detail/20260126042756695800",
           "source": "金十数据",
@@ -2021,27 +2229,62 @@
           "time_info": "[05时20分 ~ 07时21分]"
         },
         {
-          "title": "特朗普承认使用“秘密”武器",
-          "url": "https://wallstreetcn.com/articles/3764105",
-          "source": "华尔街见闻",
+          "title": "外交部回应美威胁对加征100%关税",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%A8%81%E8%83%81%E5%AF%B9%E5%8A%A0%E5%BE%81100%25%E5%85%B3%E7%A8%8E",
+          "source": "百度热搜",
           "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时35分]"
+        },
+        {
+          "title": "印度出现高风险尼帕病毒疫情！致死率最高75% 尚无特效药和疫苗",
+          "url": "https://www.cls.cn/detail/2269468",
+          "source": "财联社热门",
+          "ranks": [
+            11,
             10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时28分 ~ 16时34分]"
+          "time_info": "[16时33分 ~ 17时35分]"
         },
         {
-          "title": "印度尼帕病毒疫情或来自医院",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E7%96%AB%E6%83%85%E6%88%96%E6%9D%A5%E8%87%AA%E5%8C%BB%E9%99%A2",
-          "source": "百度热搜",
+          "title": "暴风雪席卷美国！天然气减产致工厂停工 逾万架次航班取消",
+          "url": "https://www.cls.cn/detail/2269119",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            20
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时28分 ~ 16时34分]"
+          "time_info": "[16时33分 ~ 17时35分]"
+        },
+        {
+          "title": "菲律宾一载 359 人的船只倾覆，已致 15 人死亡，另有 43 人失踪，目前情况怎么样？船只倾覆原因可能是什么？",
+          "url": "https://www.zhihu.com/question/1999015144412377493",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时33分 ~ 17时35分]"
+        },
+        {
+          "title": "日本党首辩论",
+          "url": "https://www.douyin.com/hot/2380126",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时28分 ~ 17时35分]"
         },
         {
           "title": "中国为何加速建造052D而非055大驱",
@@ -2068,18 +2311,6 @@
           "time_info": "[11时58分 ~ 12时59分]"
         },
         {
-          "title": "为何中国连续14个月囤积黄金",
-          "url": "https://www.toutiao.com/trending/7599144158175707155/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 16时34分]"
-        },
-        {
           "title": "加军推演美国入侵 最长可守多久",
           "url": "https://www.toutiao.com/trending/7598662860335693866/",
           "source": "今日头条",
@@ -2089,28 +2320,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时58分 ~ 14时38分]"
-        },
-        {
-          "title": "以色列暗示即将进入敏感时期",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%A5%E8%89%B2%E5%88%97%E6%9A%97%E7%A4%BA%E5%8D%B3%E5%B0%86%E8%BF%9B%E5%85%A5%E6%95%8F%E6%84%9F%E6%97%B6%E6%9C%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 16时34分]"
-        },
-        {
-          "title": "美国联邦政府和地方政府吵起来了",
-          "url": "https://news.ifeng.com/c/8qEKQz6ioAd",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
         },
         {
           "title": "特朗普达沃斯演讲有何深意",
@@ -2125,17 +2334,6 @@
           "time_info": "[12时59分 ~ 13时38分]"
         },
         {
-          "title": "德国各界呼吁从美国撤出黄金储备",
-          "url": "https://www.toutiao.com/trending/7599503519585930806/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
           "title": "日本财务大臣片山皋月：正以高度紧迫感密切关注市场动向。 将根据美日协议对外汇市场作出回应。 拒绝就潜在的协同干预发表评论。",
           "url": "https://wallstreetcn.com/livenews/3043647",
           "source": "华尔街见闻-快讯",
@@ -2146,17 +2344,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时58分 ~ 12时59分]"
-        },
-        {
-          "title": "美国威胁对加拿大进口商品征收100%关税，外交部回应",
-          "url": "https://www.cls.cn/detail/2269628",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
         },
         {
           "title": "冬天里的大美中国",
@@ -2192,17 +2379,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时21分]"
-        },
-        {
-          "title": "印度尼帕病毒疫情或来自医院",
-          "url": "https://www.toutiao.com/trending/7599566374553521710/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
         },
         {
           "title": "日本首相高市早苗：希望在2026财年提交食品税暂缓征收法案。 将继续支持企业实现薪资增长。 个人希望尽快看到食品消费税下调。 目标是在2026财年实施食品消费税下调。",
@@ -2241,17 +2417,6 @@
           "time_info": "[07时21分 ~ 09时54分]"
         },
         {
-          "title": "印度出现高风险尼帕病毒疫情！致死率最高75% 尚无特效药和疫苗",
-          "url": "https://www.cls.cn/detail/2269468",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
           "title": "随着国际金银价格飙升，韩国锌业股价上涨15%，至1,822,000韩元，领涨韩国冶炼股。",
           "url": "https://flash.jin10.com/detail/20260126121737970800",
           "source": "金十数据",
@@ -2262,17 +2427,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时59分 ~ 13时38分]"
-        },
-        {
-          "title": "暴风雪席卷美国！天然气减产致工厂停工 逾万架次航班取消",
-          "url": "https://www.cls.cn/detail/2269119",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
         },
         {
           "title": "委内瑞拉代总统呼吁政治解决分歧，强烈谴责美国干涉行径",
@@ -2310,28 +2464,6 @@
           "time_info": "[06时21分 ~ 07时21分]"
         },
         {
-          "title": "菲律宾一载 359 人的船只倾覆，已致 15 人死亡，另有 43 人失踪，目前情况怎么样？船只倾覆原因可能是什么？",
-          "url": "https://www.zhihu.com/question/1999015144412377493",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
-          "title": "外交部回应美威胁对加征100%关税",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%A8%81%E8%83%81%E5%AF%B9%E5%8A%A0%E5%BE%81100%25%E5%85%B3%E7%A8%8E",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
-        },
-        {
           "title": "日本立宪民主党党魁野田佳彦：寻求在今年秋季前下调食品消费税。",
           "url": "https://wallstreetcn.com/livenews/3043659",
           "source": "华尔街见闻-快讯",
@@ -2342,17 +2474,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时59分 ~ 13时38分]"
-        },
-        {
-          "title": "日本党首辩论",
-          "url": "https://www.douyin.com/hot/2380126",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 16时34分]"
         },
         {
           "title": "美与伊朗真会打起来吗",
@@ -2409,18 +2530,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时37分 ~ 14时38分]"
-        },
-        {
-          "title": "印度现尼帕病毒疫情在泰留学生发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%8E%B0%E5%B0%BC%E5%B8%95%E7%97%85%E6%AF%92%E7%96%AB%E6%83%85%E5%9C%A8%E6%B3%B0%E7%95%99%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时33分 ~ 16时34分]"
         },
         {
           "title": "前白宫新闻秘书喊话特朗普",
@@ -2511,6 +2620,17 @@
           "time_info": "14时38分"
         },
         {
+          "title": "中国公民春节期间避免前往日本",
+          "url": "https://www.douyin.com/hot/2380271",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "美国派出重兵“合围伊朗”",
           "url": "https://www.toutiao.com/trending/7599514410310209067/",
           "source": "今日头条",
@@ -2561,7 +2681,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -2588,6 +2708,17 @@
           "time_info": "13时38分"
         },
         {
+          "title": "外交部提醒中国公民春节期间避免前往日本",
+          "url": "https://wallstreetcn.com/livenews/3043863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "日本11月领先指标终值 109.9，前值110.5。",
           "url": "https://flash.jin10.com/detail/20260126130028069800",
           "source": "金十数据",
@@ -2597,6 +2728,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
+        },
+        {
+          "title": "在地区局势不确定性高企之际，以色列航空、阿基亚以色列航空放宽了航班取消规定。",
+          "url": "https://flash.jin10.com/detail/20260126171502313800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "靖国神社前的石狮掠自中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E5%89%8D%E7%9A%84%E7%9F%B3%E7%8B%AE%E6%8E%A0%E8%87%AA%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "市场消息：摩根士丹利准备进军日本现货电力交易市场。",
@@ -2616,7 +2769,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -2638,7 +2791,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -2682,9 +2835,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "USA Rare Earth美股盘前涨超58%，报道称特朗普政府计划向美国稀土公司（USA Rare Earth）注资16亿美元，以加强关键矿产资源的供应保障。美国政府将获得美国稀土公司10%的股份。",
+          "url": "https://wallstreetcn.com/livenews/3043857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "日元盘初大幅升值 日本股指料低开",
@@ -2709,6 +2873,17 @@
           "time_info": "14时38分"
         },
         {
+          "title": "美国金矿股盘前大幅上涨，纽蒙特黄金公司涨4.6%，安格鲁阿散蒂黄金涨1.6%，Sibanye-Stillwater涨2.4%，巴里克矿业上涨3.5%。",
+          "url": "https://flash.jin10.com/detail/20260126170947294800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "日本首相高市早苗称，将日本央行的ETF持仓、养老基金和外汇储备结合起来设立主权财富基金并不现实。",
           "url": "https://wallstreetcn.com/livenews/3043683",
           "source": "华尔街见闻-快讯",
@@ -2726,9 +2901,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "日本央行账目未明确显示日本周五是否干预了日元汇率。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3043856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "土耳其外长警告外部势力勿插手伊朗事务",
@@ -2759,7 +2945,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -2786,6 +2972,28 @@
           "time_info": "13时38分"
         },
         {
+          "title": "国务院任免国家工作人员。免去李旭的新疆生产建设兵团副司令员、中国新建集团公司副总经理职务。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3043854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "德媒：哈梅内伊日常事务交由儿子接管",
+          "url": "https://www.toutiao.com/trending/7599394078794514483/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "今天，美国航空公司共取消了近12000个航班，超过20个机场完全关闭。",
           "url": "https://flash.jin10.com/detail/20260126061007401800",
           "source": "金十数据",
@@ -2795,6 +3003,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "日本央行账目没有明确迹象显示上周五日元汇率变动由政府干预所致。",
+          "url": "https://flash.jin10.com/detail/20260126170244731800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "冬季风暴已导致美国逾100万用户断电",
@@ -2830,6 +3049,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "印度阅兵式派出“动物方队”",
+          "url": "https://www.toutiao.com/trending/7598538116550524964/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "以色列总理办公室：在完成加沙北部进行的搜寻最后一名以色列人质遗体的行动后，将重新开放拉法过境点，允许巴勒斯坦人通行。",
           "url": "https://flash.jin10.com/detail/20260126055837238800",
           "source": "金十数据",
@@ -2839,6 +3069,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "中方回应美威胁对加拿大征100％关税",
+          "url": "https://www.toutiao.com/trending/7599358747094089782/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "美国天然气期货涨幅扩大至18%，至6.28美元/百万英热。",
@@ -2869,9 +3110,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "有中国游客因印疫情亏钱取消赴泰行程",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%89%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9B%A0%E5%8D%B0%E7%96%AB%E6%83%85%E4%BA%8F%E9%92%B1%E5%8F%96%E6%B6%88%E8%B5%B4%E6%B3%B0%E8%A1%8C%E7%A8%8B",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "金十图示：2026年01月26日（周一）中国科技互联网公司市值排名TOP 50一览",
@@ -2891,7 +3143,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -2935,9 +3187,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        },
+        {
+          "title": "中国稀土：预计2025年净利润1.4亿元-1.8亿元，同比扭亏",
+          "url": "https://wallstreetcn.com/livenews/3043848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "更适合中国宝宝的年夜饭",
@@ -2949,6 +3212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "伊朗外交部：伊朗从未、也不会寻求核武器",
+          "url": "https://wallstreetcn.com/livenews/3043845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "美国天然气期货大涨18%，至6.28美元/百万英热单位。",
@@ -3067,7 +3341,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -3081,6 +3355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "法国：七国集团(G7)电话会议将讨论稀土和乌克兰问题。",
+          "url": "https://wallstreetcn.com/livenews/3043838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "普京称无论如何都将开发北极",
@@ -3100,7 +3385,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
