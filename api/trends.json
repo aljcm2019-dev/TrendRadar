@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T22:06:23.514394+08:00",
-  "total_titles_processed": 1968,
+  "generated_at": "2026-02-06T23:40:35.261441+08:00",
+  "total_titles_processed": 2099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 423,
+      "match_count": 456,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时03分 ~ 22时06分]"
+          "appearance_count": 15,
+          "time_info": "[10时03分 ~ 23时40分]"
+        },
+        {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时41分 ~ 23时40分]"
         },
         {
           "title": "存储芯片荒难解！惠普等PC大厂据称首次考虑中国大陆供应商",
@@ -64,17 +75,6 @@
           "time_info": "[00时50分 ~ 07时23分]"
         },
         {
-          "title": "中方回应特朗普公开支持高市早苗",
-          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时41分 ~ 22时06分]"
-        },
-        {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
           "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
           "source": "澎湃新闻",
@@ -86,20 +86,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时46分 ~ 22时06分]"
-        },
-        {
-          "title": "鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的 TOP1，就都想到了他？",
-          "url": "https://www.zhihu.com/question/1957061060604437527",
-          "source": "知乎",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时54分 ~ 22时06分]"
+          "appearance_count": 14,
+          "time_info": "[12时46分 ~ 23时40分]"
         },
         {
           "title": "贝森特：看到伊朗啥样了吧，我们干的",
@@ -123,6 +111,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时50分 ~ 10时03分]"
+        },
+        {
+          "title": "鲁迅连个长篇都没有，可是为什么一提到中国现当代文学的 TOP1，就都想到了他？",
+          "url": "https://www.zhihu.com/question/1957061060604437527",
+          "source": "知乎",
+          "ranks": [
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[13时54分 ~ 23时40分]"
         },
         {
           "title": "白应苍忏悔：对不起数万受害中国人",
@@ -166,8 +167,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时03分 ~ 22时06分]"
+          "appearance_count": 15,
+          "time_info": "[10时03分 ~ 23时40分]"
         },
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -253,6 +254,17 @@
           "time_info": "[00时50分 ~ 07时23分]"
         },
         {
+          "title": "中国最冷城市零下58度真实体验",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%86%B7%E5%9F%8E%E5%B8%82%E9%9B%B6%E4%B8%8B58%E5%BA%A6%E7%9C%9F%E5%AE%9E%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时40分 ~ 23时40分]"
+        },
+        {
           "title": "中国奇谭2拜山体验故乡烟火",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%B0%AD2%E6%8B%9C%E5%B1%B1%E4%BD%93%E9%AA%8C%E6%95%85%E4%B9%A1%E7%83%9F%E7%81%AB",
           "source": "bilibili 热搜",
@@ -276,11 +288,12 @@
           "ranks": [
             16,
             17,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时46分 ~ 22时06分]"
+          "appearance_count": 14,
+          "time_info": "[12时46分 ~ 23时40分]"
         },
         {
           "title": "禁运卡脖子,日本闹药荒",
@@ -364,6 +377,17 @@
           "time_info": "[12时46分 ~ 18时40分]"
         },
         {
+          "title": "美国再发警告，敦促本国公民尽快离开伊朗",
+          "url": "https://news.ifeng.com/c/8qWlt2Y8DsQ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时34分 ~ 23时40分]"
+        },
+        {
           "title": "日本大选前，特朗普发文支持高市",
           "url": "https://news.ifeng.com/c/8qWByeKcHHN",
           "source": "凤凰网",
@@ -420,17 +444,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时50分 ~ 07时23分]"
-        },
-        {
-          "title": "中国最冷城市零下58度真实体验",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%9C%80%E5%86%B7%E5%9F%8E%E5%B8%82%E9%9B%B6%E4%B8%8B58%E5%BA%A6%E7%9C%9F%E5%AE%9E%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 22时06分]"
         },
         {
           "title": "韩国求生欲拉满：和美国组团后，又寻求与中国加强合作",
@@ -518,15 +531,30 @@
           "time_info": "[00时50分 ~ 07时23分]"
         },
         {
-          "title": "美国再发警告，敦促本国公民尽快离开伊朗",
-          "url": "https://news.ifeng.com/c/8qWlt2Y8DsQ",
+          "title": "法国前文化部长卷入爱泼斯坦案被传唤",
+          "url": "https://news.ifeng.com/c/8qWjs1O0wPT",
           "source": "凤凰网",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[19时34分 ~ 22时06分]"
+          "time_info": "[20时59分 ~ 23时40分]"
+        },
+        {
+          "title": "扶桑谈｜高市早苗的“危机大选”：成就强人政权还是开启崩塌之路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32543746",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时42分 ~ 23时40分]"
         },
         {
           "title": "立陶宛承认对中国犯了巨大错误",
@@ -567,28 +595,6 @@
           "time_info": "[12时46分 ~ 17时43分]"
         },
         {
-          "title": "日本挖到稀土泥 中方回应亮了",
-          "url": "https://www.toutiao.com/trending/7602841741054017579/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 22时06分]"
-        },
-        {
-          "title": "法国前文化部长卷入爱泼斯坦案被传唤",
-          "url": "https://news.ifeng.com/c/8qWjs1O0wPT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 22时06分]"
-        },
-        {
           "title": "中国公民境外被绑架杀害 国安部披露",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%A2%83%E5%A4%96%E8%A2%AB%E7%BB%91%E6%9E%B6%E6%9D%80%E5%AE%B3+%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8A%AB%E9%9C%B2",
           "source": "百度热搜",
@@ -603,19 +609,17 @@
           "time_info": "[12时46分 ~ 16时41分]"
         },
         {
-          "title": "扶桑谈｜高市早苗的“危机大选”：成就强人政权还是开启崩塌之路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32543746",
-          "source": "澎湃新闻",
+          "title": "美伊核谈判在阿曼重启 伊朗武装部队今晚起将进入最高级别戒备状态",
+          "url": "https://www.cls.cn/detail/2283240",
+          "source": "财联社热门",
           "ranks": [
-            17,
-            15,
-            10,
-            8,
-            7
+            9,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时42分 ~ 22时06分]"
+          "appearance_count": 4,
+          "time_info": "[20时59分 ~ 23时40分]"
         },
         {
           "title": "万斯谈爱泼斯坦案文件：精英阶层道德败坏，令人作呕",
@@ -654,6 +658,31 @@
           "time_info": "[06时28分 ~ 07时23分]"
         },
         {
+          "title": "中国胃!谷爱凌自带锅去冬奥",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350333&amp;topic_name=%E4%B8%AD%E5%9B%BD%E8%83%83%21%E8%B0%B7%E7%88%B1%E5%87%8C%E8%87%AA%E5%B8%A6%E9%94%85%E5%8E%BB%E5%86%AC%E5%A5%A5",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时40分 ~ 23时40分]"
+        },
+        {
+          "title": "日本挖到稀土泥 中方回应亮了",
+          "url": "https://www.toutiao.com/trending/7602841741054017579/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时59分 ~ 23时40分]"
+        },
+        {
           "title": "外国网友请求中国帮助网友回复爆火",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%AF%B7%E6%B1%82%E4%B8%AD%E5%9B%BD%E5%B8%AE%E5%8A%A9%E7%BD%91%E5%8F%8B%E5%9B%9E%E5%A4%8D%E7%88%86%E7%81%AB%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -666,6 +695,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时46分 ~ 15时47分]"
+        },
+        {
+          "title": "涉嫌性侵19名残障女性，韩国“色动院”负责人再被传唤",
+          "url": "https://news.ifeng.com/c/8qWEFKBleJl",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 23时40分]"
         },
         {
           "title": "英首相称前驻美国大使背叛了国家",
@@ -758,9 +798,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
+        },
+        {
+          "title": "以军发言人：对公众发布的防御指南目前无任何变化",
+          "url": "https://flash.jin10.com/detail/20260206232757834800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "经营住宅、商业地产网站的数字广告公司REA Group Ltd.（REA.AU）悉尼盘初跌18%，该公司上半财年核心净利润3.406亿澳元，分析师预期3.57亿澳元。 另类资管公司HMC Capital Ltd.（HMC）悉尼盘初涨7.7%，美国私募KKR将对能源平台投资高达6.03亿澳元。",
@@ -783,6 +834,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
+        },
+        {
+          "title": "加拿大蒙特利尔银行（BMO）EMEA利率策略主管Laurence Mutkin：美联储主席提名人凯文·沃什（获得美国参议院确认并上任之后）可以在缩减资产负债表方面借鉴英国央行的经验教训。",
+          "url": "https://wallstreetcn.com/livenews/3051534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "外国网友请求中国帮助 网友回复爆火",
@@ -893,9 +955,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
+        },
+        {
+          "title": "调查显示美国消费者信心小幅回升 通胀与就业担忧仍存",
+          "url": "https://flash.jin10.com/detail/20260206232724254800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨0.8%。 热门中概股里，叮咚买菜初步收跌15%，阿特斯太阳能跌8.4%，阿里、新东方跌1%，小米、理想、美团则涨超2%，文远知行涨3.6%，百胜中国涨4.6%，蔚来涨6%。 ETF中，ASHS跌1.7%，ASHR跌0.8%，CQQQ跌0.8%，KWEB跌0.1%。",
@@ -926,22 +999,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
         {
-          "title": "中国胃!谷爱凌自带锅去冬奥",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350333&amp;topic_name=%E4%B8%AD%E5%9B%BD%E8%83%83%21%E8%B0%B7%E7%88%B1%E5%87%8C%E8%87%AA%E5%B8%A6%E9%94%85%E5%8E%BB%E5%86%AC%E5%A5%A5",
-          "source": "贴吧",
+          "title": "伊朗：武装部队进入最高级别战备状态",
+          "url": "https://news.ifeng.com/c/8qWnwy3D64q",
+          "source": "凤凰网",
           "ranks": [
-            3,
-            7,
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 22时06分]"
+          "appearance_count": 5,
+          "time_info": "[19时34分 ~ 23时40分]"
         },
         {
           "title": "印度东北部一煤矿爆炸造成至少18人死亡",
@@ -1016,9 +1087,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
+        },
+        {
+          "title": "伊朗总统外交与媒体事务助理：伊朗致力于为本地区所有国家实现和平与安全。",
+          "url": "https://flash.jin10.com/detail/20260206232333160800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "日本央行委员增一行：如果经济展望实现，将提高利率。 物价趋势正迈向2%，基础通胀仍低于2%，但已相当接近该水平。 日本央行密切关注外汇市场的波动及其对经济和物价的影响。 必须警惕日元走弱引发的通胀是否会推高整体物价水平，以及是否会影响基础通胀。 显而易见，通缩习俗正在被根除，日本正进入通胀时期。 关键在于以及时且恰当的方式加息，以确保基础通胀率不会超过2%。 日本央行还必须谨慎行动，避免过度加息破坏刚刚开始转动的“通胀与工资适度上涨”的循环。 日本央行在审查未来购债进度时，必须仔细研判市场动态。 日本的实际利率目前仍然处于深度的负值区间。",
@@ -1041,6 +1123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "美国电网运营商PJM InterConnection LLC.预计，美国将在未来十年出现60 GW电力供应短缺。 如果不采取行动，电力供应短缺规模可能会从6.5 GW膨胀至60 GW。",
+          "url": "https://wallstreetcn.com/livenews/3051530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "在 2025 全球销量前十的汽车集团中，丰田集团以 1042 万辆成绩再次卫冕全球销冠，中国企业何时可超？",
@@ -1161,9 +1254,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
+        },
+        {
+          "title": "法国媒体6日报道说，法国东南部城市格勒诺布尔市中心一家美容院当天发生一起手榴弹爆炸事件，造成6人受伤。",
+          "url": "https://flash.jin10.com/detail/20260206232217782800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美媒爆：特朗普提议以自己名字命名杜勒斯机场和纽约宾州车站换取解冻项目资金，遭舒默拒绝",
@@ -1205,21 +1309,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
         {
-          "title": "美伊核谈判在阿曼重启 伊朗武装部队今晚起将进入最高级别戒备状态",
-          "url": "https://www.cls.cn/detail/2283240",
-          "source": "财联社热门",
+          "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3051529",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
             4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时59分 ~ 22时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
@@ -1231,17 +1334,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
-        },
-        {
-          "title": "涉嫌性侵19名残障女性，韩国“色动院”负责人再被传唤",
-          "url": "https://news.ifeng.com/c/8qWEFKBleJl",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
         },
         {
           "title": "伊朗外交部发言人：伊朗外长阿拉格齐启程前往阿曼马斯喀特，与美国举行核谈判。",
@@ -1294,7 +1386,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -1316,9 +1408,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
+        },
+        {
+          "title": "鲁比奥声称美国将维持“强大、可信且现代化的核威慑力量”",
+          "url": "https://wallstreetcn.com/livenews/3051528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国恢复原定于6日举行的美伊谈判，此前美伊谈判计划濒临破裂",
@@ -1370,15 +1473,27 @@
           "time_info": "[10时03分 ~ 14时55分]"
         },
         {
-          "title": "伊朗：武装部队进入最高级别战备状态",
-          "url": "https://news.ifeng.com/c/8qWnwy3D64q",
+          "title": "俄军中将在莫斯科遭枪击，克宫：正汇报普京",
+          "url": "https://news.ifeng.com/c/8qWlt2Y8Dvw",
           "source": "凤凰网",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时34分 ~ 22时06分]"
+          "appearance_count": 5,
+          "time_info": "[19时34分 ~ 23时40分]"
+        },
+        {
+          "title": "全世界都在跳中国山歌",
+          "url": "https://www.douyin.com/hot/2391572",
+          "source": "抖音",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时40分 ~ 23时40分]"
         },
         {
           "title": "美国总统特朗普在匈牙利即将大选之际声称，他支持总理欧尔班、他是一位“强有力的领导人”。",
@@ -1678,6 +1793,18 @@
           "time_info": "[17时42分 ~ 19时34分]"
         },
         {
+          "title": "如何看待立陶宛认输疯狂示好中国",
+          "url": "https://www.toutiao.com/trending/7603577396729482795/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 23时40分]"
+        },
+        {
           "title": "加拿大央行行长麦克勒姆：与美国这个竞争对手相比，加拿大企业对新技术的投资既不够多也不够快，这损害了我们的竞争地位。",
           "url": "https://flash.jin10.com/detail/20260206032406192800",
           "source": "金十数据",
@@ -1713,17 +1840,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时42分 ~ 19时34分]"
-        },
-        {
-          "title": "俄军中将在莫斯科遭枪击，克宫：正汇报普京",
-          "url": "https://news.ifeng.com/c/8qWlt2Y8Dvw",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时34分 ~ 22时06分]"
         },
         {
           "title": "农心杯王星昊不敌申真谞，中国队排名垫底，申真谞跨届 20 连胜，日韩将争夺冠军，如何评价这一结果？",
@@ -1789,16 +1905,18 @@
           "time_info": "[00时50分 ~ 07时23分]"
         },
         {
-          "title": "全世界都在跳中国山歌",
-          "url": "https://www.douyin.com/hot/2391572",
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
           "source": "抖音",
           "ranks": [
-            25,
-            26
+            29,
+            27,
+            28,
+            22
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[18时40分 ~ 22时06分]"
+          "time_info": "[18时40分 ~ 23时40分]"
         },
         {
           "title": "中国机器人在米兰冬奥会大秀功夫",
@@ -1972,19 +2090,6 @@
           "time_info": "[20时59分 ~ 22时06分]"
         },
         {
-          "title": "美伊谈判前特朗普发李小龙视频",
-          "url": "https://www.douyin.com/hot/2391580",
-          "source": "抖音",
-          "ranks": [
-            29,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时40分 ~ 21时00分]"
-        },
-        {
           "title": "印度一男子阻止骚扰遭群殴",
           "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E4%B8%80%E7%94%B7%E5%AD%90%E9%98%BB%E6%AD%A2%E9%AA%9A%E6%89%B0%E9%81%AD%E7%BE%A4%E6%AE%B4",
           "source": "百度热搜",
@@ -1995,6 +2100,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时48分 ~ 03时37分]"
+        },
+        {
+          "title": "“牢A”：每个美国人身后都有一条“斩杀线”",
+          "url": "https://news.ifeng.com/c/8qWmpB37rDV",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 23时40分]"
         },
         {
           "title": "日本挖到稀土泥中方回应亮了",
@@ -2031,6 +2147,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时29分]"
+        },
+        {
+          "title": "美财长承认在伊朗制造美元短缺",
+          "url": "https://news.ifeng.com/c/8qWsNTHopF6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 23时40分]"
         },
         {
           "title": "乌军称用国产远程武器对俄实施打击",
@@ -2508,6 +2635,17 @@
           "time_info": "[17时42分 ~ 17时43分]"
         },
         {
+          "title": "伊朗在谈判中表示绝不接受“零浓缩”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9C%A8%E8%B0%88%E5%88%A4%E4%B8%AD%E8%A1%A8%E7%A4%BA%E7%BB%9D%E4%B8%8D%E6%8E%A5%E5%8F%97%E2%80%9C%E9%9B%B6%E6%B5%93%E7%BC%A9%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时06分 ~ 23时40分]"
+        },
+        {
           "title": "俄军高官在莫斯科中枪送医",
           "url": "https://www.toutiao.com/trending/7602833414185615423/",
           "source": "今日头条",
@@ -2591,7 +2729,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -2624,18 +2762,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "“牢A”：每个美国人身后都有一条“斩杀线”",
-          "url": "https://news.ifeng.com/c/8qWmpB37rDV",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -2690,7 +2817,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -2728,15 +2855,15 @@
           "time_info": "21时00分"
         },
         {
-          "title": "美财长承认在伊朗制造美元短缺",
-          "url": "https://news.ifeng.com/c/8qWsNTHopF6",
-          "source": "凤凰网",
+          "title": "美国2月密歇根大学1年通胀预期创13个月新低",
+          "url": "https://wallstreetcn.com/livenews/3051526",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时06分"
+          "time_info": "23时40分"
         },
         {
           "title": "美国财长贝森特：伊朗领导层疯狂地往外转移资金。",
@@ -2800,9 +2927,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
+        },
+        {
+          "title": "美国财长贝森特：花旗银行将为员工向“特朗普账户”的捐款提供等额配捐。",
+          "url": "https://flash.jin10.com/detail/20260206231347233800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "如何看待泽连斯基公布乌军战损",
@@ -2811,7 +2949,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -2893,6 +3031,17 @@
           "time_info": "15时47分"
         },
         {
+          "title": "美国2月密歇根大学消费者预期指数初值 56.6，预期 55.1，前值 57。",
+          "url": "https://wallstreetcn.com/livenews/3051523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "日本央行委员增一行：我个人正密切关注除大米外的加工食品价格走势，因为这将是决定日本通胀前景的关键。",
           "url": "https://flash.jin10.com/detail/20260206093820224800",
           "source": "金十数据",
@@ -2954,7 +3103,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -2990,6 +3139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
+        },
+        {
+          "title": "美国2月密歇根大学1年通胀预期初值 3.5，预期 4，前值 4。",
+          "url": "https://wallstreetcn.com/livenews/3051522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "中国队米兰冬奥首秀",
@@ -3135,6 +3295,17 @@
           "time_info": "19时34分"
         },
         {
+          "title": "美国2月密歇根大学5年通胀预期初值 3.4，预期 3.3，前值 3.3。",
+          "url": "https://wallstreetcn.com/livenews/3051521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "用中国剪纸打开米兰冬奥",
           "url": "https://s.weibo.com/weibo?q=%23%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%89%AA%E7%BA%B8%E6%89%93%E5%BC%80%E7%B1%B3%E5%85%B0%E5%86%AC%E5%A5%A5%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -3185,7 +3356,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -3221,6 +3392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
+        },
+        {
+          "title": "美国2月密歇根大学消费者现况指数初值 58.3，预期 53.7，前值 55.4。",
+          "url": "https://wallstreetcn.com/livenews/3051519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "演唱会出轨女方美国演讲门票超6千",
@@ -3311,6 +3493,17 @@
           "time_info": "21时00分"
         },
         {
+          "title": "美国财政部在与伊朗有关的制裁对象中新增多艘油轮。",
+          "url": "https://flash.jin10.com/detail/20260206230702533800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "美国财长贝森特：我在2024年（拜登任期内）看到了通胀。 （特朗普挑起的）关税造成美元走强。",
           "url": "https://wallstreetcn.com/livenews/3050783",
           "source": "华尔街见闻-快讯",
@@ -3320,6 +3513,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "美国2月密歇根大学消费者信心指数初值 57.3，预期 55，前值 56.4。",
+          "url": "https://wallstreetcn.com/livenews/3051520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "日本持续强降雪已致42人死亡",
+          "url": "https://www.douyin.com/hot/2391380",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "加拿大央行行长麦克勒姆：（在被问及央行的经济预测时）我们不可能对美国总统特朗普的每一项威胁都做出回应。那样的话，我们就是在自掘坟墓。",
@@ -3364,6 +3579,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
+        },
+        {
+          "title": "美国财政部更新与伊朗相关的制裁指定对象。",
+          "url": "https://flash.jin10.com/detail/20260206230502802800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "诺和诺德针对Hims & Hers“非法、大规模配方与欺骗性广告”发布声明，称：Hims & Hers的（商业）行为构成潜在的安全隐患。 公司仅仅生产负荷美国食品药品管理局（FDA）批准的减肥药Wegovy。",
@@ -3430,6 +3656,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
+        },
+        {
+          "title": "美国2月密歇根大学消费者信心指数初值录得57.3，为6个月高点。",
+          "url": "https://flash.jin10.com/detail/20260206230233050800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国总统特朗普将于周四深夜宣布启动TrumpRX。（Axios）",
@@ -3597,6 +3834,17 @@
           "time_info": "10时03分"
         },
         {
+          "title": "马斯克：如果没有AI和机器人技术，美国必破产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "日本央行委员增一行：日本金融状况仍具宽松性。",
           "url": "https://flash.jin10.com/detail/20260206093255438800",
           "source": "金十数据",
@@ -3630,6 +3878,17 @@
           "time_info": "21时00分"
         },
         {
+          "title": "密歇根大学消费者信心调查：美国1年期通胀预期从4%降至13个月低点3.5%。",
+          "url": "https://flash.jin10.com/detail/20260206230139418800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "贝森特：是否起诉沃什由特朗普决定，称“起诉”言论只是玩笑",
           "url": "https://wallstreetcn.com/livenews/3050778",
           "source": "华尔街见闻-快讯",
@@ -3661,17 +3920,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
-        },
-        {
-          "title": "如何看待立陶宛认输疯狂示好中国",
-          "url": "https://www.toutiao.com/trending/7603577396729482795/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
         },
         {
           "title": "特朗普：完全支持欧尔班再次担任匈牙利总理",
@@ -3762,13 +4010,24 @@
           "time_info": "21时00分"
         },
         {
+          "title": "波音公司（BA）一度涨约3%，媒体报道称，印度商务和工业部长皮尤什·戈亚尔（Piyush Goyal）表示，新德里“准备好”在美印贸易协定后购买价值高达800亿美元的波音飞机。 如果算上发动机和其他备件，仅飞机领域的对美进口额就将“cross 100 billion”（美元）。 印度计划在未来五年内从美国采购至少5000亿美元的美国商品。 美印两国将在未来3-4天内签署联合声明，敲定双边贸易协定的第一阶段。",
+          "url": "https://wallstreetcn.com/livenews/3051514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "美财长承认在伊朗制造美元短缺",
           "url": "https://www.toutiao.com/trending/7602618177567735827/",
           "source": "今日头条",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -3815,6 +4074,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
+        },
+        {
+          "title": "美国2月一年期通胀率预期初值 3.5%，预期4%，前值4.00%。",
+          "url": "https://flash.jin10.com/detail/20260206230002536800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国1月30日当周EIA天然气库存变动 -3600亿立方英尺，预期 -3780亿立方英尺，前值 -2420亿立方英尺。",
@@ -3916,6 +4186,17 @@
           "time_info": "18时40分"
         },
         {
+          "title": "美国2月五至十年期通胀率预期初值 3.4%，预期3.3%，前值3.30%。",
+          "url": "https://flash.jin10.com/detail/20260206230002535800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "富时中国A50指数期货盘初跌0.75%，上一个交易日夜盘收跌0.68%。",
           "url": "https://wallstreetcn.com/livenews/3050986",
           "source": "华尔街见闻-快讯",
@@ -3955,7 +4236,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -4136,6 +4417,17 @@
           "time_info": "18时40分"
         },
         {
+          "title": "美国2月密歇根大学预期指数初值 56.6，预期56.7，前值57。",
+          "url": "https://flash.jin10.com/detail/20260206230002504800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "印度央行回购利率 5.25%，预期 5.25%，前值 5.25%。",
           "url": "https://wallstreetcn.com/livenews/3051109",
           "source": "华尔街见闻-快讯",
@@ -4178,6 +4470,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
+        },
+        {
+          "title": "2025年中国再次成为德国最大贸易伙伴",
+          "url": "https://wallstreetcn.com/livenews/3051510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "中国打通量子网络任督二脉",
@@ -4274,7 +4577,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -4312,15 +4615,26 @@
           "time_info": "21时00分"
         },
         {
-          "title": "伊朗在谈判中表示绝不接受“零浓缩”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9C%A8%E8%B0%88%E5%88%A4%E4%B8%AD%E8%A1%A8%E7%A4%BA%E7%BB%9D%E4%B8%8D%E6%8E%A5%E5%8F%97%E2%80%9C%E9%9B%B6%E6%B5%93%E7%BC%A9%E2%80%9D",
-          "source": "百度热搜",
+          "title": "中国企业家代表团访问摩洛哥",
+          "url": "https://wallstreetcn.com/livenews/3051508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
+          "title": "伊朗副外长着急访华有何目的",
+          "url": "https://www.toutiao.com/trending/7603719229581299210/",
+          "source": "今日头条",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时06分"
+          "time_info": "23时40分"
         },
         {
           "title": "白宫发言人：美国总统特朗普将于周四推出TrumpRX网站。",
@@ -4389,6 +4703,17 @@
           "time_info": "19时34分"
         },
         {
+          "title": "美国2月密歇根大学现况指数初值 58.3，预期54.9，前值55.4。",
+          "url": "https://flash.jin10.com/detail/20260206230002500800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "美国财长贝森特在参议院银行委员会听证会上重申2月4日在众议院金融委员会的表态。",
           "url": "https://wallstreetcn.com/livenews/3050770",
           "source": "华尔街见闻-快讯",
@@ -4428,7 +4753,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -4505,9 +4830,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
+        },
+        {
+          "title": "美国2月密歇根大学消费者信心指数初值 57.3，预期55，前值56.4。",
+          "url": "https://flash.jin10.com/detail/20260206230002474800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国驻波兰大使Tom Rose声称，其将切断与波兰众议院议长沃齐米日·恰扎斯蒂 (Włodzimierz Czarzasty)的所有联系。 这位外交官宣称，该议长的表态“直接冒犯”美国总统特朗普，不利于曾称呼特朗普为“爸爸”的波兰总理图斯克和其政府与美方的“卓越关系”。",
@@ -4565,6 +4901,17 @@
           "time_info": "13时54分"
         },
         {
+          "title": "据华尔街日报：伊朗在与美国的谈判中拒绝停止核浓缩。",
+          "url": "https://flash.jin10.com/detail/20260206225848562800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "伊朗军方：我们能够轻易进入美军基地",
           "url": "https://wallstreetcn.com/livenews/3051064",
           "source": "华尔街见闻-快讯",
@@ -4618,6 +4965,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
+        },
+        {
+          "title": "纳斯达克中国金龙指数涨2%。",
+          "url": "https://flash.jin10.com/detail/20260206225804847800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "报道：欧元升值引关注，法国拟在欧盟峰会讨论汇率问题",
@@ -4725,7 +5083,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -4835,7 +5193,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         },
@@ -4873,6 +5231,17 @@
           "time_info": "18时40分"
         },
         {
+          "title": "据Politico：美国议员就移民与海关执法局追踪应用调查司法部，寻求获取司法部与苹果、谷歌的通信记录。",
+          "url": "https://flash.jin10.com/detail/20260206225411078800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "美国12月JOLTS职位空缺 654.2万人，预期 725万人，前值 714.6万人。",
           "url": "https://wallstreetcn.com/livenews/3050763",
           "source": "华尔街见闻-快讯",
@@ -4890,7 +5259,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时06分"
         }
