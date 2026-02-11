@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T00:02:23.676523+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-12T01:56:25.815915+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 59,
+      "match_count": 78,
       "titles": [
         {
           "title": "美国无端指责中国开展核爆炸试验，外交部驳斥",
@@ -15,8 +15,53 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
+        },
+        {
+          "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，25年3月非农下修86.2万！",
+          "url": "https://wallstreetcn.com/articles/3765528",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
+        },
+        {
+          "title": "伊朗总统致歉",
+          "url": "https://news.ifeng.com/c/8qf5xxJfwSa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
+        },
+        {
+          "title": "今夜，美国非农或现“百万级”下修",
+          "url": "https://wallstreetcn.com/articles/3765468",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
+        },
+        {
+          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
+          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
         },
         {
           "title": "墨西哥比索触及日内低点，此前墨西哥总统辛鲍姆称，不认为特朗普会退出《美墨加协定》。",
@@ -74,6 +119,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "美国财长贝森特：特朗普总统促进经济增长的议程正在为美国工人带来好处。得益于特朗普总统的税收协议、贸易协议和和平协议，美国经济持续繁荣发展——而且最好的还在后头。",
+          "url": "https://flash.jin10.com/detail/20260212012609836800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
           "title": "美国2月6日当周EIA精炼厂设备利用率变化 -1.1%，预期 -0.5%，前值 -0.4%。",
           "url": "https://wallstreetcn.com/livenews/3053846",
           "source": "华尔街见闻-快讯",
@@ -85,26 +141,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，25年3月非农下修86.2万！",
-          "url": "https://wallstreetcn.com/articles/3765528",
-          "source": "华尔街见闻",
+          "title": "德债收益率在美国非农日冲高回落，长端德债收益率跌超3个基点",
+          "url": "https://wallstreetcn.com/livenews/3053896",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "伊朗总统致歉",
-          "url": "https://news.ifeng.com/c/8qf5xxJfwSa",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时56分"
         },
         {
           "title": "美国至2月6日当周EIA蒸馏燃油产量引伸需求数据 539.61万桶/日，前值580.43万桶/日。",
@@ -118,6 +163,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "美国财长贝森特：非农就业数据超过预期。",
+          "url": "https://flash.jin10.com/detail/20260212012455051800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
           "title": "美国2月6日当周EIA库欣地区原油库存变动 107.1万桶，前值 -74.3万桶。",
           "url": "https://wallstreetcn.com/livenews/3053844",
           "source": "华尔街见闻-快讯",
@@ -129,37 +185,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "韩国瑜力挺高金素梅",
-          "url": "https://www.toutiao.com/trending/7605167815289405449/",
-          "source": "今日头条",
+          "title": "美国财政部长贝森特：非农就业人口超过预期。",
+          "url": "https://wallstreetcn.com/livenews/3053895",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "今夜，美国非农或现“百万级”下修",
-          "url": "https://wallstreetcn.com/articles/3765468",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "特朗普：伊朗希望达成协议，不然太蠢了",
-          "url": "https://news.ifeng.com/c/8qf0rfTG2o3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时56分"
         },
         {
           "title": "美国至2月6日当周EIA车用汽油总产量引伸需求数据 927.84万桶/日，前值911.1万桶/日。",
@@ -184,15 +218,16 @@
           "time_info": "00时02分"
         },
         {
-          "title": "中国女特警实力碾压美国男队",
-          "url": "https://www.toutiao.com/trending/7605420621232623131/",
+          "title": "韩国瑜力挺高金素梅",
+          "url": "https://www.toutiao.com/trending/7605167815289405449/",
           "source": "今日头条",
           "ranks": [
-            6
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
         },
         {
           "title": "澳警方指控2名中国公民，中方回应",
@@ -202,8 +237,161 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
+        },
+        {
+          "title": "野田佳彦惨败辞职后，日本在野党将选新党代表",
+          "url": "https://news.ifeng.com/c/8qfETZ4tnOT",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
+        },
+        {
+          "title": "中国女特警实力碾压美国男队",
+          "url": "https://www.toutiao.com/trending/7605420621232623131/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
+        },
+        {
+          "title": "中国1月CPI同比涨幅回落至0.2%，PPI同比降幅收窄至1.4%",
+          "url": "https://wallstreetcn.com/articles/3765460",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
+        },
+        {
+          "title": "美国指责中国开展核爆炸试验，外交部驳斥",
+          "url": "https://www.cls.cn/detail/2287126",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
+        },
+        {
+          "title": "伊朗总统：不寻求核武器 愿接受核查",
+          "url": "https://www.toutiao.com/trending/7604987910697287722/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
+        },
+        {
+          "title": "中国载人登月新突破",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%BD%BD%E4%BA%BA%E7%99%BB%E6%9C%88%E6%96%B0%E7%AA%81%E7%A0%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
+        },
+        {
+          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
+          "url": "https://wallstreetcn.com/articles/3765457",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
+        },
+        {
+          "title": "玉渊谭天：中国可对法国葡萄酒发起双反调查",
+          "url": "https://www.cls.cn/detail/2287385",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
+        },
+        {
+          "title": "俄乌战局新情况：俄军接近夺取乌3个战略要地，乌允许60岁以上人员服役",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582050",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
+        },
+        {
+          "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
+          "url": "https://www.zhihu.com/question/2004862099634016476",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
+        },
+        {
+          "title": "梦舟成了!中国载人登月有戏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350547&amp;topic_name=%E6%A2%A6%E8%88%9F%E6%88%90%E4%BA%86%21%E4%B8%AD%E5%9B%BD%E8%BD%BD%E4%BA%BA%E7%99%BB%E6%9C%88%E6%9C%89%E6%88%8F",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
+        },
+        {
+          "title": "外交部：日本军国主义强征“慰安妇”铁证如山不容否认",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32582946",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
+        },
+        {
+          "title": "中国女子特警队实力碾压美国男队",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%89%B9%E8%AD%A6%E9%98%9F%E5%AE%9E%E5%8A%9B%E7%A2%BE%E5%8E%8B%E7%BE%8E%E5%9B%BD%E7%94%B7%E9%98%9F",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时56分]"
         },
         {
           "title": "金十数据整理：美国当周EIA库存数据六大看点一览",
@@ -222,17 +410,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "野田佳彦惨败辞职后，日本在野党将选新党代表",
-          "url": "https://news.ifeng.com/c/8qfETZ4tnOT",
-          "source": "凤凰网",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -261,28 +438,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "中国1月CPI同比涨幅回落至0.2%，PPI同比降幅收窄至1.4%",
-          "url": "https://wallstreetcn.com/articles/3765460",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "美国指责中国开展核爆炸试验，外交部驳斥",
-          "url": "https://www.cls.cn/detail/2287126",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
           "title": "美国至2月6日当周EIA战略石油储备库存 -0.1万桶，前值21.4万桶。",
           "url": "https://flash.jin10.com/detail/20260211233011236800",
           "source": "金十数据",
@@ -294,26 +449,26 @@
           "time_info": "00时02分"
         },
         {
-          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
-          "url": "https://wallstreetcn.com/articles/3765457",
-          "source": "华尔街见闻",
+          "title": "两位安全消息人士称，美国领导的打击“伊斯兰国”联盟部队已从叙利亚的阿尔坦夫基地撤往约旦。",
+          "url": "https://flash.jin10.com/detail/20260212011136086800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时56分"
         },
         {
-          "title": "玉渊谭天：中国可对法国葡萄酒发起双反调查",
-          "url": "https://www.cls.cn/detail/2287385",
-          "source": "财联社热门",
+          "title": "伊朗总统道歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E9%81%93%E6%AD%89%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
           "ranks": [
-            9
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时56分"
         },
         {
           "title": "美国至2月6日当周EIA精炼厂设备利用率 89.4%，预期90.5%，前值90.5%。",
@@ -325,6 +480,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "英国财政大臣Reeves：希望与印度的贸易协议在春季生效。",
+          "url": "https://wallstreetcn.com/livenews/3053890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
+          "url": "https://wallstreetcn.com/articles/3765521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         },
         {
           "title": "美国至2月6日当周EIA取暖油库存 20.2万桶，前值-16万桶。",
@@ -343,17 +520,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "俄乌战局新情况：俄军接近夺取乌3个战略要地，乌允许60岁以上人员服役",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32582050",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -404,17 +570,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "中国载人登月新突破",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%BD%BD%E4%BA%BA%E7%99%BB%E6%9C%88%E6%96%B0%E7%AA%81%E7%A0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
           "title": "美国至2月6日当周EIA精炼油库存 -270.3万桶，预期-131.3万桶，前值-555.3万桶。",
           "url": "https://flash.jin10.com/detail/20260211233003636800",
           "source": "金十数据",
@@ -424,6 +579,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "法国宣布将在15年内提供16亿欧元公共资金，用于工业基地的脱碳。",
+          "url": "https://flash.jin10.com/detail/20260212010014421800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         },
         {
           "title": "美国能源部长Wright：在委内瑞拉的日程是会见该国领导人，构建（两国之间的）关系。",
@@ -470,42 +636,20 @@
           "time_info": "00时02分"
         },
         {
-          "title": "梦舟成了!中国载人登月有戏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350547&amp;topic_name=%E6%A2%A6%E8%88%9F%E6%88%90%E4%BA%86%21%E4%B8%AD%E5%9B%BD%E8%BD%BD%E4%BA%BA%E7%99%BB%E6%9C%88%E6%9C%89%E6%88%8F",
-          "source": "贴吧",
+          "title": "数字货币市场走低，美国非农就业报告给小币种带来一波尖锐的冲高回落行情",
+          "url": "https://wallstreetcn.com/livenews/3053882",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "外交部：日本军国主义强征“慰安妇”铁证如山不容否认",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32582946",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "01时56分"
         },
         {
           "title": "美国至2月6日当周EIA汽油产量 13.9万桶/日，前值-56.5万桶/日。",
           "url": "https://flash.jin10.com/detail/20260211233003540800",
           "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
-          "url": "https://www.zhihu.com/question/2004862099634016476",
-          "source": "知乎",
           "ranks": [
             17
           ],
@@ -558,17 +702,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "中国女子特警队实力碾压美国男队",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E7%89%B9%E8%AD%A6%E9%98%9F%E5%AE%9E%E5%8A%9B%E7%A2%BE%E5%8E%8B%E7%BE%8E%E5%9B%BD%E7%94%B7%E9%98%9F",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
           "title": "美国至2月6日当周EIA俄克拉荷马州库欣原油库存 107.1万桶，前值-74.3万桶。",
           "url": "https://flash.jin10.com/detail/20260211233003515800",
           "source": "金十数据",
@@ -591,6 +724,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "分析师：美国就业强劲展现经济韧性，但美联储仍面临高度不确定性",
+          "url": "https://flash.jin10.com/detail/20260212005517650800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
           "title": "纳斯达克金龙中国指数跌幅扩大至0.5%。 热门中概股文远知行跌4.4%，再鼎医药跌4.2%，阿里巴巴跌1.9%，网易、小马智行跌约1.5%。 贝壳、华住涨1.8%，万国数据、理想涨超1.9%，B站涨超2.8%，世纪互联涨约5%，金山云涨10.2%。",
           "url": "https://wallstreetcn.com/livenews/3053824",
           "source": "华尔街见闻-快讯",
@@ -602,6 +746,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "报道：美国芝商所考虑推出稀土期货",
+          "url": "https://wallstreetcn.com/livenews/3053876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
           "title": "美国总统特朗普：美国应该承担更低的借债成本。 美国应该对债务支付更低的成本。 因此，美国应该支付（全球）最低的利率。",
           "url": "https://wallstreetcn.com/livenews/3053820",
           "source": "华尔街见闻-快讯",
@@ -611,6 +766,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "美国FAA宣布解除得州一机场停飞令",
+          "url": "https://wallstreetcn.com/livenews/3053874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         },
         {
           "title": "多国政要向中国人民致以新春祝福",
@@ -635,17 +801,6 @@
           "time_info": "00时02分"
         },
         {
-          "title": "伊朗总统：不寻求核武器 愿接受核查",
-          "url": "https://www.toutiao.com/trending/7604987910697287722/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
           "title": "美国劳工部长Chavez-Deremer：1月非农就业报告表明，经济强劲。",
           "url": "https://wallstreetcn.com/livenews/3053818",
           "source": "华尔街见闻-快讯",
@@ -655,6 +810,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "美国财政部拍卖四个月期国债，得标利率3.595%，投标倍数3.38。",
+          "url": "https://wallstreetcn.com/livenews/3053872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "美国至2月11日4个月国债竞拍-得标利率配置百分比 84.52%，前值12.58%。",
+          "url": "https://flash.jin10.com/detail/20260212003303517800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "德国DAX 30指数初步收跌0.25%，报24925.07点。 法国股指初步收涨0.04%，意大利股指初步收跌0.30%、银行指数跌2.31%，英国股指初步收涨1.26%。",
+          "url": "https://wallstreetcn.com/livenews/3053871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "美国至2月11日4个月国债竞拍-投标倍数 3.38，前值2.97。",
+          "url": "https://flash.jin10.com/detail/20260212003230431800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "美国至2月11日4个月国债竞拍-得标利率 3.595%，前值3.60%。",
+          "url": "https://flash.jin10.com/detail/20260212003225656800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "据日经新闻：日本计划最早于今年夏季开始测试反干扰技术，并力争在2028财年之前研发出相关设备。",
+          "url": "https://flash.jin10.com/detail/20260212003139866800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         }
       ]
     }
