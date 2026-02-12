@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T14:07:40.110998+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-02-12T15:53:04.113956+08:00",
+  "total_titles_processed": 1282,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 257,
+      "match_count": 277,
       "titles": [
         {
           "title": "今夜，美国非农或现“百万级”下修",
@@ -54,6 +54,18 @@
           "time_info": "[00时02分 ~ 06时30分]"
         },
         {
+          "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，年度下修86.2万！",
+          "url": "https://wallstreetcn.com/articles/3765528",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时29分 ~ 15时53分]"
+        },
+        {
           "title": "油价日内涨超2%，报道：特朗普私下考虑退出《美墨加协定》",
           "url": "https://wallstreetcn.com/articles/3765521",
           "source": "华尔街见闻",
@@ -65,20 +77,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时56分 ~ 14时07分]"
-        },
-        {
-          "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，年度下修86.2万！",
-          "url": "https://wallstreetcn.com/articles/3765528",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时29分 ~ 14时07分]"
+          "appearance_count": 13,
+          "time_info": "[01时56分 ~ 15时53分]"
         },
         {
           "title": "美国1月非农新增就业13万人，创去年4月以来最大增幅，失业率降至4.3%，25年3月非农下修86.2万！",
@@ -162,8 +162,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 14时07分]"
+          "appearance_count": 14,
+          "time_info": "[00时02分 ~ 15时53分]"
         },
         {
           "title": "梦舟成了!中国载人登月有戏",
@@ -191,6 +191,17 @@
           "time_info": "[00时02分 ~ 07时32分]"
         },
         {
+          "title": "核军控硬拉中国，俄高官批美国“双标”",
+          "url": "https://news.ifeng.com/c/8qftr0bn9t0",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 15时53分]"
+        },
+        {
           "title": "野田佳彦惨败辞职后，日本在野党将选新党代表",
           "url": "https://news.ifeng.com/c/8qfETZ4tnOT",
           "source": "凤凰网",
@@ -200,6 +211,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 07时32分]"
+        },
+        {
+          "title": "中方驳斥美方指责中国开展核爆炸试验",
+          "url": "https://news.ifeng.com/c/8qfTHJzBS7H",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 15时53分]"
         },
         {
           "title": "伊朗总统道歉",
@@ -275,6 +297,19 @@
           "time_info": "[00时02分 ~ 07时32分]"
         },
         {
+          "title": "如何评价中国 2 支女子特警队参加 2026 阿联酋国际警察挑战赛的表现？",
+          "url": "https://www.zhihu.com/question/2004362260286574779",
+          "source": "知乎",
+          "ranks": [
+            1,
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 15时53分]"
+        },
+        {
           "title": "比尔·盖茨到访中国，最新回应爱泼斯坦争议",
           "url": "https://news.ifeng.com/c/8qfydO4ONON",
           "source": "凤凰网",
@@ -286,26 +321,15 @@
           "time_info": "[07时32分 ~ 12时58分]"
         },
         {
-          "title": "核军控硬拉中国，俄高官批美国“双标”",
-          "url": "https://news.ifeng.com/c/8qftr0bn9t0",
-          "source": "凤凰网",
+          "title": "中国人离登月又近了一步",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%A6%BB%E7%99%BB%E6%9C%88%E5%8F%88%E8%BF%91%E4%BA%86%E4%B8%80%E6%AD%A5%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时07分]"
-        },
-        {
-          "title": "中方驳斥美方指责中国开展核爆炸试验",
-          "url": "https://news.ifeng.com/c/8qfTHJzBS7H",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时07分]"
+          "time_info": "[14时07分 ~ 15时53分]"
         },
         {
           "title": "伊朗总统：不寻求核武器 愿接受核查",
@@ -337,6 +361,19 @@
           "time_info": "[03时03分 ~ 07时32分]"
         },
         {
+          "title": "马上评丨为什么说Seedance 2.0来自中国值得庆幸",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32583754",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 15时53分]"
+        },
+        {
           "title": "玉渊谭天：奉劝法国别酒不醉人人自醉",
           "url": "https://www.toutiao.com/trending/7605742270725328435/",
           "source": "今日头条",
@@ -349,19 +386,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时32分 ~ 14时07分]"
-        },
-        {
-          "title": "如何评价中国 2 支女子特警队参加 2026 阿联酋国际警察挑战赛的表现？",
-          "url": "https://www.zhihu.com/question/2004362260286574779",
-          "source": "知乎",
-          "ranks": [
-            1,
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时07分]"
         },
         {
           "title": "墨西哥比索触及日内低点，此前墨西哥总统辛鲍姆称，不认为特朗普会退出《美墨加协定》。",
@@ -406,6 +430,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "从Deepseek到Seedance中国AI成了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 15时53分]"
         },
         {
           "title": "特朗普发帖后 CNN都看不下去了",
@@ -546,20 +583,22 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
         {
-          "title": "中国人离登月又近了一步",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%A6%BB%E7%99%BB%E6%9C%88%E5%8F%88%E8%BF%91%E4%BA%86%E4%B8%80%E6%AD%A5%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "春节中国赴日旅客量腰斩了",
+          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E4%B8%AD%E5%9B%BD%E8%B5%B4%E6%97%A5%E6%97%85%E5%AE%A2%E9%87%8F%E8%85%B0%E6%96%A9%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            3
+            20,
+            19,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时07分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 15时53分]"
         },
         {
           "title": "美国至2月6日当周EIA蒸馏燃油产量引伸需求数据 539.61万桶/日，前值580.43万桶/日。",
@@ -612,9 +651,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "新加坡总理：去年普遍预期关税将引发全球经济急剧放缓新，幸运的是，我们最担心的情况并未发生。",
+          "url": "https://flash.jin10.com/detail/20260212153307217800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "美国2月6日当周EIA库欣地区原油库存变动 107.1万桶，前值 -74.3万桶。",
@@ -675,6 +725,18 @@
           "time_info": "[00时02分 ~ 03时04分]"
         },
         {
+          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
+          "url": "https://www.cls.cn/detail/2288046",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时07分 ~ 15时53分]"
+        },
+        {
           "title": "美国至2月6日当周EIA车用汽油总产量引伸需求数据 927.84万桶/日，前值911.1万桶/日。",
           "url": "https://flash.jin10.com/detail/20260211233032912800",
           "source": "金十数据",
@@ -719,28 +781,29 @@
           "time_info": "07时32分"
         },
         {
+          "title": "进口新娘嫁光棍,韩国人怒了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350601&amp;topic_name=%E8%BF%9B%E5%8F%A3%E6%96%B0%E5%A8%98%E5%AB%81%E5%85%89%E6%A3%8D%2C%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%80%92%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            30,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时53分]"
+        },
+        {
           "title": "厂商讨好中国玩家,白皮急哭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350590&amp;topic_name=%E5%8E%82%E5%95%86%E8%AE%A8%E5%A5%BD%E4%B8%AD%E5%9B%BD%E7%8E%A9%E5%AE%B6%2C%E7%99%BD%E7%9A%AE%E6%80%A5%E5%93%AD",
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 14时07分]"
-        },
-        {
-          "title": "从Deepseek到Seedance中国AI成了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 14时07分]"
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时53分]"
         },
         {
           "title": "美国能源部长Wright：总统特朗普在委内瑞拉关系转型方面恪守承诺。",
@@ -900,6 +963,30 @@
           "time_info": "[01时56分 ~ 03时04分]"
         },
         {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 15时53分]"
+        },
+        {
+          "title": "被曝将于近期公布选举计划，泽连斯基回应",
+          "url": "https://news.ifeng.com/c/8qfkBbF99mT",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 15时53分]"
+        },
+        {
           "title": "委内瑞拉代总统罗德里格斯：希望与美国的关系在没有障碍的情况下取得进展。",
           "url": "https://flash.jin10.com/detail/20260212052327132800",
           "source": "金十数据",
@@ -972,16 +1059,30 @@
           "time_info": "[06时30分 ~ 07时32分]"
         },
         {
-          "title": "进口新娘嫁光棍,韩国人怒了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350601&amp;topic_name=%E8%BF%9B%E5%8F%A3%E6%96%B0%E5%A8%98%E5%AB%81%E5%85%89%E6%A3%8D%2C%E9%9F%A9%E5%9B%BD%E4%BA%BA%E6%80%92%E4%BA%86",
-          "source": "贴吧",
+          "title": "470秒！中国火箭成功回收",
+          "url": "https://www.baidu.com/s?wd=470%E7%A7%92%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%81%AB%E7%AE%AD%E6%88%90%E5%8A%9F%E5%9B%9E%E6%94%B6",
+          "source": "百度热搜",
           "ranks": [
-            30,
-            5
+            14,
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 14时07分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 15时53分]"
+        },
+        {
+          "title": "泽连斯基：若俄方同意，将于下周在美国举行新一轮谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32585795",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 15时53分]"
         },
         {
           "title": "德国真急了，要学习中国好榜样",
@@ -989,18 +1090,6 @@
           "source": "凤凰网",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 14时07分]"
-        },
-        {
-          "title": "马上评丨为什么说Seedance 2.0来自中国值得庆幸",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583754",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1046,6 +1135,30 @@
           "time_info": "[10时10分 ~ 14时07分]"
         },
         {
+          "title": "强劲非农难撼白宫鸽派论调 特朗普亲信：美联储仍有“充足”降息空间",
+          "url": "https://www.cls.cn/detail/2287874",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时07分 ~ 15时53分]"
+        },
+        {
+          "title": "速度滑冰男子 1000 米，宁忠岩 1 分 07 秒 34 夺铜，美国斯托尔兹夺冠，廉子文被取消成绩，如何看待？",
+          "url": "https://www.zhihu.com/question/2005092208278201357",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时07分 ~ 15时53分]"
+        },
+        {
           "title": "美国28岁华人女孩遭枪杀 前男友自首",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD28%E5%B2%81%E5%8D%8E%E4%BA%BA%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%9E%AA%E6%9D%80+%E5%89%8D%E7%94%B7%E5%8F%8B%E8%87%AA%E9%A6%96",
           "source": "百度热搜",
@@ -1059,6 +1172,64 @@
           "time_info": "[07时32分 ~ 12时58分]"
         },
         {
+          "title": "伊朗总统：愿接受任何形式的核查",
+          "url": "https://www.douyin.com/hot/2397305",
+          "source": "抖音",
+          "ranks": [
+            16,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时53分]"
+        },
+        {
+          "title": "一座加拿大的桥怎么会让中国躺枪",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%BA%A7%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%9A%84%E6%A1%A5%E6%80%8E%E4%B9%88%E4%BC%9A%E8%AE%A9%E4%B8%AD%E5%9B%BD%E8%BA%BA%E6%9E%AA",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时07分 ~ 15时53分]"
+        },
+        {
+          "title": "“中国金王”陈景河交棒后，“矿茅”紫金矿业开启新一轮扩张周期",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32585692",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时53分]"
+        },
+        {
+          "title": "证实NAND超级周期？日本存储巨头铠侠全年利润指引高出共识60%，Q3净利润878.1亿日元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765583",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
+        },
+        {
+          "title": "特朗普否认了，仅拒邀两人",
+          "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
+        },
+        {
           "title": "美国1月非农录得13万远超预期 市场削减美联储降息押注",
           "url": "https://www.cls.cn/detail/2287648",
           "source": "财联社热门",
@@ -1069,6 +1240,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时10分 ~ 12时58分]"
+        },
+        {
+          "title": "Seedance 2.0征服海外！马斯克感慨发展太快 美国导演称或会颠覆好莱坞",
+          "url": "https://www.cls.cn/detail/2288275",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
         },
         {
           "title": "美国财长贝森特：总统特朗普对伊朗保持“开放态度”。",
@@ -1125,29 +1307,6 @@
           "ranks": [
             8,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 14时07分]"
-        },
-        {
-          "title": "被曝将于近期公布选举计划，泽连斯基回应",
-          "url": "https://news.ifeng.com/c/8qfkBbF99mT",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 14时07分]"
-        },
-        {
-          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1248,18 +1407,6 @@
           "time_info": "[12时58分 ~ 14时07分]"
         },
         {
-          "title": "470秒！中国火箭成功回收",
-          "url": "https://www.baidu.com/s?wd=470%E7%A7%92%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%81%AB%E7%AE%AD%E6%88%90%E5%8A%9F%E5%9B%9E%E6%94%B6",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 14时07分]"
-        },
-        {
           "title": "韩国央行官员：近期韩国国债收益率涨幅“有些过度”",
           "url": "https://wallstreetcn.com/livenews/3054170",
           "source": "华尔街见闻-快讯",
@@ -1272,40 +1419,15 @@
           "time_info": "[12时58分 ~ 14时07分]"
         },
         {
-          "title": "伊朗总统：愿接受任何形式的核查",
-          "url": "https://www.douyin.com/hot/2397305",
-          "source": "抖音",
+          "title": "韩国粉丝喊话陈哲远必须演现偶",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E7%B2%89%E4%B8%9D%E5%96%8A%E8%AF%9D%E9%99%88%E5%93%B2%E8%BF%9C%E5%BF%85%E9%A1%BB%E6%BC%94%E7%8E%B0%E5%81%B6&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 14时07分]"
-        },
-        {
-          "title": "泽连斯基：若俄方同意，将于下周在美国举行新一轮谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32585795",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时58分 ~ 14时07分]"
-        },
-        {
-          "title": "春节中国赴日旅客量腰斩了",
-          "url": "https://www.baidu.com/s?wd=%E6%98%A5%E8%8A%82%E4%B8%AD%E5%9B%BD%E8%B5%B4%E6%97%A5%E6%97%85%E5%AE%A2%E9%87%8F%E8%85%B0%E6%96%A9%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 14时07分]"
+          "time_info": "[15时52分 ~ 15时53分]"
         },
         {
           "title": "中国奇谭2刑天上线",
@@ -1318,6 +1440,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时58分 ~ 14时07分]"
+        },
+        {
+          "title": "韩国股民疯抢中国大模型龙头",
+          "url": "https://www.toutiao.com/trending/7605788361160556586/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
+        },
+        {
+          "title": "印度“入常”有戏吗",
+          "url": "https://www.toutiao.com/trending/7605819417930239542/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时52分 ~ 15时53分]"
         },
         {
           "title": "金十数据整理：美国当周EIA库存数据六大看点一览",
@@ -1469,20 +1613,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
         {
-          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
-          "url": "https://www.cls.cn/detail/2288046",
-          "source": "财联社热门",
+          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
+          "url": "https://wallstreetcn.com/livenews/3054322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
+          "title": "对话中国奇谭总导演",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E8%AF%9D%E4%B8%AD%E5%9B%BD%E5%A5%87%E8%B0%AD%E6%80%BB%E5%AF%BC%E6%BC%94",
+          "source": "bilibili 热搜",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时07分"
+          "time_info": "15时53分"
         },
         {
           "title": "美国至2月6日当周EIA精炼厂设备利用率 89.4%，预期90.5%，前值90.5%。",
@@ -1568,9 +1723,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：预计法国第一季度经济增长与2026年预期的1%年增长率相符。",
+          "url": "https://flash.jin10.com/detail/20260212152352874800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "白宫经济委员会主任哈塞特：美联储还有大量降息空间。 人们放弃观望，投身劳动力市场。 高水平的薪资增速驱使人们进入就业市场。 通胀数据将是美联储做决定的关键。 预计美国GDP将在今年增长4%-5%。",
@@ -1606,15 +1772,15 @@
           "time_info": "07时32分"
         },
         {
-          "title": "速度滑冰男子 1000 米，宁忠岩 1 分 07 秒 34 夺铜，美国斯托尔兹夺冠，廉子文被取消成绩，如何看待？",
-          "url": "https://www.zhihu.com/question/2005092208278201357",
-          "source": "知乎",
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时07分"
+          "time_info": "15时53分"
         },
         {
           "title": "美国至2月6日当周EIA成品油进口 -45.6万桶/日，前值38.1万桶/日。",
@@ -1656,9 +1822,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "瑞穗银行市场主管表示，鉴于3%-4%的名义经济增长，当前的日本债券收益率水平是合理的。",
+          "url": "https://flash.jin10.com/detail/20260212152337747800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "提醒：北京时间23:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
@@ -1738,6 +1915,17 @@
           "time_info": "10时10分"
         },
         {
+          "title": "瑞穗银行市场主管表示，日本央行将根据经济增长和其他改善调整货币政策。",
+          "url": "https://flash.jin10.com/detail/20260212152314998800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
+        },
+        {
           "title": "美国三大股指悉数转跌，道指跌超百点，纳指跌0.5%，半导体指数涨幅收窄至0.9%，生物科技指数跌0.9%，特斯拉跌0.4%。 纳斯达克金龙中国指数跌超1%。",
           "url": "https://wallstreetcn.com/livenews/3053837",
           "source": "华尔街见闻-快讯",
@@ -1804,17 +1992,6 @@
           "time_info": "07时32分"
         },
         {
-          "title": "强劲非农难撼白宫鸽派论调 特朗普亲信：美联储仍有“充足”降息空间",
-          "url": "https://www.cls.cn/detail/2287874",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时07分"
-        },
-        {
           "title": "美国至2月6日当周EIA精炼油库存 -270.3万桶，预期-131.3万桶，前值-555.3万桶。",
           "url": "https://flash.jin10.com/detail/20260211233003636800",
           "source": "金十数据",
@@ -1857,6 +2034,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "瑞穗银行市场主管表示，日本央行最早可能在三月再次上调关键利率。",
+          "url": "https://flash.jin10.com/detail/20260212152310093800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "美国能源部长Wright：在委内瑞拉的日程是会见该国领导人，构建（两国之间的）关系。",
@@ -1953,9 +2141,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "瑞穗银行市场主管表示，日本央行今年很可能加息多达3次。",
+          "url": "https://flash.jin10.com/detail/20260212152305455800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "伊朗举行庆祝伊斯兰革命胜利47周年活动",
@@ -2074,9 +2273,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：我们预计法国第一季度经济增长将在0.2%至0.3%之间。",
+          "url": "https://flash.jin10.com/detail/20260212152220388800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "美国1月政府预算 -946.15亿美元，预期 -944亿美元，前值 -1447亿美元。",
@@ -2110,6 +2320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
+        },
+        {
+          "title": "欧盟对一款中国品牌SUV免征关税",
+          "url": "https://www.douyin.com/hot/2398225",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "美国至2月6日当周EIA精炼油产量 4.5万桶/日，前值-0.5万桶/日。",
@@ -2187,6 +2408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
+        },
+        {
+          "title": "商务部回应欧盟批准对一款中国品牌SUV免征关税：期待越来越多的中国企业与欧方就价格承诺达成一致",
+          "url": "https://wallstreetcn.com/livenews/3054308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "中国商业航天估值过万亿背后",
@@ -2376,17 +2608,6 @@
           "time_info": "10时10分"
         },
         {
-          "title": "“中国金王”陈景河交棒后，“矿茅”紫金矿业开启新一轮扩张周期",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32585692",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
           "title": "美国至2月6日当周EIA俄克拉荷马州库欣原油库存 107.1万桶，前值-74.3万桶。",
           "url": "https://flash.jin10.com/detail/20260211233003515800",
           "source": "金十数据",
@@ -2473,6 +2694,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         },
         {
           "title": "分析师：美国就业强劲展现经济韧性，但美联储仍面临高度不确定性",
@@ -2671,17 +2903,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
-        },
-        {
-          "title": "一座加拿大的桥怎么会让中国躺枪",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%BA%A7%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%9A%84%E6%A1%A5%E6%80%8E%E4%B9%88%E4%BC%9A%E8%AE%A9%E4%B8%AD%E5%9B%BD%E8%BA%BA%E6%9E%AA",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时07分"
         },
         {
           "title": "乌克兰总统泽连斯基：只有美国加大对俄罗斯的压力，才有可能在夏季前结束战争。",
@@ -2921,7 +3142,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
         },
@@ -2946,6 +3167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "韩国投资者再度扫货中国股票，大举买入大模型龙头Minimax-WP",
+          "url": "https://wallstreetcn.com/livenews/3054287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时53分"
         }
       ]
     }
