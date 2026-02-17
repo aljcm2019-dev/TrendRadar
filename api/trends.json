@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T16:45:55.180259+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-02-17T17:50:21.448238+08:00",
+  "total_titles_processed": 1225,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 171,
+      "match_count": 188,
       "titles": [
         {
           "title": "中国字贺中国年｜一马当先",
@@ -59,6 +59,53 @@
           "time_info": "[00时43分 ~ 05时29分]"
         },
         {
+          "title": "大年夜，中国外交官加班驳斥日本",
+          "url": "https://news.ifeng.com/c/8qoHAGvup5g",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 17时50分]"
+        },
+        {
+          "title": "特朗普：将间接参与美伊谈判",
+          "url": "https://news.ifeng.com/c/8qoM4xu3Rme",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 17时50分]"
+        },
+        {
+          "title": "驻日本使馆发言人就日方所谓交涉答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32622456",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时29分 ~ 17时50分]"
+        },
+        {
+          "title": "谈判前夕，伊朗革命卫队海军举行大规模海上演习",
+          "url": "https://news.ifeng.com/c/8qnQ5gsQzx8",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 17时50分]"
+        },
+        {
           "title": "机器人中国功夫夯爆了",
           "url": "https://www.douyin.com/hot/2403259",
           "source": "抖音",
@@ -73,15 +120,18 @@
           "time_info": "[00时43分 ~ 13时58分]"
         },
         {
-          "title": "大年夜，中国外交官加班驳斥日本",
-          "url": "https://news.ifeng.com/c/8qoHAGvup5g",
-          "source": "凤凰网",
+          "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
+          "url": "https://wallstreetcn.com/articles/3765796",
+          "source": "华尔街见闻",
           "ranks": [
+            7,
+            3,
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 16时45分]"
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 17时50分]"
         },
         {
           "title": "英防卫大臣：俄军伤亡惨重，1.7万朝军在俄作战",
@@ -95,17 +145,6 @@
           "time_info": "[00时43分 ~ 07时29分]"
         },
         {
-          "title": "特朗普：将间接参与美伊谈判",
-          "url": "https://news.ifeng.com/c/8qoM4xu3Rme",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 16时45分]"
-        },
-        {
           "title": "中国学者慕安会驳斥所谓“中国威胁”：臆测！中国始终在合作",
           "url": "https://m.thepaper.cn/newsDetail_forward_32620360",
           "source": "澎湃新闻",
@@ -116,31 +155,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时43分 ~ 10时06分]"
-        },
-        {
-          "title": "驻日本使馆发言人就日方所谓交涉答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32622456",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时29分 ~ 16时45分]"
-        },
-        {
-          "title": "谈判前夕，伊朗革命卫队海军举行大规模海上演习",
-          "url": "https://news.ifeng.com/c/8qnQ5gsQzx8",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 16时45分]"
         },
         {
           "title": "机器人中国功夫夯爆了",
@@ -163,11 +177,12 @@
             11,
             10,
             26,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 15时05分]"
+          "appearance_count": 12,
+          "time_info": "[00时43分 ~ 17时50分]"
         },
         {
           "title": "高市早苗，迎来坏消息",
@@ -191,8 +206,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 16时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时43分 ~ 17时50分]"
         },
         {
           "title": "战位有我在唱出中国军人底气担当",
@@ -203,8 +218,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 16时45分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 17时50分]"
         },
         {
           "title": "10人乌军暴打北约,欧公子萎了",
@@ -214,11 +229,12 @@
             14,
             13,
             18,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 16时45分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 17时50分]"
         },
         {
           "title": "春节假期出入境游火爆：中国“免签朋友圈”再增两国，冬奥会带火意大利游",
@@ -265,19 +281,6 @@
           "time_info": "[01时37分 ~ 07时29分]"
         },
         {
-          "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
-          "url": "https://wallstreetcn.com/articles/3765796",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 16时45分]"
-        },
-        {
           "title": "中国短道队无缘男子5000米接力决赛",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%9F%AD%E9%81%93%E9%98%9F%E6%97%A0%E7%BC%98%E7%94%B7%E5%AD%905000%E7%B1%B3%E6%8E%A5%E5%8A%9B%E5%86%B3%E8%B5%9B",
           "source": "百度热搜",
@@ -322,8 +325,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 16时45分]"
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 17时50分]"
         },
         {
           "title": "鲁比奥：美国对华断绝关系是不可思议的",
@@ -333,8 +336,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 16时45分]"
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 17时50分]"
+        },
+        {
+          "title": "民进党只会玩权谋！蔡正元曝台当局关税的“切香肠”策略",
+          "url": "https://news.ifeng.com/c/8qoL9ubASaU",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 17时50分]"
         },
         {
           "title": "匈牙利与美国签署核能合作协议",
@@ -417,6 +431,17 @@
           "time_info": "15时05分"
         },
         {
+          "title": "鲁比奥再就对华关系表态：若美中没有交流互动，那将是疯狂的",
+          "url": "https://wallstreetcn.com/livenews/3055929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "报道：马斯克旗下SpaceX将竞标美国五角大楼的无人机技术承包合同",
           "url": "https://wallstreetcn.com/livenews/3055823",
           "source": "华尔街见闻-快讯",
@@ -431,37 +456,26 @@
           "time_info": "[03时33分 ~ 07时29分]"
         },
         {
-          "title": "民进党只会玩权谋！蔡正元曝台当局关税的“切香肠”策略",
-          "url": "https://news.ifeng.com/c/8qoL9ubASaU",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 16时45分]"
-        },
-        {
           "title": "法国总统马克龙将在印度之行中推动达成战斗机交易协议",
           "url": "https://flash.jin10.com/detail/20260217161615530800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
         {
-          "title": "欧洲斯托克50指数开盘跌0.2%，德国DAX指数跌0.25%，英国富时100指数涨0.15%，法国CAC 40指数跌0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3055917",
-          "source": "华尔街见闻-快讯",
+          "title": "特斯拉在韩国招聘人工智能芯片设计工程师",
+          "url": "https://flash.jin10.com/detail/20260217172514312800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "17时50分"
         },
         {
           "title": "春晚首启中国式智能科技新篇章",
@@ -470,7 +484,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -505,9 +519,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
+        },
+        {
+          "title": "市场消息：美军一架侦察机从英国空军基地费尔福德起飞，正朝着中东方向进行重新部署。",
+          "url": "https://flash.jin10.com/detail/20260217171858160800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "加强反恐合作，100名美军人员抵达尼日利亚",
@@ -524,6 +549,17 @@
           "time_info": "[06时29分 ~ 12时52分]"
         },
         {
+          "title": "“问题不容再有拖延”，高市早苗称期望会见金正恩",
+          "url": "https://news.ifeng.com/c/8qoNBBDr8Rf",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 17时50分]"
+        },
+        {
           "title": "英国首相和加拿大总理称北约应更加欧洲化",
           "url": "https://wallstreetcn.com/livenews/3055851",
           "source": "华尔街见闻-快讯",
@@ -536,6 +572,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时29分 ~ 12时52分]"
+        },
+        {
+          "title": "市场消息：伊朗外长阿拉格齐正在与阿曼方面进行对话。阿拉格齐几分钟前进入谈判场地，目前正在与阿曼外长布萨伊迪会面。",
+          "url": "https://flash.jin10.com/detail/20260217171614267800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "日本今日将发行2.5万亿日元1.600%五年期债券。",
@@ -564,6 +611,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时43分 ~ 04时31分]"
+        },
+        {
+          "title": "前线士兵能吃到什么？凤凰探访俄军战地食堂",
+          "url": "https://news.ifeng.com/c/8qobbsQb159",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 17时50分]"
         },
         {
           "title": "以黑石为首的投资者将向印度AI公司Neysa注资最高达6亿美元",
@@ -773,6 +831,18 @@
           "time_info": "[13时58分 ~ 15时05分]"
         },
         {
+          "title": "欧洲斯托克50指数开盘跌0.2%，德国DAX指数跌0.25%，英国富时100指数涨0.15%，法国CAC 40指数跌0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3055917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 17时50分]"
+        },
+        {
           "title": "市场消息：美国共和党参议员格雷厄姆会见以色列总理内塔尼亚胡。",
           "url": "https://flash.jin10.com/detail/20260216234955341800",
           "source": "金十数据",
@@ -825,17 +895,6 @@
           "time_info": "[12时52分 ~ 15时05分]"
         },
         {
-          "title": "“问题不容再有拖延”，高市早苗称期望会见金正恩",
-          "url": "https://news.ifeng.com/c/8qoNBBDr8Rf",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 16时45分]"
-        },
-        {
           "title": "据法新社：法国总统马克龙周二将开始对印度为期三天的访问，重点讨论人工智能合作以及可能达成的数十亿美元达索猎鹰战斗机交易。",
           "url": "https://flash.jin10.com/detail/20260217051608443800",
           "source": "金十数据",
@@ -883,17 +942,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时43分 ~ 05时29分]"
-        },
-        {
-          "title": "前线士兵能吃到什么？凤凰探访俄军战地食堂",
-          "url": "https://news.ifeng.com/c/8qobbsQb159",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 16时45分]"
         },
         {
           "title": "美伊谈判前夕美军加强部署 伊朗政权不确定性加剧战略风险",
@@ -1275,6 +1323,18 @@
           "time_info": "[13时58分 ~ 15时05分]"
         },
         {
+          "title": "黄循财：日本给我们的苦难教训极重",
+          "url": "https://www.toutiao.com/trending/7606935704773361670/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 17时50分]"
+        },
+        {
           "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
           "url": "https://flash.jin10.com/detail/20260217002446619800",
           "source": "金十数据",
@@ -1359,6 +1419,30 @@
           "time_info": "[00时43分 ~ 01时38分]"
         },
         {
+          "title": "日本债市延续涨势 高市早苗胜选以来的首次常规性国债标售需求上升",
+          "url": "https://wallstreetcn.com/livenews/3055906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 17时50分]"
+        },
+        {
+          "title": "泽连斯基：遭袭击越多越难达成协议",
+          "url": "https://www.toutiao.com/trending/7606793862140641321/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 17时50分]"
+        },
+        {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
           "url": "https://flash.jin10.com/detail/20260216233255611800",
           "source": "金十数据",
@@ -1431,6 +1515,18 @@
           "time_info": "[12时52分 ~ 15时05分]"
         },
         {
+          "title": "中国女子冰壶队不敌韩国队",
+          "url": "https://www.douyin.com/hot/2403477",
+          "source": "抖音",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 17时50分]"
+        },
+        {
           "title": "加拿大总理卡尼宣布任命Janice Charette领导与美国的贸易谈判。",
           "url": "https://flash.jin10.com/detail/20260216230457392800",
           "source": "金十数据",
@@ -1464,6 +1560,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 01时38分]"
+        },
+        {
+          "title": "走进中国年丨大家常说的“兜风”，源自上海大年初一习俗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32578089",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 17时50分]"
         },
         {
           "title": "梅德韦杰夫强硬回击泽连斯基",
@@ -1533,6 +1641,39 @@
           "time_info": "12时52分"
         },
         {
+          "title": "马来西亚和日本计划开展重大跨境碳捕集项目，尽管对其气候效益存在疑虑。",
+          "url": "https://flash.jin10.com/detail/20260217171209153800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "美国向中东增派18架F-35战斗机 俄代表团预计清晨抵达日内瓦 | 环球市场",
+          "url": "https://www.cls.cn/detail/2291035",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
+          "url": "https://flash.jin10.com/detail/20260217171116932800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "印度AI争夺战日趋激烈 Anthropic在印度开设首家办事处",
           "url": "https://flash.jin10.com/detail/20260217064752239800",
           "source": "金十数据",
@@ -1577,15 +1718,15 @@
           "time_info": "01时38分"
         },
         {
-          "title": "黄循财：日本给我们的苦难教训极重",
-          "url": "https://www.toutiao.com/trending/7606935704773361670/",
-          "source": "今日头条",
+          "title": "日本2025年查获的非法毒品总量超过3吨，为6年来首次突破该水平。",
+          "url": "https://flash.jin10.com/detail/20260217170945458800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "17时50分"
         },
         {
           "title": "据福克斯新闻记者：美国福特号航母打击群从加勒比海出发，预计需要约两周才能抵达东地中海。",
@@ -1632,6 +1773,17 @@
           "time_info": "15时05分"
         },
         {
+          "title": "印度正与企业讨论基于年龄的社交媒体限制。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3055919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "媒体人：伊朗弹道导弹反击已在准备中",
           "url": "https://www.toutiao.com/trending/7607630757841866246/",
           "source": "今日头条",
@@ -1665,28 +1817,6 @@
           "time_info": "13时58分"
         },
         {
-          "title": "日本债市延续涨势 高市早苗胜选以来的首次常规性国债标售需求上升",
-          "url": "https://wallstreetcn.com/livenews/3055906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "泽连斯基：遭袭击越多越难达成协议",
-          "url": "https://www.toutiao.com/trending/7606793862140641321/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
           "title": "据日本朝日新闻：日本将于夏季开始就反间谍法进行谈判。",
           "url": "https://flash.jin10.com/detail/20260217062034981800",
           "source": "金十数据",
@@ -1715,9 +1845,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
+        },
+        {
+          "title": "市场消息：伊朗方面表示，与美国的下一轮间接谈判将严格限于核问题。",
+          "url": "https://flash.jin10.com/detail/20260217170659427800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "新加坡反思日本侵略",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%8F%8D%E6%80%9D%E6%97%A5%E6%9C%AC%E4%BE%B5%E7%95%A5%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "美国女友来中国过年是什么体验",
@@ -1753,6 +1905,17 @@
           "time_info": "12时52分"
         },
         {
+          "title": "伊朗高级官员：伊朗在日内瓦提出了真诚且具有建设性的提议。",
+          "url": "https://flash.jin10.com/detail/20260217170453414800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "日本20年期国债收益率延续跌势，最新下挫10.5个基点至2.975%；日本10年期国债收益率下跌8个基点，至2.13%。",
           "url": "https://flash.jin10.com/detail/20260217135419023800",
           "source": "金十数据",
@@ -1764,15 +1927,15 @@
           "time_info": "15时05分"
         },
         {
-          "title": "中国女子冰壶队不敌韩国队",
-          "url": "https://www.douyin.com/hot/2403477",
-          "source": "抖音",
+          "title": "伊朗高级官员：维持有效谈判的关键在于美国对解除制裁的认真态度，以及避免不切实际的要求。",
+          "url": "https://flash.jin10.com/detail/20260217170438972800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "17时50分"
         },
         {
           "title": "5年期日本国债收益率下跌2个基点，至1.65%。",
@@ -1803,7 +1966,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -1819,15 +1982,15 @@
           "time_info": "04时31分"
         },
         {
-          "title": "走进中国年丨大家常说的“兜风”，源自上海大年初一习俗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32578089",
-          "source": "澎湃新闻",
+          "title": "伊朗高级官员：伊朗与美国谈判的立场“积极而认真”，但对谈判结果不抱先入之见。",
+          "url": "https://flash.jin10.com/detail/20260217170251851800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "17时50分"
         },
         {
           "title": "英国首相办公室：斯塔默和卡尼一致认为，北约应该更加欧洲化，并且需要增加国防开支。",
@@ -1902,7 +2065,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -1935,7 +2098,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -1957,7 +2120,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -1968,7 +2131,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -2045,9 +2208,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗与美国在日内瓦的会谈尚未开始。伊朗代表团将很快前往谈判地点。",
+          "url": "https://flash.jin10.com/detail/20260217165117628800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         },
         {
           "title": "美国国务卿声称“已获得印度停止购买俄油的承诺”，印度外长重申“战略自主”",
@@ -2061,6 +2235,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "中国速滑男队再战团体追逐",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%9F%E6%BB%91%E7%94%B7%E9%98%9F%E5%86%8D%E6%88%98%E5%9B%A2%E4%BD%93%E8%BF%BD%E9%80%90%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
           "title": "市场消息：俄罗斯总统普京任命奥列什金（Oreshkin）为俄罗斯-金砖国家合作委员会主席。",
           "url": "https://flash.jin10.com/detail/20260216222314378800",
           "source": "金十数据",
@@ -2070,6 +2255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "印度外交部发言人：法国总统马克龙已抵达孟买。与印度总理莫迪的双边会谈即将开始。",
+          "url": "https://flash.jin10.com/detail/20260217165040613800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         }
       ]
     }
