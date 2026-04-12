@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T15:14:49.364398+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2026-04-12T16:49:20.715042+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 259,
+      "match_count": 281,
       "titles": [
         {
           "title": "美伊谈判进行中！伊朗称美国同意在黎巴嫩停火",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 15时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 16时49分]"
         },
         {
           "title": "美伊谈判倒计时！特朗普：若谈不拢将加大打击 霍尔木兹将很快重开",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 15时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 16时49分]"
         },
         {
           "title": "伊朗称美驱逐舰从霍尔木兹海峡折返",
@@ -244,11 +244,12 @@
             15,
             16,
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 15时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 16时49分]"
         },
         {
           "title": "美媒称数艘美国海军舰船通过霍尔木兹海峡，未与伊朗方面协调，是伊朗战事爆发以来的首次，具体情况如何？",
@@ -281,11 +282,12 @@
           "source": "贴吧",
           "ranks": [
             17,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 15时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 16时49分]"
         },
         {
           "title": "揭秘美国重返月球难点",
@@ -298,11 +300,12 @@
             22,
             27,
             20,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 15时14分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 16时49分]"
         },
         {
           "title": "美国员工不满薪资纵火烧仓库",
@@ -408,6 +411,18 @@
           "time_info": "[00时37分 ~ 10时34分]"
         },
         {
+          "title": "美伊谈判“无果而终”，伊朗称“由于美方贪婪和野心”，万斯表态“已展现灵活和诚意，将返回美国”",
+          "url": "https://wallstreetcn.com/articles/3769753",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 16时49分]"
+        },
+        {
           "title": "印度女子嫌丈夫皮肤黑雇凶将其杀死",
           "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%AD%90%E5%AB%8C%E4%B8%88%E5%A4%AB%E7%9A%AE%E8%82%A4%E9%BB%91%E9%9B%87%E5%87%B6%E5%B0%86%E5%85%B6%E6%9D%80%E6%AD%BB",
           "source": "百度热搜",
@@ -420,6 +435,41 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时44分 ~ 10时34分]"
+        },
+        {
+          "title": "伊朗：由于美方的贪婪和野心，双方仍未达成协议",
+          "url": "https://news.ifeng.com/c/8sG5hvt6zNo",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 16时49分]"
+        },
+        {
+          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
+          "url": "https://wallstreetcn.com/articles/3769751",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 16时49分]"
+        },
+        {
+          "title": "帮伊朗扫雷？美舰穿行霍尔木兹海峡成“罗生门”",
+          "url": "https://news.ifeng.com/c/8sG2eQkYbpF",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 16时49分]"
         },
         {
           "title": "伊朗军方发言人驳斥有关“美军船只进入霍尔木兹海峡”的说法。（伊朗国家电视台）",
@@ -489,18 +539,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时44分 ~ 07时35分]"
-        },
-        {
-          "title": "美伊谈判“无果而终”，伊朗称“由于美方贪婪和野心”，万斯表态“已展现灵活和诚意，将返回美国”",
-          "url": "https://wallstreetcn.com/articles/3769753",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
         },
         {
           "title": "【以总理：“消灭真主党”是以黎停火谈判先决条件】以色列总理内塔尼亚胡11日晚发表声明称，“消灭（黎巴嫩）真主党”是以色列与黎巴嫩进行停火谈判的先决条件。（新华社）",
@@ -677,27 +715,16 @@
           "time_info": "[02时44分 ~ 07时35分]"
         },
         {
-          "title": "加总理：军费流向美国的日子已结束",
-          "url": "https://www.toutiao.com/trending/7626818986018177070/",
-          "source": "今日头条",
+          "title": "韩国机场缉毒犬吃掉可疑蛋糕",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%9C%BA%E5%9C%BA%E7%BC%89%E6%AF%92%E7%8A%AC%E5%90%83%E6%8E%89%E5%8F%AF%E7%96%91%E8%9B%8B%E7%B3%95&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            2,
+            4,
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
-        },
-        {
-          "title": "伊朗：由于美方的贪婪和野心，双方仍未达成协议",
-          "url": "https://news.ifeng.com/c/8sG5hvt6zNo",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
+          "time_info": "[15时14分 ~ 16时49分]"
         },
         {
           "title": "伊朗媒体：伊美双方存在严重分歧",
@@ -714,30 +741,6 @@
           "time_info": "[04时34分 ~ 07时35分]"
         },
         {
-          "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
-          "url": "https://wallstreetcn.com/articles/3769751",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 15时14分]"
-        },
-        {
-          "title": "帮伊朗扫雷？美舰穿行霍尔木兹海峡成“罗生门”",
-          "url": "https://news.ifeng.com/c/8sG2eQkYbpF",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
-        },
-        {
           "title": "伊朗军方否认美军舰船进入霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3086284",
           "source": "华尔街见闻-快讯",
@@ -750,6 +753,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时34分 ~ 07时35分]"
+        },
+        {
+          "title": "美国纽约中央车站发生暴力事件",
+          "url": "https://www.toutiao.com/trending/7627512340422574122/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "伊朗战争丨特朗普：若谈判不顺，美国准备好“重启”",
@@ -796,6 +810,17 @@
           "time_info": "10时34分"
         },
         {
+          "title": "伊朗战争丨美伊谈判虽无果而终，但有4个积极信号",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "据伊朗Press TV：包括霍尔木兹海峡和核权利在内的多项议题，一直是伊美谈判中的争议焦点。",
           "url": "https://flash.jin10.com/detail/20260412100429381800",
           "source": "金十数据",
@@ -805,6 +830,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "伊朗官员：预计受损炼油厂短期可至少恢复至此前七成产能",
+          "url": "https://wallstreetcn.com/livenews/3086360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
+          "title": "加总理：军费流向美国的日子已结束",
+          "url": "https://www.toutiao.com/trending/7626818986018177070/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 16时49分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：以色列将继续打击伊朗政权及其代理人。",
@@ -834,6 +883,28 @@
           "time_info": "[00时37分 ~ 05时33分]"
         },
         {
+          "title": "黎真主党与以军在黎南部城镇发生“激烈交火”",
+          "url": "https://flash.jin10.com/detail/20260412161536901800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
+          "title": "伊朗副议长说霍尔木兹海峡是“红线”，完全由伊朗掌控",
+          "url": "https://wallstreetcn.com/livenews/3086359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "伊朗称伊美谈判结束 双方仍未达成协议",
           "url": "https://flash.jin10.com/detail/20260412095234872800",
           "source": "金十数据",
@@ -843,6 +914,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "台湾引进印度劳工,民众怒了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353104&amp;topic_name=%E5%8F%B0%E6%B9%BE%E5%BC%95%E8%BF%9B%E5%8D%B0%E5%BA%A6%E5%8A%B3%E5%B7%A5%2C%E6%B0%91%E4%BC%97%E6%80%92%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "中国船舶出品真的一屏放不下",
@@ -878,15 +960,15 @@
           "time_info": "10时34分"
         },
         {
-          "title": "韩国机场缉毒犬吃掉可疑蛋糕",
-          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E6%9C%BA%E5%9C%BA%E7%BC%89%E6%AF%92%E7%8A%AC%E5%90%83%E6%8E%89%E5%8F%AF%E7%96%91%E8%9B%8B%E7%B3%95&t=31&band_rank=4&Refer=top",
-          "source": "微博",
+          "title": "伊朗抓捕50名向敌方传递敏感信息人员",
+          "url": "https://flash.jin10.com/detail/20260412161334267800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时14分"
+          "time_info": "16时49分"
         },
         {
           "title": "伊朗高官：开放霍尔木兹海峡必须获得伊朗许可",
@@ -917,6 +999,17 @@
           "time_info": "[03时35分 ~ 06时33分]"
         },
         {
+          "title": "伊朗石油部官员：预计受损炼油厂短期可至少恢复至此前七成产能",
+          "url": "https://flash.jin10.com/detail/20260412161145962800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "伊朗通报谈判进展",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%80%9A%E6%8A%A5%E8%B0%88%E5%88%A4%E8%BF%9B%E5%B1%95%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -926,6 +1019,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "为什么在中国用香水容易被嫌弃？",
+          "url": "https://www.zhihu.com/question/26984941",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "以色列总理内塔尼亚胡：伊朗已不再拥有任何铀浓缩设施。",
@@ -984,6 +1088,20 @@
           "time_info": "[04时34分 ~ 07时35分]"
         },
         {
+          "title": "据巴基斯坦方面消息，伊朗代表团将于12日离开。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3086322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 16时49分]"
+        },
+        {
           "title": "伊朗媒体：伊美双方存在严重分歧",
           "url": "https://flash.jin10.com/detail/20260412033616642800",
           "source": "金十数据",
@@ -998,6 +1116,20 @@
           "time_info": "[04时34分 ~ 07时35分]"
         },
         {
+          "title": "美国谈判代表团离开巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3086321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 16时49分]"
+        },
+        {
           "title": "据德黑兰时报：巴基斯坦总理将紧急访问沙特，这将是其一个月内第二次访问沙特。此行目的是讨论伊朗与美国在伊斯兰堡正在进行的谈判，并探讨实现该地区持久和平的途径。",
           "url": "https://flash.jin10.com/detail/20260412023852112800",
           "source": "金十数据",
@@ -1010,6 +1142,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时35分 ~ 06时33分]"
+        },
+        {
+          "title": "伊朗称伊美谈判结束 双方仍未达成协议",
+          "url": "https://wallstreetcn.com/livenews/3086317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 16时49分]"
         },
         {
           "title": "伊朗国家电视台：伊朗和美国今晚将举行新一轮会谈。",
@@ -1051,6 +1197,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时33分 ~ 10时34分]"
+        },
+        {
+          "title": "伊美第三轮谈判已结束，双方存在严重分歧，伊朗称伊美 12 日将举行新一轮谈判，透露出哪些信息？",
+          "url": "https://www.zhihu.com/question/2026558515645346738",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 16时49分]"
         },
         {
           "title": "据伊朗媒体：伊朗伊斯兰革命卫队表示，任何军舰试图穿越霍尔木兹海峡的行为都将遭到“强有力回应”，只有非军用船只获准通行霍尔木兹海峡。",
@@ -1105,6 +1262,19 @@
           "time_info": "[07时35分 ~ 13时24分]"
         },
         {
+          "title": "特朗普威胁通过控制霍尔木兹海峡打击伊朗经济",
+          "url": "https://wallstreetcn.com/livenews/3086335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 16时49分]"
+        },
+        {
           "title": "美军称两艘驱逐舰穿越霍尔木兹海峡 展开扫雷行动",
           "url": "https://flash.jin10.com/detail/20260412010243229800",
           "source": "金十数据",
@@ -1129,19 +1299,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时35分 ~ 13时24分]"
-        },
-        {
-          "title": "据巴基斯坦方面消息，伊朗代表团将于12日离开。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3086322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 15时14分]"
         },
         {
           "title": "伊朗：一艘美国海军驱逐舰试图进入霍尔木兹海峡，被拦截后撤退",
@@ -1183,17 +1340,17 @@
           "time_info": "[02时44分 ~ 04时34分]"
         },
         {
-          "title": "美国谈判代表团离开巴基斯坦",
-          "url": "https://wallstreetcn.com/livenews/3086321",
+          "title": "日本3月机床订单额增长28% 海外订单增40%",
+          "url": "https://wallstreetcn.com/livenews/3086334",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            15,
-            22
+            10,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时34分 ~ 15时14分]"
+          "time_info": "[13时24分 ~ 16时49分]"
         },
         {
           "title": "据伊朗官方媒体Press TV：伊朗副外长称，在与美国会谈期间，伊朗已准备应对“所有情况”。",
@@ -1220,18 +1377,6 @@
           "time_info": "[07时35分 ~ 10时34分]"
         },
         {
-          "title": "特朗普威胁通过控制霍尔木兹海峡打击伊朗经济",
-          "url": "https://wallstreetcn.com/livenews/3086335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
-        },
-        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：消息人士称，尽管伊朗与美国之间的谈判存在严重分歧，谈判仍通过双方书面信息的交流持续密集进行。",
           "url": "https://flash.jin10.com/detail/20260412031927123800",
           "source": "金十数据",
@@ -1256,6 +1401,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时33分 ~ 07时35分]"
+        },
+        {
+          "title": "据伊朗媒体报道，伊朗代表团离开巴基斯坦。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3086333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 16时49分]"
         },
         {
           "title": "市场消息：沙特外交部表示谴责伊朗及其代理武装针对科威特多个重要设施的行为，警告此类行为破坏国际恢复安全与稳定的努力。",
@@ -1321,17 +1479,17 @@
           "time_info": "[06时33分 ~ 10时34分]"
         },
         {
-          "title": "伊朗称伊美谈判结束 双方仍未达成协议",
-          "url": "https://wallstreetcn.com/livenews/3086317",
+          "title": "伊朗外交部：伊朗和巴基斯坦等的联系和磋商将继续进行",
+          "url": "https://wallstreetcn.com/livenews/3086332",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            17,
-            24
+            12,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时34分 ~ 15时14分]"
+          "time_info": "[13时24分 ~ 16时49分]"
         },
         {
           "title": "伊朗媒体及分析人士：警惕伊美谈判可能遭以色列破坏",
@@ -1370,16 +1528,16 @@
           "time_info": "[07时35分 ~ 10时34分]"
         },
         {
-          "title": "日本3月机床订单额增长28% 海外订单增40%",
-          "url": "https://wallstreetcn.com/livenews/3086334",
-          "source": "华尔街见闻-快讯",
+          "title": "美伊谈判无果而终，霍尔木兹成最大症结之一，美军高调“清雷”遭伊朗击沉警告",
+          "url": "https://wallstreetcn.com/articles/3769752",
+          "source": "华尔街见闻",
           "ranks": [
-            3,
-            10
+            8,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
+          "time_info": "[15时14分 ~ 16时49分]"
         },
         {
           "title": "伊朗消息人士：美伊达成协议框架前，霍尔木兹海峡将继续封锁",
@@ -1406,16 +1564,18 @@
           "time_info": "[13时24分 ~ 15时14分]"
         },
         {
-          "title": "据伊朗媒体报道，伊朗代表团离开巴基斯坦。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3086333",
+          "title": "美向伊朗提出最终方案",
+          "url": "https://wallstreetcn.com/livenews/3086316",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            11
+            6,
+            18,
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 16时49分]"
         },
         {
           "title": "法国总统马克龙：法国全力支持黎巴嫩当局，他们是唯一能够决定黎巴嫩命运的人。",
@@ -1454,18 +1614,6 @@
           "time_info": "[13时24分 ~ 15时14分]"
         },
         {
-          "title": "伊朗外交部：伊朗和巴基斯坦等的联系和磋商将继续进行",
-          "url": "https://wallstreetcn.com/livenews/3086332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
-        },
-        {
           "title": "伊朗140处历史遗迹因美以袭击遭破坏",
           "url": "https://wallstreetcn.com/livenews/3086254",
           "source": "华尔街见闻-快讯",
@@ -1494,6 +1642,18 @@
           "time_info": "[00时37分 ~ 03时35分]"
         },
         {
+          "title": "美以袭击伊朗进入第 44 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2026434760558343514",
+          "source": "知乎",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 16时49分]"
+        },
+        {
           "title": "伊朗称已迫使美军驱逐舰返航",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B7%B2%E8%BF%AB%E4%BD%BF%E7%BE%8E%E5%86%9B%E9%A9%B1%E9%80%90%E8%88%B0%E8%BF%94%E8%88%AA%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -1506,15 +1666,51 @@
           "time_info": "[04时34分 ~ 06时33分]"
         },
         {
-          "title": "伊美第三轮谈判已结束，双方存在严重分歧，伊朗称伊美 12 日将举行新一轮谈判，透露出哪些信息？",
-          "url": "https://www.zhihu.com/question/2026558515645346738",
-          "source": "知乎",
+          "title": "特朗普、佩泽希齐扬、内塔尼亚胡，同日表态",
+          "url": "https://news.ifeng.com/c/8sG0csY9qWa",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时34分 ~ 15时14分]"
+          "time_info": "[13时24分 ~ 16时49分]"
+        },
+        {
+          "title": "巴基斯坦：伊朗代表团将于12日离开",
+          "url": "https://news.ifeng.com/c/8sG6pSCYLTC",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 16时49分]"
+        },
+        {
+          "title": "印度新政开启白银再货币化，全球金银定价加速东移",
+          "url": "https://wallstreetcn.com/premium/articles/3769749?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 16时49分]"
+        },
+        {
+          "title": "伊朗不急于再与美国进行谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%B8%8D%E6%80%A5%E4%BA%8E%E5%86%8D%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 16时49分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美伊谈判仍在继续，但伊朗坚持维护其军事成果。",
@@ -1569,17 +1765,17 @@
           "time_info": "[06时33分 ~ 10时34分]"
         },
         {
-          "title": "美向伊朗提出最终方案",
-          "url": "https://wallstreetcn.com/livenews/3086316",
+          "title": "伊朗外交部发言人：不应期望在一次谈判中达成协议",
+          "url": "https://wallstreetcn.com/livenews/3086331",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            18,
-            25
+            13,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时34分 ~ 15时14分]"
+          "time_info": "[13时24分 ~ 16时49分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：霍尔木兹海峡仍是伊斯兰堡会谈中存在严重分歧的主要焦点之一。",
@@ -1619,6 +1815,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时33分 ~ 07时35分]"
+        },
+        {
+          "title": "伊朗外交部发言人：伊美在两三个重要问题上存在分歧",
+          "url": "https://wallstreetcn.com/livenews/3086330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 16时49分]"
+        },
+        {
+          "title": "以色列总理：反杀伊朗及抵抗阵线",
+          "url": "https://news.ifeng.com/c/8sG3morpuN5",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 16时49分]"
         },
         {
           "title": "市场消息：以色列总理内塔尼亚胡预计将在当地时间21:00（北京时间凌晨02:00）发表电视讲话，但不接受记者采访。",
@@ -1673,6 +1893,18 @@
           "time_info": "[10时34分 ~ 15时14分]"
         },
         {
+          "title": "在增长与油价双重压力下，外资创纪录流出印度股市",
+          "url": "https://wallstreetcn.com/articles/3769746",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 16时49分]"
+        },
+        {
           "title": "据《华尔街日报》：一名美国官员称，两艘驱逐舰在波斯湾执行任务后按计划离开，未记录任何问题。",
           "url": "https://flash.jin10.com/detail/20260412014042996800",
           "source": "金十数据",
@@ -1725,6 +1957,19 @@
           "time_info": "[10时34分 ~ 15时14分]"
         },
         {
+          "title": "伊朗消息人士称美国寻找借口退出谈判",
+          "url": "https://wallstreetcn.com/livenews/3086328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 16时49分]"
+        },
+        {
           "title": "据福克斯新闻：消息人士称，如果今晚美国和伊朗代表团能够达成协议，那么举行新闻发布会就是有可能的了。",
           "url": "https://flash.jin10.com/detail/20260412044557837800",
           "source": "金十数据",
@@ -1749,6 +1994,54 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时34分 ~ 15时14分]"
+        },
+        {
+          "title": "伊朗不急于与美再谈判",
+          "url": "https://wallstreetcn.com/livenews/3086327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 16时49分]"
+        },
+        {
+          "title": "“教皇和美国总统面临数十年来最尖锐分歧”",
+          "url": "https://news.ifeng.com/c/8sG2M53zfCH",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 16时49分]"
+        },
+        {
+          "title": "伊朗军方否认美军舰进入霍尔木兹海峡，为何美伊双方在此事上各执一词？若真已进入，对当前局势意味着什么？",
+          "url": "https://www.zhihu.com/question/2026560917115072989",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 16时49分]"
+        },
+        {
+          "title": "两次谈判均背信偷袭 美国还有谁敢信",
+          "url": "https://www.toutiao.com/trending/7626724495856336902/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 16时49分]"
         },
         {
           "title": "市场消息：以色列方面据报道要求结束伊朗的核计划，并将黎巴嫩冲突与更广泛的伊朗战线分隔开。",
@@ -1777,15 +2070,30 @@
           "time_info": "[05时33分 ~ 07时35分]"
         },
         {
-          "title": "美以袭击伊朗进入第 44 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2026434760558343514",
-          "source": "知乎",
+          "title": "伊朗谈判代表团将举行新闻发布会",
+          "url": "https://wallstreetcn.com/livenews/3086324",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            19,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时34分 ~ 15时14分]"
+          "time_info": "[13时24分 ~ 16时49分]"
+        },
+        {
+          "title": "美国副总统万斯：美伊谈判未达成共识，将返回美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32954111",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 16时49分]"
         },
         {
           "title": "伊朗国家电视台驻伊斯兰堡记者：美国在谈判中仍坚持其“过分的要求”。",
@@ -1879,40 +2187,6 @@
           "time_info": "[02时44分 ~ 04时34分]"
         },
         {
-          "title": "特朗普、佩泽希齐扬、内塔尼亚胡，同日表态",
-          "url": "https://news.ifeng.com/c/8sG0csY9qWa",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
-        },
-        {
-          "title": "巴基斯坦：伊朗代表团将于12日离开",
-          "url": "https://news.ifeng.com/c/8sG6pSCYLTC",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
-        },
-        {
-          "title": "伊朗不急于再与美国进行谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%B8%8D%E6%80%A5%E4%BA%8E%E5%86%8D%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
-        },
-        {
           "title": "法国总统马克龙：已告知伊朗总统在霍尔木兹海峡保持航行自由的重要性。",
           "url": "https://flash.jin10.com/detail/20260411235408859800",
           "source": "金十数据",
@@ -1937,16 +2211,16 @@
           "time_info": "[01时31分 ~ 02时44分]"
         },
         {
-          "title": "伊朗外交部发言人：不应期望在一次谈判中达成协议",
-          "url": "https://wallstreetcn.com/livenews/3086331",
+          "title": "阿联酋阿布扎比王储哈立德将于4月12日至14日对中国进行访问。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3086340",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
+          "time_info": "[15时14分 ~ 16时49分]"
         },
         {
           "title": "法国总统马克龙：刚刚与伊朗总统通话。",
@@ -1985,16 +2259,16 @@
           "time_info": "[13时24分 ~ 15时14分]"
         },
         {
-          "title": "伊朗外交部发言人：伊美在两三个重要问题上存在分歧",
-          "url": "https://wallstreetcn.com/livenews/3086330",
+          "title": "以媒：以色列评估美伊停火可能延长",
+          "url": "https://wallstreetcn.com/livenews/3086338",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
+          "time_info": "[15时14分 ~ 16时49分]"
         },
         {
           "title": "以军袭击致黎巴嫩2020人死6436人伤",
@@ -2007,18 +2281,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时34分 ~ 13时24分]"
-        },
-        {
-          "title": "印度新政开启白银再货币化，全球金银定价加速东移",
-          "url": "https://wallstreetcn.com/premium/articles/3769749?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
         },
         {
           "title": "佩泽希齐扬：伊朗代表团将勇敢谈判 全力维护国家利益",
@@ -2057,29 +2319,6 @@
           "time_info": "[13时24分 ~ 15时14分]"
         },
         {
-          "title": "以色列总理：反杀伊朗及抵抗阵线",
-          "url": "https://news.ifeng.com/c/8sG3morpuN5",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
-        },
-        {
-          "title": "在增长与油价双重压力下，外资创纪录流出印度股市",
-          "url": "https://wallstreetcn.com/articles/3769746",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
-        },
-        {
           "title": "美国中央司令部：未来几天将有更多美军部队（包括水下无人机）加入清理行动。",
           "url": "https://flash.jin10.com/detail/20260412004332736800",
           "source": "金十数据",
@@ -2092,18 +2331,6 @@
           "time_info": "[01时31分 ~ 02时44分]"
         },
         {
-          "title": "伊朗消息人士称美国寻找借口退出谈判",
-          "url": "https://wallstreetcn.com/livenews/3086328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
-        },
-        {
           "title": "美前国务卿：攻击伊朗是内塔尼亚胡的梦想",
           "url": "https://flash.jin10.com/detail/20260412004257986800",
           "source": "金十数据",
@@ -2114,29 +2341,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 02时44分]"
-        },
-        {
-          "title": "伊朗不急于与美再谈判",
-          "url": "https://wallstreetcn.com/livenews/3086327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
-        },
-        {
-          "title": "“教皇和美国总统面临数十年来最尖锐分歧”",
-          "url": "https://news.ifeng.com/c/8sG2M53zfCH",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
         },
         {
           "title": "美国中央司令部：两艘美军军舰通过霍尔木兹海峡并在波斯湾执行任务。",
@@ -2157,29 +2361,6 @@
           "ranks": [
             11,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
-        },
-        {
-          "title": "伊朗军方否认美军舰进入霍尔木兹海峡，为何美伊双方在此事上各执一词？若真已进入，对当前局势意味着什么？",
-          "url": "https://www.zhihu.com/question/2026560917115072989",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
-        },
-        {
-          "title": "两次谈判均背信偷袭 美国还有谁敢信",
-          "url": "https://www.toutiao.com/trending/7626724495856336902/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -2222,16 +2403,15 @@
           "time_info": "[01时31分 ~ 02时44分]"
         },
         {
-          "title": "伊朗谈判代表团将举行新闻发布会",
-          "url": "https://wallstreetcn.com/livenews/3086324",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗梳理21小时谈判全过程",
+          "url": "https://www.toutiao.com/trending/7627484453267374099/",
+          "source": "今日头条",
           "ranks": [
-            12,
-            19
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
+          "time_info": "[15时14分 ~ 16时49分]"
         },
         {
           "title": "美国中央司令部：美军在霍尔木兹海峡开始清除水雷的行动。",
@@ -2246,6 +2426,18 @@
           "time_info": "[01时31分 ~ 02时44分]"
         },
         {
+          "title": "中国银河证券：中东地缘紧张态势或将延续，市场风险偏好仍将承压",
+          "url": "https://flash.jin10.com/detail/20260412135320476800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时49分]"
+        },
+        {
           "title": "伊朗外交部：伊美就主要谈判议题的各方面展开讨论",
           "url": "https://wallstreetcn.com/livenews/3086306",
           "source": "华尔街见闻-快讯",
@@ -2258,18 +2450,6 @@
           "time_info": "[10时34分 ~ 13时24分]"
         },
         {
-          "title": "美国副总统万斯：美伊谈判未达成共识，将返回美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32954111",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 15时14分]"
-        },
-        {
           "title": "美国副总统万斯延长在巴基斯坦停留时间",
           "url": "https://wallstreetcn.com/livenews/3086305",
           "source": "华尔街见闻-快讯",
@@ -2280,6 +2460,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时34分 ~ 13时24分]"
+        },
+        {
+          "title": "美国副总统万斯离开巴基斯坦，伊朗代表团将于12日离开",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32954265",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 16时49分]"
         },
         {
           "title": "印度将柴油出口税从每升21.5卢比上调至每升55.5卢比； 将航空煤油（ATF）出口税从每升29.5卢比上调至每升42卢比； 汽油出口税将继续保持为零。",
@@ -2446,17 +2638,6 @@
           "time_info": "10时34分"
         },
         {
-          "title": "阿联酋阿布扎比王储哈立德将于4月12日至14日对中国进行访问。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3086340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
           "title": "万斯：谈判尚未取得共识",
           "url": "https://www.douyin.com/hot/2463507",
           "source": "抖音",
@@ -2490,15 +2671,15 @@
           "time_info": "10时34分"
         },
         {
-          "title": "以媒：以色列评估美伊停火可能延长",
-          "url": "https://wallstreetcn.com/livenews/3086338",
-          "source": "华尔街见闻-快讯",
+          "title": "据日本共同社：日本五十铃汽车将推迟推出其与本田合作开发、原计划于2027年上市的燃料电池卡车。",
+          "url": "https://flash.jin10.com/detail/20260412155247035800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时14分"
+          "time_info": "16时49分"
         },
         {
           "title": "中国篮协核查篮坛新秀年龄存疑",
@@ -2512,15 +2693,15 @@
           "time_info": "07时35分"
         },
         {
-          "title": "美伊谈判无果而终，霍尔木兹成最大症结之一，美军高调“清雷”遭伊朗击沉警告",
-          "url": "https://wallstreetcn.com/articles/3769752",
+          "title": "“原油贸易巨头”维多在伊朗战争遭重创，华裔明星衍生品交易员重仓巨亏",
+          "url": "https://wallstreetcn.com/articles/3769756",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时14分"
+          "time_info": "16时49分"
         },
         {
           "title": "美国副总统万斯：我方带来一项非常简单的提议，一种达成谅解的方式，这是我们的最终且最佳方案。",
@@ -2532,6 +2713,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "俄称乌军自11日以来已违反停火1971次",
+          "url": "https://flash.jin10.com/detail/20260412154840955800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
+          "title": "伊朗代表团离开巴基斯坦",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E7%A6%BB%E5%BC%80%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "美国副总统万斯：我们相当灵活。",
@@ -2589,6 +2792,17 @@
           "time_info": "10时34分"
         },
         {
+          "title": "据伊朗SNN通讯社：伊朗石油部副部长表示，受损的炼油厂和分销设施可在1至2个月内恢复至此前产能的70%至80%。拉万（Lavan）炼油厂的部分装置将在10天内重启。",
+          "url": "https://flash.jin10.com/detail/20260412154048568800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：消息人士称，美伊代表团之间的技术委员会会议持续了两个多小时，至今仍在进行中。",
           "url": "https://flash.jin10.com/detail/20260411233945954800",
           "source": "金十数据",
@@ -2633,17 +2847,6 @@
           "time_info": "13时24分"
         },
         {
-          "title": "伊朗梳理21小时谈判全过程",
-          "url": "https://www.toutiao.com/trending/7627484453267374099/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
-        },
-        {
           "title": "据伊朗官方媒体Press TV：关于延长谈判时间一事尚未作出决定；谈判仍在进行中。",
           "url": "https://flash.jin10.com/detail/20260411233238099800",
           "source": "金十数据",
@@ -2677,6 +2880,17 @@
           "time_info": "13时24分"
         },
         {
+          "title": "伊朗副议长说霍尔木兹海峡是“红线” 完全由伊朗掌控",
+          "url": "https://flash.jin10.com/detail/20260412153628719800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "据伊朗官方媒体Press TV：伊朗方面表示，谈判进展将决定谈判团队是否延长留在伊斯兰堡的时间。",
           "url": "https://flash.jin10.com/detail/20260411232608827800",
           "source": "金十数据",
@@ -2699,15 +2913,15 @@
           "time_info": "13时24分"
         },
         {
-          "title": "中国银河证券：中东地缘紧张态势或将延续，市场风险偏好仍将承压",
-          "url": "https://flash.jin10.com/detail/20260412135320476800",
-          "source": "金十数据",
+          "title": "伊朗代表团全员黑衣",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%85%A8%E5%91%98%E9%BB%91%E8%A1%A3%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时14分"
+          "time_info": "16时49分"
         },
         {
           "title": "据伊朗媒体：伊朗与美国在伊斯兰堡的面对面会谈结束，双方开始就关键问题交换书面文本。",
@@ -2730,6 +2944,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "美国银行：中东冲击范围广泛但不均衡",
+          "url": "https://flash.jin10.com/detail/20260412151940937800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗与美国专家团队正在交换文本文件。",
@@ -2771,9 +2996,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "据俄新社：俄军遵守复活节停火协议。",
+          "url": "https://flash.jin10.com/detail/20260412150630675800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "美军宣布在霍尔木兹海峡扫雷",
@@ -2782,7 +3018,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -2807,17 +3043,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
-        },
-        {
-          "title": "美国副总统万斯离开巴基斯坦，伊朗代表团将于12日离开",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32954265",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时14分"
         },
         {
           "title": "特朗普再次发文抨击媒体",
@@ -2886,6 +3111,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "帮伊朗扫雷？美舰穿行霍尔木兹海峡成“罗生门”，美伊昼夜谈判陷僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32954092",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "据伊朗官方媒体Press TV：伊朗与美国在休会后在伊斯兰堡恢复谈判。",
           "url": "https://flash.jin10.com/detail/20260411231507260800",
           "source": "金十数据",
@@ -2952,6 +3188,17 @@
           "time_info": "13时24分"
         },
         {
+          "title": "以色列为何最不愿意停止战争",
+          "url": "https://www.toutiao.com/trending/7627781380826467866/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "中信建投：创新破局 中国医疗器械成长逻辑重塑",
           "url": "https://flash.jin10.com/detail/20260412082006165800",
           "source": "金十数据",
@@ -2972,6 +3219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "视觉中国摄影师的权威无需多言",
+          "url": "https://www.douyin.com/hot/2463406",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "日本一企业推出“活寄生虫”笔",
@@ -3082,6 +3340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        },
+        {
+          "title": "媒体：美国一收缩日本就哆嗦",
+          "url": "https://www.toutiao.com/trending/7627668470599172132/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "伊朗人士：伊美谈判“不是面对面”",
