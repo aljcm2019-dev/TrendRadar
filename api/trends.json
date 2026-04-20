@@ -1,729 +1,12 @@
 {
-  "generated_at": "2026-04-20T22:51:23.672839+08:00",
-  "total_titles_processed": 1567,
+  "generated_at": "2026-04-21T00:10:02.168069+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 434,
+      "match_count": 94,
       "titles": [
-        {
-          "title": "停火“还剩三天”，以军袭击黎巴嫩，伊朗军方关闭霍尔木兹海峡，特朗普再召“战情室会议”",
-          "url": "https://wallstreetcn.com/articles/3770334",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时37分]"
-        },
-        {
-          "title": "伊朗议长披露谈判细节：我告诉美方“如果你们再往前一步，我们肯定会开火”，最后美方求给15分钟，下令撤退",
-          "url": "https://wallstreetcn.com/articles/3770344",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 13时42分]"
-        },
-        {
-          "title": "伊朗议长：谈判期间险些冲突再起",
-          "url": "https://news.ifeng.com/c/8sRiO9hkFeO",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时37分]"
-        },
-        {
-          "title": "美方评估伊朗仍保有约7成战前导弹库存",
-          "url": "https://news.ifeng.com/c/8sSBfZj8Tvj",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时37分]"
-        },
-        {
-          "title": "凤凰女记者：目前伊朗的真正决策者应该是卡利巴夫",
-          "url": "https://news.ifeng.com/c/8sS8dsOGWdy",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时36分]"
-        },
-        {
-          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
-          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时40分 ~ 22时51分]"
-        },
-        {
-          "title": "两大展会彰显中国扩大开放决心",
-          "url": "https://www.douyin.com/hot/2471305",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时37分]"
-        },
-        {
-          "title": "美国代表抵达伊斯兰堡参加谈判，特朗普：美伊仍能达成协议",
-          "url": "https://wallstreetcn.com/articles/3770356",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时40分 ~ 20时04分]"
-        },
-        {
-          "title": "印度船“绝望呼叫”录音曝光：让我们走吧",
-          "url": "https://news.ifeng.com/c/8sS4d4zKBx6",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时36分]"
-        },
-        {
-          "title": "特朗普称若伊不达成停火或发动打击",
-          "url": "https://www.cls.cn/detail/2348194",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时36分]"
-        },
-        {
-          "title": "中国航司大面积取消日本航班",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%8F%B8%E5%A4%A7%E9%9D%A2%E7%A7%AF%E5%8F%96%E6%B6%88%E6%97%A5%E6%9C%AC%E8%88%AA%E7%8F%AD",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 13时42分]"
-        },
-        {
-          "title": "特朗普称美伊20日将在伊斯兰堡举行谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33006081",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            10,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时37分]"
-        },
-        {
-          "title": "美媒承认：中国年轻人对美国幻灭了",
-          "url": "https://www.toutiao.com/trending/7629784438834036772/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8,
-            2,
-            5,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 13时42分]"
-        },
-        {
-          "title": "伊朗战争丨伊朗拒绝参加美伊第二轮谈判",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时52分 ~ 06时36分]"
-        },
-        {
-          "title": "哈里斯：美国人不想打伊朗，特朗普意图“转移焦点”",
-          "url": "https://news.ifeng.com/c/8sS3Yag0vCf",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时37分]"
-        },
-        {
-          "title": "“停火最后期限”临近，伊朗再封海峡、美国首次扣船，双方都在争取“谈判砝码”",
-          "url": "https://wallstreetcn.com/articles/3770363",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时41分 ~ 22时51分]"
-        },
-        {
-          "title": "胡锡进：中东战争推高油价，多数国家纯输，中国“有得有失”",
-          "url": "https://news.ifeng.com/c/8sSDkKYCh9X",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 10时40分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 51 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2028957028207390825",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时37分]"
-        },
-        {
-          "title": "现场音频曝光！印度油轮在霍尔木兹海峡遭袭，向伊朗海军喊话",
-          "url": "https://v.ifeng.com/c/8sRoJTqQdm6",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 10时40分]"
-        },
-        {
-          "title": "经纬度：从“养生跑”到破人类纪录，中国机器人成了！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33004952",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            16,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 13时42分]"
-        },
-        {
-          "title": "详解日本自卫队威胁信",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E5%A8%81%E8%83%81%E4%BF%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7,
-            24,
-            30,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时40分 ~ 20时04分]"
-        },
-        {
-          "title": "伊朗称将控制霍尔木兹海峡直至战争结束，特朗普表示其无法要挟美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33004034",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时37分]"
-        },
-        {
-          "title": "西班牙将正式提议欧盟终止与以色列联系国协议",
-          "url": "https://news.ifeng.com/c/8sSRBLDz9La",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时37分]"
-        },
-        {
-          "title": "日本启动十二年来最重大军售",
-          "url": "https://www.douyin.com/hot/2471344",
-          "source": "抖音",
-          "ranks": [
-            17,
-            15,
-            14,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 10时40分]"
-        },
-        {
-          "title": "芯片不卖中国,黄仁勋急了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353434&amp;topic_name=%E8%8A%AF%E7%89%87%E4%B8%8D%E5%8D%96%E4%B8%AD%E5%9B%BD%2C%E9%BB%84%E4%BB%81%E5%8B%8B%E6%80%A5%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            13,
-            16,
-            21,
-            24,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 22时51分]"
-        },
-        {
-          "title": "年薪3万,日本动画师为爱发电",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353435&amp;topic_name=%E5%B9%B4%E8%96%AA3%E4%B8%87%2C%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%B8%88%E4%B8%BA%E7%88%B1%E5%8F%91%E7%94%B5",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            14,
-            17,
-            23,
-            26,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 22时51分]"
-        },
-        {
-          "title": "俄罗斯一载 40 名中国公民大巴翻车，致 2 人死亡，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/2028893516776957632",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时37分]"
-        },
-        {
-          "title": "多地将有10级以上雷暴大风，中国气象局启动大风强对流四级应急响应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33005329",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            17,
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 16时07分]"
-        },
-        {
-          "title": "日本萝莉毕业,V圈地震",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353408&amp;topic_name=%E6%97%A5%E6%9C%AC%E8%90%9D%E8%8E%89%E6%AF%95%E4%B8%9A%2CV%E5%9C%88%E5%9C%B0%E9%9C%87",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 13时42分]"
-        },
-        {
-          "title": "特朗普把万斯踢出谈判？曾放话“谈崩了就怪他”",
-          "url": "https://news.ifeng.com/c/8sTZHdV97eY",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时41分 ~ 18时49分]"
-        },
-        {
-          "title": "超1600亿美元！“特朗普关税退款”周一启动，企业能全部拿回吗？",
-          "url": "https://www.cls.cn/detail/2348969",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时41分 ~ 20时04分]"
-        },
-        {
-          "title": "【早报】美国代表团抵达伊斯兰堡；伊媒：伊朗拒绝参加第二轮谈判",
-          "url": "https://www.cls.cn/detail/2348724",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 16时07分]"
-        },
-        {
-          "title": "美伊局势追踪：特朗普二轮和谈邀约“遭拒” 美军开火、伊朗誓言报复",
-          "url": "https://www.cls.cn/detail/2348774",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 16时07分]"
-        },
-        {
-          "title": "中国经济硬核数据再“上新”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%A1%AC%E6%A0%B8%E6%95%B0%E6%8D%AE%E5%86%8D%E2%80%9C%E4%B8%8A%E6%96%B0%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时07分 ~ 20时04分]"
-        },
-        {
-          "title": "150秒透视中国消费市场澎湃活力",
-          "url": "https://s.weibo.com/weibo?q=%23150%E7%A7%92%E9%80%8F%E8%A7%86%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E6%BE%8E%E6%B9%83%E6%B4%BB%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时36分 ~ 07时37分]"
-        },
-        {
-          "title": "伊朗外交部回应外长帖文争议",
-          "url": "https://news.ifeng.com/c/8sTw2gCASXZ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时48分 ~ 22时51分]"
-        },
-        {
-          "title": "美国路易斯安那州发生枪击，8名儿童死亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33006716",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时07分 ~ 22时51分]"
-        },
-        {
-          "title": "网传社科院发布 2025 中国城市宜居水平排行榜，北上广青岛领衔一线宜居城市，怎样看待这份榜单？",
-          "url": "https://www.zhihu.com/question/2028968003417498254",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6,
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时40分 ~ 20时04分]"
-        },
-        {
-          "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
-          "url": "https://news.ifeng.com/c/8sTsOA6jP1W",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时48分 ~ 22时51分]"
-        },
-        {
-          "title": "中国航司大面积取消日本航班",
-          "url": "https://www.toutiao.com/trending/7630304668586819593/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 13时42分]"
-        },
-        {
-          "title": "伊朗战争丨穆杰塔巴毁容且双腿受重伤？伊朗回应",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 20时04分]"
-        },
-        {
-          "title": "日本7.5级地震",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC7.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 20时04分]"
-        },
-        {
-          "title": "美国交通部长Duffy：如果伊朗战争结束，航空燃油价格将低于（美国和以色列发动）伊朗战争之前。",
-          "url": "https://wallstreetcn.com/livenews/3090645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            15,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时36分]"
-        },
-        {
-          "title": "白宫称美国副总统万斯将赴巴基斯坦参加会谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33006604",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时40分 ~ 22时51分]"
-        },
-        {
-          "title": "诡异!多名美国科学家神秘失踪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353417&amp;topic_name=%E8%AF%A1%E5%BC%82%21%E5%A4%9A%E5%90%8D%E7%BE%8E%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A5%9E%E7%A7%98%E5%A4%B1%E8%B8%AA",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时37分]"
-        },
-        {
-          "title": "伊朗确认将参加2026年美加墨世界杯",
-          "url": "https://wallstreetcn.com/livenews/3090644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            16,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时36分]"
-        },
-        {
-          "title": "特朗普：若美伊达成协议，“很可能”前往伊斯兰堡",
-          "url": "https://wallstreetcn.com/livenews/3090643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            17,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时36分]"
-        },
-        {
-          "title": "伊朗一工厂发生火灾，暂无人员伤亡",
-          "url": "https://wallstreetcn.com/livenews/3090642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            18,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时36分]"
-        },
-        {
-          "title": "看“十五五”首季中国经济发展图景",
-          "url": "https://www.toutiao.com/trending/7629954808049139755/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 13时42分]"
-        },
-        {
-          "title": "日本火锅肉薄如纸,1盘不够塞牙",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353492&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%81%AB%E9%94%85%E8%82%89%E8%96%84%E5%A6%82%E7%BA%B8%2C1%E7%9B%98%E4%B8%8D%E5%A4%9F%E5%A1%9E%E7%89%99",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时49分 ~ 22时51分]"
-        },
-        {
-          "title": "中国每3度电就有1度是绿电",
-          "url": "https://www.douyin.com/hot/2472262",
-          "source": "抖音",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 16时07分]"
-        },
-        {
-          "title": "白宫新闻秘书难招架，特朗普给9个记者9种回答",
-          "url": "https://news.ifeng.com/c/8sTO3SFkNJq",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 16时07分]"
-        },
-        {
-          "title": "伊朗释放混乱信号，美股期货回落，油价飙升近8%，黄金小幅走软",
-          "url": "https://wallstreetcn.com/articles/3770361",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 20时04分]"
-        },
-        {
-          "title": "“中国式安全”打破“低信任社会”的西方偏见",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33009370",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时48分 ~ 22时51分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 52 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2029314093757064288",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时40分 ~ 20时04分]"
-        },
-        {
-          "title": "谈还是不谈？伊朗矛盾表态下 美伊第二轮谈判迷雾笼罩",
-          "url": "https://www.cls.cn/detail/2349508",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时48分 ~ 22时51分]"
-        },
-        {
-          "title": "日本7.5级地震 已观测到海啸抵达",
-          "url": "https://www.toutiao.com/trending/7630298147033468458/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
-        },
         {
           "title": "日本地震震级修正为7.7级",
           "url": "https://www.toutiao.com/trending/7630298147033468458/",
@@ -733,18 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时04分 ~ 22时51分]"
-        },
-        {
-          "title": "日本发生7.5级地震",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
           "title": "日本发生7.7级地震",
@@ -755,234 +27,29 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时04分 ~ 22时51分]"
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "伊朗战争丨美伊总统或前往伊斯兰堡签署宣言",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "日本地震震级修正为7.5级，观测到浪高70厘米海啸",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33010799",
+          "source": "澎湃新闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "伊朗战争丨美军向伊朗商船开火，伊军威胁报复",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "谈还是不谈？伊朗矛盾表态下 美伊第二轮谈判迷雾笼罩",
+          "url": "https://www.cls.cn/detail/2349508",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普透露谈判消息：伊朗担心有诈",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "伊朗媒体：只要海上封锁持续，谈判就不会进行",
-          "url": "https://wallstreetcn.com/livenews/3090639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            18,
-            21,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时36分]"
-        },
-        {
-          "title": "伊朗目前没有决定派遣谈判代表团，只要存在海上封锁，（就不会谈判）。（伊朗塔斯尼姆通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3090638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19,
-            22,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时40分 ~ 06时36分]"
-        },
-        {
-          "title": "中国第七大沙漠“空降”十三朝古都",
-          "url": "https://www.toutiao.com/trending/7630384225422114835/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            30,
-            27,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时36分 ~ 07时37分]"
-        },
-        {
-          "title": "伊朗再次关闭霍尔木兹海峡",
-          "url": "https://www.toutiao.com/trending/7629577852819688996/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            27,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时41分 ~ 07时37分]"
-        },
-        {
-          "title": "伊朗议会要员：美国必须接受霍尔木兹海峡新秩序",
-          "url": "https://news.ifeng.com/c/8sSnBoRKdM4",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
-          "title": "日本东北部沿海地区发生 7.7 级地震，已发布海啸警报，目前情况怎么样？",
-          "url": "https://www.zhihu.com/question/2029592121372362319",
-          "source": "知乎",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时04分 ~ 22时51分]"
-        },
-        {
-          "title": "伊朗：美军向伊朗货船开火 伊军还击",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%86%9B%E5%90%91%E4%BC%8A%E6%9C%97%E8%B4%A7%E8%88%B9%E5%BC%80%E7%81%AB+%E4%BC%8A%E5%86%9B%E8%BF%98%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时36分 ~ 16时07分]"
-        },
-        {
-          "title": "内塔尼亚胡：对伊战事“未结束”，随时会有“新情况”",
-          "url": "https://wallstreetcn.com/livenews/3090656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时42分 ~ 06时36分]"
-        },
-        {
-          "title": "伊朗称已为战火重燃做好准备",
-          "url": "https://news.ifeng.com/c/8sSn74ZxPfk",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
-          "title": "伊朗媒体：伊朗已为战火重燃做好准备",
-          "url": "https://wallstreetcn.com/livenews/3090655",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时42分 ~ 06时36分]"
-        },
-        {
-          "title": "伊朗消息人士：伊方尚无参加下一轮伊美谈判的计划",
-          "url": "https://wallstreetcn.com/livenews/3090660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时38分 ~ 07时37分]"
-        },
-        {
-          "title": "日本东北部沿海地区发生 7.5 级地震，已发布海啸警报，目前情况怎么样？",
-          "url": "https://www.zhihu.com/question/2029592121372362319",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
-        },
-        {
-          "title": "美军向伊朗商船开火",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%90%91%E4%BC%8A%E6%9C%97%E5%95%86%E8%88%B9%E5%BC%80%E7%81%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            17,
-            11,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时40分 ~ 22时51分]"
-        },
-        {
-          "title": "伊朗战争丨美国武力拦截并向伊货船开火，视频公布",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "伊朗战争丨伊朗议会要员：已决定继续与美国进行谈判",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
           "title": "伊朗战争丨美伊谈判悬念丛生，局势走向有几种可能？",
@@ -991,64 +58,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "MSCI新兴市场股票指数收复伊朗战争以来跌幅。",
-          "url": "https://flash.jin10.com/detail/20260420102833997800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "日本20年期国债收益率下降3.5个基点，报3.230%。",
-          "url": "https://flash.jin10.com/detail/20260420133146564800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：指责伊朗对其他国家造成损害是错误的。这一局势的经济和安全后果直接由侵略者，即美国和以色列政权承担，他们的目标是破坏地区稳定。",
-          "url": "https://flash.jin10.com/detail/20260420160010525800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "伊朗军方：伊方将在确保遭袭商船人员安全后采取必要行动",
-          "url": "https://wallstreetcn.com/livenews/3090931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "黎巴嫩总统：黎以谈判目的是结束以军在黎南部的驻军",
-          "url": "https://wallstreetcn.com/livenews/3091106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
           "title": "日本7.7级地震",
@@ -1057,136 +69,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "日本东北海域发生7.5级地震",
-          "url": "https://www.douyin.com/hot/2472798",
-          "source": "抖音",
+          "title": "日本东北部沿海地区发生 7.7 级地震，已发布海啸警报，目前情况怎么样？",
+          "url": "https://www.zhihu.com/question/2029592121372362319",
+          "source": "知乎",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "土耳其外长：以色列试图在黎巴嫩制造“既成事实”",
-          "url": "https://wallstreetcn.com/livenews/3090637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 05时36分]"
-        },
-        {
-          "title": "美国总统特朗普：坚持认为战争接近结束。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3090635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 05时36分]"
-        },
-        {
-          "title": "美国总统特朗普：明晚在巴基斯坦的对话“应当是迅速的”。 所有问题都已经（在此前的伊斯兰堡对话中）谈到了。 我们正在主导对话。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3090634",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            23,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 05时36分]"
-        },
-        {
-          "title": "韩国将强化电子烟监管，与传统卷烟同标准",
-          "url": "https://wallstreetcn.com/livenews/3090633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            24,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 05时36分]"
-        },
-        {
-          "title": "伊朗未证实新一轮美伊会谈消息",
-          "url": "https://www.toutiao.com/trending/7630470919219367474/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            17,
-            26,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时40分 ~ 06时36分]"
-        },
-        {
-          "title": "伊朗媒体：只要海上封锁持续，谈判就不会进行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33006467",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时41分 ~ 20时04分]"
-        },
-        {
-          "title": "日本东北海域发生7.4级地震",
-          "url": "https://www.toutiao.com/trending/7630298147033468458/",
+          "title": "台青：若不承认自己是中国人就别放假",
+          "url": "https://www.toutiao.com/trending/7630234204789325887/",
           "source": "今日头条",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "日本地震震级修正为7.5级，观测到浪高70厘米海啸",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33010799",
+          "title": "“中国式安全”打破“低信任社会”的西方偏见",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33009370",
           "source": "澎湃新闻",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "伊朗在霍尔木兹海峡划定新航线，命名为“拉腊克走廊”",
-          "url": "https://news.ifeng.com/c/8sTBGNx56Ba",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -1195,99 +113,207 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "中国电信完成业界首个5G-A eRedCap端网互通商用验证",
-          "url": "https://flash.jin10.com/detail/20260420102828155800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "A股商业航天概念午后涨势扩大，江顺科技2连板，续创历史新高，中国卫通、天奥电子涨停，此前中国卫星、有研粉材、西部材料、起帆电缆等多股涨停。",
-          "url": "https://flash.jin10.com/detail/20260420133059848800",
-          "source": "金十数据",
+          "title": "“停火最后期限”临近，伊朗再封海峡、美国首次扣船，双方都在争取“谈判砝码”",
+          "url": "https://wallstreetcn.com/articles/3770363",
+          "source": "华尔街见闻",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：能源危机的责任在于侵略者。",
-          "url": "https://flash.jin10.com/detail/20260420155956720800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "伊朗在霍尔木兹海峡划定新航线 未经许可不得通行",
-          "url": "https://wallstreetcn.com/livenews/3090689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "中国台湾证交所加权股价指数收高0.4%报36,958.80点。",
-          "url": "https://wallstreetcn.com/livenews/3090831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "美军称已指令27艘船只掉头或返回伊朗港口",
-          "url": "https://wallstreetcn.com/livenews/3091212",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "韩警方就中国女生被日男子骚扰致歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%AD%A6%E6%96%B9%E5%B0%B1%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E8%A2%AB%E6%97%A5%E7%94%B7%E5%AD%90%E9%AA%9A%E6%89%B0%E8%87%B4%E6%AD%89%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "伊朗：在霍尔木兹海峡划定新航线",
-          "url": "https://www.cls.cn/detail/2348749",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 16时07分]"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "美国路易斯安那州发生枪击，8名儿童死亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33006716",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
+          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "当中文遇上锦绣山河的中国传统色",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%B8%AD%E6%96%87%E9%81%87%E4%B8%8A%E9%94%A6%E7%BB%A3%E5%B1%B1%E6%B2%B3%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%89%B2%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "台青：不承认是中国人中秋就别放假",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%9D%92%EF%BC%9A%E4%B8%8D%E6%89%BF%E8%AE%A4%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%AD%E7%A7%8B%E5%B0%B1%E5%88%AB%E6%94%BE%E5%81%87",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "到底谈不谈？伊朗议员：谈判“今天或明天”进行，伊外交部：暂无第二轮谈判计划",
+          "url": "https://wallstreetcn.com/articles/3770391",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "伊朗外交部回应外长帖文争议",
+          "url": "https://news.ifeng.com/c/8sTw2gCASXZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
+          "url": "https://wallstreetcn.com/articles/3770404",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
+          "url": "https://news.ifeng.com/c/8sTsOA6jP1W",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "各国网民线上嘲讽日本人",
+          "url": "https://s.weibo.com/weibo?q=%E5%90%84%E5%9B%BD%E7%BD%91%E6%B0%91%E7%BA%BF%E4%B8%8A%E5%98%B2%E8%AE%BD%E6%97%A5%E6%9C%AC%E4%BA%BA&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "美国农业部长罗林斯：上周召开了肥料圆桌会议，邀请了行业领导者参与讨论。肥料投入成本仍然是一个严重挑战。",
+          "url": "https://flash.jin10.com/detail/20260420235230351800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "伊朗前最高领袖高级助理：警惕谈判沦为延长战争的幌子",
+          "url": "https://wallstreetcn.com/livenews/3091254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "日本火锅肉薄如纸,1盘不够塞牙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353492&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%81%AB%E9%94%85%E8%82%89%E8%96%84%E5%A6%82%E7%BA%B8%2C1%E7%9B%98%E4%B8%8D%E5%A4%9F%E5%A1%9E%E7%89%99",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "日本地震震级修正为7.7级",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "日本突发7.4级地震，影响多家半导体公司",
+          "url": "https://flash.jin10.com/detail/20260420235003926800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "德国总理谈美国干预：只会制造更多问题",
+          "url": "https://wallstreetcn.com/livenews/3091251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "日本强震上调至7.7级，震中附近有多座核电站，媒体呼吁民众尽快逃生：请回想2011年大地震！",
+          "url": "https://wallstreetcn.com/articles/3770418",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "日本东北部沿海地区发生7.4级地震，已发布海啸警报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33010604",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
           "title": "中方回应美国拦截中国油轮",
@@ -1297,536 +323,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时07分 ~ 22时51分]"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "日本多地民众被要求立即避难逃生",
-          "url": "https://www.toutiao.com/trending/7630767220557155886/",
+          "title": "中国女子在泰国泼水节被莫名滋水",
+          "url": "https://www.toutiao.com/trending/7630061461733507115/",
           "source": "今日头条",
           "ranks": [
-            4,
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时48分 ~ 22时51分]"
-        },
-        {
-          "title": "到底谈不谈？伊朗议员：谈判“今天或明天”进行，伊外交部：暂无第二轮谈判计划",
-          "url": "https://wallstreetcn.com/articles/3770391",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时48分 ~ 22时51分]"
-        },
-        {
-          "title": "日本东北部沿海地区发生7.4级地震，已发布海啸警报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33010604",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时48分 ~ 22时51分]"
-        },
-        {
-          "title": "美媒：中国从“世界工厂”成功转型为“世界市场”",
-          "url": "https://flash.jin10.com/detail/20260420133058101800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：伊朗对霍尔木兹海峡的控制是完全合法的。",
-          "url": "https://flash.jin10.com/detail/20260420155946779800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "北约秘书长吕特将于4月21日至22日在安卡拉会见土耳其总统埃尔多安。",
-          "url": "https://flash.jin10.com/detail/20260420193300349800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "特朗普：美军在阿曼湾拦截并控制一艘伊朗货船",
-          "url": "https://wallstreetcn.com/livenews/3090659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "日本40年期国债收益率下行7个基点，报3.775%。",
-          "url": "https://wallstreetcn.com/livenews/3090830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "日本东北海域发生7.4级地震。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3090928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "特朗普称并非因以色列才对伊朗开战",
-          "url": "https://wallstreetcn.com/livenews/3091211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "当中文遇上锦绣山河的中国传统色",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%B8%AD%E6%96%87%E9%81%87%E4%B8%8A%E9%94%A6%E7%BB%A3%E5%B1%B1%E6%B2%B3%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E8%89%B2%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美伊停火仅剩2天 伊朗拒绝第二轮谈判",
-          "url": "https://www.toutiao.com/trending/7630608668068679219/",
-          "source": "今日头条",
-          "ranks": [
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时36分 ~ 13时42分]"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
           "title": "一枝独秀的创业板--“中国纳指”前7大权重占比已升至48%，堪比MAG 7",
           "url": "https://wallstreetcn.com/articles/3770367",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时07分 ~ 22时51分]"
-        },
-        {
-          "title": "沈阳满城中国红等待英雄回家",
-          "url": "https://www.baidu.com/s?wd=%E6%B2%88%E9%98%B3%E6%BB%A1%E5%9F%8E%E4%B8%AD%E5%9B%BD%E7%BA%A2%E7%AD%89%E5%BE%85%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 16时07分]"
-        },
-        {
-          "title": "台青：不承认是中国人中秋就别放假",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B0%E9%9D%92%EF%BC%9A%E4%B8%8D%E6%89%BF%E8%AE%A4%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%B8%AD%E7%A7%8B%E5%B0%B1%E5%88%AB%E6%94%BE%E5%81%87",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "日本发生7.5级地震",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "伊朗总统：美方在谈判及停火阶段持续背信弃义",
-          "url": "https://news.ifeng.com/c/8sT7ut8RY4X",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "伊朗在霍尔木兹海峡划定新航线 未经许可不得通行",
-          "url": "https://flash.jin10.com/detail/20260420070953679800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "以色列国防军：以色列国防军将继续采取必要的自卫措施应对威胁，同时确保部署在该地区的以色列平民和士兵的安全。以色列国防军绝不容许对以色列平民和以色列国防军士兵造成伤害，并将采取一切必要措施确保他们的安全。",
-          "url": "https://flash.jin10.com/detail/20260420133026939800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "据半岛电视台：以色列安全内阁召开会议讨论伊朗、黎巴嫩相关问题。",
-          "url": "https://flash.jin10.com/detail/20260420182132263800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "印度三月主要工业产出同比下降0.4%。三月钢铁产量同比增长2.2%，煤炭产量同比下降4.0%，原油产量同比下降5.7%，天然气产量同比增长6.4%，石油精炼产品产量同比增长0.1%，化肥产量同比下降24.6%，电力产量同比下降0.5%。",
-          "url": "https://flash.jin10.com/detail/20260420193234182800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "MSCI新兴市场股票指数收复伊朗战争以来跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3090773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "Trafigura：全球大约3%的铝供应受到伊朗战争的干扰。",
-          "url": "https://wallstreetcn.com/livenews/3091210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "伊朗拟出台霍尔木兹海峡管理法，禁止以色列关联船只通行",
-          "url": "https://wallstreetcn.com/livenews/3090652",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时42分 ~ 06时36分]"
-        },
-        {
-          "title": "伊朗在霍尔木兹海峡划定新航线，未经许可不得通行，有何战略意图？是否标志着伊朗对海峡的控制进入新阶段？",
-          "url": "https://www.zhihu.com/question/2029474310302032341",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时07分 ~ 22时51分]"
-        },
-        {
-          "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
-          "url": "https://wallstreetcn.com/articles/3770404",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "日本地震震级修正为7.7级",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "伊朗放话：要想免费，拿这一条件来换",
-          "url": "https://news.ifeng.com/c/8sTPQ2AjLvQ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "贾跃亭：法拉第未来（FF）获美国一家中大型机构投资者4500万美元融资且已全部当日到账。",
-          "url": "https://flash.jin10.com/detail/20260420070612347800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "以色列国防军：昨晚，以色列国防军袭击了黎巴嫩南部卡劳耶地区一个已装弹并准备发射的发射器，以防止对以色列北部社区构成直接威胁。",
-          "url": "https://flash.jin10.com/detail/20260420133023676800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "美国驻伊拉克使馆敦促美公民尽快撤离",
-          "url": "https://flash.jin10.com/detail/20260420192949920800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "墨西哥总统辛鲍姆：此前并不知道在墨西哥车祸中遇难的美国官员正直接与当地当局开展合作。",
-          "url": "https://flash.jin10.com/detail/20260420223627822800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "法媒：一艘法国船在霍尔木兹海峡遭“警告性射击”",
-          "url": "https://wallstreetcn.com/livenews/3090686",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "特朗普：以色列从未把我拉进与伊朗的战争",
-          "url": "https://wallstreetcn.com/livenews/3091209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "中国成年人平均每天用手机超109分钟",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%88%90%E5%B9%B4%E4%BA%BA%E5%B9%B3%E5%9D%87%E6%AF%8F%E5%A4%A9%E7%94%A8%E6%89%8B%E6%9C%BA%E8%B6%85109%E5%88%86%E9%92%9F",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时41分 ~ 18时49分]"
-        },
-        {
-          "title": "美国能源部长Wright：对俄罗斯石油制裁的豁免措施是短期性的决定。",
-          "url": "https://wallstreetcn.com/livenews/3090630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 04时38分]"
-        },
-        {
-          "title": "白宫澄清：美国副总统万斯将赴巴基斯坦参加会谈",
-          "url": "https://wallstreetcn.com/livenews/3090629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 04时38分]"
-        },
-        {
-          "title": "特朗普说若达成协议很可能去伊斯兰堡",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E8%8B%A5%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E5%BE%88%E5%8F%AF%E8%83%BD%E5%8E%BB%E4%BC%8A%E6%96%AF%E5%85%B0%E5%A0%A1%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时38分 ~ 07时37分]"
-        },
-        {
-          "title": "日本东北海域7.7级地震",
-          "url": "https://www.douyin.com/hot/2472798",
-          "source": "抖音",
-          "ranks": [
-            1,
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时04分 ~ 22时51分]"
-        },
-        {
-          "title": "伊朗议会要员：美国必须接受霍尔木兹海峡新秩序",
-          "url": "https://wallstreetcn.com/livenews/3090663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时36分 ~ 07时37分]"
-        },
-        {
-          "title": "以色列国防军：第162师继续在黎巴嫩南部、前沿防御线以南地区开展防御活动，以消除对以色列北部社区的直接威胁。",
-          "url": "https://flash.jin10.com/detail/20260420000438490800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时52分]"
-        },
-        {
-          "title": "法国航运公司达飞集团（CMA CGM Group）确认，其一艘船只在霍尔木兹海峡于周六遭到枪击。",
-          "url": "https://flash.jin10.com/detail/20260420032313637800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时42分 ~ 05时36分]"
-        },
-        {
-          "title": "美国共和党参议员格雷厄姆：这场出色的（美国）封锁正在摧毁伊朗经济。伊斯兰革命卫队对国际航运的袭击是绝望的表现。",
-          "url": "https://flash.jin10.com/detail/20260420023258462800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 04时38分]"
-        },
-        {
-          "title": "以色列国防军：第162师在黎巴嫩南部的行动已消灭超过250名恐怖分子，识别出超过1000件武器和弹药。",
-          "url": "https://flash.jin10.com/detail/20260420000426871800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时52分]"
-        },
-        {
-          "title": "阿联酋官员：开战头40天遭伊朗超2800次袭击，90%以上针对民用设施",
-          "url": "https://flash.jin10.com/detail/20260420022942493800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 04时38分]"
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
           "title": "中国驻日领馆提醒中国公民注意防范海啸",
@@ -1836,493 +356,96 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时48分 ~ 22时51分]"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "巴基斯坦总理谢里夫：与伊朗总统佩泽希齐扬分享了与沙特阿拉伯、卡塔尔和土耳其领导人的近期交流。",
-          "url": "https://flash.jin10.com/detail/20260420022611195800",
-          "source": "金十数据",
+          "title": "2名中国台湾游客在日本坠机身亡",
+          "url": "https://www.baidu.com/s?wd=2%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1",
+          "source": "百度热搜",
           "ranks": [
-            3,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 04时38分]"
-        },
-        {
-          "title": "美国副总统万斯：梵蒂冈应该不插手美国政治。",
-          "url": "https://flash.jin10.com/detail/20260420000353612800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时52分]"
-        },
-        {
-          "title": "伊朗媒体：伊朗拒绝参加伊美第二轮谈判",
-          "url": "https://flash.jin10.com/detail/20260420010012939800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            19
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时36分 ~ 02时52分]"
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "阿联酋方面将互换提议描述为预防性和初步措施，以应对伊朗战争可能持续的情况。",
-          "url": "https://flash.jin10.com/detail/20260420040600069800",
-          "source": "金十数据",
+          "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报中国航空器材集团有限公司任宇、赵保辉等政绩观扭曲错位、欺瞒组织、侵害群众利益等问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33011503",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            22
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时36分]"
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "伊朗外长阿拉格齐：伊朗将动用全部能力来保障安全。",
-          "url": "https://flash.jin10.com/detail/20260420052246501800",
-          "source": "金十数据",
+          "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2349767",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            17
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时36分]"
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "一伊朗油轮突破美国封锁进入伊朗水域",
-          "url": "https://flash.jin10.com/detail/20260420061344131800",
-          "source": "金十数据",
+          "title": "伊朗在霍尔木兹海峡划定新航线，未经许可不得通行，有何战略意图？是否标志着伊朗对海峡的控制进入新阶段？",
+          "url": "https://www.zhihu.com/question/2029474310302032341",
+          "source": "知乎",
           "ranks": [
-            1,
-            27
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时37分]"
-        },
-        {
-          "title": "伊朗嘲讽欧盟外长：哦，你管那个叫国际法？",
-          "url": "https://news.ifeng.com/c/8sTnYkkWuL2",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时04分 ~ 22时51分]"
-        },
-        {
-          "title": "巴基斯坦总理谢里夫：向伊朗总统佩泽希齐扬承诺，巴基斯坦将全力致力于作为持久和平与地区稳定的促进者。",
-          "url": "https://flash.jin10.com/detail/20260420022515246800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 04时38分]"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗拒绝参加与美国的第二轮谈判。",
-          "url": "https://flash.jin10.com/detail/20260420005427107800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 02时52分]"
-        },
-        {
-          "title": "伊朗媒体：伊朗已为战火重燃做好准备",
-          "url": "https://flash.jin10.com/detail/20260420031956572800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 04时38分]"
-        },
-        {
-          "title": "阿联酋已与美国展开货币互换谈判。阿联酋请求美国提供战时金融支持。",
-          "url": "https://flash.jin10.com/detail/20260420040424980800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时36分]"
-        },
-        {
-          "title": "委内瑞拉启动持续近两周的全国集会 抗议美国制裁",
-          "url": "https://flash.jin10.com/detail/20260420052147338800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时36分]"
-        },
-        {
-          "title": "美军向伊朗商船开火 伊军：将予以回应和报复",
-          "url": "https://flash.jin10.com/detail/20260420060759620800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时37分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗已经同意了协议的许多条款。（福克斯新闻）",
-          "url": "https://flash.jin10.com/detail/20260420000334425800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时52分]"
-        },
-        {
-          "title": "巴基斯坦总理谢里夫：今晚与伊朗总统佩泽希齐扬进行了建设性对话，讨论了不断变化的地区形势。",
-          "url": "https://flash.jin10.com/detail/20260420022403910800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 04时38分]"
-        },
-        {
-          "title": "特朗普：美军在阿曼湾武力拦截并控制一艘伊朗货船",
-          "url": "https://wallstreetcn.com/livenews/3090659",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时36分 ~ 07时37分]"
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
           "title": "伊朗如何看谈判？一文读懂伊朗“首席谈判代表”周末的重磅阐述",
           "url": "https://wallstreetcn.com/articles/3770369",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时48分 ~ 22时51分]"
-        },
-        {
-          "title": "伊朗抓捕超百人，查获3000余件武器",
-          "url": "https://news.ifeng.com/c/8sTJLpJgEPR",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 16时07分]"
-        },
-        {
-          "title": "伊朗总统问美国凭什么决定伊核权利",
-          "url": "https://flash.jin10.com/detail/20260420004907090800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时36分 ~ 02时52分]"
-        },
-        {
-          "title": "伊朗拟出台霍尔木兹海峡管理法 禁止以色列关联船只通行",
-          "url": "https://flash.jin10.com/detail/20260420030957752800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 04时38分]"
-        },
-        {
-          "title": "伊朗消息人士：伊方尚无参加下一轮伊美谈判的计划",
-          "url": "https://flash.jin10.com/detail/20260420040011659800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时36分]"
-        },
-        {
-          "title": "以媒：以军确认破坏耶稣雕像照片为真",
-          "url": "https://flash.jin10.com/detail/20260420052140944800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时36分]"
-        },
-        {
-          "title": "【一伊朗油轮突破美国封锁进入伊朗水域】19日自伊朗方面获悉，一艘悬挂伊朗国旗的巨型油轮已突破美国封锁，成功进入伊朗水域。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3090669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时37分]"
-        },
-        {
-          "title": "伊朗已决定继续与美国谈判",
-          "url": "https://www.toutiao.com/trending/7630738148166766118/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时07分 ~ 20时04分]"
-        },
-        {
-          "title": "据Politico：阿联酋官员表示，超过90%的伊朗目标是民用基础设施。",
-          "url": "https://flash.jin10.com/detail/20260420004328454800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时36分 ~ 02时52分]"
-        },
-        {
-          "title": "美国财长贝森特：欢迎卡塔尔在美国的持续投资，特别是在加强能源安全方面。",
-          "url": "https://flash.jin10.com/detail/20260420030623433800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 04时38分]"
-        },
-        {
-          "title": "美军向伊朗商船开火 伊军：将予以回应和报复",
-          "url": "https://wallstreetcn.com/livenews/3090668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时37分]"
-        },
-        {
-          "title": "伊朗：巴基斯坦是谈判唯一正式调解国",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E6%98%AF%E8%B0%88%E5%88%A4%E5%94%AF%E4%B8%80%E6%AD%A3%E5%BC%8F%E8%B0%83%E8%A7%A3%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时48分 ~ 22时51分]"
-        },
-        {
-          "title": "韩国电影哭声重构式解读",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%93%AD%E5%A3%B0%E9%87%8D%E6%9E%84%E5%BC%8F%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            29,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时42分 ~ 22时51分]"
-        },
-        {
-          "title": "日本未来一周可能发生同等规模地震",
-          "url": "https://www.toutiao.com/trending/7630770612776209958/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时48分 ~ 22时51分]"
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
           "title": "解读｜法国通过文物归还法案，敦煌藏经洞文物就能回归吗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32993492",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            9,
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时48分 ~ 22时51分]"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "矛盾公开化，美防长呵斥美国陆军部长：我才是老大",
-          "url": "https://news.ifeng.com/c/8sTVZIb8o37",
+          "title": "伊朗嘲讽欧盟外长：哦，你管那个叫国际法？",
+          "url": "https://news.ifeng.com/c/8sTnYkkWuL2",
           "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时07分 ~ 20时04分]"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "加拿大总理卡尼：加拿大与美国的密切关系曾经是一种优势，但现在已成为一种劣势。",
-          "url": "https://flash.jin10.com/detail/20260420001915475800",
-          "source": "金十数据",
+          "title": "日本修正地震震级为7.7级，中领馆紧急提醒",
+          "url": "https://www.cls.cn/detail/2349778",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            23
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时36分 ~ 02时52分]"
-        },
-        {
-          "title": "美国财长贝森特：在与卡塔尔财长的会晤中，我强调，美国希望遏制伊朗未来的攻击，并确保能源和更广泛的市场不再受到进一步影响。",
-          "url": "https://flash.jin10.com/detail/20260420030617982800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 04时38分]"
-        },
-        {
-          "title": "目前伊朗方面尚未有参与下一轮伊朗-美国谈判的计划。",
-          "url": "https://flash.jin10.com/detail/20260420035533237800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时36分]"
-        },
-        {
-          "title": "各国网民线上嘲讽日本人",
-          "url": "https://s.weibo.com/weibo?q=%E5%90%84%E5%9B%BD%E7%BD%91%E6%B0%91%E7%BA%BF%E4%B8%8A%E5%98%B2%E8%AE%BD%E6%97%A5%E6%9C%AC%E4%BA%BA&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时04分 ~ 22时51分]"
-        },
-        {
-          "title": "巴基斯坦总理与伊朗总统通话约45分钟，讨论地区局势",
-          "url": "https://wallstreetcn.com/livenews/3090653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            10,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时42分 ~ 06时36分]"
-        },
-        {
-          "title": "伊朗媒体：伊朗拒绝参加与美国的第二轮谈判，伊美“二谈”消息不实，谈判前景不明",
-          "url": "https://wallstreetcn.com/livenews/3090649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时42分 ~ 06时36分]"
-        },
-        {
-          "title": "美军袭击一艘伊朗商船，迫使其返航",
-          "url": "https://wallstreetcn.com/livenews/3090657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            12,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时42分 ~ 06时36分]"
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
           "title": "高市早苗紧急召开记者会：远离海岸，前往高地避险",
@@ -2332,1412 +455,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时48分 ~ 22时51分]"
-        },
-        {
-          "title": "以军称又打死一名黎真主党指挥官",
-          "url": "https://wallstreetcn.com/livenews/3090658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            13,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时42分 ~ 06时36分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队下属“圣城旅”指挥官伊将领出访伊拉克",
-          "url": "https://wallstreetcn.com/livenews/3090654",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            14,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时42分 ~ 06时36分]"
-        },
-        {
-          "title": "白宫官员表示：美国副总统万斯、特使Witkoff、特使库什纳将前往巴基斯坦，再次与伊朗对话。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3090627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时42分]"
-        },
-        {
-          "title": "美国发生2024年以来最严重枪击案",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F2024%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%9C%80%E4%B8%A5%E9%87%8D%E6%9E%AA%E5%87%BB%E6%A1%88&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 20时04分]"
-        },
-        {
-          "title": "伊朗称霍尔木兹海峡关闭",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33002782",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时52分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗内部温和派与强硬派之间存在持续冲突。",
-          "url": "https://flash.jin10.com/detail/20260420000322341800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时52分]"
-        },
-        {
-          "title": "以总理称美以对伊朗行动未结束",
-          "url": "https://flash.jin10.com/detail/20260420000222597800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时52分]"
-        },
-        {
-          "title": "美媒：尽管被指存在风险，美国安局仍在使用Anthropic旗下Mythos大模型",
-          "url": "https://flash.jin10.com/detail/20260420021231153800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 04时38分]"
-        },
-        {
-          "title": "美媒承认中国年轻人对美国幻灭了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E6%89%BF%E8%AE%A4%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%B9%BB%E7%81%AD%E4%BA%86%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时07分 ~ 18时49分]"
-        },
-        {
-          "title": "据AXIOS网站：尽管被列入黑名单，美国国家安全局仍在使用Anthropic的Mythos模型。",
-          "url": "https://flash.jin10.com/detail/20260420020540780800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 04时38分]"
-        },
-        {
-          "title": "特朗普称将重启谈判 伊朗否认三连",
-          "url": "https://www.cls.cn/detail/2348737",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 16时07分]"
-        },
-        {
-          "title": "经济问题和美伊冲突重创选民信心 特朗普民调支持率创下新低",
-          "url": "https://www.cls.cn/detail/2349003",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 20时04分]"
-        },
-        {
-          "title": "美媒：美方称万斯将率团赴伊斯兰堡重启谈判，伊朗怀疑是为“突袭掩护”",
-          "url": "https://flash.jin10.com/detail/20260420020511707800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 04时38分]"
-        },
-        {
-          "title": "中国航司大面积取消日本航班",
-          "url": "https://www.douyin.com/hot/2472040",
-          "source": "抖音",
-          "ranks": [
-            9,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 16时07分]"
-        },
-        {
-          "title": "日本强震震中附近有多个核电站",
-          "url": "https://www.toutiao.com/trending/7630353610529849385/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 20时04分]"
-        },
-        {
-          "title": "日本地震引发海啸不会影响我国",
-          "url": "https://www.douyin.com/hot/2472917",
-          "source": "抖音",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时49分 ~ 22时51分]"
-        },
-        {
-          "title": "美以打击伊朗加剧盟友分裂",
-          "url": "https://www.toutiao.com/trending/7629634964927021099/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 16时07分]"
-        },
-        {
-          "title": "日本可能出现3米浪高海啸",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E5%87%BA%E7%8E%B03%E7%B1%B3%E6%B5%AA%E9%AB%98%E6%B5%B7%E5%95%B8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时49分 ~ 22时51分]"
-        },
-        {
-          "title": "是谁在疯狂买中国芯片",
-          "url": "https://www.toutiao.com/trending/7630689294415302198/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 20时04分]"
-        },
-        {
-          "title": "伊朗抓捕逾百人 查获3000余件武器",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%93%E6%8D%95%E9%80%BE%E7%99%BE%E4%BA%BA+%E6%9F%A5%E8%8E%B73000%E4%BD%99%E4%BB%B6%E6%AD%A6%E5%99%A8",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 13时42分]"
-        },
-        {
-          "title": "日本民众被要求立即避难逃生",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E8%A2%AB%E8%A6%81%E6%B1%82%E7%AB%8B%E5%8D%B3%E9%81%BF%E9%9A%BE%E9%80%83%E7%94%9F",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 20时04分]"
-        },
-        {
-          "title": "韩国西瓜销量暴涨",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E8%A5%BF%E7%93%9C%E9%94%80%E9%87%8F%E6%9A%B4%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 20时04分]"
-        },
-        {
-          "title": "中国女生在韩遭日籍男子骚扰",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%94%9F%E5%9C%A8%E9%9F%A9%E9%81%AD%E6%97%A5%E7%B1%8D%E7%94%B7%E5%AD%90%E9%AA%9A%E6%89%B0",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时07分 ~ 18时49分]"
-        },
-        {
-          "title": "外籍残障人士用中国外骨骼独立走路",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E7%B1%8D%E6%AE%8B%E9%9A%9C%E4%BA%BA%E5%A3%AB%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%A4%96%E9%AA%A8%E9%AA%BC%E7%8B%AC%E7%AB%8B%E8%B5%B0%E8%B7%AF",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时07分 ~ 18时49分]"
-        },
-        {
-          "title": "日本：未来一周或发生同等规模地震",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%EF%BC%9A%E6%9C%AA%E6%9D%A5%E4%B8%80%E5%91%A8%E6%88%96%E5%8F%91%E7%94%9F%E5%90%8C%E7%AD%89%E8%A7%84%E6%A8%A1%E5%9C%B0%E9%9C%87",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 20时04分]"
-        },
-        {
-          "title": "美国官员：副总统万斯将（再次）率领美国代表团前往伊斯兰堡。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3090624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时52分]"
-        },
-        {
-          "title": "特朗普：万斯不参加美伊复谈，女婿及总统特使将参与美伊谈判",
-          "url": "https://wallstreetcn.com/livenews/3090623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时52分]"
-        },
-        {
-          "title": "韩国财政部长（在会见美国财长贝森特之后表示）：美国同意，韩元过度波动不可取。",
-          "url": "https://wallstreetcn.com/livenews/3090621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时52分]"
-        },
-        {
-          "title": "日本强震震中附近有多个核电站",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%BC%BA%E9%9C%87%E9%9C%87%E4%B8%AD%E9%99%84%E8%BF%91%E6%9C%89%E5%A4%9A%E4%B8%AA%E6%A0%B8%E7%94%B5%E7%AB%99",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 20时04分]"
-        },
-        {
-          "title": "美国能源部长Wright：到2027年，汽油价格可能会跌穿3美元/加仑，也可能不会跌穿。 就CPI调整后条款来说，汽油价格是低于3美元的。 汽油价格可能已经见顶。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3090620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时52分]"
-        },
-        {
-          "title": "伊朗：只要存在海上封锁就不会谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%8F%AA%E8%A6%81%E5%AD%98%E5%9C%A8%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%94%81%E5%B0%B1%E4%B8%8D%E4%BC%9A%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时38分 ~ 06时36分]"
-        },
-        {
-          "title": "日本国会周围3.6万人集会，抗议高市修宪企图",
-          "url": "https://wallstreetcn.com/livenews/3090619",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时52分]"
-        },
-        {
-          "title": "特朗普边称要谈判边威胁伊朗",
-          "url": "https://wallstreetcn.com/livenews/3090618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时52分]"
-        },
-        {
-          "title": "美国能源部长Wright：（船只）通过霍尔木兹海峡并不安全。 （与伊朗的）谈判进展不错。 （谈及率团前往巴基斯坦）一直都是副总统万斯。 如果伊朗干扰霍尔木兹海峡的航运，美方将重新封锁。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3090616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时52分]"
-        },
-        {
-          "title": "伊朗和巴基斯坦外长通话讨论地区最新动态",
-          "url": "https://wallstreetcn.com/livenews/3090614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时52分]"
-        },
-        {
-          "title": "日本地震震级调至7.5级 海啸已到达",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E9%9C%87%E7%BA%A7%E8%B0%83%E8%87%B37.5%E7%BA%A7+%E6%B5%B7%E5%95%B8%E5%B7%B2%E5%88%B0%E8%BE%BE",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
-        },
-        {
-          "title": "美军被曝正用机器人在霍尔木兹海峡排雷",
-          "url": "https://news.ifeng.com/c/8sTRhQHbQBr",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "2名中国台湾游客在日本坠机身亡",
-          "url": "https://www.baidu.com/s?wd=2%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%9D%A0%E6%9C%BA%E8%BA%AB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时04分 ~ 22时51分]"
-        },
-        {
-          "title": "美国财长贝森特：周五与卡塔尔财长进行了会面，讨论美国与卡塔尔之间的持续合作，特别是在伊朗对海湾合作委员会国家的攻击期间。",
-          "url": "https://flash.jin10.com/detail/20260420030549138800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 04时38分]"
-        },
-        {
-          "title": "特朗普：一艘伊朗货船试图突破封锁 美军武力拦截并控制",
-          "url": "https://flash.jin10.com/detail/20260420034649727800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时36分]"
-        },
-        {
-          "title": "美国中央司令部：自封锁开始以来，美军已指示25艘商船掉头或返回伊朗港口。",
-          "url": "https://flash.jin10.com/detail/20260420045942219800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时36分]"
-        },
-        {
-          "title": "伊朗：美军向伊朗商船开火，革命卫队海军逼退美军",
-          "url": "https://wallstreetcn.com/livenews/3090666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时37分]"
-        },
-        {
-          "title": "特朗普透露谈判消息：伊朗担心有诈",
-          "url": "https://news.ifeng.com/c/8sTGH8fIj93",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "泽连斯基敦促欧洲应建立弹道导弹防御系统",
-          "url": "https://flash.jin10.com/detail/20260420034558959800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时36分]"
-        },
-        {
-          "title": "临时停火周三到期 特朗普称美伊将复谈 伊媒称拒谈",
-          "url": "https://flash.jin10.com/detail/20260420045756611800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时36分]"
-        },
-        {
-          "title": "伊朗副总统称美方立场“变化无常”，重申海峡控制权至关重要",
-          "url": "https://flash.jin10.com/detail/20260420000208351800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
-        },
-        {
-          "title": "美加财长会晤：讨论伊朗冲突、能源市场及关键矿产合作",
-          "url": "https://flash.jin10.com/detail/20260420025553489800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 04时38分]"
-        },
-        {
-          "title": "特朗普：美国海军陆战队已控制试图突破美国封锁的伊朗船只",
-          "url": "https://flash.jin10.com/detail/20260420032732044800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时38分 ~ 05时36分]"
-        },
-        {
-          "title": "美国中央司令部确认拦截了Touska号货船。",
-          "url": "https://flash.jin10.com/detail/20260420045656899800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时36分]"
-        },
-        {
-          "title": "特朗普转发民调：多数选民支持对伊朗军事行动",
-          "url": "https://flash.jin10.com/detail/20260420025355520800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 04时38分]"
-        },
-        {
-          "title": "美国驻墨西哥大使馆表示，两名美国官员在墨西哥的一起车祸中遇难，他们当时正在支持当地政府打击贩毒集团的行动。",
-          "url": "https://flash.jin10.com/detail/20260420045150179800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时36分]"
-        },
-        {
-          "title": "海啸预警,日本7.4级地震",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353495&amp;topic_name=%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6%2C%E6%97%A5%E6%9C%AC7.4%E7%BA%A7%E5%9C%B0%E9%9C%87",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时04分 ~ 22时51分]"
-        },
-        {
-          "title": "巴基斯坦总理和伊朗总统通话",
-          "url": "https://flash.jin10.com/detail/20260420015346510800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时42分]"
-        },
-        {
-          "title": "非政府组织（NGO）巴勒斯坦囚犯协会称，自加沙战争开始以来，以色列已在被占领的约旦河西岸逮捕了2.3万人。",
-          "url": "https://flash.jin10.com/detail/20260419235347678800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
-        },
-        {
-          "title": "美国财长会见韩国经济部长 一致认为韩元过度波动“不可取”",
-          "url": "https://flash.jin10.com/detail/20260420024624393800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 04时38分]"
-        },
-        {
-          "title": "伊朗媒体称伊军挫败了美国夺取伊朗商船的企图",
-          "url": "https://flash.jin10.com/detail/20260420044346645800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时36分]"
-        },
-        {
-          "title": "新华时评｜警惕日本“新型军国主义”危险动向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33002657",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
-        },
-        {
-          "title": "男子携刀进入日本参议院议员会馆被捕",
-          "url": "https://news.ifeng.com/c/8sTVQ2SaGGz",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：（谈及伊朗局势）我们已经取得了巨大的成就。但还没有结束。随时都可能出现新的进展。",
-          "url": "https://flash.jin10.com/detail/20260419235137709800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
-        },
-        {
-          "title": "美国财长贝森特：上周五，我与巴林财政与国家经济部长沙伊赫·萨尔曼·本·哈利法·阿尔哈利法会面，讨论美国与巴林之间持续的经济和安全合作。",
-          "url": "https://flash.jin10.com/detail/20260420024447488800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时42分 ~ 04时38分]"
-        },
-        {
-          "title": "据伊朗警方负责人透露，近期行动中逮捕了与“恐怖组织”有关的100名嫌疑人，并查获了武器和弹药。",
-          "url": "https://flash.jin10.com/detail/20260420044332613800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时36分]"
-        },
-        {
-          "title": "伊朗：关闭霍尔木兹海峡 直至美国解除封锁",
-          "url": "https://www.cls.cn/detail/2348363",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
-        },
-        {
-          "title": "以色列航空董事长：以色列与阿根廷之间的直飞航班将于2026年开始。",
-          "url": "https://flash.jin10.com/detail/20260419234815040800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
-        },
-        {
-          "title": "巴基斯坦总理与伊朗总统通话讨论地区局势",
-          "url": "https://flash.jin10.com/detail/20260420044020162800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时36分]"
-        },
-        {
-          "title": "韩警方就中国女生被日男子骚扰致歉",
-          "url": "https://www.toutiao.com/trending/7629580230050906121/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "3.6万人聚集日本国会周围 强烈抗议高市修宪企图",
-          "url": "https://flash.jin10.com/detail/20260419234102481800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
-        },
-        {
-          "title": "在美国扣押船只的几分钟前，伊朗大使批评了美国的封锁",
-          "url": "https://flash.jin10.com/detail/20260420043832427800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时36分]"
-        },
-        {
-          "title": "美评估伊朗仍保有约七成战前导弹库存",
-          "url": "https://www.toutiao.com/trending/7629872755634782259/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时41分 ~ 03时42分]"
-        },
-        {
-          "title": "美国佛罗里达州共和党参议员斯科特：特朗普总统正在“做正确的事情”，以确保伊朗永远无法获得核武器。",
-          "url": "https://flash.jin10.com/detail/20260419233905048800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
-        },
-        {
-          "title": "美军袭击一艘伊朗商船 迫使其返航",
-          "url": "https://flash.jin10.com/detail/20260420012156661800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时42分]"
-        },
-        {
-          "title": "印度三男子同骑一辆摩托撞车身亡",
-          "url": "https://www.toutiao.com/trending/7630700591618752521/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：以色列与阿根廷同意以色列航空公司开通两国间直飞航班。",
-          "url": "https://flash.jin10.com/detail/20260419233253765800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
-        },
-        {
-          "title": "据美国哥伦比亚广播公司（CBS）：美国官员称，美国“杰拉尔德·福特”航母已返回中东。",
-          "url": "https://flash.jin10.com/detail/20260420012056838800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时42分]"
-        },
-        {
-          "title": "伊朗油轮突破美国海上封锁",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE%E7%AA%81%E7%A0%B4%E7%BE%8E%E5%9B%BD%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%94%81%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "中国近现代及当代文学史上，如果只能选一部「最伟大」的作品，你会推荐哪一部？",
-          "url": "https://www.zhihu.com/question/1973232807083005239",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们正与伊朗作战，伊朗在全球传播不稳定，而我们没有比美国更好的朋友。",
-          "url": "https://flash.jin10.com/detail/20260419233227236800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
-        },
-        {
-          "title": "以军称又打死一名黎真主党指挥官",
-          "url": "https://flash.jin10.com/detail/20260420011636308800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时42分]"
-        },
-        {
-          "title": "白宫称美国副总统万斯将赴巴基斯坦参加会谈",
-          "url": "https://flash.jin10.com/detail/20260419231104707800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
-        },
-        {
-          "title": "特朗普边称要谈判边威胁伊朗，伊朗称「已为战火重燃做好准备」，特朗普目的何在？目前局势如何？",
-          "url": "https://www.zhihu.com/question/2029496732459778569",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
-        },
-        {
-          "title": "美国一枪手杀害7名后代",
-          "url": "https://www.toutiao.com/trending/7630614416660398143/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "中方回应日本军舰过航台海参加军演",
-          "url": "https://www.toutiao.com/trending/7629904330356211758/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
-        },
-        {
-          "title": "以色列军队：以军在黎巴嫩南部的部队伤亡人数增加，过去24小时内有37名以色列军人在该地区受伤。",
-          "url": "https://flash.jin10.com/detail/20260419230930205800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
-        },
-        {
-          "title": "中方回应美国截停中国驶往伊朗油轮",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%88%AA%E5%81%9C%E4%B8%AD%E5%9B%BD%E9%A9%B6%E5%BE%80%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 18时49分]"
-        },
-        {
-          "title": "最新民调：超六成美国人反对扩大对伊军事行动",
-          "url": "https://flash.jin10.com/detail/20260419230401913800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
-        },
-        {
-          "title": "伊朗确认将参加2026年美加墨世界杯",
-          "url": "https://flash.jin10.com/detail/20260419224906832800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
-        },
-        {
-          "title": "特朗普：若美伊达成协议 “很可能”前往伊斯兰堡",
-          "url": "https://flash.jin10.com/detail/20260419224124557800",
-          "source": "金十数据",
-          "ranks": [
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
-        },
-        {
-          "title": "伊朗一工厂发生火灾 暂无人员伤亡",
-          "url": "https://flash.jin10.com/detail/20260419223034578800",
-          "source": "金十数据",
-          "ranks": [
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时36分]"
-        },
-        {
-          "title": "印度为什么开始卡黄金进口了",
-          "url": "https://www.toutiao.com/trending/7630610845180890667/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "大V：印度制造的底色是中国零部件",
-          "url": "https://www.toutiao.com/trending/7630666004485377587/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "美国一跳伞员撞上记分板吊在半空",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%B7%B3%E4%BC%9E%E5%91%98%E6%92%9E%E4%B8%8A%E8%AE%B0%E5%88%86%E6%9D%BF%E5%90%8A%E5%9C%A8%E5%8D%8A%E7%A9%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时41分 ~ 03时42分]"
-        },
-        {
-          "title": "不只难谈拢，更是难运走！伊朗浓缩铀去向问题层层受阻",
-          "url": "https://flash.jin10.com/detail/20260420155627774800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "日本地震后发布海啸预警",
-          "url": "https://wallstreetcn.com/livenews/3090924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "墨西哥总统辛鲍姆：墨方有意在重申美国墨西哥加拿大贸易协议（USMCA）之前围绕钢铁、铝、汽车贸易达成共识。",
-          "url": "https://wallstreetcn.com/livenews/3091208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "印度论文抄袭现象有多严重",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E8%AE%BA%E6%96%87%E6%8A%84%E8%A2%AD%E7%8E%B0%E8%B1%A1%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "据日本放送协会NHK：日本地震后发布海啸警报。预计海啸将在岩手县和北海道袭来，波高可达3米。",
-          "url": "https://flash.jin10.com/detail/20260420155607934800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "波兰总理图斯克：波兰和法国希望继续支持乌克兰。",
-          "url": "https://flash.jin10.com/detail/20260420223438038800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "菲律宾股指日内涨1%。",
-          "url": "https://wallstreetcn.com/livenews/3090769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "日本气象厅称，日本地震初步震级为7.1级。",
-          "url": "https://wallstreetcn.com/livenews/3090923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "北约秘书长吕特将于4月21日至22日在安卡拉会见土耳其总统埃尔多安。",
-          "url": "https://wallstreetcn.com/livenews/3091095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "以色列财长称要“占领加沙”",
-          "url": "https://wallstreetcn.com/livenews/3091207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2349767",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "伊朗：霍尔木兹海峡是伊朗主权的一部分 不会放弃控制权",
-          "url": "https://flash.jin10.com/detail/20260420102232267800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "黎巴嫩总统府：黎巴嫩总统表示，与以色列的双边谈判将由黎巴嫩前驻美大使卡拉姆（（Simon Karam）负责。",
-          "url": "https://flash.jin10.com/detail/20260420181743417800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "墨西哥总统辛鲍姆：墨西哥希望在美墨加协定（USMCA）审查前就钢铁、铝和汽车与美国达成协议。",
-          "url": "https://flash.jin10.com/detail/20260420223428955800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "伊朗总统：美方在谈判及停火阶段持续背信弃义",
-          "url": "https://wallstreetcn.com/livenews/3090683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "伊朗外交部回应阿拉格齐帖文争议",
-          "url": "https://wallstreetcn.com/livenews/3091028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "中国军工出海实力有多强",
-          "url": "https://www.toutiao.com/trending/7629478408895971391/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "日本强震上调至7.7级，震中附近有多座核电站，媒体呼吁民众尽快逃生：请回想2011年大地震！",
-          "url": "https://wallstreetcn.com/articles/3770418",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "全美国平均汽油价格目前低于4美元，周一可能会看到均价上涨5-10美分/加仑，甚至接近近期高点4.165美元/加仑。",
-          "url": "https://flash.jin10.com/detail/20260420055706072800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "据日本放送协会NHK：日本青森县发生了烈度为“5强”（日本气象厅震度等级1-7级）的地震。",
-          "url": "https://flash.jin10.com/detail/20260420155559536800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "俄称更新打击目标清单时将考虑法国在欧洲核武部署计划",
-          "url": "https://wallstreetcn.com/livenews/3090766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "7.5级强震发生后 日本对超15万人发布避难指示",
-          "url": "https://wallstreetcn.com/livenews/3091027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "美关税退款系统上线",
-          "url": "https://wallstreetcn.com/livenews/3091205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "伊朗确认将参加2026年世界杯",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A1%AE%E8%AE%A4%E5%B0%86%E5%8F%82%E5%8A%A02026%E5%B9%B4%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "外籍残障人士用中国外骨骼站起",
-          "url": "https://www.toutiao.com/trending/7629894874027982857/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "中央层面树立和践行正确政绩观学习教育工作专班、中央纪委办公厅公开通报中国航空器材集团有限公司任宇、赵保辉等政绩观扭曲错位、欺瞒组织、侵害群众利益等问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33011503",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "确认！伊朗男足正备战世界杯",
-          "url": "https://sports.ifeng.com/c/8sTGH8fIj0S",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "伊朗最高联合军事指挥部：在美国袭击伊朗船只后，伊朗军队也用无人机攻击了一些美国军舰。",
-          "url": "https://flash.jin10.com/detail/20260420055251597800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "伊朗军队在霍尔木兹海峡向悬挂印度国旗船只开火，外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3090919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "惠誉将菲律宾展望调整为负面，维持“BBB”评级。",
-          "url": "https://wallstreetcn.com/livenews/3091024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "美军：封锁霍尔木兹海峡已经造成27艘船只调头、或重返伊朗港口。",
-          "url": "https://wallstreetcn.com/livenews/3091204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
           "title": "满仓都是导弹 伊朗军方自曝库存",
@@ -3746,86 +465,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "美军向伊朗商船开火 伊军：将作出回应和报复",
-          "url": "https://flash.jin10.com/detail/20260420054815463800",
-          "source": "金十数据",
+          "title": "美军：已指令27艘船只掉头或返回伊朗港口",
+          "url": "https://news.ifeng.com/c/8sUEtyjK76q",
+          "source": "凤凰网",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "伊朗第一副总统阿雷夫：霍尔木兹海峡的安全并非免费。限制伊朗的石油出口时，不要期待他国获得免费的安全。选择很明确：要么实现对所有人而言都自由的石油市场，要么所有人承担重大成本的风险。全球燃料价格的稳定取决于有保证且永久地消除对伊朗及其盟友的经济和军事压力。",
-          "url": "https://flash.jin10.com/detail/20260420065034255800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "市场消息：美国参议员已就俄罗斯虚假信息问题向Meta Platforms(META.O)和Alphabet(GOOG.O)发出警告。",
-          "url": "https://flash.jin10.com/detail/20260420223234060800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "伊朗军方：美军向伊朗货船开火，伊方发射无人机还击",
-          "url": "https://wallstreetcn.com/livenews/3090680",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "日本内阁官房长官木原稔：希望美伊恢复谈判，达成最终协议，重要的是恢复霍尔木兹海峡的自由、安全通行。",
-          "url": "https://wallstreetcn.com/livenews/3090764",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "美国驻伊拉克使馆敦促美公民尽快撤离",
-          "url": "https://wallstreetcn.com/livenews/3091091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "日本军舰过航台湾海峡参加军演，中方回应",
-          "url": "https://www.cls.cn/detail/2349323",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
           "title": "法国检方就X平台涉嫌多项不当行为传唤马斯克",
@@ -3834,75 +487,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美军称开火拦截一艘伊朗货船 使其失去推进动力",
-          "url": "https://flash.jin10.com/detail/20260420054624271800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "美媒：万斯料周二前往巴基斯坦，美伊计划周三会谈",
-          "url": "https://flash.jin10.com/detail/20260420223017531800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "日本2月第三产业活动指数环比 -0.4%，预期 -0.5%，前值 1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3090814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "伊朗外交部：袭击伊朗商船加剧伊朗对美国意图的怀疑",
-          "url": "https://wallstreetcn.com/livenews/3090917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "日本下调海啸警报级别。（NHK）",
-          "url": "https://wallstreetcn.com/livenews/3091088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "伊朗拒绝参加与美国的第二轮谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8B%92%E7%BB%9D%E5%8F%82%E5%8A%A0%E4%B8%8E%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%AC%AC%E4%BA%8C%E8%BD%AE%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
           "title": "中国驻阿根廷使馆：强烈不满 坚决反对",
@@ -3911,75 +498,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐和巴基斯坦外长确认，德黑兰和美国将继续对话，旨在维护该地区的和平与安全。",
-          "url": "https://flash.jin10.com/detail/20260420053618730800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "海上开火！美军炸洞扣押伊朗货轮，德黑兰拒绝谈判誓言报复",
-          "url": "https://flash.jin10.com/detail/20260420064706548800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：美国的提议一直是不严肃的，其要求不切实际。",
-          "url": "https://flash.jin10.com/detail/20260420155447977800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "美国中央司令部：自对进出伊朗港口及沿海区域的船只实施封锁以来，美国部队已指示27艘船舶掉头或返回伊朗港口。",
-          "url": "https://flash.jin10.com/detail/20260420223011368800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "伊朗驻俄大使：伊议会正在审议霍尔木兹海峡通行费问题",
-          "url": "https://wallstreetcn.com/livenews/3090916",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "美国代表团将在数小时内抵达巴基斯坦",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%B0%86%E5%9C%A8%E6%95%B0%E5%B0%8F%E6%97%B6%E5%86%85%E6%8A%B5%E8%BE%BE%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
           "title": "美舰向伊朗货船开火画面曝光",
@@ -3988,1098 +509,537 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "伊朗：若美以再犯 将全力回击",
-          "url": "https://wallstreetcn.com/livenews/3090915",
-          "source": "华尔街见闻-快讯",
+          "title": "3.6万人聚集日本国会周围，强烈抗议高市修宪企图",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33006696",
+          "source": "澎湃新闻",
           "ranks": [
-            14
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "巴基斯坦外长与伊朗外长通话。",
-          "url": "https://wallstreetcn.com/livenews/3091200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
           "title": "美国男子枪杀8儿童 其中7个是亲骨肉",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E6%9E%AA%E6%9D%808%E5%84%BF%E7%AB%A5+%E5%85%B6%E4%B8%AD7%E4%B8%AA%E6%98%AF%E4%BA%B2%E9%AA%A8%E8%82%89",
           "source": "百度热搜",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "声明显示：以色列军方警告黎巴嫩南部居民在进一步通知之前不要向指定村庄线以南移动。以色列军方呼吁居民在进一步通知之前不要返回南黎巴嫩的多个边境村庄。",
-          "url": "https://flash.jin10.com/detail/20260420130544619800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：德黑兰已明确表明其要求，我们并不会改变这些要求。",
-          "url": "https://flash.jin10.com/detail/20260420155437643800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "黎巴嫩高级政治人物阿里·哈桑·哈利勒：以色列军队在其占领的黎南39个村庄内造成了不同程度的破坏。以色列对黎巴嫩村庄平民住宅的摧毁构成明显的战争罪。",
-          "url": "https://flash.jin10.com/detail/20260420192403152800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "伊朗：武装部队将对任何新的冒进行为作出回应。 不同迹象显示美方对此并未认真看待。",
-          "url": "https://wallstreetcn.com/livenews/3090914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "G Summer号油轮通过伊朗划定的航线穿越霍尔木兹海峡，继续向美国封锁线驶去。",
-          "url": "https://flash.jin10.com/detail/20260420043651165800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "菲律宾央行：三月份国际收支赤字为26亿美元。",
-          "url": "https://flash.jin10.com/detail/20260420130254204800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "摩根士丹利：伊朗局势风险再度加剧 建议减持亚洲和新兴市场股票敞口",
-          "url": "https://wallstreetcn.com/livenews/3090751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "中国台湾“金管会”正在考虑允许上市公司用美元发放股息。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3090810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "以色列安全内阁开会讨论美伊谈判和以黎停火等问题",
-          "url": "https://wallstreetcn.com/livenews/3091082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "报道：万斯周二将启程前往巴基斯坦，美伊拟于周三会谈",
-          "url": "https://wallstreetcn.com/livenews/3091198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "阿联酋请求美国提供战时金融援助",
-          "url": "https://flash.jin10.com/detail/20260420042944459800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "美国地质勘探局：距日本宫古市115公里处发生5.1级地震。",
-          "url": "https://flash.jin10.com/detail/20260420181011612800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "美关税退款系统上线",
-          "url": "https://flash.jin10.com/detail/20260420222559870800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "高盛上调韩国首尔综指目标位至8,000点",
-          "url": "https://wallstreetcn.com/livenews/3090748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "美方扣押一艘中国驶来伊朗货船，外交部：对美方强制截停有关船只表示关切",
-          "url": "https://wallstreetcn.com/livenews/3090909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "美国总统特朗普：在伊朗的结果将是惊人的。 如果伊朗的新领导人（政权更替！）足够聪明，伊朗就能拥有一个伟大而繁荣的未来！",
-          "url": "https://wallstreetcn.com/livenews/3091197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "伊军称将很快报复美军",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E5%86%9B%E7%A7%B0%E5%B0%86%E5%BE%88%E5%BF%AB%E6%8A%A5%E5%A4%8D%E7%BE%8E%E5%86%9B%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "美国发生大规模枪击事件，致 8 名儿童死亡，具体怎么回事？反映出美国社会哪些问题？",
-          "url": "https://www.zhihu.com/question/2029493352559633500",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "伊朗否认有关在伊斯兰堡举行第二轮会谈",
-          "url": "https://flash.jin10.com/detail/20260420010200279800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "伊朗外交部回应阿拉格齐帖文争议",
-          "url": "https://flash.jin10.com/detail/20260420180928371800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "据日本放送协会NHK：日本地震发生后，海啸预警已从“警报”级别下调为“提示”。",
-          "url": "https://flash.jin10.com/detail/20260420192151106800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "特朗普否认被以色列拉下水 称伊朗的结果将令人惊叹",
-          "url": "https://flash.jin10.com/detail/20260420222322813800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "中国航空器材集团有限公司任宇、赵保辉等政绩观扭曲错位、欺瞒组织、侵害群众利益等问题被公开通报",
-          "url": "https://wallstreetcn.com/livenews/3091079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "伊朗已决定继续与美国谈判",
-          "url": "https://www.douyin.com/hot/2472753",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "伊朗国家媒体称，伊朗军队阻止美国对伊朗商船的攻击。",
-          "url": "https://flash.jin10.com/detail/20260420042400071800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "伊朗：将对美国侵略伊朗船只采取报复行动",
-          "url": "https://flash.jin10.com/detail/20260420155007810800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "据日本共同社：丰田汽车(TM.N)因战争因素将在11月前将海外产量削减38,000辆。丰田将削减在亚洲生产、面向中东市场出口的产量。",
-          "url": "https://flash.jin10.com/detail/20260420192039381800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "据CNN援引知情人士称，美国和伊朗计划于周三在巴基斯坦举行会谈。",
-          "url": "https://flash.jin10.com/detail/20260420222141723800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "A股商业航天概念早盘拉升，博云新材6连板，泰豪科技、中衡设计、泰嘉股份涨停，蜀道装备涨超10%，消息上，国家航天局相关负责人近日在2026年“中国航天日”新闻发布会上发布2026年重要任务，其中包括多型重复使用火箭将开展飞行验证等。",
-          "url": "https://wallstreetcn.com/livenews/3090745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "特朗普签署行政令放宽准入限制，美股致幻剂板块全线飙升",
-          "url": "https://wallstreetcn.com/livenews/3091195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "男子美国摆摊进货1元卖5美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%BE%8E%E5%9B%BD%E6%91%86%E6%91%8A%E8%BF%9B%E8%B4%A71%E5%85%83%E5%8D%965%E7%BE%8E%E5%85%83%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "美国男子枪杀8名儿童",
-          "url": "https://www.douyin.com/hot/2472116",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "各省的「省超」对中国足球发展有帮助吗？",
-          "url": "https://www.zhihu.com/question/2028216479368102988",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：美国封锁伊朗海上航线乃至袭击伊朗商船，这些行为显然符合联合国定义的“侵略行为”，加剧了伊朗人民对美国意图的怀疑。",
-          "url": "https://flash.jin10.com/detail/20260420154926545800",
-          "source": "金十数据",
-          "ranks": [
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "4月不加息！内部信号首次确认：日本央行临阵“刹车”",
-          "url": "https://flash.jin10.com/detail/20260420180747718800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "泰国寻求三家美国半导体企业赴泰投资",
-          "url": "https://wallstreetcn.com/livenews/3090804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "岛内57％民众不信美国会出兵护台",
-          "url": "https://www.toutiao.com/trending/7630084038103597082/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：美国封锁伊朗港口和海岸线既违反了巴基斯坦斡旋达成的停火协议，也是非法行为。",
-          "url": "https://flash.jin10.com/detail/20260420040656802800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "伊朗外长警告美国不要威胁伊朗港口和船只",
-          "url": "https://flash.jin10.com/detail/20260420064049215800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "据伊朗媒体Mizan：伊朗今日处决了两名被指控参与“与以色列有关的间谍网络”的人员。",
-          "url": "https://flash.jin10.com/detail/20260420124444911800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：伊朗未收到任何关于解除对伊制裁的严肃提议。",
-          "url": "https://flash.jin10.com/detail/20260420154832577800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "印度央行：银行被允许取消现有合约。",
-          "url": "https://flash.jin10.com/detail/20260420180735890800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "英媒：法国和德国呼吁为乌克兰提供“象征性”的欧盟成员资格",
-          "url": "https://flash.jin10.com/detail/20260420191835972800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "市场消息：巴基斯坦方告知伊朗，尽快继续谈判至关重要。",
-          "url": "https://flash.jin10.com/detail/20260420222046563800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "中国10年期国债期货价格升至2025年7月以来的最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3090741",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "外交部：防止军国主义阴魂复活是日本应尽的义务。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3090904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "日本修正地震震级为7.7级",
-          "url": "https://wallstreetcn.com/livenews/3091074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "伊军：美军向伊朗货船开火 伊方发射无人机还击",
-          "url": "https://flash.jin10.com/detail/20260420063922221800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "印度央行：交易商不得开展任何印度卢比衍生品合约交易。",
-          "url": "https://flash.jin10.com/detail/20260420180714238800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗的结果将“非常惊人”。",
-          "url": "https://flash.jin10.com/detail/20260420221812641800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "伊朗资深消息人士透露：在核计划问题上的分歧仍未得到解决，双方之间的差距并未缩小。 美国对霍尔木兹海峡的封锁持续下去会破坏伊朗与美国之间的和平谈判。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3090903",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "李在明首次访印 涉霍尔木兹海峡 呼吁韩印联手",
-          "url": "https://wallstreetcn.com/livenews/3090998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "7.5级强震发生后 日本对超15万人发布避难指示",
-          "url": "https://flash.jin10.com/detail/20260420180621017800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "美国总统特朗普：以色列并没有说服我与伊朗开战。",
-          "url": "https://flash.jin10.com/detail/20260420221727498800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "WTI原油期货目前涨4.59%，报87.70美元/桶。 布伦特原油5分钟内上涨0.5美元/桶，报94.22美元/桶。 据PBS报道，美国总统特朗普声称，如果停火到期失效，将会有大量炸弹开始爆炸。 被问及伊朗是否在（与美方）对话，声称自己并不知道。 伊朗被认为在磋商。 如果伊朗不参加巴基斯坦会谈，那“也没关系”。",
-          "url": "https://wallstreetcn.com/livenews/3091191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "美国财长贝森特：与卡塔尔官员讨论了美国与卡塔尔之间的持续合作。我强调，美国希望遏制伊朗未来的攻击，并确保能源和更广泛的市场不再受到影响。我还欢迎卡塔尔在美国的持续投资，特别是在加强能源安全方面。",
-          "url": "https://flash.jin10.com/detail/20260420062848926800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "伊朗：若美以再犯 将全力回击",
-          "url": "https://flash.jin10.com/detail/20260420154651222800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "法国驻迪拜总领事馆重新开放",
-          "url": "https://flash.jin10.com/detail/20260420180554718800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "市场消息：四名消息人士称，美国政府已要求国防承包商V2X将其员工从科威特和伊拉克撤离，并警告该公司，这些人员可能成为伊朗支持的民兵组织的目标。",
-          "url": "https://flash.jin10.com/detail/20260420191724920800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "据CNN：知情人士表示，美国副总统万斯预计将于当地时间周二离开华盛顿，前往巴基斯坦参加与伊朗的最新一轮谈判。",
-          "url": "https://flash.jin10.com/detail/20260420221316367800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "伊朗外交部：目前暂无与美国进行第二轮谈判的计划",
-          "url": "https://wallstreetcn.com/livenews/3090900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（4月17日）担保隔夜融资利率（SOFR）报3.65%，之前一天报3.67%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3091190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "中国民航运力充足 多航司五一假期航班量超去年",
-          "url": "https://flash.jin10.com/detail/20260420154642222800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "特朗普：停火协议若到期，炸弹就会爆炸",
-          "url": "https://flash.jin10.com/detail/20260420221207574800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "伊朗正在审议通过巴基斯坦转交的美国提案。（ISNA）",
-          "url": "https://wallstreetcn.com/livenews/3090992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "巴基斯坦内政部长会见伊朗大使 讨论美伊谈判筹备工作",
-          "url": "https://wallstreetcn.com/livenews/3091067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "伊朗官员：最高领袖完全健康",
-          "url": "https://wallstreetcn.com/livenews/3091188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "伊朗议长嘲笑“情绪交易”，油价有锚点而美债靠情绪",
-          "url": "https://flash.jin10.com/detail/20260420062251753800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "据英国金融时报：德国正推动为乌克兰设立“关联成员资格”地位，在该安排下，乌克兰可出席部长级及领导人会议，但不享有投票权，且欧盟共同预算“不会自动适用”。法国则将这种过渡性成员资格称为“融入国家地位”，在该框架下，对共同农业政策以及诸如凝聚政策等欧洲资金的获取应推迟至正式入盟之后的阶段。",
-          "url": "https://flash.jin10.com/detail/20260420191414070800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "据CNN：白宫方面表示，预计美国代表团很快会出发，但具体时间尚不清楚。此前特朗普表示代表团“现在正前往”巴基斯坦。",
-          "url": "https://flash.jin10.com/detail/20260420221123548800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "伊朗和俄罗斯外长通电话。（塔斯尼姆通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3091187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "伊朗确认将参加2026年美加墨世界杯",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A1%AE%E8%AE%A4%E5%B0%86%E5%8F%82%E5%8A%A02026%E5%B9%B4%E7%BE%8E%E5%8A%A0%E5%A2%A8%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时38分"
-        },
-        {
-          "title": "日本发生地震 留学生：感觉像喝醉一样",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87+%E7%95%99%E5%AD%A6%E7%94%9F%EF%BC%9A%E6%84%9F%E8%A7%89%E5%83%8F%E5%96%9D%E9%86%89%E4%B8%80%E6%A0%B7",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "通胀“高烧”难退！伊朗冲突引发油价狂飙，美国中期选举迎致命考验？",
-          "url": "https://flash.jin10.com/detail/20260420123711473800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：美国正在玩弄一种“指责伊朗”的政治游戏。美国并没有发挥积极作用，而是深陷于这种游戏之中。我们不能指望美国人说实话，他们总是在指责我们。看来，美国根本就没有诚意。",
-          "url": "https://flash.jin10.com/detail/20260420154614490800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "伊朗外交部发言人：尚未就下一轮与美国的谈判做出决定。",
-          "url": "https://wallstreetcn.com/livenews/3090895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "俄称乌军袭击黑海港口导致漏油",
-          "url": "https://wallstreetcn.com/livenews/3091061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "以色列民众要求内塔尼亚胡政府下台",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%B0%91%E4%BC%97%E8%A6%81%E6%B1%82%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E6%94%BF%E5%BA%9C%E4%B8%8B%E5%8F%B0%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时36分"
-        },
-        {
-          "title": "小S后悔发起大S最后日本旅行",
-          "url": "https://www.toutiao.com/trending/7630111913913974822/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "日本央行调查：日本家庭预计五年后的平均通胀率将为10.3%，中位数为5.0%。",
-          "url": "https://flash.jin10.com/detail/20260420123555305800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
-        },
-        {
-          "title": "伊朗外交部发言人巴加埃：伊朗相关机构正在调查印度船只是否遭到伊朗武装部队的攻击。",
-          "url": "https://flash.jin10.com/detail/20260420154601753800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "据英国金融时报：法国和德国计划为乌克兰提供“象征性”的欧盟成员资格，不包括欧盟农业补贴和投票权。",
-          "url": "https://flash.jin10.com/detail/20260420191240203800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：美国对75名与锡那罗亚贩毒集团有关联的人员实施签证限制。",
-          "url": "https://flash.jin10.com/detail/20260420220843770800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率持平于1.40%，今日有5亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3090731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "消息人士称，日本央行可能在4月暂缓加息。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3090989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "印度正与伊朗商洽船只安全通行问题",
-          "url": "https://wallstreetcn.com/livenews/3091058",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时04分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗目前没有决定派遣谈判代表团，只要存在海上封锁，（就不会谈判）。",
-          "url": "https://flash.jin10.com/detail/20260419220020046800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "欧洲央行管委Pereira：战前时经济具有韧性。 伊朗冲突对经济造成的损害尚未显现。 欧洲当前处于欧洲央行的基准情景与不利情景之间。",
-          "url": "https://wallstreetcn.com/livenews/3091184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "为什么美国不敢让比亚迪建工厂",
-          "url": "https://www.toutiao.com/trending/7630560608617762346/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
           "title": "伊朗官员：最高领袖完全健康",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%98%E5%91%98%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%AE%8C%E5%85%A8%E5%81%A5%E5%BA%B7",
           "source": "百度热搜",
           "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "日本央行调查：82.6%的日本家庭预计五年后价格将上涨，而此前调查的比例为83.0%。",
-          "url": "https://flash.jin10.com/detail/20260420123123748800",
-          "source": "金十数据",
-          "ranks": [
-            30
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时42分"
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
         },
         {
-          "title": "伊朗外交部发言人谴责美国违反停火协议 称暂无计划与美国进行第二轮谈判",
-          "url": "https://flash.jin10.com/detail/20260420154452367800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时07分"
-        },
-        {
-          "title": "韩国首尔综指涨幅扩大至1.1%，报6257.36点，创2月27日来新高。",
-          "url": "https://wallstreetcn.com/livenews/3090728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时40分"
-        },
-        {
-          "title": "消息人士：巴基斯坦陆军参谋长同特朗普通话",
-          "url": "https://wallstreetcn.com/livenews/3090987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "特朗普认为战争结束后汽油价格会下降。（国会山报）",
-          "url": "https://wallstreetcn.com/livenews/3091183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时51分"
-        },
-        {
-          "title": "数万日本民众集会高喊不要战争",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%95%B0%E4%B8%87%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E9%9B%86%E4%BC%9A%E9%AB%98%E5%96%8A%E4%B8%8D%E8%A6%81%E6%88%98%E4%BA%89%23&t=31&band_rank=30&Refer=top",
+          "title": "马斯克被法国检方传唤",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%A2%AB%E6%B3%95%E5%9B%BD%E6%A3%80%E6%96%B9%E4%BC%A0%E5%94%A4%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            30
+            25
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "万斯率团将抵达巴基斯坦",
+          "url": "https://www.toutiao.com/trending/7630298147033681450/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "哈马斯官员称该组织愿意交出部分武器",
+          "url": "https://www.toutiao.com/trending/7630608344310792219/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时09分 ~ 00时10分]"
+        },
+        {
+          "title": "伊朗总统：伊朗对美国政府行为的深度历史性不信任依然存在。 履行承诺是进行有意义对话的基础。 美国官员发出的建设性缺失且自相矛盾的信号正传递着一个令人心寒的信息。",
+          "url": "https://wallstreetcn.com/livenews/3091250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时40分"
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美联储主席提名人沃什将在听证会开场白时向参议员们承诺，FOMC将在利率方面保持严格的央行独立性。 沃什将称，央行应当聆听不同的意见。 沃什将表示，在价格稳定性这个职责方面没有借口（不容推诿）。 美国政府的论调不会威胁到美联储的政策。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3091249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "日本东北海域7.7级地震",
+          "url": "https://www.douyin.com/hot/2472798",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "日本突发7.4级地震，影响多家半导体公司",
+          "url": "https://wallstreetcn.com/livenews/3091248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "详解日本气象厅罕见预警",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E6%97%A5%E6%9C%AC%E6%B0%94%E8%B1%A1%E5%8E%85%E7%BD%95%E8%A7%81%E9%A2%84%E8%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "俄罗斯外交部：俄罗斯外长拉夫罗夫与伊朗外长通电话。",
+          "url": "https://flash.jin10.com/detail/20260420234504495800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "海啸预警,日本7.4级地震",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353495&amp;topic_name=%E6%B5%B7%E5%95%B8%E9%A2%84%E8%AD%A6%2C%E6%97%A5%E6%9C%AC7.4%E7%BA%A7%E5%9C%B0%E9%9C%87",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美国财政部拍卖三个月期国债，得标利率3.610%，投标倍数2.94。 拍卖六个月期国债，得标利率3.590%，投标倍数2.89。",
+          "url": "https://wallstreetcn.com/livenews/3091245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "德国DAX 30指数初步收跌1.23%，报24399.08点。 法国股指初步收跌1.23%，意大利股指初步收跌1.46%、银行指数跌3.39%，英国股指初步收跌0.74%。",
+          "url": "https://wallstreetcn.com/livenews/3091244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "德国DAX30指数4月20日（周一）收盘下跌285.94点，跌幅1.16%，报24413.00点；<br/>英国富时100指数4月20日（周一）收盘下跌64.88点，跌幅0.61%，报10602.75点；<br/>法国CAC40指数4月20日（周一）收盘下跌94.08点，跌幅1.12%，报8331.05点；<br/>欧洲斯托克50指数4月20日（周一）收盘下跌79.21点，跌幅1.31%，报5978.50点；<br/>西班牙IBEX35指数4月20日（周一）收盘下跌240.72点，跌幅1.30%，报18243.78点；<br/>意大利富时MIB指数4月20日（周一）收盘下跌666.93点，跌幅1.36%，报48202.50点。",
+          "url": "https://flash.jin10.com/detail/20260420233824483800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "日本可能出现3米浪高海啸",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8F%AF%E8%83%BD%E5%87%BA%E7%8E%B03%E7%B1%B3%E6%B5%AA%E9%AB%98%E6%B5%B7%E5%95%B8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：履行承诺是有意义对话的基础。",
+          "url": "https://flash.jin10.com/detail/20260420233806088800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "加拿大央行：调查结果表明，通胀预期遭到伊朗战争的冲击。",
+          "url": "https://wallstreetcn.com/livenews/3091242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "日本地震引发海啸不会影响我国",
+          "url": "https://www.douyin.com/hot/2472917",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美国国务院发言人：美国将于周四在华盛顿国务院主办以色列与黎巴嫩大使级会谈第二轮会议。",
+          "url": "https://flash.jin10.com/detail/20260420233719445800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "报道：伊朗代表计划周二前往巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3091241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "媒体评日本军舰穿越台湾海峡",
+          "url": "https://www.douyin.com/hot/2473187",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美军向伊朗商船开火",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%90%91%E4%BC%8A%E6%9C%97%E5%95%86%E8%88%B9%E5%BC%80%E7%81%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：伊朗对美国政府行为的深刻历史性不信任依然存在，而美国官员发出的消极且自相矛盾的信号传递出一个令人不快的信息：他们企图迫使伊朗屈服。伊朗人不会向武力低头。",
+          "url": "https://flash.jin10.com/detail/20260420233550548800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "报道：美国副总统万斯尚未启程前往巴基斯坦参加伊朗核问题谈判",
+          "url": "https://wallstreetcn.com/livenews/3091240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "加拿大央行第一季度商业展望及消费者预期调查：企业预计在美墨加协定（USMCA）续签谈判后，美国关税将上升。",
+          "url": "https://flash.jin10.com/detail/20260420233421301800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "以色列与黎巴嫩计划在美国国务院举行外交部长级别的对话。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3091239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美国证交会和CFTC提议放宽对对冲基金的申报要求",
+          "url": "https://flash.jin10.com/detail/20260420233351429800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "特朗普：如未能达成协议“几无可能”再延长停火",
+          "url": "https://wallstreetcn.com/livenews/3091238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "加拿大央行第一季度商业展望及消费者预期调查：约85%的家庭预计伊朗战争将对经济造成损害，并推高物价。",
+          "url": "https://flash.jin10.com/detail/20260420233342766800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "赵心童丁俊晖上演中国德比",
+          "url": "https://www.douyin.com/hot/2473091",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "伊朗已决定继续与美国谈判",
+          "url": "https://www.douyin.com/hot/2472753",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美国男子枪杀8名儿童",
+          "url": "https://www.douyin.com/hot/2472116",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "加拿大央行第一季度商业展望及消费者预期调查：调查涵盖约100家企业。调查工作大部分在伊朗战争爆发前完成，结果显示市场信心较第四季度小幅改善。",
+          "url": "https://flash.jin10.com/detail/20260420233211692800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "纳指跌1%，标普跌0.6%，报道称，伊朗不参加谈判的决定尚未改变。特朗普表示，非常不会延长与伊朗的停火协议。",
+          "url": "https://wallstreetcn.com/livenews/3091232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美国至4月20日6个月国债竞拍-投标倍数 2.89，前值2.84。",
+          "url": "https://flash.jin10.com/detail/20260420233205706800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "伊朗媒体：伊朗不参加谈判的决定尚未改变",
+          "url": "https://wallstreetcn.com/livenews/3091230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "韩国电影哭声重构式解读",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E7%94%B5%E5%BD%B1%E5%93%AD%E5%A3%B0%E9%87%8D%E6%9E%84%E5%BC%8F%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美国至4月20日6个月国债竞拍-得标利率配置百分比 91.11%，前值18.61%。",
+          "url": "https://flash.jin10.com/detail/20260420233205655800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美国至4月20日6个月国债竞拍-得标利率 3.59%，前值3.61%。",
+          "url": "https://flash.jin10.com/detail/20260420233205651800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "芯片不卖中国,黄仁勋急了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353434&amp;topic_name=%E8%8A%AF%E7%89%87%E4%B8%8D%E5%8D%96%E4%B8%AD%E5%9B%BD%2C%E9%BB%84%E4%BB%81%E5%8B%8B%E6%80%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "印度论文抄袭现象有多严重",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E8%AE%BA%E6%96%87%E6%8A%84%E8%A2%AD%E7%8E%B0%E8%B1%A1%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美国至4月20日3个月国债竞拍-得标利率 3.61%，前值3.62%。",
+          "url": "https://flash.jin10.com/detail/20260420233204105800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美国至4月20日3个月国债竞拍-投标倍数 2.94，前值2.77。",
+          "url": "https://flash.jin10.com/detail/20260420233204104800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "标普500指数跌幅扩大至0.5%，此前美国总统特朗普声称“极不可能”延长与伊朗的停火协议。",
+          "url": "https://wallstreetcn.com/livenews/3091226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "年薪3万,日本动画师为爱发电",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353435&amp;topic_name=%E5%B9%B4%E8%96%AA3%E4%B8%87%2C%E6%97%A5%E6%9C%AC%E5%8A%A8%E7%94%BB%E5%B8%88%E4%B8%BA%E7%88%B1%E5%8F%91%E7%94%B5",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美国至4月20日3个月国债竞拍-得标利率配置百分比 36.38%，前值59.43%。",
+          "url": "https://flash.jin10.com/detail/20260420233204103800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时10分"
         }
       ]
     }
