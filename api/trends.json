@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T17:21:26.712314+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2026-04-28T19:45:37.135092+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 248,
+      "match_count": 271,
       "titles": [
         {
           "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
@@ -69,6 +69,23 @@
           "time_info": "[01时22分 ~ 07时54分]"
         },
         {
+          "title": "以总统意图促成内塔尼亚胡认罪协议",
+          "url": "https://www.toutiao.com/trending/7632953349305814534/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            8,
+            7,
+            4,
+            14,
+            28,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时22分 ~ 19时45分]"
+        },
+        {
           "title": "千亿民营炼化巨头子公司突遭美国制裁，公司澄清：无端指控、坚决反对",
           "url": "https://m.thepaper.cn/newsDetail_forward_33062293",
           "source": "澎湃新闻",
@@ -95,22 +112,6 @@
           "time_info": "[01时22分 ~ 06时52分]"
         },
         {
-          "title": "以总统意图促成内塔尼亚胡认罪协议",
-          "url": "https://www.toutiao.com/trending/7632953349305814534/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            8,
-            7,
-            4,
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时22分 ~ 14时07分]"
-        },
-        {
           "title": "重访“新闻名篇”｜“中国的西北角”早已变成塞上粮仓",
           "url": "https://m.thepaper.cn/newsDetail_forward_33054750",
           "source": "澎湃新闻",
@@ -122,6 +123,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时22分 ~ 06时52分]"
+        },
+        {
+          "title": "沙特佬插手选人,韩国拒出战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353805&amp;topic_name=%E6%B2%99%E7%89%B9%E4%BD%AC%E6%8F%92%E6%89%8B%E9%80%89%E4%BA%BA%2C%E9%9F%A9%E5%9B%BD%E6%8B%92%E5%87%BA%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            5,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时22分 ~ 19时45分]"
         },
         {
           "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
@@ -166,18 +181,28 @@
           "time_info": "[01时22分 ~ 07时54分]"
         },
         {
-          "title": "沙特佬插手选人,韩国拒出战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353805&amp;topic_name=%E6%B2%99%E7%89%B9%E4%BD%AC%E6%8F%92%E6%89%8B%E9%80%89%E4%BA%BA%2C%E9%9F%A9%E5%9B%BD%E6%8B%92%E5%87%BA%E6%88%98",
-          "source": "贴吧",
+          "title": "伊朗代表：美国“如同海盗和恐怖分子”",
+          "url": "https://news.ifeng.com/c/8sgbI0j3nvZ",
+          "source": "凤凰网",
           "ranks": [
-            2,
             5,
-            12,
-            20
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时22分 ~ 17时21分]"
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 19时45分]"
+        },
+        {
+          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
+          "url": "https://wallstreetcn.com/articles/3771035",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 19时45分]"
         },
         {
           "title": "伊朗外长：美方请求谈判 伊方正考虑",
@@ -190,6 +215,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时22分 ~ 10时52分]"
+        },
+        {
+          "title": "泰国外长：美国一点忙没帮，我们找中俄",
+          "url": "https://news.ifeng.com/c/8sgcV8GkPtv",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时07分 ~ 19时45分]"
         },
         {
           "title": "中国海军强势“围观”美日菲军演",
@@ -205,28 +241,15 @@
           "time_info": "[01时22分 ~ 07时54分]"
         },
         {
-          "title": "伊朗代表：美国“如同海盗和恐怖分子”",
-          "url": "https://news.ifeng.com/c/8sgbI0j3nvZ",
+          "title": "美媒：中东美军基地受损程度远比美国公开承认的严重",
+          "url": "https://v.ifeng.com/c/8sfXZIUBNe9",
           "source": "凤凰网",
           "ranks": [
-            5,
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时52分 ~ 17时21分]"
-        },
-        {
-          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
-          "url": "https://wallstreetcn.com/articles/3771035",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时52分 ~ 17时21分]"
+          "time_info": "[14时07分 ~ 19时45分]"
         },
         {
           "title": "中国海军强势“围观”美日菲军演",
@@ -242,17 +265,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时22分 ~ 07时54分]"
-        },
-        {
-          "title": "泰国外长：美国一点忙没帮，我们找中俄",
-          "url": "https://news.ifeng.com/c/8sgcV8GkPtv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时07分 ~ 17时21分]"
         },
         {
           "title": "中国海军强势“围观”美日菲军演",
@@ -344,6 +356,18 @@
           "time_info": "[10时52分 ~ 14时07分]"
         },
         {
+          "title": "普京见了一位不戴领带的客人",
+          "url": "https://news.ifeng.com/c/8sgUf3Jl4hb",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 19时45分]"
+        },
+        {
           "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
           "url": "https://m.thepaper.cn/newsDetail_forward_33060063",
           "source": "澎湃新闻",
@@ -390,15 +414,15 @@
           "time_info": "[10时52分 ~ 14时07分]"
         },
         {
-          "title": "美媒：中东美军基地受损程度远比美国公开承认的严重",
-          "url": "https://v.ifeng.com/c/8sfXZIUBNe9",
-          "source": "凤凰网",
+          "title": "外资收购Manus项目被禁止，外交部：中国政府依法依规审查并作出决定",
+          "url": "https://www.cls.cn/detail/2358019",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时07分 ~ 17时21分]"
+          "time_info": "[17时21分 ~ 19时45分]"
         },
         {
           "title": "伊朗外长抵达圣彼得堡将同普京举行会谈，会谈些啥？美伊局势转向会迎来重要契机吗？",
@@ -509,6 +533,28 @@
           "time_info": "[03时21分 ~ 07时54分]"
         },
         {
+          "title": "美媒肯定中国军舰实力说明什么",
+          "url": "https://www.toutiao.com/trending/7633741304270163462/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "我国将对所有非洲建交国实施零关税",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BD%E5%B0%86%E5%AF%B9%E6%89%80%E6%9C%89%E9%9D%9E%E6%B4%B2%E5%BB%BA%E4%BA%A4%E5%9B%BD%E5%AE%9E%E6%96%BD%E9%9B%B6%E5%85%B3%E7%A8%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "特朗普支持为移民和海关执法局改名 ICE变“NICE”",
           "url": "https://flash.jin10.com/detail/20260428005223164800",
           "source": "金十数据",
@@ -548,7 +594,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -575,15 +621,26 @@
           "time_info": "[01时22分 ~ 05时03分]"
         },
         {
-          "title": "尹锡悦夫人金建希获刑4年",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%A4%AB%E4%BA%BA%E9%87%91%E5%BB%BA%E5%B8%8C%E8%8E%B7%E5%88%914%E5%B9%B4",
+          "title": "中国为高质量发展加注绿色动力",
+          "url": "https://www.toutiao.com/trending/7633622083810213931/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "详解中国军校第一舰郑和舰",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E4%B8%AD%E5%9B%BD%E5%86%9B%E6%A0%A1%E7%AC%AC%E4%B8%80%E8%88%B0%E9%83%91%E5%92%8C%E8%88%B0",
           "source": "bilibili 热搜",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时21分"
+          "time_info": "19时45分"
         },
         {
           "title": "伊朗高级军事顾问表示，美国无法封锁石油出口。",
@@ -614,7 +671,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -647,21 +704,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
-        },
-        {
-          "title": "普京见了一位不戴领带的客人",
-          "url": "https://news.ifeng.com/c/8sgUf3Jl4hb",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时52分 ~ 17时21分]"
         },
         {
           "title": "桥水基金创始人达利欧当地时间4月27日称，通胀压力持续叠加经济增长放缓，政策制定者必须保持谨慎。达利欧周一表示，“我们无疑正处于滞胀时期”，警告称美国经济已陷入滞胀环境，并指出，倘若即将接任美联储主席的凯文·沃什选择降息，将酿成决策失误。",
@@ -692,7 +737,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -714,20 +759,54 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
         {
-          "title": "外资收购Manus项目被禁止，外交部：中国政府依法依规审查并作出决定",
-          "url": "https://www.cls.cn/detail/2358019",
-          "source": "财联社热门",
+          "title": "中国建筑：第一季度归母净利润138.81亿元，同比下降7.5%",
+          "url": "https://wallstreetcn.com/livenews/3095749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "断联42天的8岁伊朗男孩回绍兴上学",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%96%AD%E8%81%9442%E5%A4%A9%E7%9A%848%E5%B2%81%E4%BC%8A%E6%9C%97%E7%94%B7%E5%AD%A9%E5%9B%9E%E7%BB%8D%E5%85%B4%E4%B8%8A%E5%AD%A6%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032226305366647567",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 19时45分]"
+        },
+        {
+          "title": "中国小伙刷新速度攀岩世界纪录",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%B0%8F%E4%BC%99%E5%88%B7%E6%96%B0%E9%80%9F%E5%BA%A6%E6%94%80%E5%B2%A9%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95",
+          "source": "bilibili 热搜",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时21分"
+          "time_info": "19时45分"
         },
         {
           "title": "中国平安：第一季度净利润250.22亿元，同比下降7.4%",
@@ -736,7 +815,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -847,6 +926,18 @@
           "time_info": "[06时52分 ~ 07时54分]"
         },
         {
+          "title": "根基太脆!国产抹茶冲击日本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353842&amp;topic_name=%E6%A0%B9%E5%9F%BA%E5%A4%AA%E8%84%86%21%E5%9B%BD%E4%BA%A7%E6%8A%B9%E8%8C%B6%E5%86%B2%E5%87%BB%E6%97%A5%E6%9C%AC",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 19时45分]"
+        },
+        {
           "title": "CBO：美关税调整可能会在十年内使赤字增加1.1万亿美元",
           "url": "https://flash.jin10.com/detail/20260428043717053800",
           "source": "金十数据",
@@ -871,16 +962,16 @@
           "time_info": "[05时03分 ~ 06时52分]"
         },
         {
-          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032226305366647567",
-          "source": "知乎",
+          "title": "尹锡悦夫人金建希获刑4年",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%A4%AB%E4%BA%BA%E9%87%91%E5%BB%BA%E5%B8%8C%E8%8E%B7%E5%88%914%E5%B9%B4",
+          "source": "bilibili 热搜",
           "ranks": [
-            6,
-            11
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时54分 ~ 17时21分]"
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 19时45分]"
         },
         {
           "title": "默茨：美国就伊朗战事缺乏战略性退出方案",
@@ -943,6 +1034,54 @@
           "time_info": "[05时03分 ~ 06时52分]"
         },
         {
+          "title": "中国代表安理会严厉驳斥日方",
+          "url": "https://news.ifeng.com/c/8sgZa4FD9Pq",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 19时45分]"
+        },
+        {
+          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
+          "url": "https://www.toutiao.com/trending/7632898398869474879/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            17,
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 19时45分]"
+        },
+        {
+          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 19时45分]"
+        },
+        {
+          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时07分 ~ 19时45分]"
+        },
+        {
           "title": "日本央行明日开会：加息预期归零，但这才是危险的开始",
           "url": "https://wallstreetcn.com/articles/3770991",
           "source": "华尔街见闻",
@@ -968,40 +1107,28 @@
           "time_info": "[10时52分 ~ 17时21分]"
         },
         {
-          "title": "中国代表安理会严厉驳斥日方",
-          "url": "https://news.ifeng.com/c/8sgZa4FD9Pq",
+          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
+          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
           "source": "凤凰网",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时52分 ~ 17时21分]"
+          "time_info": "[14时07分 ~ 19时45分]"
         },
         {
-          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
-          "url": "https://www.toutiao.com/trending/7632898398869474879/",
+          "title": "伊朗“蚊子舰队”如何控制海峡",
+          "url": "https://www.toutiao.com/trending/7632881081640976430/",
           "source": "今日头条",
           "ranks": [
-            11,
-            17,
-            18
+            14,
+            24,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时52分 ~ 17时21分]"
-        },
-        {
-          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时52分 ~ 17时21分]"
+          "time_info": "[14时07分 ~ 19时45分]"
         },
         {
           "title": "伊朗战争丨美伊在核不扩散条约审议大会上交锋",
@@ -1015,15 +1142,16 @@
           "time_info": "[07时54分 ~ 10时52分]"
         },
         {
-          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "大摩：中国AI芯片供应商，谁将胜出？",
+          "url": "https://wallstreetcn.com/articles/3771031",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时07分 ~ 17时21分]"
+          "time_info": "[17时21分 ~ 19时45分]"
         },
         {
           "title": "德国总理：美国就伊朗战事缺乏战略性退出方案 | 环球市场",
@@ -1036,6 +1164,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时52分 ~ 14时07分]"
+        },
+        {
+          "title": "日本央行决议罕见上演十年来最大分歧：多达三位反对票官员支持加息！",
+          "url": "https://www.cls.cn/detail/2357809",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 19时45分]"
         },
         {
           "title": "英国国王查尔斯三世抵达美国白宫。",
@@ -1110,15 +1250,40 @@
           "time_info": "[07时54分 ~ 10时52分]"
         },
         {
-          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
-          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
-          "source": "凤凰网",
+          "title": "受益稀土涨价，中国稀土2025净利润大幅扭亏，2026Q1净利润大增90%",
+          "url": "https://wallstreetcn.com/articles/3771030",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时07分 ~ 17时21分]"
+          "time_info": "[17时21分 ~ 19时45分]"
+        },
+        {
+          "title": "伊朗称在间谍活动基地发现“星链”",
+          "url": "https://www.toutiao.com/trending/7633725221346328627/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 19时45分]"
+        },
+        {
+          "title": "释新闻｜两位以色列前总理宣布组建联盟，能否挑战内塔尼亚胡？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062443",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 19时45分]"
         },
         {
           "title": "为何万斯比特朗普更早撤离？华盛顿晚宴枪击事件安保问题受审视",
@@ -1154,18 +1319,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 06时52分]"
-        },
-        {
-          "title": "伊朗“蚊子舰队”如何控制海峡",
-          "url": "https://www.toutiao.com/trending/7632881081640976430/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时07分 ~ 17时21分]"
         },
         {
           "title": "美国共和党参议员格雷厄姆：这是一项完全无视特朗普总统所秉持的强硬立场的提议。",
@@ -1204,15 +1357,27 @@
           "time_info": "[05时03分 ~ 06时52分]"
         },
         {
-          "title": "日本央行决议罕见上演十年来最大分歧：多达三位反对票官员支持加息！",
-          "url": "https://www.cls.cn/detail/2357809",
-          "source": "财联社热门",
+          "title": "伊朗三阶段和平建议讨论之时，贝森特称伊朗石油工业即将崩溃，储油罐爆满、汽油短缺将出现，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2032385595960451834",
+          "source": "知乎",
           "ranks": [
-            6
+            17,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 19时45分]"
+        },
+        {
+          "title": "尹锡悦夫人金建希获刑4年",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%A4%AB%E4%BA%BA%E9%87%91%E5%BB%BA%E5%B8%8C%E8%8E%B7%E5%88%914%E5%B9%B4",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 19时45分]"
         },
         {
           "title": "伊朗战争丨特朗普及其国安团队开会讨论伊朗新提案",
@@ -1265,20 +1430,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
         {
-          "title": "根基太脆!国产抹茶冲击日本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353842&amp;topic_name=%E6%A0%B9%E5%9F%BA%E5%A4%AA%E8%84%86%21%E5%9B%BD%E4%BA%A7%E6%8A%B9%E8%8C%B6%E5%86%B2%E5%87%BB%E6%97%A5%E6%9C%AC",
-          "source": "贴吧",
+          "title": "我国自2026年5月1日起对所有非洲建交国实施零关税",
+          "url": "https://www.cls.cn/detail/2358389",
+          "source": "财联社热门",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时21分"
+          "time_info": "19时45分"
         },
         {
           "title": "日本3月求才求职比 1.18，预期1.18，前值1.19。",
@@ -1309,7 +1474,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -1323,17 +1488,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
-        },
-        {
-          "title": "大摩：中国AI芯片供应商，谁将胜出？",
-          "url": "https://wallstreetcn.com/articles/3771031",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         },
         {
           "title": "特朗普取消更多风能租赁项目以刺激油气投资",
@@ -1353,7 +1507,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -1430,7 +1584,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -1457,24 +1611,13 @@
           "time_info": "14时07分"
         },
         {
-          "title": "受益稀土涨价，中国稀土2025净利润大幅扭亏，2026Q1净利润大增90%",
-          "url": "https://wallstreetcn.com/articles/3771030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
           "title": "第一艘冲出霍尔木兹海峡的LNG船？阿联酋一船只已抵达印度附近",
           "url": "https://www.cls.cn/detail/2357643",
           "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -1507,7 +1650,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -1551,7 +1694,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -1611,17 +1754,6 @@
           "time_info": "10时52分"
         },
         {
-          "title": "释新闻｜两位以色列前总理宣布组建联盟，能否挑战内塔尼亚胡？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33062443",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
           "title": "德国总理：美国正被伊朗羞辱",
           "url": "https://www.cls.cn/detail/2357465",
           "source": "财联社热门",
@@ -1639,7 +1771,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -1743,6 +1875,17 @@
           "time_info": "14时07分"
         },
         {
+          "title": "老外在中国被华为笔记本震惊了",
+          "url": "https://www.toutiao.com/trending/7632701335104438278/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "白宫记协晚宴枪手事发前有“宣言”，自称对特朗普政府不满",
           "url": "https://m.thepaper.cn/newsDetail_forward_33060147",
           "source": "澎湃新闻",
@@ -1754,13 +1897,24 @@
           "time_info": "07时54分"
         },
         {
+          "title": "高市称为长期战争做好准备，外交部：日本是不是要重蹈历史覆辙？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33061755",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "伊朗储油能力即将达到极限 减产或永久性损害油田产能",
           "url": "https://www.cls.cn/detail/2357977",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -1809,6 +1963,17 @@
           "time_info": "06时52分"
         },
         {
+          "title": "伊朗警方发现“星链”设备等间谍装备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E6%96%B9%E5%8F%91%E7%8E%B0%E2%80%9C%E6%98%9F%E9%93%BE%E2%80%9D%E8%AE%BE%E5%A4%87%E7%AD%89%E9%97%B4%E8%B0%8D%E8%A3%85%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "特朗普呼吁美国广播公司解雇脱口秀主持人吉米·坎摩尔",
           "url": "https://flash.jin10.com/detail/20260428021753032800",
           "source": "金十数据",
@@ -1826,9 +1991,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "俄罗斯总统普京命令应急部长前往图阿普塞负责灭火工作。",
+          "url": "https://flash.jin10.com/detail/20260428191945532800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "谷歌公司（至少）数百名员工要求CEO Pichai拒绝涉足美国国防部机密的军事AI工作。 该公司员工们称，他们不希望接触Lethal AI。 （一名）研究员称，谷歌尚未讨论关于AI使用的红线。（彭博）",
@@ -1886,6 +2062,28 @@
           "time_info": "10时52分"
         },
         {
+          "title": "中国5月1日起对所有非洲建交国零关税",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD5%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AF%B9%E6%89%80%E6%9C%89%E9%9D%9E%E6%B4%B2%E5%BB%BA%E4%BA%A4%E5%9B%BD%E9%9B%B6%E5%85%B3%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33069746",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我们拥有行动自由，能够挫败迫在眉睫及新出现的威胁。我们正在安全区内以及利塔尼河以北地区展开打击行动。",
           "url": "https://flash.jin10.com/detail/20260428002246484800",
           "source": "金十数据",
@@ -1919,15 +2117,37 @@
           "time_info": "05时03分"
         },
         {
+          "title": "中国石化：第一季度净利润170.06亿元，同比增长28.2%",
+          "url": "https://wallstreetcn.com/livenews/3095728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "miumiu没给韩国女星出过丑图",
           "url": "https://s.weibo.com/weibo?q=%23miumiu%E6%B2%A1%E7%BB%99%E9%9F%A9%E5%9B%BD%E5%A5%B3%E6%98%9F%E5%87%BA%E8%BF%87%E4%B8%91%E5%9B%BE%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "唱衰中国的人 又失望了",
+          "url": "https://www.baidu.com/s?wd=%E5%94%B1%E8%A1%B0%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%BA%BA+%E5%8F%88%E5%A4%B1%E6%9C%9B%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "本轮巴以冲突已造成加沙地带72593人死亡",
@@ -1980,7 +2200,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -2002,7 +2222,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -2049,28 +2269,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时07分"
-        },
-        {
-          "title": "伊朗三阶段和平建议讨论之时，贝森特称伊朗石油工业即将崩溃，储油罐爆满、汽油短缺将出现，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2032385595960451834",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "尹锡悦夫人金建希获刑4年",
-          "url": "https://www.baidu.com/s?wd=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%A4%AB%E4%BA%BA%E9%87%91%E5%BB%BA%E5%B8%8C%E8%8E%B7%E5%88%914%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         },
         {
           "title": "美国检方将寻求羁押白宫记者晚宴枪击案嫌疑人。",
@@ -2178,9 +2376,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "以色列国防军： 我们将继续把海军打造成以色列国防军的战略力量。",
+          "url": "https://flash.jin10.com/detail/20260428191840129800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "伊朗议员：坚信伊朗谈判代表团将维护国家权益",
@@ -2222,7 +2431,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -2288,7 +2497,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -2332,7 +2541,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -2442,7 +2651,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -2456,6 +2665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "老外在中国被华为笔记本震惊了",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E5%A4%96%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%A2%AB%E5%8D%8E%E4%B8%BA%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%9C%87%E6%83%8A%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "德银、摩根大通看好伊朗战争背景下的能源挂钩货币",
@@ -2508,7 +2728,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -2533,6 +2753,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "泽连斯基的接班人是布达诺夫吗",
+          "url": "https://www.toutiao.com/trending/7633164499293339702/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "伊朗“蚊子舰队”如何控制海峡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E8%9A%8A%E5%AD%90%E8%88%B0%E9%98%9F%E2%80%9D%E5%A6%82%E4%BD%95%E6%8E%A7%E5%88%B6%E6%B5%B7%E5%B3%A1",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "日媒称美军AI计划深度参与对伊打击",
@@ -2579,6 +2821,17 @@
           "time_info": "05时03分"
         },
         {
+          "title": "中国广核：拟收购苍南核电等两家公司股权 交易总价约83.47亿元",
+          "url": "https://wallstreetcn.com/livenews/3095706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "国际乒联主席：中国推动乒乓球发展",
           "url": "https://www.toutiao.com/trending/7633195310000652331/",
           "source": "今日头条",
@@ -2588,17 +2841,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
-        },
-        {
-          "title": "伊朗称在间谍活动基地发现“星链”",
-          "url": "https://www.toutiao.com/trending/7633725221346328627/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时21分"
         },
         {
           "title": "法国外交部长表示，伊朗必须作出“重大让步”以结束危机。",
@@ -2629,7 +2871,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -2662,9 +2904,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "回归公益后 中国殡葬业走向何方",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%9E%E5%BD%92%E5%85%AC%E7%9B%8A%E5%90%8E+%E4%B8%AD%E5%9B%BD%E6%AE%A1%E8%91%AC%E4%B8%9A%E8%B5%B0%E5%90%91%E4%BD%95%E6%96%B9",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "日本就“安保三文件”修订召开首次专家会议",
@@ -2695,7 +2948,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -2720,6 +2973,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "中国游客带甘蔗入境德国引围观",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%B8%A6%E7%94%98%E8%94%97%E5%85%A5%E5%A2%83%E5%BE%B7%E5%9B%BD%E5%BC%95%E5%9B%B4%E8%A7%82%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "中国援外医生获颁巴基斯坦之星勋章",
@@ -2750,7 +3014,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
