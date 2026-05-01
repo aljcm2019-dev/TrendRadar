@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T17:02:05.391082+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-05-01T18:41:40.938074+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 255,
+      "match_count": 280,
       "titles": [
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
@@ -20,6 +20,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时21分 ~ 14时36分]"
+        },
+        {
+          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3771420",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时01分 ~ 18时41分]"
         },
         {
           "title": "王毅同美国国务卿鲁比奥通电话",
@@ -58,20 +72,6 @@
           "time_info": "[01时21分 ~ 07时53分]"
         },
         {
-          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3771420",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时01分 ~ 17时02分]"
-        },
-        {
           "title": "中方代表：美国重新定义了“诚意”",
           "url": "https://www.toutiao.com/trending/7634428067154722826/",
           "source": "今日头条",
@@ -79,11 +79,12 @@
             10,
             9,
             11,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时21分 ~ 17时02分]"
+          "appearance_count": 11,
+          "time_info": "[01时21分 ~ 18时41分]"
         },
         {
           "title": "普京与特朗普通话一个半小时，涉及众多议题",
@@ -107,6 +108,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时21分 ~ 06时05分]"
+        },
+        {
+          "title": "美军一艘驱逐舰据报发生火灾",
+          "url": "https://news.ifeng.com/c/8slTV4P1ss6",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 18时41分]"
         },
         {
           "title": "众议院议长称美国“并未处于战争状态”，国会没必要介入",
@@ -185,16 +198,31 @@
           "time_info": "[01时21分 ~ 11时22分]"
         },
         {
-          "title": "美军一艘驱逐舰据报发生火灾",
-          "url": "https://news.ifeng.com/c/8slTV4P1ss6",
-          "source": "凤凰网",
+          "title": "现场观察·国防部记者会｜中国核动力航母的“脚步”近了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33085442",
+          "source": "澎湃新闻",
           "ranks": [
+            7,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 17时02分]"
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 18时41分]"
+        },
+        {
+          "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
+          "url": "https://www.cls.cn/detail/2361658",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 18时41分]"
         },
         {
           "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
@@ -225,6 +253,19 @@
           "time_info": "[01时21分 ~ 11时22分]"
         },
         {
+          "title": "报道：日本政府与央行已干预外汇市场，实施日元买入操作",
+          "url": "https://wallstreetcn.com/articles/3771416",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时53分 ~ 18时41分]"
+        },
+        {
           "title": "中国女孩拍摄靖国神社内部",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%A9%E6%8B%8D%E6%91%84%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E5%86%85%E9%83%A8&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -249,30 +290,15 @@
           "time_info": "[14时36分 ~ 17时02分]"
         },
         {
-          "title": "现场观察·国防部记者会｜中国核动力航母的“脚步”近了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33085442",
-          "source": "澎湃新闻",
+          "title": "伊朗最高领袖、总统、议长、外长、革命卫队密集发声",
+          "url": "https://news.ifeng.com/c/8slqGlLgVRj",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            5,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 17时02分]"
-        },
-        {
-          "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
-          "url": "https://www.cls.cn/detail/2361658",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 17时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 18时41分]"
         },
         {
           "title": "中方：日本拥核问题已是现实威胁",
@@ -376,6 +402,19 @@
           "time_info": "[11时22分 ~ 14时36分]"
         },
         {
+          "title": "王毅同美国国务卿鲁比奥通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33085948",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 18时41分]"
+        },
+        {
           "title": "梅德韦杰夫：美国无法扮演有效调解人角色",
           "url": "https://news.ifeng.com/c/8sknY6MWiHM",
           "source": "凤凰网",
@@ -411,17 +450,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时21分 ~ 07时53分]"
-        },
-        {
-          "title": "伊朗最高领袖、总统、议长、外长、革命卫队密集发声",
-          "url": "https://news.ifeng.com/c/8slqGlLgVRj",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "王毅同美国国务卿鲁比奥通电话",
@@ -534,6 +562,34 @@
           "time_info": "01时21分"
         },
         {
+          "title": "假如印度翻拍仙剑三",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E5%8D%B0%E5%BA%A6%E7%BF%BB%E6%8B%8D%E4%BB%99%E5%89%91%E4%B8%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            18,
+            12,
+            20,
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 18时41分]"
+        },
+        {
+          "title": "跌破160干预红线之际，日本当局密集喊话干预，日元随即跳涨",
+          "url": "https://wallstreetcn.com/articles/3771380",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时53分 ~ 18时41分]"
+        },
+        {
           "title": "王毅同美国国务卿鲁比奥通电话",
           "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E9%B2%81%E6%AF%94%E5%A5%A5%E9%80%9A%E7%94%B5%E8%AF%9D",
           "source": "百度热搜",
@@ -596,6 +652,17 @@
           "time_info": "[01时21分 ~ 07时53分]"
         },
         {
+          "title": "以军闯入黎巴嫩民宅翻看试穿女性衣服，包括胸罩",
+          "url": "https://v.ifeng.com/c/8sm48GH9xQR",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "美国总统特朗普的助手表示，特朗普将签署授权跨境管道的许可证。",
           "url": "https://flash.jin10.com/detail/20260501025910710800",
           "source": "金十数据",
@@ -624,7 +691,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -679,7 +746,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -706,15 +773,28 @@
           "time_info": "05时01分"
         },
         {
-          "title": "日本外汇事务负责人三村淳：不会对外汇发表评论。 对我今早的声明没有补充。",
-          "url": "https://wallstreetcn.com/livenews/3097845",
-          "source": "华尔街见闻-快讯",
+          "title": "美国一季度GDP年化增长2%，PCE物价指数4.3%，通胀压力骤升",
+          "url": "https://wallstreetcn.com/articles/3771412",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 18时41分]"
+        },
+        {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 18时41分]"
         },
         {
           "title": "中方关于日本拥核问题的工作文件发布",
@@ -728,18 +808,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时21分 ~ 06时05分]"
-        },
-        {
-          "title": "报道：日本政府与央行已干预外汇市场，实施日元买入操作",
-          "url": "https://wallstreetcn.com/articles/3771416",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时53分 ~ 17时02分]"
         },
         {
           "title": "美国总统特朗普：与田纳西州州长比尔·李进行了非常愉快的交谈。",
@@ -792,7 +860,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -872,7 +940,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -888,44 +956,6 @@
           "time_info": "14时36分"
         },
         {
-          "title": "伊朗称最高领袖身体健康",
-          "url": "https://wallstreetcn.com/livenews/3097843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "假如印度翻拍仙剑三",
-          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E5%8D%B0%E5%BA%A6%E7%BF%BB%E6%8B%8D%E4%BB%99%E5%89%91%E4%B8%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            18,
-            12,
-            20,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 07时53分]"
-        },
-        {
-          "title": "跌破160干预红线之际，日本当局密集喊话干预，日元随即跳涨",
-          "url": "https://wallstreetcn.com/articles/3771380",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时53分 ~ 17时02分]"
-        },
-        {
           "title": "美国为支付联合国会费开涉华条件",
           "url": "https://www.toutiao.com/trending/7633803986403164210/",
           "source": "今日头条",
@@ -938,29 +968,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时21分 ~ 06时05分]"
-        },
-        {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 17时02分]"
-        },
-        {
-          "title": "美国一季度GDP年化增长2%，PCE物价指数4.3%，通胀压力骤升",
-          "url": "https://wallstreetcn.com/articles/3771412",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 17时02分]"
         },
         {
           "title": "美国投资公司协会（ICI）：美国货币市场资产降低至7.626万亿美元。",
@@ -1023,6 +1030,31 @@
           "time_info": "[11时22分 ~ 14时36分]"
         },
         {
+          "title": "郑栅洁：以高质量实施“十五五”规划推进中国式现代化建设",
+          "url": "https://www.cls.cn/detail/2361718",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 18时41分]"
+        },
+        {
+          "title": "美国总统 60 天战争权限将耗尽，这意味着什么？美国有可能结束对伊作战吗？",
+          "url": "https://www.zhihu.com/question/2033449603194779614",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 18时41分]"
+        },
+        {
           "title": "日本4月东京CPI(除生鲜食品)同比 1.5%，预期 1.8%，前值 1.7%。",
           "url": "https://wallstreetcn.com/livenews/3097760",
           "source": "华尔街见闻-快讯",
@@ -1060,18 +1092,6 @@
           "time_info": "[01时21分 ~ 06时05分]"
         },
         {
-          "title": "王毅同美国国务卿鲁比奥通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33085948",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 17时02分]"
-        },
-        {
           "title": "日本4月东京CPI(除生鲜食品及能源)同比 1.9%，预期 2.2%，前值 2.3%。",
           "url": "https://wallstreetcn.com/livenews/3097759",
           "source": "华尔街见闻-快讯",
@@ -1082,6 +1102,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时53分 ~ 11时22分]"
+        },
+        {
+          "title": "日本外汇事务负责人三村淳：不会对外汇发表评论。 对我今早的声明没有补充。",
+          "url": "https://wallstreetcn.com/livenews/3097845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 18时41分]"
         },
         {
           "title": "美国中期选举前瞻",
@@ -1196,6 +1228,56 @@
           "time_info": "[07时53分 ~ 11时22分]"
         },
         {
+          "title": "伊朗称最高领袖身体健康",
+          "url": "https://wallstreetcn.com/livenews/3097843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 18时41分]"
+        },
+        {
+          "title": "日本押注一次性纸质无人机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353927&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%8A%BC%E6%B3%A8%E4%B8%80%E6%AC%A1%E6%80%A7%E7%BA%B8%E8%B4%A8%E6%97%A0%E4%BA%BA%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            14,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 18时41分]"
+        },
+        {
+          "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33086074",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 18时41分]"
+        },
+        {
+          "title": "特朗普称美国结束对伊朗战争",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 18时41分]"
+        },
+        {
           "title": "澳外长：中国已同意向澳提供燃料",
           "url": "https://www.toutiao.com/trending/7634377393520934948/",
           "source": "今日头条",
@@ -1209,65 +1291,74 @@
           "time_info": "[03时22分 ~ 06时05分]"
         },
         {
-          "title": "美国总统 60 天战争权限将耗尽，这意味着什么？美国有可能结束对伊作战吗？",
-          "url": "https://www.zhihu.com/question/2033449603194779614",
-          "source": "知乎",
+          "title": "伊朗战争丨特朗普晒图：霍尔木兹海峡被更名为“特朗普海峡”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
-            9,
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时36分 ~ 17时02分]"
+          "time_info": "[17时01分 ~ 18时41分]"
         },
         {
-          "title": "郑栅洁：以高质量实施“十五五”规划推进中国式现代化建设",
-          "url": "https://www.cls.cn/detail/2361718",
-          "source": "财联社热门",
+          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
+          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
+          "source": "凤凰网",
           "ranks": [
-            9,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时36分 ~ 17时02分]"
+          "time_info": "[17时01分 ~ 18时41分]"
         },
         {
-          "title": "日本押注一次性纸质无人机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353927&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%8A%BC%E6%B3%A8%E4%B8%80%E6%AC%A1%E6%80%A7%E7%BA%B8%E8%B4%A8%E6%97%A0%E4%BA%BA%E6%9C%BA",
-          "source": "贴吧",
+          "title": "伊朗总统：美国海上封锁“不可容忍”",
+          "url": "https://www.toutiao.com/trending/7633995165912465444/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            14,
-            15
+            6,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时22分 ~ 17时02分]"
+          "time_info": "[17时01分 ~ 18时41分]"
         },
         {
-          "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33086074",
-          "source": "澎湃新闻",
+          "title": "美媒炒作：俄罗斯超过90%的受制裁技术，都从中国进口",
+          "url": "https://news.ifeng.com/c/8sly2AlXapD",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            13
+            8,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时36分 ~ 17时02分]"
+          "time_info": "[17时01分 ~ 18时41分]"
         },
         {
-          "title": "特朗普称美国结束对伊朗战争",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "赖清德称进口美国“毒土豆”是谣言，台网红怒轰：还在骗",
+          "url": "https://news.ifeng.com/c/8sm3Wd6OKjS",
+          "source": "凤凰网",
           "ranks": [
-            15,
-            18
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时36分 ~ 17时02分]"
+          "time_info": "[17时01分 ~ 18时41分]"
+        },
+        {
+          "title": "美将禁止中国实验室为美电子设备认证",
+          "url": "https://www.toutiao.com/trending/7634677351125778438/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 18时41分]"
         },
         {
           "title": "霸王茶姬韩国开业 有人排3小时才买到",
@@ -1306,17 +1397,6 @@
           "time_info": "[14时36分 ~ 17时02分]"
         },
         {
-          "title": "伊朗总统：美国海上封锁“不可容忍”",
-          "url": "https://www.toutiao.com/trending/7633995165912465444/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
           "title": "伊朗战争丨以防长：或很快对伊朗再次采取行动",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -1350,17 +1430,6 @@
           "time_info": "[11时22分 ~ 14时36分]"
         },
         {
-          "title": "伊朗战争丨特朗普晒图：霍尔木兹海峡被更名为“特朗普海峡”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
           "title": "美以袭击伊朗进入第 63 天，当前局势如何？还有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2033318594176443288",
           "source": "知乎",
@@ -1370,17 +1439,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时22分 ~ 14时36分]"
-        },
-        {
-          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
-          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "美军一驱逐舰发生重大火灾",
@@ -1417,17 +1475,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时53分 ~ 11时22分]"
-        },
-        {
-          "title": "美媒炒作：俄罗斯超过90%的受制裁技术，都从中国进口",
-          "url": "https://news.ifeng.com/c/8sly2AlXapD",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "美国防长：对伊朗军事行动“60天期限”已因停火“中止”",
@@ -1489,29 +1536,6 @@
           "time_info": "[11时22分 ~ 14时36分]"
         },
         {
-          "title": "赖清德称进口美国“毒土豆”是谣言，台网红怒轰：还在骗",
-          "url": "https://news.ifeng.com/c/8sm3Wd6OKjS",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
-          "title": "美将禁止中国实验室为美电子设备认证",
-          "url": "https://www.toutiao.com/trending/7634677351125778438/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
           "title": "伊朗战争丨美众议院议长：国会无需就对伊朗的军事行动表决",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -1551,7 +1575,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -1578,6 +1602,17 @@
           "time_info": "11时22分"
         },
         {
+          "title": "以色列对黎巴嫩南部发动袭击",
+          "url": "https://wallstreetcn.com/livenews/3097865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "世卫组织：美国还欠着会费，也看不出来想补缴",
           "url": "https://news.ifeng.com/c/8sk3fWMxCT9",
           "source": "凤凰网",
@@ -1587,6 +1622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
+          "url": "https://news.ifeng.com/c/8sm4vXslE7P",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "美国海军驱逐舰“希金斯”号发生火灾",
@@ -1628,7 +1674,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -1721,6 +1767,17 @@
           "time_info": "11时22分"
         },
         {
+          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
+          "url": "https://wallstreetcn.com/articles/3771452",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "美国众议院共和党定于当地时间周四对参议院通过的国土安全部拨款法案进行投票。",
           "url": "https://flash.jin10.com/detail/20260501005059483800",
           "source": "金十数据",
@@ -1776,6 +1833,17 @@
           "time_info": "14时36分"
         },
         {
+          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
+          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "以色列紧急向阿联酋提供激光系统，以帮助其防御伊朗导弹。",
           "url": "https://flash.jin10.com/detail/20260501040234281800",
           "source": "金十数据",
@@ -1807,6 +1875,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "北约尚未就美国从德国撤军进行正式讨论",
+          "url": "https://wallstreetcn.com/livenews/3097861",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "日本拟向菲律宾出口护卫舰",
@@ -1853,6 +1932,17 @@
           "time_info": "07时53分"
         },
         {
+          "title": "雅诗兰黛(EL.N)：预计2027年地缘政治格局不会恶化，也不会出现包括关税和消费者情绪在内的相关影响。",
+          "url": "https://flash.jin10.com/detail/20260501180453315800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "2004年以来首次：美国在商品猪群中发现伪狂犬病病例",
           "url": "https://wallstreetcn.com/livenews/3097748",
           "source": "华尔街见闻-快讯",
@@ -1862,6 +1952,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "伊朗外长同欧盟外交与安全政策高级代表通话 讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3097860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "特朗普：我提名妮可·B·萨菲尔博士（NICOLE B. SAPHIER）出任美国下一任卫生局长。",
@@ -1963,6 +2064,17 @@
           "time_info": "14时36分"
         },
         {
+          "title": "伊朗司法部长：伊方从未离开谈判桌 但也不害怕战争",
+          "url": "https://wallstreetcn.com/livenews/3097859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "以色列国防军：不久前，以色列空军成功拦截了一架可疑空中目标，未让其进入以色列领土。这是黎巴嫩真主党对停火协议的又一次违反。",
           "url": "https://flash.jin10.com/detail/20260501004407392800",
           "source": "金十数据",
@@ -2005,6 +2117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "三位消息人士透露，美国众议院道德委员会正在对共和党众议员查克·爱德华兹展开调查，但未具体说明调查内容。",
@@ -2084,6 +2207,17 @@
           "time_info": "11时22分"
         },
         {
+          "title": "伊朗外长：美对伊战争已致美国损失1000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3097857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "中国斯诺克步入黄金时代",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%96%AF%E8%AF%BA%E5%85%8B%E6%AD%A5%E5%85%A5%E9%BB%84%E9%87%91%E6%97%B6%E4%BB%A3",
           "source": "百度热搜",
@@ -2159,6 +2293,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "北约未正式讨论美从德撤军",
+          "url": "https://flash.jin10.com/detail/20260501175203567800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.3%。",
@@ -2249,6 +2394,17 @@
           "time_info": "14时36分"
         },
         {
+          "title": "花旗预计，日本央行将从6月起大约每六个月加息一次。",
+          "url": "https://flash.jin10.com/detail/20260501174954532800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "韩国4月进口同比 16.7%，预期 14.7%，前值 13.2%。",
           "url": "https://wallstreetcn.com/livenews/3097768",
           "source": "华尔街见闻-快讯",
@@ -2326,6 +2482,17 @@
           "time_info": "14时36分"
         },
         {
+          "title": "花旗预计日本央行将于2026年6月加息，较之前预测的7月提前。",
+          "url": "https://flash.jin10.com/detail/20260501174936868800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "美国“战争部”部长赫格塞斯：Anthropic由“一群思想狂热分子”经营。 并没有让人工智能（AI）做出致命性的决策。",
           "url": "https://wallstreetcn.com/livenews/3097660",
           "source": "华尔街见闻-快讯",
@@ -2346,6 +2513,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "以色列称释放部分“全球坚韧船队”被扣人员",
+          "url": "https://wallstreetcn.com/livenews/3097853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "美国抵押贷款利率飙升至6.3% 一个月来首次上涨",
@@ -2409,9 +2587,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        },
+        {
+          "title": "伊朗外长与欧盟外交官Kallas讨论了中东问题。（伊通社）",
+          "url": "https://wallstreetcn.com/livenews/3097852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "林毅夫谈全球经济形势和中国发展态势",
+          "url": "https://www.toutiao.com/trending/7634835572262964777/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "美国AI儿童安全法案获参议院小组支持 科技巨头将受影响",
@@ -2480,6 +2680,17 @@
           "time_info": "11时22分"
         },
         {
+          "title": "日本与澳大利亚将优先推进稀土和镍领域的合作。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3097851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "中国首例脑机接口植入患者能下棋了",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%BE%8B%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E6%A4%8D%E5%85%A5%E6%82%A3%E8%80%85%E8%83%BD%E4%B8%8B%E6%A3%8B%E4%BA%86%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -2489,6 +2700,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "据以色列媒体报道，以色列对黎巴嫩南部城市提尔发动了无人机袭击。",
+          "url": "https://flash.jin10.com/detail/20260501173833742800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "美国食品药品管理局（FDA）一个委员会投票，按6-3票否决阿斯利康用于治疗乳腺癌的药物Camizestrant，谈及其安全性。",
@@ -2522,6 +2744,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "美元兑日元短线波动不大，现报156.45。日本央行数据显示外汇干预规模约为5.4万亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3097850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "非洲建交国零关税首票货物通关",
@@ -2568,6 +2801,17 @@
           "time_info": "01时21分"
         },
         {
+          "title": "报道：日本可能动用了345亿美元进行外汇干预以提振日元",
+          "url": "https://wallstreetcn.com/livenews/3097849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "一万辆车装进一艘船 中国做到了",
           "url": "https://www.toutiao.com/trending/7633753108153761838/",
           "source": "今日头条",
@@ -2612,6 +2856,17 @@
           "time_info": "03时22分"
         },
         {
+          "title": "日本或已斥资约345亿美元干预日元汇率",
+          "url": "https://flash.jin10.com/detail/20260501173228767800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "周四（4月30日）纽约尾盘，美国10年期基准国债收益率下跌6.11个基点，刷新日低至4.3686%，4月份累计上涨5.41个基点，整体交投于4.2243%-4.4339%区间，4月17日跳水至期内底部，随后持续回升。 两年期美债收益率下跌8.20个基点，刷新日低至3.8648%，4月份累涨7.59个基点，整体交投于3.6768%-3.9510%区间。",
           "url": "https://wallstreetcn.com/livenews/3097736",
           "source": "华尔街见闻-快讯",
@@ -2621,6 +2876,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "伊朗外交部：美国袭击伊朗是“侵略行为”",
+          "url": "https://wallstreetcn.com/livenews/3097848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "市场消息：以色列伞兵旅的伞兵已撤离黎巴嫩，并调往加沙地带。",
@@ -2651,9 +2917,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        },
+        {
+          "title": "伊朗司法部长：伊方从未离开谈判桌 但也不害怕战争",
+          "url": "https://flash.jin10.com/detail/20260501172956558800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "美国天然气期货日内涨超3.00%，现报2.727美元/百万英热。",
@@ -2676,6 +2953,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "伊朗外长：美对伊战争已致美国损失1000亿美元",
+          "url": "https://flash.jin10.com/detail/20260501172247871800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         },
         {
           "title": "美国财政部拍卖四周期国债，得标利率3.6%，投标倍数2.92。 拍卖八周期国债，得标利率3.620%，投标倍数2.79。",
@@ -2860,7 +3148,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -2926,7 +3214,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
