@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T17:58:23.493936+08:00",
-  "total_titles_processed": 1149,
+  "generated_at": "2026-05-12T19:56:16.319036+08:00",
+  "total_titles_processed": 1293,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 246,
+      "match_count": 268,
       "titles": [
         {
           "title": "普京最新涉华表态，中方回应",
@@ -38,11 +38,12 @@
             9,
             7,
             5,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时25分 ~ 17时58分]"
+          "appearance_count": 11,
+          "time_info": "[01时25分 ~ 19时56分]"
         },
         {
           "title": "内塔尼亚胡涉嫌贪腐案审理进入关键阶段",
@@ -54,6 +55,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时25分 ~ 11时42分]"
+        },
+        {
+          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
+          "url": "https://wallstreetcn.com/articles/3772036",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 19时56分]"
+        },
+        {
+          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
+          "url": "https://www.zhihu.com/question/2037161087863353508",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 19时56分]"
         },
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -92,6 +117,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时25分 ~ 07时58分]"
+        },
+        {
+          "title": "外交部介绍特朗普访华具体安排",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            22,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 19时56分]"
         },
         {
           "title": "美国总统特朗普将于 5 月 13 日至 15 日访华，有哪些信息值得关注？",
@@ -163,42 +203,49 @@
           "time_info": "[01时25分 ~ 07时58分]"
         },
         {
-          "title": "外交部介绍特朗普访华具体安排",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
-          "source": "bilibili 热搜",
+          "title": "美国富豪遇仙人跳,被讹12亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354172&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%AF%8C%E8%B1%AA%E9%81%87%E4%BB%99%E4%BA%BA%E8%B7%B3%2C%E8%A2%AB%E8%AE%B912%E4%BA%BF",
+          "source": "贴吧",
           "ranks": [
-            5,
-            8,
+            9,
+            15,
+            18,
             22,
-            18
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 17时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 19时56分]"
         },
         {
-          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
-          "url": "https://wallstreetcn.com/articles/3772036",
-          "source": "华尔街见闻",
+          "title": "世乒男团3:0力克日本夺冠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354166&amp;topic_name=%E4%B8%96%E4%B9%92%E7%94%B7%E5%9B%A23%3A0%E5%8A%9B%E5%85%8B%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0",
+          "source": "贴吧",
           "ranks": [
-            2,
-            1
+            13,
+            19,
+            22,
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 17时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 19时56分]"
         },
         {
-          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
-          "url": "https://www.zhihu.com/question/2037161087863353508",
-          "source": "知乎",
+          "title": "又偷?中国孩子善举被日本认领",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354154&amp;topic_name=%E5%8F%88%E5%81%B7%3F%E4%B8%AD%E5%9B%BD%E5%AD%A9%E5%AD%90%E5%96%84%E4%B8%BE%E8%A2%AB%E6%97%A5%E6%9C%AC%E8%AE%A4%E9%A2%86",
+          "source": "贴吧",
           "ranks": [
-            3,
-            2
+            14,
+            20,
+            23,
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 17时58分]"
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 19时56分]"
         },
         {
           "title": "菲众院通过副总统莎拉弹劾案，同日参院却“变天”了",
@@ -238,6 +285,18 @@
           "time_info": "[01时25分 ~ 07时58分]"
         },
         {
+          "title": "伊朗官员称伊美就浓缩铀处置方式存在严重分歧",
+          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时37分 ~ 19时56分]"
+        },
+        {
           "title": "美国总统时隔9年再访华",
           "url": "https://wallstreetcn.com/articles/3771966",
           "source": "华尔街见闻",
@@ -249,6 +308,29 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时25分 ~ 14时37分]"
+        },
+        {
+          "title": "韩国股市领涨全球后，资金“史上最大规模”撤离韩国ETF",
+          "url": "https://wallstreetcn.com/articles/3772017",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 19时56分]"
+        },
+        {
+          "title": "通胀“核弹”今晚引爆！美国CPI恐创近三年来最高？",
+          "url": "https://www.cls.cn/detail/2368874",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时56分]"
         },
         {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
@@ -264,46 +346,15 @@
           "time_info": "[01时25分 ~ 07时58分]"
         },
         {
-          "title": "美国富豪遇仙人跳,被讹12亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354172&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%AF%8C%E8%B1%AA%E9%81%87%E4%BB%99%E4%BA%BA%E8%B7%B3%2C%E8%A2%AB%E8%AE%B912%E4%BA%BF",
-          "source": "贴吧",
+          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
+          "url": "https://www.cls.cn/detail/2368816",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            15,
-            18,
-            22
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 17时58分]"
-        },
-        {
-          "title": "世乒男团3:0力克日本夺冠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354166&amp;topic_name=%E4%B8%96%E4%B9%92%E7%94%B7%E5%9B%A23%3A0%E5%8A%9B%E5%85%8B%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            19,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 17时58分]"
-        },
-        {
-          "title": "又偷?中国孩子善举被日本认领",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354154&amp;topic_name=%E5%8F%88%E5%81%B7%3F%E4%B8%AD%E5%9B%BD%E5%AD%A9%E5%AD%90%E5%96%84%E4%B8%BE%E8%A2%AB%E6%97%A5%E6%9C%AC%E8%AE%A4%E9%A2%86",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            20,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 17时58分]"
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时56分]"
         },
         {
           "title": "从游到购见证中国吸引力",
@@ -355,6 +406,30 @@
           "time_info": "[01时25分 ~ 11时42分]"
         },
         {
+          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时56分]"
+        },
+        {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时58分 ~ 19时56分]"
+        },
+        {
           "title": "世界大学生围棋赛首进中国内地，让全球青年了解中国文化",
           "url": "https://m.thepaper.cn/newsDetail_forward_33155012",
           "source": "澎湃新闻",
@@ -403,6 +478,17 @@
           "time_info": "[14时37分 ~ 17时58分]"
         },
         {
+          "title": "塔吉克斯坦总统访华，中国驻塔大使：有一个重要战略意义",
+          "url": "https://v.ifeng.com/c/8t4Q7AW9qMn",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
+        },
+        {
           "title": "外交部回应普京最新涉华表态",
           "url": "https://www.toutiao.com/trending/7638533400014143534/",
           "source": "今日头条",
@@ -413,18 +499,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时58分 ~ 14时37分]"
-        },
-        {
-          "title": "伊朗官员称伊美就浓缩铀处置方式存在严重分歧",
-          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 17时58分]"
         },
         {
           "title": "特朗普访华 哪些信号值得关注",
@@ -449,16 +523,38 @@
           "time_info": "[11时41分 ~ 11时42分]"
         },
         {
-          "title": "韩国股市领涨全球后，资金“史上最大规模”撤离韩国ETF",
-          "url": "https://wallstreetcn.com/articles/3772017",
-          "source": "华尔街见闻",
+          "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
+          "url": "https://news.ifeng.com/c/8t4CJqYob72",
+          "source": "凤凰网",
           "ranks": [
-            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
+        },
+        {
+          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
+          "url": "https://www.cls.cn/detail/2368705",
+          "source": "财联社热门",
+          "ranks": [
+            7,
             5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时41分 ~ 17时58分]"
+          "time_info": "[14时37分 ~ 19时56分]"
+        },
+        {
+          "title": "中国人把英媒的问号拉成了感叹号",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8A%8A%E8%8B%B1%E5%AA%92%E7%9A%84%E9%97%AE%E5%8F%B7%E6%8B%89%E6%88%90%E4%BA%86%E6%84%9F%E5%8F%B9%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
         },
         {
           "title": "3比0战胜日本，中国队实现世乒赛男团12连冠",
@@ -470,17 +566,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
-        },
-        {
-          "title": "通胀“核弹”今晚引爆！美国CPI恐创近三年来最高？",
-          "url": "https://www.cls.cn/detail/2368874",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
         },
         {
           "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
@@ -544,20 +629,33 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
         {
-          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
-          "url": "https://www.cls.cn/detail/2368816",
-          "source": "财联社热门",
+          "title": "5月12日，中国和塔吉克斯坦在北京签署永久睦邻友好合作条约。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3102293",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时58分"
+          "time_info": "19时56分"
+        },
+        {
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 19时56分]"
         },
         {
           "title": "美军声明：“最强”核潜艇抵达地中海",
@@ -566,7 +664,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -616,6 +714,19 @@
           "time_info": "[11时41分 ~ 14时37分]"
         },
         {
+          "title": "韩国的大学食堂都吃些什么",
+          "url": "https://www.douyin.com/hot/2495951",
+          "source": "抖音",
+          "ranks": [
+            21,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 19时56分]"
+        },
+        {
           "title": "美国至5月11日3年期国债竞拍-得标利率配置百分比 37.53%，前值64.47%。",
           "url": "https://flash.jin10.com/detail/20260512010208795800",
           "source": "金十数据",
@@ -649,6 +760,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "巴基斯坦否认在巴伊朗飞机涉军事用途",
+          "url": "https://wallstreetcn.com/livenews/3102289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
           "url": "https://www.cls.cn/detail/2368480",
           "source": "财联社热门",
@@ -679,7 +801,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -693,17 +815,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
-        },
-        {
-          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
-          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
         },
         {
           "title": "美国总统特朗普：伊朗现在的领导层中有温和派，他们急切地想达成协议。然后还有一群疯子，这群疯子们想战斗到底。",
@@ -737,19 +848,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
-        },
-        {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时58分 ~ 17时58分]"
         },
         {
           "title": "普京亲自驾车接老师 被多次亲吻面颊",
@@ -812,19 +910,6 @@
           "time_info": "[01时25分 ~ 07时58分]"
         },
         {
-          "title": "韩国的大学食堂都吃些什么",
-          "url": "https://www.douyin.com/hot/2495951",
-          "source": "抖音",
-          "ranks": [
-            21,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 17时58分]"
-        },
-        {
           "title": "特朗普5月13日至15日访华",
           "url": "https://www.toutiao.com/trending/7638433306853281331/",
           "source": "今日头条",
@@ -847,6 +932,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时58分]"
+        },
+        {
+          "title": "莫迪呼吁民众不买黄金后，印度政府要出手了",
+          "url": "https://finance.ifeng.com/c/8t3jW8AcgGi",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时37分 ~ 19时56分]"
         },
         {
           "title": "市场消息：ServiceNow正寻求通过一笔潜在的美国高等级债券发行筹集约40亿美元资金，以支持公司近期的收购交易。",
@@ -873,16 +970,17 @@
           "time_info": "[06时54分 ~ 07时58分]"
         },
         {
-          "title": "“全民分红”来临？韩国政策高层提议将AI超额利润回馈给全体公民",
-          "url": "https://www.cls.cn/detail/2368705",
-          "source": "财联社热门",
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
           "ranks": [
+            13,
             7,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 17时58分]"
+          "appearance_count": 4,
+          "time_info": "[14时37分 ~ 19时56分]"
         },
         {
           "title": "特朗普：中国是一个令人惊叹的国家",
@@ -945,16 +1043,17 @@
           "time_info": "[05时17分 ~ 06时54分]"
         },
         {
-          "title": "美国总统特朗普：非常期待中国之行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
+          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            13
+            17,
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时41分 ~ 17时58分]"
+          "time_info": "[14时37分 ~ 19时56分]"
         },
         {
           "title": "印度这次能申奥成功吗",
@@ -982,6 +1081,52 @@
           "time_info": "[11时41分 ~ 14时37分]"
         },
         {
+          "title": "世界杯将至，伊朗队仍在等待入境美国",
+          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时56分]"
+        },
+        {
+          "title": "受邀陪特朗普访华的企业与华有何渊源",
+          "url": "https://www.toutiao.com/trending/7638696162195308570/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时56分]"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://www.cls.cn/detail/2368941",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时56分]"
+        },
+        {
+          "title": "中企有意收购墨西哥日产工厂，日本慌了",
+          "url": "https://news.ifeng.com/c/8t4K7JN9tvw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时56分]"
+        },
+        {
           "title": "国民党副主席：中华文化一直在台湾，台湾人也是堂堂正正的中国人",
           "url": "https://news.ifeng.com/c/8t3m1MoQ34J",
           "source": "凤凰网",
@@ -991,6 +1136,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时41分 ~ 14时37分]"
+        },
+        {
+          "title": "下药？软禁？中国拳击手的非洲惊魂",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33162014",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时56分]"
         },
         {
           "title": "法国最应该返还圆明园被劫文物",
@@ -1004,6 +1161,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时25分 ~ 06时54分]"
+        },
+        {
+          "title": "美国街头突发无差别枪击！男子当街开火砸车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33161027",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 19时56分]"
         },
         {
           "title": "特朗普发文称非常期待中国之行",
@@ -1055,16 +1224,15 @@
           "time_info": "[11时41分 ~ 11时42分]"
         },
         {
-          "title": "莫迪呼吁民众不买黄金后，印度政府要出手了",
-          "url": "https://finance.ifeng.com/c/8t3jW8AcgGi",
+          "title": "日本实施汇率干预后，日美财长首次面对面会谈",
+          "url": "https://news.ifeng.com/c/8t4PA9L6stj",
           "source": "凤凰网",
           "ranks": [
-            7,
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时37分 ~ 17时58分]"
+          "time_info": "[19时55分 ~ 19时56分]"
         },
         {
           "title": "欧盟成员国外长：一致同意制裁以色列极端定居者",
@@ -1088,18 +1256,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 11时42分]"
-        },
-        {
-          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 17时58分]"
         },
         {
           "title": "伊朗议长：“14点提案”无可替代",
@@ -1137,18 +1293,6 @@
           "time_info": "[01时25分 ~ 03时46分]"
         },
         {
-          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 17时58分]"
-        },
-        {
           "title": "普京驾车接92岁老师共进晚餐",
           "url": "https://www.toutiao.com/trending/7638808461317783598/",
           "source": "今日头条",
@@ -1171,6 +1315,17 @@
           "time_info": "[11时41分 ~ 11时42分]"
         },
         {
+          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
+          "url": "https://wallstreetcn.com/articles/3772030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
+        },
+        {
           "title": "美国环保署拟放宽空气准入许可，以加速数据中心建设",
           "url": "https://wallstreetcn.com/livenews/3101876",
           "source": "华尔街见闻-快讯",
@@ -1181,6 +1336,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时58分]"
+        },
+        {
+          "title": "专家：俄军掉入2:1的伤亡泥潭",
+          "url": "https://www.toutiao.com/trending/7638912921036148260/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
         },
         {
           "title": "伊朗议长卡利巴夫：美国除了接受巴方在提案中的权利之外别无选择。",
@@ -1195,6 +1361,28 @@
           "time_info": "[05时17分 ~ 06时54分]"
         },
         {
+          "title": "FIFA官网没有中文模式惹恼中国网友",
+          "url": "https://www.toutiao.com/trending/7638529559256514606/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
+        },
+        {
+          "title": "普京亲自驾车接中学老师赴克宫",
+          "url": "https://www.douyin.com/hot/2495858",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 19时56分]"
+        },
+        {
           "title": "中国队击败印度获U17女足世界杯资格",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%87%BB%E8%B4%A5%E5%8D%B0%E5%BA%A6%E8%8E%B7U17%E5%A5%B3%E8%B6%B3%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B5%84%E6%A0%BC",
           "source": "百度热搜",
@@ -1205,6 +1393,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时46分 ~ 05时17分]"
+        },
+        {
+          "title": "印度游客在莫斯科喷泉水池洗衣服",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E5%9C%A8%E8%8E%AB%E6%96%AF%E7%A7%91%E5%96%B7%E6%B3%89%E6%B0%B4%E6%B1%A0%E6%B4%97%E8%A1%A3%E6%9C%8D%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
         },
         {
           "title": "中使馆提醒：中国公民立即撤离",
@@ -1250,6 +1449,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 11时42分]"
+        },
+        {
+          "title": "中国华能董事长会见宇树科技创始人",
+          "url": "https://www.toutiao.com/trending/7638871622849527862/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
         },
         {
           "title": "美财长宣布访日 此前曾训斥日本财相",
@@ -1318,6 +1528,17 @@
           "time_info": "11时42分"
         },
         {
+          "title": "美国计划缩减驻德兵力，波兰积极争取更多美军部署",
+          "url": "https://wallstreetcn.com/livenews/3102284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "委内瑞拉代总统罗德里格斯：我本人从未考虑过让委内瑞拉成为美国的第51个州。",
           "url": "https://flash.jin10.com/detail/20260512005120426800",
           "source": "金十数据",
@@ -1349,6 +1570,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
+        },
+        {
+          "title": "消息人士：由于炼油利润疲软，6月交货、运抵印度港口的俄罗斯乌拉尔原油对布伦特原油的溢价已降至每桶2-4美元。",
+          "url": "https://flash.jin10.com/detail/20260512194244810800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "美国总统特朗普考虑对伊朗采取军事行动，周一会见了国家安全团队。（Axios）",
@@ -1384,13 +1616,24 @@
           "time_info": "11时42分"
         },
         {
+          "title": "月壤纤维样品进入中国空间站 将接受舱外环境长期验证",
+          "url": "https://wallstreetcn.com/livenews/3102283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "美国CPI前，全球股债在美伊僵持影响下承压，英债领跌，油价涨超2%",
           "url": "https://wallstreetcn.com/articles/3772040",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -1445,18 +1688,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "世界杯将至，伊朗队仍在等待入境美国",
-          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -1511,7 +1743,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -1533,18 +1765,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "中企有意收购墨西哥日产工厂，日本慌了",
-          "url": "https://news.ifeng.com/c/8t4K7JN9tvw",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -1626,6 +1847,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "“摇摆右翼”倒戈，特朗普正在失去他最需要的选民",
+          "url": "https://flash.jin10.com/detail/20260512193701987800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "报道：1月日债崩盘时，贝森特严厉斥责高市早苗的财相",
           "url": "https://wallstreetcn.com/livenews/3101816",
           "source": "华尔街见闻-快讯",
@@ -1637,6 +1869,17 @@
           "time_info": "03时46分"
         },
         {
+          "title": "以军称拦截一架从该国东部发射的无人机",
+          "url": "https://wallstreetcn.com/livenews/3102274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "特朗普称正在认真考虑「将委内瑞拉纳为美国第 51 个州」，意在 40 万亿美元的石油财富，有可能实现吗？",
           "url": "https://www.zhihu.com/question/2037474314413238203",
           "source": "知乎",
@@ -1646,17 +1889,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
-        },
-        {
-          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
-          "url": "https://www.cls.cn/detail/2368941",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
         },
         {
           "title": "据伊拉克媒体：伊朗革命卫队圣城军指挥官卡阿尼已前往伊拉克，要求一些武装团体避免与美国建立关系。他还对伊拉克政府设定了红线，涉及向武装团体交付武器的问题。",
@@ -1698,9 +1930,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
+        },
+        {
+          "title": "美国银行：即便更换领导人 英国财政政策转向空间仍然有限",
+          "url": "https://flash.jin10.com/detail/20260512193609011800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "美国总统特朗普谈Hantavirus：这种疾病早就存在了。",
@@ -1791,17 +2034,6 @@
           "time_info": "07时58分"
         },
         {
-          "title": "普京亲自驾车接中学老师赴克宫",
-          "url": "https://www.douyin.com/hot/2495858",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
           "title": "特朗普访华传递了哪些信号",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BC%A0%E9%80%92%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
           "source": "bilibili 热搜",
@@ -1890,17 +2122,6 @@
           "time_info": "11时42分"
         },
         {
-          "title": "下药？软禁？中国拳击手的非洲惊魂",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33162014",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
           "title": "乌克兰总统泽连斯基：目前已有20个国家在不同层面与乌克兰合作，进行无人机交易。与一些国家，我们已经达成政治协议，并将签署制造合同，我们的军事专业知识已经开始产生成果。",
           "url": "https://flash.jin10.com/detail/20260512003240266800",
           "source": "金十数据",
@@ -1973,7 +2194,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -2039,18 +2260,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
-          "title": "美国街头突发无差别枪击！男子当街开火砸车",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33161027",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -2116,7 +2326,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -2127,7 +2337,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -2275,6 +2485,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "美国CPI倒计时，美元、黄金、美股迎“四种剧本” | 情景剖析",
+          "url": "https://flash.jin10.com/detail/20260512192838010800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "【特朗普：“停火协议已岌岌可危”】美国总统特朗普5月11日在白宫对媒体表示，伊朗对美国所提方案的回应“愚蠢”，“停火协议已岌岌可危”。 (CCTV国际时讯)",
           "url": "https://wallstreetcn.com/livenews/3101771",
           "source": "华尔街见闻-快讯",
@@ -2308,6 +2529,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "美国30年期债券收益率上升2个基点至5%，为一周以来的最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3102257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "美国确认首例汉坦病毒感染病例",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%A1%AE%E8%AE%A4%E9%A6%96%E4%BE%8B%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E7%97%85%E4%BE%8B%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -2325,7 +2557,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -2396,17 +2628,6 @@
           "time_info": "14时37分"
         },
         {
-          "title": "受邀陪特朗普访华的企业与华有何渊源",
-          "url": "https://www.toutiao.com/trending/7638696162195308570/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
-        },
-        {
           "title": "市场消息：美国得州起诉奈飞(NFLX.O)，指控其未经消费者同意监视并收集用户数据。",
           "url": "https://flash.jin10.com/detail/20260512002407292800",
           "source": "金十数据",
@@ -2460,6 +2681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "百胜中国：达成下半年回购5.12亿美元股票协议。",
+          "url": "https://wallstreetcn.com/livenews/3102255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "伊朗最高领袖顾问：我们在战场上打败了美国人，特朗普最好不要以为他会在外交上获胜。",
@@ -2534,7 +2766,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -2605,6 +2837,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "市场消息：印度证券交易委员会提议引入基于实物交割的农业大宗商品衍生品（合约）。",
+          "url": "https://flash.jin10.com/detail/20260512192525926800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "美国总统特朗普：对库尔德人感到非常失望。",
           "url": "https://wallstreetcn.com/livenews/3101765",
           "source": "华尔街见闻-快讯",
@@ -2633,7 +2876,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -2721,9 +2964,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
+        },
+        {
+          "title": "印度4月份CPI同比增长3.48%，预估为3.78%。",
+          "url": "https://wallstreetcn.com/livenews/3102246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "国民党副主席称做堂堂正正中国人",
