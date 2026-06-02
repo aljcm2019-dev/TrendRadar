@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-03T04:48:47.096854+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-06-03T07:02:42.425995+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 63,
+      "match_count": 93,
       "titles": [
         {
           "title": "印度华人称晒2分钟太阳感觉要中暑",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时02分]"
         },
         {
           "title": "中国足球小将意大利杯夺冠",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时02分]"
         },
         {
           "title": "伊朗公开已故最高领袖哈梅内伊安葬地点",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时02分]"
         },
         {
           "title": "特朗普，开掉“不听话的情报头子”",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时02分]"
         },
         {
           "title": "美丽中国行",
@@ -61,8 +61,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时02分]"
         },
         {
           "title": "以总理扬言伊朗政权将覆灭",
@@ -73,8 +73,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时02分]"
         },
         {
           "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
@@ -84,8 +84,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时02分]"
         },
         {
           "title": "特朗普：美伊暂停谈判？假新闻！",
@@ -94,9 +94,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 07时02分]"
         },
         {
           "title": "特朗普：“美伊几日前已停止对话”是假新闻 双方对话一直在持续",
@@ -116,9 +116,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "美国官员暗示在10万美元H-1B签证费问题上保持灵活性",
+          "url": "https://flash.jin10.com/detail/20260603063902052800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国众议院推出跨党派立法草案，建议在AI繁荣期保护作者，Adobe支持这样的建议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3113331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国总统特朗普：（与伊朗）结果如何，谁也不知道，但正如我对伊朗所说，“是时候了，无论如何，你们都需要达成协议。”",
@@ -132,13 +154,24 @@
           "time_info": "01时22分"
         },
         {
+          "title": "市场消息：美国方面表示，以色列与黎巴嫩将于明日举行新一轮会谈。",
+          "url": "https://flash.jin10.com/detail/20260603063832050800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "白宫顾问哈塞特：美国对巴西的301贸易调查取决于贸易办公室（USTR）。",
           "url": "https://wallstreetcn.com/livenews/3113285",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -160,9 +193,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "据AXIOS：美国两党议员共同提出一项法案，旨在为视觉艺术家提供法律保护，防止未经许可的商业人工智能生成的作品模仿行为。",
+          "url": "https://flash.jin10.com/detail/20260603063717778800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "行业周报：美国上周API原油库存锐减超670万桶",
@@ -171,9 +215,32 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "鲁比奥：以色列拟控加沙七成区域，不符美方立场",
+          "url": "https://wallstreetcn.com/livenews/3113329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "对日本新型军国主义的“新型抗战”，拖不得了",
+          "url": "https://news.ifeng.com/c/8tdK5tTYK0B",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时02分]"
         },
         {
           "title": "市场消息：以色列和黎巴嫩当天的会谈已经结束。",
@@ -182,9 +249,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "伊朗伊斯兰共和国广播电视台（IRIB）：在科威特的美国基地遭到打击之前，美国在波斯湾、霍尔木兹海峡及格什姆岛采取敌对行动。",
+          "url": "https://flash.jin10.com/detail/20260603063600613800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国总统特朗普：今天继续与伊朗对话。 “美国与伊朗停止对话”这种说法是错误的。",
@@ -204,21 +282,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
-        },
-        {
-          "title": "对日本新型军国主义的“新型抗战”，拖不得了",
-          "url": "https://news.ifeng.com/c/8tdK5tTYK0B",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时48分]"
         },
         {
           "title": "韩国“鸟叔”已被移交检察机关",
@@ -228,8 +294,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时02分]"
         },
         {
           "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
@@ -239,8 +305,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时02分]"
         },
         {
           "title": "日本试射两枚导弹：一发命中，一发打飞了",
@@ -250,8 +316,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时02分]"
         },
         {
           "title": "日本夫妇拍军服结婚照被痛骂",
@@ -261,8 +327,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时48分]"
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时02分]"
         },
         {
           "title": "中国足球小将夺冠",
@@ -273,8 +339,90 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时02分]"
+        },
+        {
+          "title": "柠季将接手哈根达斯中国内地门店，「冰淇淋中的劳斯莱斯」为什么卖不动了？柠季接手后可能会有哪些变化？",
+          "url": "https://www.zhihu.com/question/2045128511753647963",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时02分]"
+        },
+        {
+          "title": "印度拟购114架“阵风”，军方：必要时准备“辛杜尔行动2.0”",
+          "url": "https://news.ifeng.com/c/8tdOooJ8OqO",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时02分]"
+        },
+        {
+          "title": "伊朗将在3座城市为哈梅内伊举办葬礼",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B0%86%E5%9C%A83%E5%BA%A7%E5%9F%8E%E5%B8%82%E4%B8%BA%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%BE%E5%8A%9E%E8%91%AC%E7%A4%BC",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时02分]"
+        },
+        {
+          "title": "日本人造谣上海卖狗肉汉堡",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354774&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%80%A0%E8%B0%A3%E4%B8%8A%E6%B5%B7%E5%8D%96%E7%8B%97%E8%82%89%E6%B1%89%E5%A0%A1",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时02分]"
+        },
+        {
+          "title": "马宁成20年来唯一世界杯中国主裁判",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%AE%81%E6%88%9020%E5%B9%B4%E6%9D%A5%E5%94%AF%E4%B8%80%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E4%B8%BB%E8%A3%81%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时02分]"
+        },
+        {
+          "title": "印度提议炸掉喜马拉雅山",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354749&amp;topic_name=%E5%8D%B0%E5%BA%A6%E6%8F%90%E8%AE%AE%E7%82%B8%E6%8E%89%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%B1%B1",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时22分 ~ 07时02分]"
+        },
+        {
+          "title": "中国足球小将夺冠",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E5%A4%BA%E5%86%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时48分]"
+          "time_info": "[04时48分 ~ 07时02分]"
         },
         {
           "title": "中国三轮，全球爆单",
@@ -289,69 +437,12 @@
           "time_info": "[01时22分 ~ 04时48分]"
         },
         {
-          "title": "印度拟购114架“阵风”，军方：必要时准备“辛杜尔行动2.0”",
-          "url": "https://news.ifeng.com/c/8tdOooJ8OqO",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时48分]"
-        },
-        {
           "title": "警惕！日本新版“特高课”上线",
           "url": "https://www.baidu.com/s?wd=%E8%AD%A6%E6%83%95%EF%BC%81%E6%97%A5%E6%9C%AC%E6%96%B0%E7%89%88%E2%80%9C%E7%89%B9%E9%AB%98%E8%AF%BE%E2%80%9D%E4%B8%8A%E7%BA%BF",
           "source": "百度热搜",
           "ranks": [
             17,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时48分]"
-        },
-        {
-          "title": "伊朗将在3座城市为哈梅内伊举办葬礼",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B0%86%E5%9C%A83%E5%BA%A7%E5%9F%8E%E5%B8%82%E4%B8%BA%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%BE%E5%8A%9E%E8%91%AC%E7%A4%BC",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时48分]"
-        },
-        {
-          "title": "柠季将接手哈根达斯中国内地门店，「冰淇淋中的劳斯莱斯」为什么卖不动了？柠季接手后可能会有哪些变化？",
-          "url": "https://www.zhihu.com/question/2045128511753647963",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时48分]"
-        },
-        {
-          "title": "日本人造谣上海卖狗肉汉堡",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354774&amp;topic_name=%E6%97%A5%E6%9C%AC%E4%BA%BA%E9%80%A0%E8%B0%A3%E4%B8%8A%E6%B5%B7%E5%8D%96%E7%8B%97%E8%82%89%E6%B1%89%E5%A0%A1",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时48分]"
-        },
-        {
-          "title": "马宁成20年来唯一世界杯中国主裁判",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%AE%81%E6%88%9020%E5%B9%B4%E6%9D%A5%E5%94%AF%E4%B8%80%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E4%B8%BB%E8%A3%81%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -382,17 +473,6 @@
           "time_info": "[01时22分 ~ 04时48分]"
         },
         {
-          "title": "印度提议炸掉喜马拉雅山",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354749&amp;topic_name=%E5%8D%B0%E5%BA%A6%E6%8F%90%E8%AE%AE%E7%82%B8%E6%8E%89%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E5%B1%B1",
-          "source": "贴吧",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 04时48分]"
-        },
-        {
           "title": "以军称在黎南部开展定点行动 打击武装人员与武器设施",
           "url": "https://flash.jin10.com/detail/20260603005712451800",
           "source": "金十数据",
@@ -404,15 +484,37 @@
           "time_info": "01时22分"
         },
         {
-          "title": "中国足球小将夺冠",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E5%B0%8F%E5%B0%86%E5%A4%BA%E5%86%A0",
-          "source": "bilibili 热搜",
+          "title": "伊朗袭击位于科威特的美军基地",
+          "url": "https://flash.jin10.com/detail/20260603062608170800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国：以色列与黎巴嫩将于明日举行新一轮会谈。",
+          "url": "https://wallstreetcn.com/livenews/3113325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "据今日俄罗斯：中东地区发生爆炸，美国国防部的飞机紧急从以色列起飞。",
+          "url": "https://flash.jin10.com/detail/20260603062038984800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时48分"
+          "time_info": "07时02分"
         },
         {
           "title": "美国提出对巴西加征25%新关税，指后者存在不公平贸易行为",
@@ -424,6 +526,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "外资公募再增资，中国资产性价比吸引全球资金",
+          "url": "https://wallstreetcn.com/livenews/3113323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "克里姆林宫：俄罗斯总统普京与白俄罗斯总统卢卡申科进行了电话交谈，谈话中双方就进一步发展双边联盟合作的有关议题进行了讨论。",
@@ -443,9 +556,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "据伊朗德黑兰时报：有报告称，位于科威特的“阿里·萨利姆”（Ali Al-Salem）基地遭到袭击。",
+          "url": "https://flash.jin10.com/detail/20260603061931766800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国稀土公司将在南卡罗来纳州投资12亿美元建厂 以提高产量",
@@ -454,7 +578,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -465,7 +589,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -487,7 +611,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -509,9 +633,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "大量印度人排队报名学日语",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E9%87%8F%E5%8D%B0%E5%BA%A6%E4%BA%BA%E6%8E%92%E9%98%9F%E6%8A%A5%E5%90%8D%E5%AD%A6%E6%97%A5%E8%AF%AD&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国中央司令部：“亚伯拉罕·林肯”号航空母舰正在穿越阿拉伯海，继续支持美国对伊朗实施的封锁。美国军方已重新引导122艘商船改道，以确保合规。",
@@ -531,7 +666,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -542,9 +677,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "特朗普政府提出上诉，挑战要求退还IEEPA关税的法院裁决",
+          "url": "https://flash.jin10.com/detail/20260603060218736800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国国务卿鲁比奥：没有伊朗就没有黎巴嫩真主党，该组织完全是伊朗的代理人。",
@@ -558,13 +704,24 @@
           "time_info": "01时22分"
         },
         {
+          "title": "黎巴嫩与以色列在美国华盛顿会面。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3113316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "惠与（HPE）收涨19%，创该公司美国IPO以来最佳单日表现。",
           "url": "https://wallstreetcn.com/livenews/3113270",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -580,6 +737,28 @@
           "time_info": "01时22分"
         },
         {
+          "title": "美军在波斯湾袭击一艘油轮",
+          "url": "https://wallstreetcn.com/livenews/3113314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "伊朗南部格什姆岛传出爆炸声",
+          "url": "https://flash.jin10.com/detail/20260603054721403800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "高盛CEO苏德巍：愿意倾听美国纽约市长Mamdani就商业谈论更多问题。",
           "url": "https://wallstreetcn.com/livenews/3113196",
           "source": "华尔街见闻-快讯",
@@ -589,6 +768,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "OpenAI的CEO Altman将于周三会见美国白宫高级官员。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3113311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国国务卿鲁比奥：我们通过黎巴嫩政府及其议长收到了真主党的消息，称除非以色列攻击贝鲁特，否则真主党不会攻击以色列。",
@@ -602,15 +792,81 @@
           "time_info": "01时22分"
         },
         {
+          "title": "伊朗迈赫尔通讯社援引当地消息人士及居民的话报道称，格什姆岛地区传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260603054116703800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "受台风“蔷薇”影响 日本和歌山县发布最高等级5级警戒。",
+          "url": "https://flash.jin10.com/detail/20260603052810784800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "巴林铝业将按22亿美元收购法国铝冶炼厂",
+          "url": "https://wallstreetcn.com/livenews/3113309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "老挝国家主席夫人和中国萌娃贴贴",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E6%8C%9D%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E5%A4%AB%E4%BA%BA%E5%92%8C%E4%B8%AD%E5%9B%BD%E8%90%8C%E5%A8%83%E8%B4%B4%E8%B4%B4",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "美国国务卿鲁比奥：美国正在讨论任命一名官员协调埃博拉病毒的应对工作。",
           "url": "https://flash.jin10.com/detail/20260603035037183800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "加拿大政府负责加美贸易的部长勒布朗：我们有信心与美国和墨西哥就汽车原产地规则进行讨论。",
+          "url": "https://flash.jin10.com/detail/20260603052759987800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "周二（6月2日）纽约尾盘，美国10年期基准国债收益率跌0.98个基点，报4.4433%，在V形反转行情中、于北京时间19:10刷新日低至4.4217%。 两年期美债收益率涨1.03个基点，报4.0431%，19:06也曾刷新日低至4.0060%。",
+          "url": "https://wallstreetcn.com/livenews/3113308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国国务卿鲁比奥：我们取得了显著成效。我可以列举出很多例子，说明我们在危机爆发前就起到了缓和局势的作用，或者结束了正在进行的战争，我为我们在这方面所做的工作感到非常自豪。",
@@ -624,15 +880,37 @@
           "time_info": "01时22分"
         },
         {
+          "title": "特朗普要求伊朗就核问题作出更坚定的承诺",
+          "url": "https://flash.jin10.com/detail/20260603052655387800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收涨1.8%。 热门中概股里，腾讯初步收涨9.3%，美团涨6.4%，理想涨6.1%，阿里涨4.3%，比亚迪涨4.2%，百度涨3.4%，日月光半导体涨2.7%，网易涨1.3%，拼多多涨1%。",
           "url": "https://wallstreetcn.com/livenews/3113262",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "【伊朗南部格什姆岛传出爆炸声】当地时间6月3日凌晨，据伊朗南部格什姆岛当地居民报告称，听到该地附近传出爆炸声。目前尚不清楚爆炸的具体性质，伊朗官方也暂未就爆炸原因发表评论。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3113307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国制裁伊朗加密货币交易平台及相关人员",
@@ -641,7 +919,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
         },
@@ -663,9 +941,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "伊朗媒体Mehr：Qeshm Island区域听到爆炸声。",
+          "url": "https://wallstreetcn.com/livenews/3113306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "印度拟购114架“阵风”战机",
@@ -696,9 +985,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "加拿大政府负责加美贸易的部长勒布朗：我们一直在为美国301条款关税调查做准备。",
+          "url": "https://flash.jin10.com/detail/20260603052314236800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "黎巴嫩真主党不会接受与以色列之间的“局部停火”。（法新社）",
@@ -710,6 +1010,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "加拿大政府负责加美贸易的部长勒布朗：美国贸易谈判已恢复数月。",
+          "url": "https://flash.jin10.com/detail/20260603052311217800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "受台风“蔷薇”影响，日本和歌山县发布最高等级5级警戒。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3113303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "加拿大负责美国贸易事务的部长Leblanc：与美国贸易代表格里尔讨论301调查等问题。",
+          "url": "https://wallstreetcn.com/livenews/3113302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     }
