@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T02:06:02.707758+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-06-10T04:57:41.709060+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 52,
+      "match_count": 77,
       "titles": [
         {
           "title": "中国海事巡航期间发现疑似日本飞机",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
         },
         {
           "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
         },
         {
           "title": "日本多次跟监辽宁舰航母编队，国防部回应",
@@ -37,19 +37,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
         },
         {
           "title": "央视披露：美国曾关闭GPS信号让中国船只失去方向，被迫接受美方登船检查，此后中国开启北斗系统自研之路",
           "url": "https://www.cls.cn/detail/2395235",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
         },
         {
           "title": "外媒称美方请中国恢复对日本的稀土出口",
@@ -59,8 +60,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
         },
         {
           "title": "韩国议员窜访台湾，外交部表态",
@@ -70,8 +71,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
+        },
+        {
+          "title": "伊朗称过去24小时未在海峡发起进攻性空中行动",
+          "url": "https://flash.jin10.com/detail/20260610044159022800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "行业周报：美国上周API原油库存锐减超900万桶",
+          "url": "https://wallstreetcn.com/livenews/3117017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "美媒披露美伊核谈判四大议题：伊朗暂停铀浓缩15年、稀释现有浓缩铀、拆除核设施、接受“突击检查”",
@@ -80,9 +103,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "美国至6月5日当周API原油库存变化值录得-911.9万桶，为2026年1月30日当周以来最大降幅。",
+          "url": "https://flash.jin10.com/detail/20260610044025548800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美国白宫AI政策顾问Thomas Lind将离职。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3117016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "据纽约时报：美国认为伊朗将同意暂停铀浓缩活动15年。",
@@ -91,9 +136,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "美国至6月5日当周API原油进口 -35.8万桶，前值54.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260610043650257800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "伊朗：以色列最新一轮袭击造成两名防控部队士兵丧生。",
@@ -102,9 +158,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "伊朗队全员佩戴「168」纪念徽章出征世界杯，这一举动有何深远意义？",
+          "url": "https://www.zhihu.com/question/2047657469275641746",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
         },
         {
           "title": "据纽约时报：美国与伊朗在谈判中聚焦四个核问题。",
@@ -113,9 +181,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "美国至6月5日当周API投产原油量 26.2万桶/日，前值18.5万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260610043638150800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "据纽约时报，美国与伊朗在磋商中聚焦于四个核问题。 美国认为，伊朗同意暂停铀浓缩活动15年。 标普500指数跌幅收窄至1.2%，道指跌幅不足0.5%，纳指跌2.1%，半导体指数跌幅也收窄至4.8%。",
@@ -124,9 +203,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3117014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "面对记者提问，高市早苗嘀咕“烦死了”被麦克风捕捉",
@@ -136,30 +226,226 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
+        },
+        {
+          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
+          "url": "https://www.cls.cn/detail/2395258",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
         },
         {
           "title": "一个模仿印度人制作饮料的视频火了",
           "url": "https://s.weibo.com/weibo?q=%E4%B8%80%E4%B8%AA%E6%A8%A1%E4%BB%BF%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%88%B6%E4%BD%9C%E9%A5%AE%E6%96%99%E7%9A%84%E8%A7%86%E9%A2%91%E7%81%AB%E4%BA%86&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
         },
         {
-          "title": "伊朗队全员佩戴「168」纪念徽章出征世界杯，这一举动有何深远意义？",
-          "url": "https://www.zhihu.com/question/2047657469275641746",
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
+        },
+        {
+          "title": "被美国国防部盯上 药明康德能做什么",
+          "url": "https://www.toutiao.com/trending/7649328512267980331/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
+        },
+        {
+          "title": "释疑｜史上最贵世界杯？想去美国看场球，到底要花多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33315985",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
+        },
+        {
+          "title": "印度14.5亿人口，也生不动了",
+          "url": "https://news.ifeng.com/c/8tosTkc8mLZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
+        },
+        {
+          "title": "国防部：中国统一大势不可阻挡",
+          "url": "https://www.toutiao.com/trending/7649301971325681706/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
+        },
+        {
+          "title": "法国、澳大利亚等19国及有关欧盟委员，发表联合声明",
+          "url": "https://news.ifeng.com/c/8tozuj0anSg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
+        },
+        {
+          "title": "比亚迪、阿里等回应“被美国防部列入中国军工企业名单”：没有正当理由，无任何依据",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33344289",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
+        },
+        {
+          "title": "黄仁勋做客韩国脱口秀节目，意外带火了自己鼻子(图)",
+          "url": "https://news.ifeng.com/c/8tofGEzRjfx",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
+        },
+        {
+          "title": "iOS 27 迎来中国区功能更新，支持节假日调休闹钟，你觉得有哪些功能好用？还有哪些你期望更新的功能？",
+          "url": "https://www.zhihu.com/question/2047582801570915436",
           "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
+        },
+        {
+          "title": "针对中国？印度空调爆炸烧死前高官，却仍在收紧压缩机进口",
+          "url": "https://news.ifeng.com/c/8tontSRAbju",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
+        },
+        {
+          "title": "中国为什么要对日本断供钨",
+          "url": "https://www.toutiao.com/trending/7649080538980007955/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
+        },
+        {
+          "title": "新质观察｜从“跟风”到“原创”：中国创新药如何筑牢地基",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33337089",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
+        },
+        {
+          "title": "中国首颗时间胶囊落地四川",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E9%A2%97%E6%97%B6%E9%97%B4%E8%83%B6%E5%9B%8A%E8%90%BD%E5%9C%B0%E5%9B%9B%E5%B7%9D",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
+        },
+        {
+          "title": "国际足联友谊赛，中国男足 0 比 0 泰国，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2047749874011956730",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
+        },
+        {
+          "title": "中国海事巡航期间发现疑似日本飞机",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E4%BA%8B%E5%B7%A1%E8%88%AA%E6%9C%9F%E9%97%B4%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
+        },
+        {
+          "title": "“中国足球什么都不缺 只缺胜利”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E7%BC%BA+%E5%8F%AA%E7%BC%BA%E8%83%9C%E5%88%A9%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时05分 ~ 04时57分]"
+        },
+        {
+          "title": "印度人热死也不用中国空调",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354993&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BA%BA%E7%83%AD%E6%AD%BB%E4%B9%9F%E4%B8%8D%E7%94%A8%E4%B8%AD%E5%9B%BD%E7%A9%BA%E8%B0%83",
+          "source": "贴吧",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
+          "time_info": "[02时06分 ~ 04时57分]"
         },
         {
           "title": "纽约联储调查：美国求职者前景预期恶化，通胀预期小幅回落，家庭财务前景创4年最差",
@@ -173,169 +459,15 @@
           "time_info": "[02时05分 ~ 02时06分]"
         },
         {
-          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
-          "url": "https://www.cls.cn/detail/2395258",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
-        },
-        {
-          "title": "特朗普：美伊谈判进入“最后关头”",
-          "url": "https://news.ifeng.com/c/8tooQUA09O3",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
-        },
-        {
-          "title": "释疑｜史上最贵世界杯？想去美国看场球，到底要花多少钱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33315985",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
-        },
-        {
-          "title": "印度14.5亿人口，也生不动了",
-          "url": "https://news.ifeng.com/c/8tosTkc8mLZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
-        },
-        {
-          "title": "国防部：中国统一大势不可阻挡",
-          "url": "https://www.toutiao.com/trending/7649301971325681706/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
-        },
-        {
-          "title": "法国、澳大利亚等19国及有关欧盟委员，发表联合声明",
-          "url": "https://news.ifeng.com/c/8tozuj0anSg",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
-        },
-        {
-          "title": "比亚迪、阿里等回应“被美国防部列入中国军工企业名单”：没有正当理由，无任何依据",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33344289",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
-        },
-        {
-          "title": "黄仁勋做客韩国脱口秀节目，意外带火了自己鼻子(图)",
-          "url": "https://news.ifeng.com/c/8tofGEzRjfx",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
-        },
-        {
-          "title": "iOS 27 迎来中国区功能更新，支持节假日调休闹钟，你觉得有哪些功能好用？还有哪些你期望更新的功能？",
-          "url": "https://www.zhihu.com/question/2047582801570915436",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
-        },
-        {
-          "title": "针对中国？印度空调爆炸烧死前高官，却仍在收紧压缩机进口",
-          "url": "https://news.ifeng.com/c/8tontSRAbju",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
-        },
-        {
-          "title": "被美国国防部盯上 药明康德能做什么",
-          "url": "https://www.toutiao.com/trending/7649328512267980331/",
-          "source": "今日头条",
+          "title": "跌跌不休!印度抛黄金救卢比",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354999&amp;topic_name=%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%21%E5%8D%B0%E5%BA%A6%E6%8A%9B%E9%BB%84%E9%87%91%E6%95%91%E5%8D%A2%E6%AF%94",
+          "source": "贴吧",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
-        },
-        {
-          "title": "中国为什么要对日本断供钨",
-          "url": "https://www.toutiao.com/trending/7649080538980007955/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
-        },
-        {
-          "title": "新质观察｜从“跟风”到“原创”：中国创新药如何筑牢地基",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33337089",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
-        },
-        {
-          "title": "中国首颗时间胶囊落地四川",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E9%A2%97%E6%97%B6%E9%97%B4%E8%83%B6%E5%9B%8A%E8%90%BD%E5%9C%B0%E5%9B%9B%E5%B7%9D",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
-        },
-        {
-          "title": "国际足联友谊赛，中国男足 0 比 0 泰国，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2047749874011956730",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
+          "time_info": "[02时06分 ~ 04时57分]"
         },
         {
           "title": "视频丨朝鲜专场文艺演出中，这些中国歌曲引起全场共鸣",
@@ -349,26 +481,15 @@
           "time_info": "[02时05分 ~ 02时06分]"
         },
         {
-          "title": "中国海事巡航期间发现疑似日本飞机",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E4%BA%8B%E5%B7%A1%E8%88%AA%E6%9C%9F%E9%97%B4%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA",
-          "source": "百度热搜",
+          "title": "印度博主蹭吃白嫖被拒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354970&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%8D%9A%E4%B8%BB%E8%B9%AD%E5%90%83%E7%99%BD%E5%AB%96%E8%A2%AB%E6%8B%92",
+          "source": "贴吧",
           "ranks": [
-            23
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
-        },
-        {
-          "title": "“中国足球什么都不缺 只缺胜利”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E4%BB%80%E4%B9%88%E9%83%BD%E4%B8%8D%E7%BC%BA+%E5%8F%AA%E7%BC%BA%E8%83%9C%E5%88%A9%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时05分 ~ 02时06分]"
+          "time_info": "[02时06分 ~ 04时57分]"
         },
         {
           "title": "中国男足国字号6月表现",
@@ -393,26 +514,48 @@
           "time_info": "[02时05分 ~ 02时06分]"
         },
         {
+          "title": "美国至6月5日当周API成品油进口 -5.1万桶/日，前值33.4万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260610043624847800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
           "title": "美媒：美官员称伊朗无人机致美军直升机坠毁 但尚未确认是否为蓄意攻击",
           "url": "https://flash.jin10.com/detail/20260610012352245800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
         {
-          "title": "印度人热死也不用中国空调",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354993&amp;topic_name=%E5%8D%B0%E5%BA%A6%E4%BA%BA%E7%83%AD%E6%AD%BB%E4%B9%9F%E4%B8%8D%E7%94%A8%E4%B8%AD%E5%9B%BD%E7%A9%BA%E8%B0%83",
-          "source": "贴吧",
+          "title": "美国至6月5日当周API取暖油库存 -40.7万桶，前值49.8万桶。",
+          "url": "https://flash.jin10.com/detail/20260610043558583800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美国至6月5日当周API库欣原油库存 -112.5万桶，前值-27.9万桶。",
+          "url": "https://flash.jin10.com/detail/20260610043543285800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "据Axios报道，伊朗无人机击中美国直升机，并导致后者坠落。 美方的调查尚未确定该事件是否是（伊朗）故意的。 标普跌幅收窄至不足1.5%，纳指跌超2.5%。",
@@ -421,9 +564,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
+          "url": "https://wallstreetcn.com/articles/3774230",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美国至6月5日当周API精炼油库存 131.6万桶，预期-21.5万桶，前值-21.4万桶。",
+          "url": "https://flash.jin10.com/detail/20260610043531477800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美国副总统万斯告诉CBS，伊朗协议可能一周内达成，也可能需要数月。 肯定能在美国中期选举之前达成伊朗协议。 WTI原油期货跌3.15%，暂报88.42美元。",
+          "url": "https://wallstreetcn.com/livenews/3117010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "据Axios：一位美国高级官员表示，调查认定一架伊朗无人机撞击了这架直升机并导致其坠毁。该官员称，调查尚未确定此次撞击是否为蓄意行为，相关事宜仍在调查中。",
@@ -432,9 +608,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "美国至6月5日当周API汽油库存 -119.1万桶，预期-61.4万桶，前值345.4万桶。",
+          "url": "https://flash.jin10.com/detail/20260610043512358800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "美国财政部拍卖580亿美元三年期国债，得标利率4.192%（4月7日为3.897%），投标倍数2.64（前次为2.54）。",
@@ -443,9 +630,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "美国至6月5日当周API原油库存 -911.9万桶，预期-342.1万桶，前值-675.7万桶。",
+          "url": "https://flash.jin10.com/detail/20260610043456862800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.39%，报6298.64点，在持续下挫的行情中、北京时间00:42刷新日低至6220.58点，之后收复部分失地。 热门中概股里，小马智行初步收跌3.7%，蔚来、理想跌2.7%，日月光半导体跌1.4%，美团、网易、百度、腾讯涨超1%，世纪互联涨4.8%，亿珑能源涨54.3%。 ETF中，中概互联网指数ETF（KWEB）收涨0.31%，中国科技指数ETF（CQQQ）收涨2.25%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.21%，XtrackersHarvest中证50（ASHS）收涨0.95%，德银嘉实沪深300指数ETF（ASHR）收涨1.27%。",
+          "url": "https://wallstreetcn.com/livenews/3117007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "美国三年期国债收益率在拍卖后保持稳定，最新下跌1.8个基点，报4.189% 。",
@@ -454,20 +663,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
         {
-          "title": "跌跌不休!印度抛黄金救卢比",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354999&amp;topic_name=%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%21%E5%8D%B0%E5%BA%A6%E6%8A%9B%E9%BB%84%E9%87%91%E6%95%91%E5%8D%A2%E6%AF%94",
-          "source": "贴吧",
+          "title": "特朗普淡化美直升机坠毁事件：没什么大不了",
+          "url": "https://flash.jin10.com/detail/20260610042428986800",
+          "source": "金十数据",
           "ranks": [
-            13
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时06分"
+          "time_info": "04时57分"
         },
         {
           "title": "以军袭击黎巴嫩已致3666人死亡",
@@ -476,9 +685,42 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "伊朗副外长表示，德黑兰不是霍尔木兹海峡上空针对美军“阿帕奇”直升机袭击事件的幕后主使。（半岛电视台）",
+          "url": "https://wallstreetcn.com/livenews/3117002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美国至6月5日当周API原油库存将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260610042000000800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "法国总统马克龙邀请沙特王储与卡塔尔埃米尔参加其主办的七国集团（G7）峰会。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3117001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "特朗普称伊朗击落一架美军阿帕奇直升机",
@@ -487,9 +729,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "中国足球小将抵达巴西参赛",
+          "url": "https://www.douyin.com/hot/2528337",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "Anthropic：Claude Mythos 5最初将通过“Glasswing项目”部署，并与美国政府合作，作为Claude Mythos预览版的升级版本。",
@@ -498,7 +751,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -509,7 +762,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -520,7 +773,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -531,7 +784,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -542,18 +795,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "印度博主蹭吃白嫖被拒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354970&amp;topic_name=%E5%8D%B0%E5%BA%A6%E5%8D%9A%E4%B8%BB%E8%B9%AD%E5%90%83%E7%99%BD%E5%AB%96%E8%A2%AB%E6%8B%92",
-          "source": "贴吧",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
         },
@@ -564,9 +806,31 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "伊朗议会官员：武装部队已做好应对任何侵略的准备",
+          "url": "https://wallstreetcn.com/livenews/3116991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美军称在尼日利亚打死约200名“伊斯兰国”关联武装人员",
+          "url": "https://wallstreetcn.com/livenews/3116990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "美国能源部维持2026-27年布油价格预期不变，上调美国产量预期",
@@ -575,9 +839,31 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
+        },
+        {
+          "title": "伊朗外长：武装部队对侵犯领空行为保持“戒备”状态",
+          "url": "https://wallstreetcn.com/livenews/3116988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "国际油价收跌约3%，特朗普的能源部长称霍尔木兹海峡通航船舶增加",
+          "url": "https://wallstreetcn.com/livenews/3116986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         }
       ]
     }
