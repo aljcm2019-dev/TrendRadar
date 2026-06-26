@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T01:47:58.555947+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-06-27T03:47:50.540335+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 60,
+      "match_count": 93,
       "titles": [
         {
           "title": "日本对华外交是否在朝错误方向发展？岸田文雄答凤凰",
@@ -15,8 +15,75 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "日本多个经济团体来华参观访问，外交部回应",
+          "url": "https://news.ifeng.com/c/8uGxUkiEJuX",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "如何看待韩国网友怒骂德国故意输球，日本不帮韩国队出线？客观分析，韩国出线概率真的很渺茫吗？",
+          "url": "https://www.zhihu.com/question/2053827210838893606",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "李在明称担忧中国渔船“非法捕捞”，外交部回应",
+          "url": "https://news.ifeng.com/c/8uGxuqnSu3O",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "2名中国公民在委内瑞拉地震中遇难",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33456921",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
+          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "哈兰德替补！挪威VS法国",
+          "url": "https://www.toutiao.com/trending/7654936564875493385/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
         },
         {
           "title": "据以色列i24News：一位以色列官员表示，在真主党解除武装且不再从黎巴嫩对以色列构成威胁之前，以色列国防军不会从黄线撤军。该官员称“我们将保持安全区的行动自由。”",
@@ -30,81 +97,70 @@
           "time_info": "01时47分"
         },
         {
-          "title": "日本多个经济团体来华参观访问，外交部回应",
-          "url": "https://news.ifeng.com/c/8uGxUkiEJuX",
-          "source": "凤凰网",
+          "title": "据以色列i24News：黎巴嫩总统奥恩表示，该框架协议标志着“恢复黎巴嫩对其完整、统一领土主权的第一步”，并将使黎巴嫩公民能够返回家园。",
+          "url": "https://flash.jin10.com/detail/20260627031617192800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
         },
         {
-          "title": "如何看待韩国网友怒骂德国故意输球，日本不帮韩国队出线？客观分析，韩国出线概率真的很渺茫吗？",
-          "url": "https://www.zhihu.com/question/2053827210838893606",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "李在明称担忧中国渔船“非法捕捞”，外交部回应",
-          "url": "https://news.ifeng.com/c/8uGxuqnSu3O",
-          "source": "凤凰网",
+          "title": "据以色列i24News：黎巴嫩总统奥恩感谢美国总统特朗普为促成黎巴嫩与以色列的谈判所做出的努力，最终促成了今晚协议的签署。",
+          "url": "https://flash.jin10.com/detail/20260627031556237800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
         },
         {
-          "title": "特朗普指责伊朗攻击霍尔木兹海峡船只违反停火协议",
-          "url": "https://wallstreetcn.com/livenews/3125410",
+          "title": "Anthropic仍在与美国政府接触，希望能让Mythos重返市场。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3125437",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
         },
         {
-          "title": "美国天然气钻井机单周增幅创四年最大",
-          "url": "https://wallstreetcn.com/livenews/3125409",
+          "title": "据华尔街日报：日产美国首席执行官希望重振这家汽车制造商的“前卫”形象。",
+          "url": "https://flash.jin10.com/detail/20260627031218021800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "美国商务部长卢特尼克声称：欧洲刚刚通过了关于美欧贸易协议的历史性立法。 欧洲首次将关税降至零。这是我们伟大的汽车制造商、渔民、牧场主以及众多生产商的历史性成就，他们终于在与欧洲贸易时拥有了公平的竞争环境。",
+          "url": "https://wallstreetcn.com/livenews/3125436",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
         },
         {
-          "title": "2名中国公民在委内瑞拉地震中遇难",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33456921",
-          "source": "澎湃新闻",
+          "title": "挪威vs法国首发出炉",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8C%AA%E5%A8%81vs%E6%B3%95%E5%9B%BD%E9%A6%96%E5%8F%91%E5%87%BA%E7%82%89",
+          "source": "bilibili 热搜",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
-          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
         },
         {
           "title": "黎巴嫩消息人士：我们绝不接受任何为以色列继续留在黎巴嫩领土上辩护或允许其继续存在的表态。",
@@ -118,6 +174,39 @@
           "time_info": "01时47分"
         },
         {
+          "title": "以总理：黎真主党解除武装前 以军将驻留黎南部“安全区”",
+          "url": "https://flash.jin10.com/detail/20260627031157919800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "美国法官未立即驳回对印度阿达尼的刑事指控",
+          "url": "https://wallstreetcn.com/livenews/3125435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "挪威vs法国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%8C%AA%E5%A8%81vs%E6%B3%95%E5%9B%BD%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
           "title": "韩国 5200 万人竟开了 1.08 亿股票账户，如何看待韩国股市当前的氛围？",
           "url": "https://www.zhihu.com/question/2053782944448082432",
           "source": "知乎",
@@ -129,6 +218,30 @@
           "time_info": "01时47分"
         },
         {
+          "title": "特朗普指责伊朗攻击霍尔木兹海峡船只违反停火协议",
+          "url": "https://wallstreetcn.com/livenews/3125410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "美国天然气钻井机单周增幅创四年最大",
+          "url": "https://wallstreetcn.com/livenews/3125409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
           "title": "外资出逃、散户爆买！摩根大通详解韩国股市巨震背后的资金博弈",
           "url": "https://wallstreetcn.com/articles/3775570",
           "source": "华尔街见闻",
@@ -136,19 +249,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
         },
         {
-          "title": "伊朗伊斯兰革命卫队发言人：驳斥有关“与美国建立霍尔木兹海峡‘热线’”的说法，海峡是伊朗的领海，与美国没有任何关系。（NourNews）",
-          "url": "https://wallstreetcn.com/livenews/3125406",
-          "source": "华尔街见闻-快讯",
+          "title": "世界杯：挪威vs法国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E6%8C%AA%E5%A8%81vs%E6%B3%95%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
-            7
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
         },
         {
           "title": "被曝出差时多次叫情人去酒店，高市早苗亲信遭撤职",
@@ -158,8 +272,286 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队发言人：驳斥有关“与美国建立霍尔木兹海峡‘热线’”的说法，海峡是伊朗的领海，与美国没有任何关系。（NourNews）",
+          "url": "https://wallstreetcn.com/livenews/3125406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "中国车热卖！5月欧洲毎10辆新车中就有一辆中国品牌",
+          "url": "https://www.cls.cn/detail/2410110",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "内塔尼亚胡演讲遭打断，民众大喊“滚回家去”",
+          "url": "https://v.ifeng.com/c/8uGycXOA2ah",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "不挑对手直面巴西，日本挑战世界杯淘汰赛魔咒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33458371",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
+          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "印度游客躲深山架明火烧烤",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355667&amp;topic_name=%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E8%BA%B2%E6%B7%B1%E5%B1%B1%E6%9E%B6%E6%98%8E%E7%81%AB%E7%83%A7%E7%83%A4",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "世界杯小组赛 I 组，挪威 vs 法国，如何评价本场比赛？哈兰德和姆巴佩会上演进球大战吗？",
+          "url": "https://www.zhihu.com/question/2053791037974483526",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "高温能不能用空调？法国极左翼、极右翼领导人打起嘴仗",
+          "url": "https://news.ifeng.com/c/8uGwKqQfQ1k",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "知情人称因出口管制对日本企业造成冲击，日本驻华大使多次请求与中方会面，但均未成功，传递了什么信号？",
+          "url": "https://www.zhihu.com/question/2053182874514364148",
+          "source": "知乎",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "韩国危!德国输球坑惨太极虎",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355657&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%8D%B1%21%E5%BE%B7%E5%9B%BD%E8%BE%93%E7%90%83%E5%9D%91%E6%83%A8%E5%A4%AA%E6%9E%81%E8%99%8E",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "辽宁舰编队完成远海实战化训练，让号称中国海军「御用摄影师」的日本防卫省拍不到、跟不上，反映出哪些信息？",
+          "url": "https://www.zhihu.com/question/2053125507613470786",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "韩国队一天被“坑”三次",
+          "url": "https://www.toutiao.com/trending/7655539296639749642/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "法国与挪威的 “新绝代双骄”对决成为焦点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33460300",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "中国妇女报：把女性关铁笼游街宣扬封建糟粕的“摆拍”，必须严打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33459112",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "法国人热到不提环保了",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%BA%BA%E7%83%AD%E5%88%B0%E4%B8%8D%E6%8F%90%E7%8E%AF%E4%BF%9D%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "强势之组,荷兰日本瑞典携手晋级",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355656&amp;topic_name=%E5%BC%BA%E5%8A%BF%E4%B9%8B%E7%BB%84%2C%E8%8D%B7%E5%85%B0%E6%97%A5%E6%9C%AC%E7%91%9E%E5%85%B8%E6%90%BA%E6%89%8B%E6%99%8B%E7%BA%A7",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "关关难过关关过，伊朗终于迎来世界杯命运一战",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33460376",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "日媒承认：中国发动机技术赶超日企",
+          "url": "https://www.toutiao.com/trending/7654876209050091556/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "高开低走,韩国小组赛两连败",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355637&amp;topic_name=%E9%AB%98%E5%BC%80%E4%BD%8E%E8%B5%B0%2C%E9%9F%A9%E5%9B%BD%E5%B0%8F%E7%BB%84%E8%B5%9B%E4%B8%A4%E8%BF%9E%E8%B4%A5",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "挪威vs法国",
+          "url": "https://www.douyin.com/hot/2548362",
+          "source": "抖音",
+          "ranks": [
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "俄前防长去世 普京向其亲属表示慰问",
+          "url": "https://www.toutiao.com/trending/7655677561623724082/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "太平年最佳中国电视剧",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%B9%B3%E5%B9%B4%E6%9C%80%E4%BD%B3%E4%B8%AD%E5%9B%BD%E7%94%B5%E8%A7%86%E5%89%A7%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "不安空调,法国发达成笑话",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355644&amp;topic_name=%E4%B8%8D%E5%AE%89%E7%A9%BA%E8%B0%83%2C%E6%B3%95%E5%9B%BD%E5%8F%91%E8%BE%BE%E6%88%90%E7%AC%91%E8%AF%9D",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 03时47分]"
+        },
+        {
+          "title": "美国财长贝森特：我们不得不进入伊朗，因为他们如果想拥有核武器，两周内就会成功。",
+          "url": "https://flash.jin10.com/detail/20260627030538720800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
         },
         {
           "title": "美国疾控中心：埃博拉在美国传播的风险仍然较低。",
@@ -173,15 +565,15 @@
           "time_info": "01时47分"
         },
         {
-          "title": "世界杯：挪威vs法国",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E6%8C%AA%E5%A8%81vs%E6%B3%95%E5%9B%BD",
-          "source": "百度热搜",
+          "title": "美国总统特朗普：伊朗仍然具备某些（军事打击）能力，但不太大。 （美国）汽油价格很快就会跌到每加仑2.5美元。",
+          "url": "https://wallstreetcn.com/livenews/3125432",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
         },
         {
           "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
@@ -217,26 +609,15 @@
           "time_info": "01时47分"
         },
         {
-          "title": "中国车热卖！5月欧洲毎10辆新车中就有一辆中国品牌",
-          "url": "https://www.cls.cn/detail/2410110",
-          "source": "财联社热门",
+          "title": "以官员披露三方框架协议细节：以军继续驻留黎南部“安全区”",
+          "url": "https://wallstreetcn.com/livenews/3125430",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "内塔尼亚胡演讲遭打断，民众大喊“滚回家去”",
-          "url": "https://v.ifeng.com/c/8uGycXOA2ah",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
         },
         {
           "title": "美国疾控中心将刚果埃博拉疫情应对级别提升至最高级别的“1级”。",
@@ -250,33 +631,22 @@
           "time_info": "01时47分"
         },
         {
+          "title": "据CNBC：Anthropic仍在与美国政府谈判，以期让Mythos重返市场。",
+          "url": "https://flash.jin10.com/detail/20260627025729105800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
           "title": "以色列和黎巴嫩官员预计，两国政府之间的框架协议将在今天宣布。",
           "url": "https://wallstreetcn.com/livenews/3125403",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "不挑对手直面巴西，日本挑战世界杯淘汰赛魔咒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33458371",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
-          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
-          "source": "凤凰网",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -294,26 +664,26 @@
           "time_info": "01时47分"
         },
         {
-          "title": "印度游客躲深山架明火烧烤",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355667&amp;topic_name=%E5%8D%B0%E5%BA%A6%E6%B8%B8%E5%AE%A2%E8%BA%B2%E6%B7%B1%E5%B1%B1%E6%9E%B6%E6%98%8E%E7%81%AB%E7%83%A7%E7%83%A4",
-          "source": "贴吧",
+          "title": "据Politico：美国商品期货交易委员会（CFTC）正在调查预测市场巨头Polymarket。",
+          "url": "https://flash.jin10.com/detail/20260627025502410800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
         },
         {
-          "title": "高温能不能用空调？法国极左翼、极右翼领导人打起嘴仗",
-          "url": "https://news.ifeng.com/c/8uGwKqQfQ1k",
-          "source": "凤凰网",
+          "title": "报道：美国政府将决定谁可以使用新版ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/3125428",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
         },
         {
           "title": "美国至6月26日当周天然气钻井总数 125口，前值122口。",
@@ -327,6 +697,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "以色列驻美国大使：重申以色列只有在彻底消除黎巴嫩的“恐怖主义”之后才能从黎巴嫩撤军。",
+          "url": "https://flash.jin10.com/detail/20260627024821969800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
           "title": "特朗普威胁对任何征收数字服务税的国家加征100%关税",
           "url": "https://wallstreetcn.com/livenews/3125400",
           "source": "华尔街见闻-快讯",
@@ -338,15 +719,26 @@
           "time_info": "01时47分"
         },
         {
-          "title": "知情人称因出口管制对日本企业造成冲击，日本驻华大使多次请求与中方会面，但均未成功，传递了什么信号？",
-          "url": "https://www.zhihu.com/question/2053182874514364148",
-          "source": "知乎",
+          "title": "以色列交通部：美军将加速撤离停在以机场的美国军机",
+          "url": "https://wallstreetcn.com/livenews/3125427",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
+        },
+        {
+          "title": "美国总统特朗普结束讲话。",
+          "url": "https://flash.jin10.com/detail/20260627024622659800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
         },
         {
           "title": "美国政府报告：炼油厂产能利在2025年下滑26.3万桶/日。",
@@ -354,28 +746,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "韩国危!德国输球坑惨太极虎",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355657&amp;topic_name=%E9%9F%A9%E5%9B%BD%E5%8D%B1%21%E5%BE%B7%E5%9B%BD%E8%BE%93%E7%90%83%E5%9D%91%E6%83%A8%E5%A4%AA%E6%9E%81%E8%99%8E",
-          "source": "贴吧",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "法国与挪威的 “新绝代双骄”对决成为焦点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33460300",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -393,26 +763,15 @@
           "time_info": "01时47分"
         },
         {
-          "title": "世界杯小组赛 I 组，挪威 vs 法国，如何评价本场比赛？哈兰德和姆巴佩会上演进球大战吗？",
-          "url": "https://www.zhihu.com/question/2053791037974483526",
-          "source": "知乎",
+          "title": "美国、以色列、黎巴嫩签署三边框架协议。",
+          "url": "https://wallstreetcn.com/livenews/3125425",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "韩国队一天被“坑”三次",
-          "url": "https://www.toutiao.com/trending/7655539296639749642/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
         },
         {
           "title": "美国至6月26日当周石油钻井总数 440口，前值433口。",
@@ -437,26 +796,26 @@
           "time_info": "01时47分"
         },
         {
-          "title": "辽宁舰编队完成远海实战化训练，让号称中国海军「御用摄影师」的日本防卫省拍不到、跟不上，反映出哪些信息？",
-          "url": "https://www.zhihu.com/question/2053125507613470786",
-          "source": "知乎",
+          "title": "美国国务卿鲁比奥：以色列与黎巴嫩在华盛顿会谈后达成框架协议。 未来还需付出更多努力。",
+          "url": "https://wallstreetcn.com/livenews/3125421",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
         },
         {
-          "title": "中国妇女报：把女性关铁笼游街宣扬封建糟粕的“摆拍”，必须严打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33459112",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：（谈委内瑞拉）他们那里发生了强烈地震，很多人丧生。我们派了很多人去那里提供援助。委内瑞拉一直都很棒，我们和委内瑞拉的关系很好。",
+          "url": "https://flash.jin10.com/detail/20260627024123678800",
+          "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
         },
         {
           "title": "美国立法者们（国会山议员们）呼吁对Polymarket的欺骗性广告展开调查。（华尔街日报）",
@@ -470,6 +829,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "黎巴嫩真主党议员法德拉拉：除非在美国支持下发动内战，否则黎巴嫩当局无法执行“华盛顿协议”。",
+          "url": "https://flash.jin10.com/detail/20260627023750535800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
           "title": "美国股市涨幅扩大，标普500指数、道指涨0.3%，纳指涨0.2%。",
           "url": "https://wallstreetcn.com/livenews/3125394",
           "source": "华尔街见闻-快讯",
@@ -481,37 +851,15 @@
           "time_info": "01时47分"
         },
         {
-          "title": "强势之组,荷兰日本瑞典携手晋级",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355656&amp;topic_name=%E5%BC%BA%E5%8A%BF%E4%B9%8B%E7%BB%84%2C%E8%8D%B7%E5%85%B0%E6%97%A5%E6%9C%AC%E7%91%9E%E5%85%B8%E6%90%BA%E6%89%8B%E6%99%8B%E7%BA%A7",
-          "source": "贴吧",
+          "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
+          "url": "https://wallstreetcn.com/livenews/3125418",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "法国人热到不提环保了",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E4%BA%BA%E7%83%AD%E5%88%B0%E4%B8%8D%E6%8F%90%E7%8E%AF%E4%BF%9D%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "关关难过关关过，伊朗终于迎来世界杯命运一战",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33460376",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
         },
         {
           "title": "据美国财经媒体Semafor：高通(QCOM.O)计划推出全新手机芯片架构。",
@@ -525,6 +873,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "黎巴嫩消息人士表示：我们不会接受任何为以色列留在黎巴嫩任何土地上进行辩护或允许其留下的措辞。（Al-Hadath）",
+          "url": "https://wallstreetcn.com/livenews/3125417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
           "title": "美国至6月26日当周石油钻井总数将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20260627005000000800",
           "source": "金十数据",
@@ -534,6 +893,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "伊朗否认伊美就霍尔木兹海峡问题建立沟通热线",
+          "url": "https://wallstreetcn.com/livenews/3125416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
         },
         {
           "title": "据伊朗努尔新闻：伊朗革命卫队发言人否认有关伊朗与美国在霍尔木兹海峡存在直接沟通渠道的说法，称其“完全是谎言”，并表示霍尔木兹海峡是“伊朗领土，与美国无关”。",
@@ -547,22 +917,22 @@
           "time_info": "01时47分"
         },
         {
+          "title": "欧盟委员会发言人：（回应美国总统特朗普的威胁）欧盟及其成员国拥有在其领土内监管经济活动的主权权利。",
+          "url": "https://flash.jin10.com/detail/20260627023336369800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
           "title": "美国总统 特朗普谈及伊朗：伊朗向至少四架穿越霍尔木兹海峡的船只发射了自杀式无人机（单向攻击无人机）。 其中一架无人机击中了一艘货船的上层甲板，美国击落了另外三架无人机。 这是对我们停火协议的愚蠢违反。",
           "url": "https://wallstreetcn.com/livenews/3125391",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "日媒承认：中国发动机技术赶超日企",
-          "url": "https://www.toutiao.com/trending/7654876209050091556/",
-          "source": "今日头条",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -580,15 +950,15 @@
           "time_info": "01时47分"
         },
         {
-          "title": "高开低走,韩国小组赛两连败",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355637&amp;topic_name=%E9%AB%98%E5%BC%80%E4%BD%8E%E8%B5%B0%2C%E9%9F%A9%E5%9B%BD%E5%B0%8F%E7%BB%84%E8%B5%9B%E4%B8%A4%E8%BF%9E%E8%B4%A5",
-          "source": "贴吧",
+          "title": "美国总统特朗普：（谈伊朗船袭击船只）他们不能做那种事。",
+          "url": "https://flash.jin10.com/detail/20260627023217899800",
+          "source": "金十数据",
           "ranks": [
-            22
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
         },
         {
           "title": "欧洲STOXX 600指数初步收跌0.90%，报634.43点。 德国DAX 30指数初步收跌1.62%，报24590.52点。 法国股指初步收跌0.81%，意大利股指初步收跌1.23%，英国股指初步收跌0.43%。",
@@ -600,6 +970,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "美国原油期货结算价为每桶69.23美元，下跌2.69美元，跌幅3.74%。",
+          "url": "https://flash.jin10.com/detail/20260627023147149800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
+        },
+        {
+          "title": "美国总统特朗普：汽油价格很快就会跌到每加仑2.5美元。",
+          "url": "https://flash.jin10.com/detail/20260627023141682800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
         },
         {
           "title": "伊朗和阿曼海关负责人提议：成立联合委员会以落实海关协议。（伊朗媒体IRNA）",
@@ -624,48 +1016,37 @@
           "time_info": "01时47分"
         },
         {
-          "title": "俄前防长去世 普京向其亲属表示慰问",
-          "url": "https://www.toutiao.com/trending/7655677561623724082/",
+          "title": "法国高温留学生称二手空调卖280欧",
+          "url": "https://www.toutiao.com/trending/7655187296526647337/",
           "source": "今日头条",
           "ranks": [
             27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
         },
         {
-          "title": "挪威vs法国",
-          "url": "https://www.douyin.com/hot/2548362",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "太平年最佳中国电视剧",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%B9%B3%E5%B9%B4%E6%9C%80%E4%BD%B3%E4%B8%AD%E5%9B%BD%E7%94%B5%E8%A7%86%E5%89%A7%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "伊朗外交部谴责美国与海合会联合声明",
+          "url": "https://www.toutiao.com/trending/7655052095490326578/",
+          "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
         },
         {
-          "title": "不安空调,法国发达成笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355644&amp;topic_name=%E4%B8%8D%E5%AE%89%E7%A9%BA%E8%B0%83%2C%E6%B3%95%E5%9B%BD%E5%8F%91%E8%BE%BE%E6%88%90%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
+          "title": "日本1:1瑞典",
+          "url": "https://www.douyin.com/hot/2547468",
+          "source": "抖音",
           "ranks": [
-            30
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "03时47分"
         }
       ]
     }
