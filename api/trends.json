@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T18:55:44.311826+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2026-07-07T21:21:18.469370+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 219,
+      "match_count": 262,
       "titles": [
         {
           "title": "中国首次成功向太平洋发射潜射战略导弹，释放何种重要信号？",
@@ -61,6 +61,29 @@
           "time_info": "[01时43分 ~ 07时07分]"
         },
         {
+          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 21时21分]"
+        },
+        {
+          "title": "日本渔船非法进入我赤尾屿领海，中国海警驱离",
+          "url": "https://news.ifeng.com/c/8uYpqgZCOL7",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 21时21分]"
+        },
+        {
           "title": "哈梅内伊送葬仪式举行，氛围出现大变化",
           "url": "https://news.ifeng.com/c/8uXKnlbnye9",
           "source": "凤凰网",
@@ -71,6 +94,22 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时43分 ~ 05时29分]"
+        },
+        {
+          "title": "拿下!Bin哥手刃印度神王",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355941&amp;topic_name=%E6%8B%BF%E4%B8%8B%21Bin%E5%93%A5%E6%89%8B%E5%88%83%E5%8D%B0%E5%BA%A6%E7%A5%9E%E7%8E%8B",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            5,
+            10,
+            9,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 21时21分]"
         },
         {
           "title": "国际足联主席回应美国球员巴洛贡红牌事件",
@@ -124,21 +163,6 @@
           "time_info": "[01时43分 ~ 07时07分]"
         },
         {
-          "title": "拿下!Bin哥手刃印度神王",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355941&amp;topic_name=%E6%8B%BF%E4%B8%8B%21Bin%E5%93%A5%E6%89%8B%E5%88%83%E5%8D%B0%E5%BA%A6%E7%A5%9E%E7%8E%8B",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            5,
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 18时55分]"
-        },
-        {
           "title": "专访中国教育学会副会长唐江澎：教育不能只和分数挂钩",
           "url": "https://m.thepaper.cn/newsDetail_forward_33518991",
           "source": "澎湃新闻",
@@ -151,15 +175,48 @@
           "time_info": "[01时43分 ~ 07时07分]"
         },
         {
-          "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
+          "title": "俄军合围拿下康斯坦丁诺夫卡，击破乌军防卫体系",
+          "url": "https://news.ifeng.com/c/8uYxqWMGMWi",
+          "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 18时55分]"
+          "appearance_count": 4,
+          "time_info": "[15时38分 ~ 21时21分]"
+        },
+        {
+          "title": "川普关税施压,美国红牌不禁赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355936&amp;topic_name=%E5%B7%9D%E6%99%AE%E5%85%B3%E7%A8%8E%E6%96%BD%E5%8E%8B%2C%E7%BE%8E%E5%9B%BD%E7%BA%A2%E7%89%8C%E4%B8%8D%E7%A6%81%E8%B5%9B",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9,
+            15,
+            19,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 21时21分]"
+        },
+        {
+          "title": "漠叔调查日本毒气战",
+          "url": "https://search.bilibili.com/all?keyword=%E6%BC%A0%E5%8F%94%E8%B0%83%E6%9F%A5%E6%97%A5%E6%9C%AC%E6%AF%92%E6%B0%94%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            23,
+            9,
+            19,
+            20,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 21时21分]"
         },
         {
           "title": "FIFA 决定美国核心主力巴洛贡红牌停赛处罚暂缓一年执行，如何评价这一决定？",
@@ -175,16 +232,17 @@
           "time_info": "[03时56分 ~ 07时07分]"
         },
         {
-          "title": "日本渔船非法进入我赤尾屿领海，中国海警驱离",
-          "url": "https://news.ifeng.com/c/8uYpqgZCOL7",
-          "source": "凤凰网",
+          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
+            6,
+            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 18时55分]"
+          "appearance_count": 4,
+          "time_info": "[15时38分 ~ 21时21分]"
         },
         {
           "title": "中国海军成功组织潜射战略导弹试射",
@@ -213,21 +271,6 @@
           "time_info": "[01时43分 ~ 05时29分]"
         },
         {
-          "title": "川普关税施压,美国红牌不禁赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355936&amp;topic_name=%E5%B7%9D%E6%99%AE%E5%85%B3%E7%A8%8E%E6%96%BD%E5%8E%8B%2C%E7%BE%8E%E5%9B%BD%E7%BA%A2%E7%89%8C%E4%B8%8D%E7%A6%81%E8%B5%9B",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9,
-            15,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 18时55分]"
-        },
-        {
           "title": "LV胜诉敲响中国纹样版权保护警钟",
           "url": "https://s.weibo.com/weibo?q=%23LV%E8%83%9C%E8%AF%89%E6%95%B2%E5%93%8D%E4%B8%AD%E5%9B%BD%E7%BA%B9%E6%A0%B7%E7%89%88%E6%9D%83%E4%BF%9D%E6%8A%A4%E8%AD%A6%E9%92%9F%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -240,23 +283,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时43分 ~ 07时07分]"
-        },
-        {
-          "title": "漠叔调查日本毒气战",
-          "url": "https://search.bilibili.com/all?keyword=%E6%BC%A0%E5%8F%94%E8%B0%83%E6%9F%A5%E6%97%A5%E6%9C%AC%E6%AF%92%E6%B0%94%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            23,
-            9,
-            19,
-            20,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 18时55分]"
         },
         {
           "title": "特朗普：就红牌与国际足联主席通话",
@@ -284,6 +310,17 @@
           "time_info": "[15时38分 ~ 18时55分]"
         },
         {
+          "title": "“马克龙将归还一批文物”",
+          "url": "https://news.ifeng.com/c/8uZX7exHRz8",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
           "title": "美军官承认“栈道行动”针对“解放军攻台”，专家：给台画大饼",
           "url": "https://v.ifeng.com/c/8uXgPMBF3ae",
           "source": "凤凰网",
@@ -308,17 +345,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时43分 ~ 11时20分]"
-        },
-        {
-          "title": "俄军合围拿下康斯坦丁诺夫卡，击破乌军防卫体系",
-          "url": "https://news.ifeng.com/c/8uYxqWMGMWi",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 18时55分]"
         },
         {
           "title": "逼走中企后接盘工厂，美国还吹上新能源“复兴”了",
@@ -357,17 +383,6 @@
           "time_info": "15时38分"
         },
         {
-          "title": "中方回应多国“批评”中国试射导弹",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9B%BD%E2%80%9C%E6%89%B9%E8%AF%84%E2%80%9D%E4%B8%AD%E5%9B%BD%E8%AF%95%E5%B0%84%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
           "title": "乌克兰总统泽连斯基：缺乏应对弹道导弹的武器，防空武器产能无法满足保护民众的需求，这“荒谬至极”。",
           "url": "https://flash.jin10.com/detail/20260707013049505800",
           "source": "金十数据",
@@ -401,6 +416,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "美国总统特朗普：美国将解除对土耳其的CAATSA制裁。",
+          "url": "https://flash.jin10.com/detail/20260707211148896800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：6月30日当周，投机者所持NYMEX WTI原油净多头头寸减少3,299手合约，至85,187手合约。",
           "url": "https://wallstreetcn.com/livenews/3129538",
           "source": "华尔街见闻-快讯",
@@ -410,6 +436,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "以色列喊话美国别卖F-35战机给土耳其",
+          "url": "https://wallstreetcn.com/livenews/3130017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "比利时官方贴脸嘲讽美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355976&amp;topic_name=%E6%AF%94%E5%88%A9%E6%97%B6%E5%AE%98%E6%96%B9%E8%B4%B4%E8%84%B8%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "表态更加强硬！韩国央行警告海力士、三星电子杠杆ETF风险",
@@ -505,6 +553,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "美国总统特朗普：欧洲现在的情况大不相同了。",
+          "url": "https://flash.jin10.com/detail/20260707211108750800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "美国商品期货交易委员会（CFTC）：6月30日当周，投机者所持COMEX黄金净多头头寸增加3,808手合约，至116,817手合约。",
           "url": "https://wallstreetcn.com/livenews/3129537",
           "source": "华尔街见闻-快讯",
@@ -514,6 +573,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "特朗普：与普京总统进行了非常好的谈话。",
+          "url": "https://wallstreetcn.com/livenews/3130016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "特朗普一通电话后，国际足联“破例”了",
@@ -593,6 +663,67 @@
           "time_info": "11时20分"
         },
         {
+          "title": "日本品牌拿七七当七夕引众怒",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C%E6%8B%BF%E4%B8%83%E4%B8%83%E5%BD%93%E4%B8%83%E5%A4%95%E5%BC%95%E4%BC%97%E6%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 21时21分]"
+        },
+        {
+          "title": "比利时官方嘲讽美国",
+          "url": "https://www.toutiao.com/trending/7658891295284281382/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时38分 ~ 21时21分]"
+        },
+        {
+          "title": "即便美国红牌可以“缓刑”，无碍比利时4比1淘汰东道主",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531815",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时38分 ~ 21时21分]"
+        },
+        {
+          "title": "中国核潜艇试射战略导弹，专家：或为“巨浪-3”",
+          "url": "https://news.ifeng.com/c/8uYoiNi4D7n",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时20分 ~ 21时21分]"
+        },
+        {
+          "title": "中方回应多国“批评”中国试射导弹",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A4%9A%E5%9B%BD%E2%80%9C%E6%89%B9%E8%AF%84%E2%80%9D%E4%B8%AD%E5%9B%BD%E8%AF%95%E5%B0%84%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 21时21分]"
+        },
+        {
           "title": "世界杯 1/8 决赛比利时 4-1 美国，至此 3 个东道主全部出局，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2057413355376227594",
           "source": "知乎",
@@ -605,6 +736,20 @@
           "time_info": "[11时20分 ~ 18时55分]"
         },
         {
+          "title": "盘外招无用!比利时大胜美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355958&amp;topic_name=%E7%9B%98%E5%A4%96%E6%8B%9B%E6%97%A0%E7%94%A8%21%E6%AF%94%E5%88%A9%E6%97%B6%E5%A4%A7%E8%83%9C%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 21时21分]"
+        },
+        {
           "title": "鲁比奥：撤销红牌是为了比利时好",
           "url": "https://www.toutiao.com/trending/7659242365182328886/",
           "source": "今日头条",
@@ -614,17 +759,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
-        },
-        {
-          "title": "日本品牌拿七七当七夕引众怒",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C%E6%8B%BF%E4%B8%83%E4%B8%83%E5%BD%93%E4%B8%83%E5%A4%95%E5%BC%95%E4%BC%97%E6%80%92",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         },
         {
           "title": "科技股领涨推动美股反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -671,6 +805,17 @@
           "time_info": "03时57分"
         },
         {
+          "title": "美国总统特朗普：（谈到格陵兰岛）我们可以把所有驻军从欧洲撤出。",
+          "url": "https://flash.jin10.com/detail/20260707211029645800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "中国人民银行行长潘功胜：支持更多优质企业到香港上市和发债 债券通“南向通”年度投资净额度提升至8000亿元",
           "url": "https://wallstreetcn.com/livenews/3129709",
           "source": "华尔街见闻-快讯",
@@ -680,6 +825,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "特朗普：土耳其从美国购买了飞机。 土耳其曾协助试图结束我们与伊朗的战争。",
+          "url": "https://wallstreetcn.com/livenews/3130013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "北约秘书长妄称“不能对中国天真，已与日本讨论”",
@@ -733,9 +889,42 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "美国总统特朗普批评欧洲的移民和能源政策。",
+          "url": "https://flash.jin10.com/detail/20260707211004824800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "特朗普称赞美国经济。",
+          "url": "https://wallstreetcn.com/livenews/3130012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "日本品牌拿七七当七夕遭痛批",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355978&amp;topic_name=%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C%E6%8B%BF%E4%B8%83%E4%B8%83%E5%BD%93%E4%B8%83%E5%A4%95%E9%81%AD%E7%97%9B%E6%89%B9",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "美国门将大失误",
@@ -749,19 +938,6 @@
           "time_info": "11时20分"
         },
         {
-          "title": "盘外招无用!比利时大胜美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355958&amp;topic_name=%E7%9B%98%E5%A4%96%E6%8B%9B%E6%97%A0%E7%94%A8%21%E6%AF%94%E5%88%A9%E6%97%B6%E5%A4%A7%E8%83%9C%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 18时55分]"
-        },
-        {
           "title": "比利时4-1美国",
           "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B64-1%E7%BE%8E%E5%9B%BD",
           "source": "bilibili 热搜",
@@ -773,18 +949,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时20分 ~ 18时55分]"
-        },
-        {
-          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 18时55分]"
         },
         {
           "title": "比利时4-1大胜美国",
@@ -817,18 +981,6 @@
           "ranks": [
             1,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 18时55分]"
-        },
-        {
-          "title": "比利时官方嘲讽美国",
-          "url": "https://www.toutiao.com/trending/7658891295284281382/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -871,6 +1023,19 @@
           "time_info": "[11时20分 ~ 15时38分]"
         },
         {
+          "title": "专访中国水科院专家：主汛期防汛进入多线作战攻坚期，“麻痹侥幸”甚于“洪水猛兽”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33526293",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时38分 ~ 21时21分]"
+        },
+        {
           "title": "以色列央行行长Yaron：只要通胀环境符合预期（没有意料之外的变化），利率就可以继续下降。 如果利率达到3%，将有助于让通胀率维持在2%附近。",
           "url": "https://wallstreetcn.com/livenews/3129512",
           "source": "华尔街见闻-快讯",
@@ -881,6 +1046,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 03时57分]"
+        },
+        {
+          "title": "日澳等消极回应中国试射导弹 俄表态",
+          "url": "https://www.toutiao.com/trending/7659337597218717737/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时38分 ~ 21时21分]"
         },
         {
           "title": "美国门将超级巨大失误",
@@ -933,6 +1111,33 @@
           "time_info": "[01时43分 ~ 07时07分]"
         },
         {
+          "title": "美国1:4比利时",
+          "url": "https://www.douyin.com/hot/2561113",
+          "source": "抖音",
+          "ranks": [
+            10,
+            19,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 21时21分]"
+        },
+        {
+          "title": "国际足联为东道主开先例，美国队球员巴洛贡红牌“特赦”惹恼欧洲",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531501",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时38分 ~ 21时21分]"
+        },
+        {
           "title": "中国安能驰援南宁水库险情",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E5%AE%89%E8%83%BD%E9%A9%B0%E6%8F%B4%E5%8D%97%E5%AE%81%E6%B0%B4%E5%BA%93%E9%99%A9%E6%83%85",
           "source": "百度热搜",
@@ -958,28 +1163,51 @@
           "time_info": "[01时43分 ~ 07时07分]"
         },
         {
-          "title": "中国核潜艇试射战略导弹，专家：或为“巨浪-3”",
-          "url": "https://news.ifeng.com/c/8uYoiNi4D7n",
-          "source": "凤凰网",
+          "title": "比利时大胜美国 世界杯最大爽剧",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%88%A9%E6%97%B6%E5%A4%A7%E8%83%9C%E7%BE%8E%E5%9B%BD+%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%A4%A7%E7%88%BD%E5%89%A7",
+          "source": "百度热搜",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时20分 ~ 18时55分]"
+          "time_info": "[18时55分 ~ 21时21分]"
         },
         {
-          "title": "美国1:4比利时",
-          "url": "https://www.douyin.com/hot/2561113",
-          "source": "抖音",
+          "title": "送葬与袭船同步发生，伊朗在关键节点对外释放两大信号",
+          "url": "https://news.ifeng.com/c/8uZB2jJTHNt",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            19,
-            26
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时20分 ~ 18时55分]"
+          "time_info": "[18时55分 ~ 21时21分]"
+        },
+        {
+          "title": "马克龙下榻酒店附近连发爆炸",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E4%B8%8B%E6%A6%BB%E9%85%92%E5%BA%97%E9%99%84%E8%BF%91%E8%BF%9E%E5%8F%91%E7%88%86%E7%82%B8",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 21时21分]"
+        },
+        {
+          "title": "韩国总统李在明遭死亡威胁",
+          "url": "https://www.douyin.com/hot/2561667",
+          "source": "抖音",
+          "ranks": [
+            12,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时38分 ~ 21时21分]"
         },
         {
           "title": "为什么日本足球崛起几十年没突破 16 强，摩洛哥却短短十几年成为 8 强常客？",
@@ -992,6 +1220,66 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时56分 ~ 07时07分]"
+        },
+        {
+          "title": "印度男子与38岁情妇枪杀22岁妻子",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E4%B8%8E38%E5%B2%81%E6%83%85%E5%A6%87%E6%9E%AA%E6%9D%8022%E5%B2%81%E5%A6%BB%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 21时21分]"
+        },
+        {
+          "title": "中国海军组织潜射战略导弹试射，外交部回应「有关国家没有必要过度解读」，释放哪些信息？",
+          "url": "https://www.zhihu.com/question/2057806206094284336",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 21时21分]"
+        },
+        {
+          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 21时21分]"
+        },
+        {
+          "title": "美国队主教练：国际足联裁定巴洛贡可以上场，那这就不是问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532864",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 21时21分]"
+        },
+        {
+          "title": "学者：中国试射导弹澳大利亚强行加戏",
+          "url": "https://www.toutiao.com/trending/7659714848862768686/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时55分 ~ 21时21分]"
         },
         {
           "title": "韩国总统李在明遭死亡威胁",
@@ -1018,6 +1306,17 @@
           "time_info": "[01时43分 ~ 03时57分]"
         },
         {
+          "title": "日本一女子用针线缝住室友嘴唇",
+          "url": "https://www.toutiao.com/trending/7659551915952816170/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
           "title": "日、新、澳等国对中国潜射导弹试验反应消极，俄方回应",
           "url": "https://news.ifeng.com/c/8uYlK0w4Uzo",
           "source": "凤凰网",
@@ -1027,6 +1326,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时20分 ~ 15时38分]"
+        },
+        {
+          "title": "日本横滨无头女尸确认为中国女子",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A8%AA%E6%BB%A8%E6%97%A0%E5%A4%B4%E5%A5%B3%E5%B0%B8%E7%A1%AE%E8%AE%A4%E4%B8%BA%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
+          "title": "美军臆测解放军三种方式“收复台湾”",
+          "url": "https://www.toutiao.com/trending/7658913877296152630/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书回应特朗普：请以尊重的态度同伊朗人民对话，否则我们将以另一种方式予以回击。",
@@ -1039,42 +1360,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时57分 ~ 05时29分]"
-        },
-        {
-          "title": "日澳等消极回应中国试射导弹 俄表态",
-          "url": "https://www.toutiao.com/trending/7659337597218717737/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 18时55分]"
-        },
-        {
-          "title": "即便美国红牌可以“缓刑”，无碍比利时4比1淘汰东道主",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531815",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 18时55分]"
-        },
-        {
-          "title": "专访中国水科院专家：主汛期防汛进入多线作战攻坚期，“麻痹侥幸”甚于“洪水猛兽”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33526293",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 18时55分]"
         },
         {
           "title": "俄方空袭乌军工等设施",
@@ -1125,6 +1410,17 @@
           "time_info": "[15时38分 ~ 18时55分]"
         },
         {
+          "title": "董路：中国足球首先要唤醒信心",
+          "url": "https://www.toutiao.com/trending/7658905784822988850/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
           "title": "“每座发电厂都将不复存在！”特朗普再发出威胁",
           "url": "https://news.ifeng.com/c/8uYm3PSYLHK",
           "source": "凤凰网",
@@ -1134,6 +1430,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时38分 ~ 18时55分]"
+        },
+        {
+          "title": "日本海面半截女尸确认为中国籍女子",
+          "url": "https://www.toutiao.com/trending/7659678362504151059/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
           "title": "SpaceX“二把手”官宣向“特朗普账户”捐赠个人股票 总价值超3亿美元",
@@ -1160,6 +1467,17 @@
           "time_info": "[15时38分 ~ 18时55分]"
         },
         {
+          "title": "日本一海域发现的遗骸身份确认为中国籍女性，警方：遭人肢解弃尸",
+          "url": "https://v.ifeng.com/c/8uZToui93zL",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
           "title": "LV被指垄断中国古纹样",
           "url": "https://www.baidu.com/s?wd=LV%E8%A2%AB%E6%8C%87%E5%9E%84%E6%96%AD%E4%B8%AD%E5%9B%BD%E5%8F%A4%E7%BA%B9%E6%A0%B7",
           "source": "百度热搜",
@@ -1184,18 +1502,6 @@
           "time_info": "[01时43分 ~ 03时57分]"
         },
         {
-          "title": "韩国总统李在明遭死亡威胁",
-          "url": "https://www.douyin.com/hot/2561667",
-          "source": "抖音",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 18时55分]"
-        },
-        {
           "title": "LV胜诉暴露了中国文化确权时差",
           "url": "https://s.weibo.com/weibo?q=%23LV%E8%83%9C%E8%AF%89%E6%9A%B4%E9%9C%B2%E4%BA%86%E4%B8%AD%E5%9B%BD%E6%96%87%E5%8C%96%E7%A1%AE%E6%9D%83%E6%97%B6%E5%B7%AE%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -1208,16 +1514,26 @@
           "time_info": "[15时38分 ~ 18时55分]"
         },
         {
-          "title": "国际足联为东道主开先例，美国队球员巴洛贡红牌“特赦”惹恼欧洲",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531501",
-          "source": "澎湃新闻",
+          "title": "日本从废旧空调中提稀土，这对其稀土战略和全球供应链意味着什么？",
+          "url": "https://www.zhihu.com/question/2057185895623791482",
+          "source": "知乎",
           "ranks": [
-            20,
-            16
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时38分 ~ 18时55分]"
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
+          "title": "中国足协辟谣：“佛得角邀国足踢友谊赛被婉拒”为不实消息",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33534889",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
           "title": "日本品牌拿七七当七夕是何居心",
@@ -1255,6 +1571,17 @@
           "time_info": "[03时56分 ~ 03时57分]"
         },
         {
+          "title": "马上评丨红牌“特赦”，美国队也没笑到最后",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33533370",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
           "title": "学者：越南想复制中国模式却遇人口墙",
           "url": "https://www.toutiao.com/trending/7659070733897531398/",
           "source": "今日头条",
@@ -1264,6 +1591,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 03时57分]"
+        },
+        {
+          "title": "国防部回应中国海军试射潜射战略导弹",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E8%AF%95%E5%B0%84%E6%BD%9C%E5%B0%84%E6%88%98%E7%95%A5%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
+          "title": "特朗普一通电话毁了美国队",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E6%AF%81%E4%BA%86%E7%BE%8E%E5%9B%BD%E9%98%9F&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
+          "title": "美军臆测解放军三种方式“收复台湾”",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E8%87%86%E6%B5%8B%E8%A7%A3%E6%94%BE%E5%86%9B%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F%E2%80%9C%E6%94%B6%E5%A4%8D%E5%8F%B0%E6%B9%BE%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
         },
         {
           "title": "空调炼稀土,日本没招了",
@@ -1277,13 +1637,24 @@
           "time_info": "[01时43分 ~ 03时57分]"
         },
         {
+          "title": "日本49岁女子用针把室友嘴缝上",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC49%E5%B2%81%E5%A5%B3%E5%AD%90%E7%94%A8%E9%92%88%E6%8A%8A%E5%AE%A4%E5%8F%8B%E5%98%B4%E7%BC%9D%E4%B8%8A%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时20分 ~ 21时21分]"
+        },
+        {
           "title": "中国发射的潜射战略导弹是什么型号",
           "url": "https://www.toutiao.com/trending/7659698431971036691/",
           "source": "今日头条",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1294,7 +1665,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1330,6 +1701,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "国防部新闻发言人陈曦就中国海军组织潜射战略导弹试射答记者问",
+          "url": "https://wallstreetcn.com/livenews/3130011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "法国足协就姆巴佩遭种族歧视发声明",
@@ -1376,6 +1758,17 @@
           "time_info": "11时20分"
         },
         {
+          "title": "特朗普：今天将和土耳其谈贸易、军事事宜。 土耳其比其他国家更忠诚。 （谈F-35和土耳其）将就此作出决定。 我们已对北约进行了投资，盟友应该愿意提供帮助。 我们对伊朗采取行动的时候，我是在考验盟友。 法国、德国和其他国家当时都拒绝了我们。 对与土耳其的关系没有任何担忧。 美国-土耳其关系可能比以往任何时候都好。",
+          "url": "https://wallstreetcn.com/livenews/3130010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "美国淘汰",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%B7%98%E6%B1%B0&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -1385,17 +1778,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
-        },
-        {
-          "title": "比利时大胜美国 世界杯最大爽剧",
-          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E5%88%A9%E6%97%B6%E5%A4%A7%E8%83%9C%E7%BE%8E%E5%9B%BD+%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E5%A4%A7%E7%88%BD%E5%89%A7",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         },
         {
           "title": "伊朗最高领袖发布任免令",
@@ -1431,6 +1813,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "美国总统特朗普：格陵兰岛应由美国控制。",
+          "url": "https://flash.jin10.com/detail/20260707210931406800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "刘烨在法国为妻子买到空调 被夸浪漫",
           "url": "https://www.baidu.com/s?wd=%E5%88%98%E7%83%A8%E5%9C%A8%E6%B3%95%E5%9B%BD%E4%B8%BA%E5%A6%BB%E5%AD%90%E4%B9%B0%E5%88%B0%E7%A9%BA%E8%B0%83+%E8%A2%AB%E5%A4%B8%E6%B5%AA%E6%BC%AB",
           "source": "百度热搜",
@@ -1448,7 +1841,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1462,17 +1855,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
-        },
-        {
-          "title": "送葬与袭船同步发生，伊朗在关键节点对外释放两大信号",
-          "url": "https://news.ifeng.com/c/8uZB2jJTHNt",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         },
         {
           "title": "以色列央行行长：由于地缘政治不确定性和可能的宽松财政政策，我们仍需谨慎行事，这可能会导致通胀压力。",
@@ -1503,9 +1885,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "美国总统特朗普：（关于格陵兰岛）这对丹麦没有帮助。格陵兰岛对美国至关重要。",
+          "url": "https://flash.jin10.com/detail/20260707210927993800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "明晟公司（MSCI）现阶段维持对印度尼西亚（印尼）市场的（评级）措施。 将评估土耳其证券。",
@@ -1525,20 +1918,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
         {
-          "title": "马克龙下榻酒店附近连发爆炸",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%85%8B%E9%BE%99%E4%B8%8B%E6%A6%BB%E9%85%92%E5%BA%97%E9%99%84%E8%BF%91%E8%BF%9E%E5%8F%91%E7%88%86%E7%82%B8",
-          "source": "百度热搜",
+          "title": "特朗普称赞土耳其总统埃尔多安。",
+          "url": "https://wallstreetcn.com/livenews/3130007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "详解中国车企进军勒芒",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E4%B8%AD%E5%9B%BD%E8%BD%A6%E4%BC%81%E8%BF%9B%E5%86%9B%E5%8B%92%E8%8A%92",
+          "source": "bilibili 热搜",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时55分"
+          "time_info": "21时21分"
         },
         {
           "title": "以色列央行行长：只要通胀环境没有意外变化，利率可以继续下降。",
@@ -1580,9 +1984,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：认为经济增长稳健，劳动力市场保持稳定。 预计整体通胀率将随着能源价格走低。 通货膨胀率仍然相当高。 货币政策完全有条件实现目标。 鉴于存在不确定性，不宜提供明确的指导。",
+          "url": "https://wallstreetcn.com/livenews/3130006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "特朗普，对伊朗再次发出威胁",
@@ -1605,6 +2020,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美国总统特朗普：意大利总理梅洛尼在伊朗问题上没有支持我们，导致关系恶化。",
+          "url": "https://flash.jin10.com/detail/20260707210848056800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "加拿大总理卡尼：加拿大选择德国（蒂森克虏伯拆分出去的）TKMS来打造新的潜艇舰队。 这意味着韩国Hanwha败落。",
@@ -1668,7 +2094,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1734,7 +2160,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1759,17 +2185,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
-        },
-        {
-          "title": "印度男子与38岁情妇枪杀22岁妻子",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%B0%E5%BA%A6%E7%94%B7%E5%AD%90%E4%B8%8E38%E5%B2%81%E6%83%85%E5%A6%87%E6%9E%AA%E6%9D%8022%E5%B2%81%E5%A6%BB%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         },
         {
           "title": "乌克兰总统泽连斯基：我要求乌克兰安全局和情报部门就维什涅韦发生的事件作出详细说明。",
@@ -1805,13 +2220,24 @@
           "time_info": "15时38分"
         },
         {
+          "title": "法国足协谴责针对姆巴佩种族言论",
+          "url": "https://www.douyin.com/hot/2562070",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "媒体批日本品牌拿七七事变当七夕节",
           "url": "https://www.toutiao.com/trending/7659199719008436267/",
           "source": "今日头条",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1825,6 +2251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美国总统特朗普：我们将解除制裁。我们与新任叙利亚领导人关系良好。我们不想制裁朋友。",
+          "url": "https://flash.jin10.com/detail/20260707210552914800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "A股四大行盘中逆势拉升，中国银行涨超3%，建设银行、工商银行、农业银行均涨超1.5%。",
@@ -1844,7 +2281,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1858,6 +2295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美国总统特朗普：昨天与普京进行了长时间的交谈，之后又与泽连斯基进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260707210359563800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "美国专利局撤销“和平委员会”商标申请",
@@ -1915,17 +2363,6 @@
           "time_info": "07时07分"
         },
         {
-          "title": "中国海军组织潜射战略导弹试射，外交部回应「有关国家没有必要过度解读」，释放哪些信息？",
-          "url": "https://www.zhihu.com/question/2057806206094284336",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
           "title": "日本品牌拿七七当七夕引众怒",
           "url": "https://www.toutiao.com/trending/7659413548401934342/",
           "source": "今日头条",
@@ -1957,6 +2394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "美国总统特朗普：（关于乌克兰战争）希望尽快解决。",
+          "url": "https://flash.jin10.com/detail/20260707210328376800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "美国总统特朗普：我们很尊重澳大利亚。 赞赏澳洲的退休（金）系统。",
@@ -2009,18 +2457,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -2069,6 +2506,28 @@
           "time_info": "07时07分"
         },
         {
+          "title": "美国总统特朗普：（关于乌克兰战争）我认为俄乌双方都想达成协议。我认为我们将会达成协议。",
+          "url": "https://flash.jin10.com/detail/20260707210323061800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
+          "title": "美国5月贸易帐 -776亿美元，预期 -788亿美元，前值 -559亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3129996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "如何看待比利时淘汰美国引球迷高喊正义必胜？赛前特朗普称若其赢球是黑幕，比利时可能会受到进一步影响吗？",
           "url": "https://www.zhihu.com/question/2057769216468415013",
           "source": "知乎",
@@ -2097,18 +2556,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "美国队主教练：国际足联裁定巴洛贡可以上场，那这就不是问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33532864",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -2146,6 +2594,17 @@
           "time_info": "15时38分"
         },
         {
+          "title": "美国总统特朗普：土耳其已帮助我们努力结束与伊朗的战争。",
+          "url": "https://flash.jin10.com/detail/20260707210144326800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "叙利亚总统沙拉：法国可在叙利亚重建和其他领域发挥作用。",
           "url": "https://flash.jin10.com/detail/20260707022701443800",
           "source": "金十数据",
@@ -2177,6 +2636,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
+        },
+        {
+          "title": "美国总统特朗普：丰田正在从墨西哥迁往美国德克萨斯州。",
+          "url": "https://wallstreetcn.com/livenews/3129994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "以军称打死哈马斯军事训练部门指挥官",
@@ -2251,9 +2721,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "美国总统特朗普：土耳其从美国购买了飞机。",
+          "url": "https://flash.jin10.com/detail/20260707210006155800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”餐会上宣称：黑石集团、贝莱德集团、高盛都来了。",
@@ -2322,6 +2803,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "ADP：截至6月20日的四周内，美国私营部门就业人数平均每周增加2.1万人。",
+          "url": "https://wallstreetcn.com/livenews/3129990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "法国总统府：法国投资者和大型企业管理者将陪同马克龙前往大马士革。",
           "url": "https://flash.jin10.com/detail/20260707003653223800",
           "source": "金十数据",
@@ -2355,6 +2847,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "韩国立法严治网络虚假信息",
+          "url": "https://wallstreetcn.com/livenews/3129987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
+        },
+        {
           "title": "印度一男子遭狮子袭击",
           "url": "https://www.toutiao.com/trending/7659614012850192403/",
           "source": "今日头条",
@@ -2364,17 +2867,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时38分"
-        },
-        {
-          "title": "学者：中国试射导弹澳大利亚强行加戏",
-          "url": "https://www.toutiao.com/trending/7659714848862768686/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：交易员对美元的整体持仓情绪升至2015年以来最乐观水平。",
@@ -2493,7 +2985,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
