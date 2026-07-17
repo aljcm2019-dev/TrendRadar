@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T14:15:24.502663+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-07-17T17:09:14.736332+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 185,
+      "match_count": 212,
       "titles": [
         {
           "title": "韩国叫停新单一股票杠杆ETF产品上市，提高现有ETF保证金门槛至3000万韩元",
@@ -76,23 +76,12 @@
             2,
             1,
             3,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时16分 ~ 14时15分]"
-        },
-        {
-          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
-          "url": "https://www.cls.cn/detail/2428987",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 14时15分]"
+          "appearance_count": 8,
+          "time_info": "[01时16分 ~ 17时09分]"
         },
         {
           "title": "胡锡进：印度人来得太多太猛了，西方发达社会都在反对",
@@ -101,6 +90,53 @@
           "ranks": [
             5,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时59分 ~ 17时09分]"
+        },
+        {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 17时09分]"
+        },
+        {
+          "title": "韩国股市暴跌！每30名韩国成年人就有1人被追保，强平率从2.1%飙至10%",
+          "url": "https://wallstreetcn.com/articles/3777151",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 17时09分]"
+        },
+        {
+          "title": "“赴华机票销量暴涨1240%”，来中国避暑，火了",
+          "url": "https://finance.ifeng.com/c/8upD29LgAKY",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 17时09分]"
+        },
+        {
+          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
+          "url": "https://www.cls.cn/detail/2428987",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -119,16 +155,40 @@
           "time_info": "[11时23分 ~ 14时15分]"
         },
         {
-          "title": "白宫：特朗普将出席世界杯决赛",
-          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
-          "source": "凤凰网",
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://www.cls.cn/detail/2429309",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            3
+            3,
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时23分 ~ 14时15分]"
+          "time_info": "[14时15分 ~ 17时09分]"
+        },
+        {
+          "title": "高志凯：要对美国“人工智能霸凌”说“不”",
+          "url": "https://news.ifeng.com/c/8upHX3E0KP3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时15分 ~ 17时09分]"
+        },
+        {
+          "title": "32万个账户归零之后——韩国去杠杆走到哪了？",
+          "url": "https://wallstreetcn.com/articles/3777115",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时59分 ~ 17时09分]"
         },
         {
           "title": "开局之年 中国经济坚韧向前蓬勃向好",
@@ -153,18 +213,6 @@
           "time_info": "[11时23分 ~ 14时15分]"
         },
         {
-          "title": "韩国股市暴跌！每30名韩国成年人就有1人被追保，强平率从2.1%飙至10%",
-          "url": "https://wallstreetcn.com/articles/3777151",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 14时15分]"
-        },
-        {
           "title": "美国议员警告：这么干，让中国赢了",
           "url": "https://news.ifeng.com/c/8unbx2SRRPH",
           "source": "凤凰网",
@@ -174,17 +222,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时15分 ~ 07时59分]"
-        },
-        {
-          "title": "“赴华机票销量暴涨1240%”，来中国避暑，火了",
-          "url": "https://finance.ifeng.com/c/8upD29LgAKY",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 14时15分]"
         },
         {
           "title": "韩国股民从暴富到一夜归零",
@@ -229,6 +266,20 @@
           "time_info": "[01时15分 ~ 07时59分]"
         },
         {
+          "title": "道心破碎,法国无心备战季军赛",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356243&amp;topic_name=%E9%81%93%E5%BF%83%E7%A0%B4%E7%A2%8E%2C%E6%B3%95%E5%9B%BD%E6%97%A0%E5%BF%83%E5%A4%87%E6%88%98%E5%AD%A3%E5%86%9B%E8%B5%9B",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            10,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时09分 ~ 17时09分]"
+        },
+        {
           "title": "realme手机退出中国市场",
           "url": "https://s.weibo.com/weibo?q=%23realme%E6%89%8B%E6%9C%BA%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -240,6 +291,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时15分 ~ 07时59分]"
+        },
+        {
+          "title": "中方驳斥特朗普“中国干预美国大选”论调",
+          "url": "https://news.ifeng.com/c/8upog6XKRmu",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
         },
         {
           "title": "中国夫妇在印尼浮潜溺亡，目击者发声",
@@ -292,17 +354,38 @@
           "time_info": "[01时15分 ~ 06时05分]"
         },
         {
-          "title": "道心破碎,法国无心备战季军赛",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356243&amp;topic_name=%E9%81%93%E5%BF%83%E7%A0%B4%E7%A2%8E%2C%E6%B3%95%E5%9B%BD%E6%97%A0%E5%BF%83%E5%A4%87%E6%88%98%E5%AD%A3%E5%86%9B%E8%B5%9B",
-          "source": "贴吧",
+          "title": "法国替补出战季军战",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E6%9B%BF%E8%A1%A5%E5%87%BA%E6%88%98%E5%AD%A3%E5%86%9B%E6%88%98%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            6,
-            10,
-            17
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
+          "title": "韩媒：李在明“不想落人口实”",
+          "url": "https://news.ifeng.com/c/8upDA116qSz",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[03时09分 ~ 14时15分]"
+          "time_info": "[07时59分 ~ 17时09分]"
+        },
+        {
+          "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
+          "url": "https://www.zhihu.com/question/2061057694832620856",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
         },
         {
           "title": "为什么都喜欢吃智利的车厘子而不喜欢吃中国的樱桃？",
@@ -374,6 +457,19 @@
           "time_info": "[01时15分 ~ 06时05分]"
         },
         {
+          "title": "财晓得｜中国AI跑出加速度背后的四重底气",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33591307",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时59分 ~ 17时09分]"
+        },
+        {
           "title": "美国 NSF 新规，「几乎要全面禁止与中国科学家合作」，将可能带来哪些影响？",
           "url": "https://www.zhihu.com/question/2060040310399263380",
           "source": "知乎",
@@ -409,17 +505,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时15分 ~ 06时05分]"
-        },
-        {
-          "title": "高志凯：要对美国“人工智能霸凌”说“不”",
-          "url": "https://news.ifeng.com/c/8upHX3E0KP3",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
         },
         {
           "title": "白宫提词员利用特朗普演讲内幕获利逾10万美元，CFTC对其展开调查",
@@ -461,7 +546,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -499,15 +584,26 @@
           "time_info": "11时24分"
         },
         {
-          "title": "习近平宣布中国支持全球人工智能发展重大举措",
-          "url": "https://www.cls.cn/detail/2429309",
-          "source": "财联社热门",
+          "title": "中国银河：获得中国证监会批准发行面值总额不超过500亿元的公司债券。",
+          "url": "https://wallstreetcn.com/livenews/3135595",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时15分"
+          "time_info": "17时09分"
+        },
+        {
+          "title": "美国副总统，两个不寻常的动向",
+          "url": "https://news.ifeng.com/c/8upJ5xkfiCx",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 17时09分]"
         },
         {
           "title": "印度空军为何偏爱阵风",
@@ -615,7 +711,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -659,9 +755,33 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
+        },
+        {
+          "title": "日本央行在7月会议上将维持利率不变。（共同社）",
+          "url": "https://wallstreetcn.com/livenews/3135590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "英国政府宣布将中国企业旗下英国钢铁公司国有化，商务部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33603376",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 17时09分]"
         },
         {
           "title": "美国对三星等7家公司启动337调查",
@@ -701,6 +821,19 @@
           "time_info": "[01时15分 ~ 04时58分]"
         },
         {
+          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时23分 ~ 17时09分]"
+        },
+        {
           "title": "张小斐成中国首位票房破百亿85花",
           "url": "https://www.toutiao.com/trending/7662517559984177193/",
           "source": "今日头条",
@@ -724,30 +857,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 06时05分]"
-        },
-        {
-          "title": "32万个账户归零之后——韩国去杠杆走到哪了？",
-          "url": "https://wallstreetcn.com/articles/3777115",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 14时15分]"
-        },
-        {
-          "title": "韩媒：李在明“不想落人口实”",
-          "url": "https://news.ifeng.com/c/8upDA116qSz",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 14时15分]"
         },
         {
           "title": "小鹏集团董事长兼首席执行官何小鹏周三在慕尼黑举行的Mona L03 SUV发布活动上表示，公司已在德国以及其他国家考察选址。小鹏还希望扩大与大众汽车的合作；双方目前已在联合开发面向中国市场的电动汽车。 “我们正在与很多潜在合作方洽谈，”何小鹏表示，“我们当然希望进一步拓展与大众汽车的合作。” 随着小鹏在欧洲扩张，德国是一个尤为关注的重点。不过，他不愿透露小鹏是否会收购大众工厂。",
@@ -798,18 +907,6 @@
           "time_info": "[04时58分 ~ 06时05分]"
         },
         {
-          "title": "财晓得｜中国AI跑出加速度背后的四重底气",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33591307",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 14时15分]"
-        },
-        {
           "title": "中国夫妇在印尼浮潜时溺亡",
           "url": "https://www.toutiao.com/trending/7662913597463396388/",
           "source": "今日头条",
@@ -836,29 +933,6 @@
           "time_info": "[04时57分 ~ 07时59分]"
         },
         {
-          "title": "美国副总统，两个不寻常的动向",
-          "url": "https://news.ifeng.com/c/8upJ5xkfiCx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 14时15分]"
-        },
-        {
-          "title": "英国政府宣布将中国企业旗下英国钢铁公司国有化，商务部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33603376",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 14时15分]"
-        },
-        {
           "title": "美国团队用宇树 G1 人形机器人完成猪胆囊切除，论文作者称距离人体临床还很远，这件事含金量到底有多高？",
           "url": "https://www.zhihu.com/question/2060754085637271982",
           "source": "知乎",
@@ -882,18 +956,6 @@
           "time_info": "[07时59分 ~ 11时24分]"
         },
         {
-          "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33598128",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时23分 ~ 14时15分]"
-        },
-        {
           "title": "真我realme暂停中国市场",
           "url": "https://www.douyin.com/hot/2573886",
           "source": "抖音",
@@ -905,6 +967,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时59分 ~ 14时15分]"
+        },
+        {
+          "title": "玉渊谭天丨中国AI的发展逻辑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时15分 ~ 17时09分]"
         },
         {
           "title": "白宫官宣特朗普将出席世界杯决赛",
@@ -955,6 +1029,28 @@
           "time_info": "[04时58分 ~ 06时05分]"
         },
         {
+          "title": "伊朗：造成大量美军人员死亡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E9%80%A0%E6%88%90%E5%A4%A7%E9%87%8F%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%91%98%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
+          "title": "韩股暴跌背后：高杠杆下 韩国每30名成年人就有1人被追加保证金",
+          "url": "https://www.cls.cn/detail/2429360",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
           "title": "美国至7月10日当周外国央行持有美国国债 6.39亿美元，前值-286.05亿美元。",
           "url": "https://flash.jin10.com/detail/20260717043052458800",
           "source": "金十数据",
@@ -979,6 +1075,17 @@
           "time_info": "[04时58分 ~ 06时05分]"
         },
         {
+          "title": "习近平宣布中国支持全球人工智能发展重大举措",
+          "url": "https://wallstreetcn.com/articles/3777174",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
           "title": "美国打击“拉高出货”骗局，微型IPO遭重创",
           "url": "https://wallstreetcn.com/livenews/3135269",
           "source": "华尔街见闻-快讯",
@@ -989,6 +1096,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 06时05分]"
+        },
+        {
+          "title": "中方驳斥“中国干预美国大选”论调",
+          "url": "https://www.toutiao.com/trending/7662996117945106473/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
         },
         {
           "title": "国内芯片龙头办公室遭韩国检方搜查",
@@ -1002,6 +1120,17 @@
           "time_info": "[11时23分 ~ 11时24分]"
         },
         {
+          "title": "中国汽车市场 5 个月推出 542 款新车，比亚迪高管称「彻底疯了」，这反映了怎样的市场竞争？",
+          "url": "https://www.zhihu.com/question/2060791514276615811",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
           "title": "新闻蒸馏器︱特朗普倾向扩大对伊朗军事行动，导弹已击中争议岛",
           "url": "https://m.thepaper.cn/newsDetail_forward_33596311",
           "source": "澎湃新闻",
@@ -1011,6 +1140,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 11时24分]"
+        },
+        {
+          "title": "白宫再曝内幕交易丑闻！特朗普御用提词员利用演讲信息牟利遭调查",
+          "url": "https://www.cls.cn/detail/2429184",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
         },
         {
           "title": "美国政府新规收紧国际学生等入境居留期限 美军连续第五晚打击伊朗 | 环球市场",
@@ -1036,6 +1176,28 @@
           "time_info": "[04时58分 ~ 06时05分]"
         },
         {
+          "title": "西红柿炒蛋在日本火了",
+          "url": "https://s.weibo.com/weibo?q=%E8%A5%BF%E7%BA%A2%E6%9F%BF%E7%82%92%E8%9B%8B%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%81%AB%E4%BA%86&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
+          "title": "周鸿祎：中国AI正在下一盘大棋",
+          "url": "https://www.toutiao.com/trending/7663347841623936558/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
           "title": "美媒：美国防部正研究对古巴军事行动方案",
           "url": "https://m.thepaper.cn/newsDetail_forward_33596566",
           "source": "澎湃新闻",
@@ -1045,6 +1207,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 11时24分]"
+        },
+        {
+          "title": "印度男子单恋女子长期尾随将其刺死",
+          "url": "https://www.toutiao.com/trending/7663377973623242794/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
+          "title": "法国替补出战季军赛",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%95%E5%9B%BD%E6%9B%BF%E8%A1%A5%E5%87%BA%E6%88%98%E5%AD%A3%E5%86%9B%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
+          "title": "美总统称“中国干预了2020年总统选举”，外交部：无中生有",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33604979",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
+          "title": "日本拆完空调又回收电动车电池找稀土",
+          "url": "https://www.toutiao.com/trending/7663164380225372179/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
         },
         {
           "title": "伊朗：美军事打击构成“战争罪”",
@@ -1078,6 +1284,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 11时24分]"
+        },
+        {
+          "title": "假如印度翻拍鬼灭之刃",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E5%8D%B0%E5%BA%A6%E7%BF%BB%E6%8B%8D%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 17时09分]"
         },
         {
           "title": "玛莎拉蒂新车88万二手只要24.8万",
@@ -1135,6 +1353,17 @@
           "time_info": "06时05分"
         },
         {
+          "title": "李在明点名三星SK,赌场关门了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356260&amp;topic_name=%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%82%B9%E5%90%8D%E4%B8%89%E6%98%9FSK%2C%E8%B5%8C%E5%9C%BA%E5%85%B3%E9%97%A8%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "美国国家航空航天局（NASA）委托SpaceX从“猎户座”飞船传输“阿尔忒弥斯 3 号”的影像资料。 SpaceX将提供激光通信能力。",
           "url": "https://wallstreetcn.com/livenews/3135292",
           "source": "华尔街见闻-快讯",
@@ -1163,7 +1392,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -1177,6 +1406,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "伊朗称摧毁多架部署在约旦的美军军机",
+          "url": "https://wallstreetcn.com/livenews/3135587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "美国财政部长贝森特周二会见了伊拉克总理。",
@@ -1201,6 +1441,17 @@
           "time_info": "06时05分"
         },
         {
+          "title": "科威特电力部：电力和海水淡化厂在伊朗袭击中受损。",
+          "url": "https://flash.jin10.com/detail/20260717165850899800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "美国参议院民主党成员Warren发函给美联储监督部门，要求调查美联储理事鲍曼。 此前，媒体在SVB（硅谷银行）评估方面提及鲍曼。 Warren质疑鲍曼聘请外部咨询公司一事。",
           "url": "https://wallstreetcn.com/livenews/3135196",
           "source": "华尔街见闻-快讯",
@@ -1221,6 +1472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "傅面学传入日本,恶人脸遭处刑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356262&amp;topic_name=%E5%82%85%E9%9D%A2%E5%AD%A6%E4%BC%A0%E5%85%A5%E6%97%A5%E6%9C%AC%2C%E6%81%B6%E4%BA%BA%E8%84%B8%E9%81%AD%E5%A4%84%E5%88%91",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "realme暂停中国市场业务",
@@ -1427,7 +1689,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -1443,6 +1705,17 @@
           "time_info": "11时24分"
         },
         {
+          "title": "市场消息：在与以色列外长会面后，哥伦比亚政府将撤回在海牙国际法院参与对以色列的诉讼，并恢复哥伦比亚与以色列的历史性联盟关系。",
+          "url": "https://flash.jin10.com/detail/20260717165413845800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "SpaceX收跌3.1%，报131.11美元，美国IPO以来首次收盘破发。",
           "url": "https://wallstreetcn.com/livenews/3135264",
           "source": "华尔街见闻-快讯",
@@ -1452,6 +1725,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "古特雷斯：AI应服务所有人 支持中国倡议",
+          "url": "https://wallstreetcn.com/livenews/3135576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "特朗普将赴世界杯现场观看决赛",
@@ -1509,6 +1793,17 @@
           "time_info": "07时59分"
         },
         {
+          "title": "消息称日本央行或上调经济增长预期并维持利率不变",
+          "url": "https://flash.jin10.com/detail/20260717165337834800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "GoodVision AI将在日本打造100 MW规模的AI工厂。",
           "url": "https://wallstreetcn.com/livenews/3135189",
           "source": "华尔街见闻-快讯",
@@ -1548,7 +1843,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -1592,7 +1887,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -1636,7 +1931,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -1650,17 +1945,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
-        },
-        {
-          "title": "玉渊谭天丨中国AI的发展逻辑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33601397",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
         },
         {
           "title": "富时中国A50指数期货跌幅扩大至3%。",
@@ -1718,6 +2002,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "15年前绝密预案曝光，多线封锁航道成伊朗反美核心筹码",
+          "url": "https://flash.jin10.com/detail/20260717164416672800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "美国达拉斯联储主席Lorie Logan（2026年FOMC票委）：即使油价维持高位，天然气输送能力等限制因素也可能阻碍生产商提高产量。 石油出口的增加主要来自库存的释放，而非新增产量。 即使采用最保守的估算，数据中心需求带来的电价上涨也很可能成为另一个温和通胀压力的来源。 对人工智能带来的长期生产力提升持非常乐观的态度。 目前对人工智能的投资需求是巨大且真实的，并已在短期内产生了通胀效应。",
           "url": "https://wallstreetcn.com/livenews/3135215",
           "source": "华尔街见闻-快讯",
@@ -1746,7 +2041,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -1784,6 +2079,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "美总统称“中国干预了2020年总统选举”，外交部：无中生有",
+          "url": "https://wallstreetcn.com/livenews/3135563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "乌克兰总统泽连斯基任命现任安全局局长耶夫亨·赫马拉为代理国防部长，并请求议会确认其任命。",
           "url": "https://flash.jin10.com/detail/20260717000526607800",
           "source": "金十数据",
@@ -1801,7 +2107,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -1916,6 +2222,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "外交部：要求美方立即撤销对中国记者的歧视性政策",
+          "url": "https://wallstreetcn.com/livenews/3135560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "房利美：美国30年期固定利率抵押贷款在7月16日当周平均为6.55%，为2025年8月28日以来的最高水平，较前一周的6.49%有所上升。",
           "url": "https://flash.jin10.com/detail/20260717000043545800",
           "source": "金十数据",
@@ -1971,17 +2288,6 @@
           "time_info": "06时05分"
         },
         {
-          "title": "假如印度翻拍鬼灭之刃",
-          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E5%8D%B0%E5%BA%A6%E7%BF%BB%E6%8B%8D%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
           "title": "巴西副总统Alckmin：美国关税不公平且不合理。美国对巴西存在贸易顺差。巴西对美国商品的中等关税为3.1%，75%出口至巴西的美国商品关税为零。美国在301条款调查中提出的观点缺乏事实依据。",
           "url": "https://flash.jin10.com/detail/20260717035521785800",
           "source": "金十数据",
@@ -2021,7 +2327,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -2043,7 +2349,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -2054,7 +2360,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -2109,7 +2415,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         }
