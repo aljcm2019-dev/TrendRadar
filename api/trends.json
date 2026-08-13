@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-13T12:12:23.054060+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2026-08-13T19:45:47.396774+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 美国 贝森特 鲁比奥 万斯 关税 泽连斯基 乌军 普京 俄军 梅德韦杰夫 哈马斯 胡塞武装 伊朗 哈梅内伊 以色列 以军 内塔尼亚胡 加沙 巴勒斯坦 马克龙 法国 北约 美军 韩国 李在明 尹锡悦 日本 高市早苗 菲律宾 马科斯 莎拉 杜特尔特 中国 印度 莫迪",
-      "match_count": 179,
+      "match_count": 211,
       "titles": [
         {
           "title": "全面符合预期！美国7月CPI同比涨幅收窄至3.4%，核心CPI同比放缓至2.5%",
           "url": "https://wallstreetcn.com/articles/3779297",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 12时12分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 19时45分]"
         },
         {
           "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
@@ -123,6 +124,19 @@
           "time_info": "[01时02分 ~ 12时12分]"
         },
         {
+          "title": "马斯克安利中国,外网闹麻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357190&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%89%E5%88%A9%E4%B8%AD%E5%9B%BD%2C%E5%A4%96%E7%BD%91%E9%97%B9%E9%BA%BB",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 19时45分]"
+        },
+        {
           "title": "Lululemon劲敌来中国了",
           "url": "https://s.weibo.com/weibo?q=%23Lululemon%E5%8A%B2%E6%95%8C%E6%9D%A5%E4%B8%AD%E5%9B%BD%E4%BA%86%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -136,18 +150,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时02分 ~ 09时54分]"
-        },
-        {
-          "title": "马斯克安利中国,外网闹麻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357190&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%89%E5%88%A9%E4%B8%AD%E5%9B%BD%2C%E5%A4%96%E7%BD%91%E9%97%B9%E9%BA%BB",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 12时12分]"
         },
         {
           "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
@@ -209,6 +211,19 @@
           "time_info": "[01时02分 ~ 07时40分]"
         },
         {
+          "title": "中国海军红河舰与印尼海军“莱”号护卫舰位台岛以东海域圆满完成通航演练",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33769582",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 19时45分]"
+        },
+        {
           "title": "伊朗目前经济状况如何？专家：正面临两大困境",
           "url": "https://news.ifeng.com/c/8vXOuaWRIKP",
           "source": "凤凰网",
@@ -229,6 +244,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 07时40分]"
+        },
+        {
+          "title": "日本强烈抗议普京登上日俄争议岛屿",
+          "url": "https://news.ifeng.com/c/8vYSQwntbvN",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "美国国际贸易委员会对三星移动电子设备启动337调查",
@@ -302,6 +328,28 @@
           "time_info": "[01时02分 ~ 07时40分]"
         },
         {
+          "title": "MSCI公布8月季度审议结果：中国指数新纳入33只标的 华峰测控、富创精密等科创板公司入选",
+          "url": "https://www.cls.cn/detail/2453202",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "普京就领土问题驳斥日方，日媒：极为罕见！",
+          "url": "https://news.ifeng.com/c/8vYBMWmRaJB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "美国至8月12日10年期国债竞拍-得标利率、投标倍数将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20260813005000001800",
           "source": "金十数据",
@@ -341,9 +389,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "长鑫科技 中国市值最大上市公司",
+          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%20%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "商务部：对原产于印度的进口单模光纤继续征收反倾销税 实施期限为5年",
+          "url": "https://www.cls.cn/detail/2453388",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "美国总统特朗普：莱维特将成为我的高级外部顾问之一，也是共和党内有影响力的声音。",
@@ -363,9 +433,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "视频丨普京首次登上俄日争议岛屿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33775032",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "泽连斯基声称收复745平方公里土地，“一切在计划中”",
+          "url": "https://news.ifeng.com/c/8vYbmXBfZZC",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "苹果(AAPL.O)任命美国航空公司资深人士担任政府事务主管。",
@@ -388,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
+          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "美国总统特朗普：白宫新闻秘书莱维特将于本月底离职。",
@@ -421,6 +524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "中国成功用竹子造出无人机，这对航空材料和制造技术意味着什么？",
+          "url": "https://www.zhihu.com/question/2070132623079379116",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "美油主力合约收跌0.75%，报82.58美元/桶；布油主力合约跌0.6%，报88.38美元/桶。美国上周原油库存意外大幅增加1742.3万桶，远超出市场原本减少的预期，叠加欧佩克下调了全球原油需求增长预测，对油价形成压制。",
@@ -496,18 +610,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时40分]"
-        },
-        {
-          "title": "中国海军红河舰与印尼海军“莱”号护卫舰位台岛以东海域圆满完成通航演练",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33769582",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 12时12分]"
         },
         {
           "title": "美国总统特朗普：白宫新闻秘书莱维特将于本月底离职。",
@@ -641,6 +743,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时54分 ~ 12时12分]"
+        },
+        {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 19时45分]"
         },
         {
           "title": "MSCI中国旗舰指数调整：新纳入智谱等33只标的",
@@ -977,6 +1091,18 @@
           "time_info": "[09时54分 ~ 12时12分]"
         },
         {
+          "title": "中国印尼首次台岛以东联演有何深意",
+          "url": "https://www.toutiao.com/trending/7672677889229684779/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 19时45分]"
+        },
+        {
           "title": "伊朗外交部发言人巴加埃：伊朗作为波斯湾和阿曼湾最长海岸线国家，要求所有受益于霍尔木兹海峡航运的各方承担责任，修复相关海域环境损害。",
           "url": "https://flash.jin10.com/detail/20260813044926176800",
           "source": "金十数据",
@@ -999,6 +1125,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 03时01分]"
+        },
+        {
+          "title": "苹果被曝正测试长鑫存储芯片，将用于在中国市场销售的设备，双方最终达成合作的可能性有多大？",
+          "url": "https://www.zhihu.com/question/2070073820929419121",
+          "source": "知乎",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 19时45分]"
         },
         {
           "title": "中国和印尼首次在台岛以东联合军演，台当局气急败坏",
@@ -1220,9 +1358,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "伊朗将正式加入金砖国家新开发银行",
+          "url": "https://news.ifeng.com/c/8vYalXCyC9Z",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "据伊朗媒体Fars News：也门胡塞武装对沙特雇佣军在摩卡港的阵地发动了无人机袭击。",
@@ -1247,6 +1396,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "特朗普宣称美国“完全掌控”霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vYdZtyCxYa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "美国国际贸易委员会对三星设备启动337条款调查。",
           "url": "https://flash.jin10.com/detail/20260813002845228800",
           "source": "金十数据",
@@ -1256,6 +1416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "美新闻机构起诉特朗普",
+          "url": "https://www.douyin.com/hot/2607917",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "武大靖出任中国短道速滑队主教练，他有哪些优势？将面临哪些挑战？",
@@ -1275,9 +1446,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "普京登岛 日本急了",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%99%BB%E5%B2%9B+%E6%97%A5%E6%9C%AC%E6%80%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
+          "url": "https://news.ifeng.com/c/8vYdi6QKWQt",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "路透调查显示，超过一半的日本企业计划在近期增加人工智能预算，31%的企业尚未决定。",
@@ -1297,31 +1490,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
         {
-          "title": "中国印尼首次台岛以东联演有何深意",
-          "url": "https://www.toutiao.com/trending/7672677889229684779/",
-          "source": "今日头条",
+          "title": "美元回调难撑卢比 印度高油价依赖症拖累本币",
+          "url": "https://flash.jin10.com/detail/20260813193256856800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "因长期在中东服役，多名水兵试图从美国海军「林肯」号跳海，为什么会这样？美国中东长期部署带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2071169289697092854",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "太平洋的美军基地正在崩溃：坍塌，漏水和裂缝",
+          "url": "https://news.ifeng.com/c/8vYLpqdASbz",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "19时45分"
         },
         {
           "title": "美国国防部长赫格塞思：哥伦比亚将加入美国反毒品卡特尔联盟，授权与美国进行联合军事行动。",
@@ -1341,18 +1545,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "苹果被曝正测试长鑫存储芯片，将用于在中国市场销售的设备，双方最终达成合作的可能性有多大？",
-          "url": "https://www.zhihu.com/question/2070073820929419121",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -1412,6 +1605,39 @@
           "time_info": "09时54分"
         },
         {
+          "title": "市场消息：在薪资谈判陷入僵局之际，SK海力士韩国员工成立统一工会。",
+          "url": "https://flash.jin10.com/detail/20260813193214641800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "普京：必须确保俄所有边境和领土安全",
+          "url": "https://wallstreetcn.com/livenews/3149127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "AI重构半导体产业？韩国双雄积极导入AI 研发、设备甚至KPI都要改",
+          "url": "https://www.cls.cn/detail/2453126",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "美国农业部：将阿根廷2025/2026年度大豆产量预期从之前的5000万吨下调至4950万吨；将巴西2025/2026年度大豆产量预期从之前的1.8亿吨上调至1.805亿吨。",
           "url": "https://flash.jin10.com/detail/20260813000433824800",
           "source": "金十数据",
@@ -1456,13 +1682,24 @@
           "time_info": "09时54分"
         },
         {
+          "title": "长鑫科技成为中国市值最大上市公司",
+          "url": "https://www.toutiao.com/trending/7673430128885501476/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "红杉中国1.5亿独家出资 张雪机车落地新融资 估值半年不到涨5倍至60亿",
           "url": "https://www.cls.cn/detail/2453013",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -1506,7 +1743,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -1522,6 +1759,17 @@
           "time_info": "09时54分"
         },
         {
+          "title": "熊灾泛滥,日本餐厅卖炖熊掌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357328&amp;topic_name=%E7%86%8A%E7%81%BE%E6%B3%9B%E6%BB%A5%2C%E6%97%A5%E6%9C%AC%E9%A4%90%E5%8E%85%E5%8D%96%E7%82%96%E7%86%8A%E6%8E%8C",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "介文汲：中国印尼海军联演重击菲律宾",
           "url": "https://www.toutiao.com/trending/7672749534111727662/",
           "source": "今日头条",
@@ -1531,6 +1779,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "特朗普：我想谋求第三任期，但美国法律太严",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33769936",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "美国农业部：8月美国2026/2027年度大豆产量预期为45.19亿蒲式耳，市场预期为44.72亿蒲式耳，7月预期为44.75亿蒲式耳。8月美国2026/2027年度大豆期末库存预期为3.2亿蒲式耳，市场预期为3.04亿蒲式耳，7月预期为3.1亿蒲式耳。8月美国2026/2027年度大豆单产预期为52.7蒲式耳/英亩，市场预期为52.9蒲式耳/英亩，7月预期为53蒲式耳/英亩。",
@@ -1564,6 +1823,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "普京首次登上俄日争议岛屿",
+          "url": "https://www.toutiao.com/trending/7673075229438427190/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "日本强烈抗议普京登上日俄争议岛屿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33775380",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "东雪莲 中国人能飞",
@@ -1687,6 +1968,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "美国国防部长赫格塞思：如果古巴不遵守华盛顿的要求，我们将对该国采取军事行动。正如我之前所说，也正如在其他案例中可能看到的那样，所有选项，包括军事选项，都在考虑之列。",
+          "url": "https://flash.jin10.com/detail/20260813192216099800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "美国银行将以约19亿美元收购Jio金融子公司49.9%的股份。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3148702",
           "source": "华尔街见闻-快讯",
@@ -1715,7 +2007,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -1729,6 +2021,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "白宫贸易顾问纳瓦罗：美国海关官员不堪重负，疲于应对关税规避问题。",
+          "url": "https://flash.jin10.com/detail/20260813192051821800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "为什么沈腾作为中国影史票房第一人，却金鸡、百花、华表一个奖都没拿？",
@@ -1748,7 +2051,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -1836,7 +2139,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -1858,7 +2161,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -1891,7 +2194,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -1905,6 +2208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "长鑫科技 中国市值最大上市公司",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80+%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%80%BC%E6%9C%80%E5%A4%A7%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "MSCI中国指数新纳入33只中国股票",
@@ -1951,6 +2265,28 @@
           "time_info": "01时02分"
         },
         {
+          "title": "台学者称台湾沿海本就是中国领海",
+          "url": "https://www.toutiao.com/trending/7672547916657262655/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
+          "title": "“美军比想象中更弱”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%BE%8E%E5%86%9B%E6%AF%94%E6%83%B3%E8%B1%A1%E4%B8%AD%E6%9B%B4%E5%BC%B1%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "特朗普：白宫新闻秘书莱维特将于本月底离任",
           "url": "https://flash.jin10.com/detail/20260813035525711800",
           "source": "金十数据",
@@ -1990,9 +2326,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "哈佛教授：中国贸易顺差是“惠邻”",
+          "url": "https://www.toutiao.com/trending/7672922468171923494/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
         },
         {
           "title": "特朗普：美国完全控制霍尔木兹海峡。 伊朗只会空谈，没有实际行动。 认为我们将继续完全控制霍尔木兹海峡。",
@@ -2050,13 +2397,24 @@
           "time_info": "09时54分"
         },
         {
+          "title": "特朗普回应秘密换机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E7%A7%98%E5%AF%86%E6%8D%A2%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时45分"
+        },
+        {
           "title": "韩国政府加大住房供应 首都圈拟新增23万套住房",
           "url": "https://flash.jin10.com/detail/20260813111343256800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
